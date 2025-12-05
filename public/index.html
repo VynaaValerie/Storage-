@@ -21,6 +21,20 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="/css/documentation-style.css">
+
+    <!-- Style kecil buat banner di bawah -->
+    <style>
+      .ad-container {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 9999;
+        background: #000;      /* biar nyatu sama tema dark */
+        text-align: center;
+        padding: 4px 0;
+      }
+    </style>
   </head>
   <body>
     <div class="app">
@@ -54,6 +68,23 @@
           <pre id="preview-content" class="preview-content"></pre>
         </section>
       </main>
+    </div>
+
+    <!-- Banner Adsterra 320x50 di bawah -->
+    <div class="ad-container">
+      <script type="text/javascript">
+        atOptions = {
+          'key' : '1167fb64af96cf6c67b5f2313eb2eba1',
+          'format' : 'iframe',
+          'height' : 50,
+          'width' : 320,
+          'params' : {}
+        };
+      </script>
+      <script
+        type="text/javascript"
+        src="//www.highperformanceformat.com/1167fb64af96cf6c67b5f2313eb2eba1/invoke.js"
+      ></script>
     </div>
 
     <script src="script.js"></script>
