@@ -1,3 +1,30 @@
+/*
+        ••JANGAN HAPUS INI••
+SCRIPT BY © VYNAA VALERIE 
+•• recode kasih credits 
+•• contacts: (6282389924037)
+•• instagram: @vynaa_valerie 
+•• (github.com/VynaaValerie) 
+
+• Menerima pembuatan script bot
+• Menerima perbaikan script atau fitur bot
+• Menerima pembuatan fitur bot
+• Menerima semua kebutuhan bot
+• Menerima Jadi Bot
+
+ℹ️ Information
+
+• Pembayaran bisa dicicil
+• Bisa bayar di awal atau akhir
+• Pembayaran melalu QRIS Only
+• Testimoni Banyak
+
+Aturan:
+1. Dilarang memperjualbelikan script ini.
+2. Hak cipta milik Vynaa Valerie.
+
+“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
+*/
 const express = require("express");
 const fs = require("fs").promises;
 const path = require("path");
@@ -5,33 +32,21 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Base direktori (folder project)
+// Base
 const BASE_DIR = __dirname;
-
-// ===== STATIC FILES =====
-
-// Serve frontend dari /public (CSS, JS, HTML)
 app.use(express.static(path.join(__dirname, "public")));
 
-// Serve folder game sebagai storage JSON / apa pun
-// -> http://localhost:3000/game/tebakkata.json
+
 app.use("/game", express.static(path.join(__dirname, "game")));
 
-// (opsional) folder audio sebagai storage media
-// -> http://localhost:3000/audio/pinaa.mp3
+
 app.use("/audio", express.static(path.join(__dirname, "audio")));
 
-// Kalau nanti mau folder lain, tinggal tambah, misalnya:
-// app.use("/images", express.static(path.join(__dirname, "images")));
 
-// Root website -> index.html
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
-// ===== API LIST (buat UI file manager) =====
-
-// Daftar file/folder yang DISEMBUNYIKAN dari UI
 const HIDDEN = new Set([
   "public",
   "package.json",
@@ -43,7 +58,7 @@ const HIDDEN = new Set([
   "node_modules"
 ]);
 
-// Sanitasi path supaya aman
+
 function cleanPath(p) {
   if (!p) return "";
   return p.replace(/\\/g, "/").replace(/\.\./g, "");
@@ -73,7 +88,6 @@ app.get("/api/list", async (req, res) => {
         })
     );
 
-    // folder dulu baru file
     items.sort((a, b) => {
       if (a.type === b.type) return a.name.localeCompare(b.name);
       return a.type === "folder" ? -1 : 1;
@@ -89,3 +103,30 @@ app.get("/api/list", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server jalan di http://localhost:${PORT}`);
 });
+/*
+        ••JANGAN HAPUS INI••
+SCRIPT BY © VYNAA VALERIE 
+•• recode kasih credits 
+•• contacts: (6282389924037)
+•• instagram: @vynaa_valerie 
+•• (github.com/VynaaValerie) 
+
+• Menerima pembuatan script bot
+• Menerima perbaikan script atau fitur bot
+• Menerima pembuatan fitur bot
+• Menerima semua kebutuhan bot
+• Menerima Jadi Bot
+
+ℹ️ Information
+
+• Pembayaran bisa dicicil
+• Bisa bayar di awal atau akhir
+• Pembayaran melalu QRIS Only
+• Testimoni Banyak
+
+Aturan:
+1. Dilarang memperjualbelikan script ini.
+2. Hak cipta milik Vynaa Valerie.
+
+“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
+*/
