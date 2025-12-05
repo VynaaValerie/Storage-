@@ -1,0 +1,22 @@
+[
+    {
+        "index": 0,
+        "soal": "Tempat, Tiket, PopCorn, Film, Gedung",
+        "jawaban": "BIOSKOP"
+    },
+    {
+        "index": 1,
+        "soal": "Profesi, Laut, Jaring, Ikan, Perahu",
+        "jawaban": "NELAYAN"
+    },
+    {
+        "index": 2,
+        "soal": "Air, Dingin, Es, Gula, Penjual",
+        "jawaban": "MINUMAN"
+    },
+    {
+        "index": 3,
+        "soal": "Api, Hangat, Asap, Tenda, Kayu",
+        "jawaban": "PERKEMAHAN"
+    }
+]
