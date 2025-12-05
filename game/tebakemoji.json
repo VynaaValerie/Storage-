@@ -1,0 +1,1040 @@
+[
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan ekspresi bahagia atau tertawa.",
+        "emoticon": "😁",
+        "deskripsi": "Emoji ini dikenal sebagai 'Grinning Face with Smiling Eyes' yang menunjukkan kebahagiaan atau kegembiraan.",
+        "jawaban": "Tertawa"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan cinta atau kasih sayang.",
+        "emoticon": "❤️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Red Heart' yang melambangkan cinta, kasih sayang, atau perhatian.",
+        "jawaban": "Cinta"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan rasa terkejut atau kagum.",
+        "emoticon": "😲",
+        "deskripsi": "Emoji ini dikenal sebagai 'Astonished Face' yang menunjukkan rasa terkejut atau takjub.",
+        "jawaban": "Terkejut"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan rasa sedih atau kecewa.",
+        "emoticon": "😢",
+        "deskripsi": "Emoji ini dikenal sebagai 'Crying Face' yang menunjukkan kesedihan atau rasa kehilangan.",
+        "jawaban": "Sedih"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan rasa marah atau kesal.",
+        "emoticon": "😡",
+        "deskripsi": "Emoji ini dikenal sebagai 'Pouting Face' yang menunjukkan kemarahan atau rasa frustrasi.",
+        "jawaban": "Marah"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan tersenyum.",
+        "emoticon": "😃",
+        "deskripsi": "Emoji ini dikenal sebagai 'Grinning Face with Big Eyes' yang menunjukkan tersenyum.",
+        "jawaban": "Tersenyum"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kagum.",
+        "emoticon": "🤩",
+        "deskripsi": "Emoji ini dikenal sebagai 'Star-Struck' yang menunjukkan kagum.",
+        "jawaban": "Kagum"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan baik hati.",
+        "emoticon": "😇",
+        "deskripsi": "Emoji ini dikenal sebagai 'Smiling Face with Halo' yang menunjukkan baik hati.",
+        "jawaban": "Baik hati"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kasih sayang.",
+        "emoticon": "🥰",
+        "deskripsi": "Emoji ini dikenal sebagai 'Smiling Face with Hearts' yang menunjukkan kasih sayang.",
+        "jawaban": "Kasih sayang"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan santai.",
+        "emoticon": "😎",
+        "deskripsi": "Emoji ini dikenal sebagai 'Smiling Face with Sunglasses' yang menunjukkan santai.",
+        "jawaban": "Santai"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan usil.",
+        "emoticon": "😜",
+        "deskripsi": "Emoji ini dikenal sebagai 'Winking Face with Tongue' yang menunjukkan usil.",
+        "jawaban": "Usil"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kaget.",
+        "emoticon": "🤯",
+        "deskripsi": "Emoji ini dikenal sebagai 'Exploding Head' yang menunjukkan kaget.",
+        "jawaban": "Kaget"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kedinginan.",
+        "emoticon": "🥶",
+        "deskripsi": "Emoji ini dikenal sebagai 'Cold Face' yang menunjukkan kedinginan.",
+        "jawaban": "Kedinginan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kepanasan.",
+        "emoticon": "🥵",
+        "deskripsi": "Emoji ini dikenal sebagai 'Hot Face' yang menunjukkan kepanasan.",
+        "jawaban": "Kepanasan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pelukan.",
+        "emoticon": "🤗",
+        "deskripsi": "Emoji ini dikenal sebagai 'Hugging Face' yang menunjukkan pelukan.",
+        "jawaban": "Pelukan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan menyindir.",
+        "emoticon": "😏",
+        "deskripsi": "Emoji ini dikenal sebagai 'Smirking Face' yang menunjukkan menyindir.",
+        "jawaban": "Menyindir"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pintar.",
+        "emoticon": "🤓",
+        "deskripsi": "Emoji ini dikenal sebagai 'Nerd Face' yang menunjukkan pintar.",
+        "jawaban": "Pintar"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan memohon.",
+        "emoticon": "🥺",
+        "deskripsi": "Emoji ini dikenal sebagai 'Pleading Face' yang menunjukkan memohon.",
+        "jawaban": "Memohon"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kesal.",
+        "emoticon": "😤",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face with Steam from Nose' yang menunjukkan kesal.",
+        "jawaban": "Kesal"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan marah banget.",
+        "emoticon": "🤬",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face with Symbols on Mouth' yang menunjukkan marah banget.",
+        "jawaban": "Marah banget"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bercanda.",
+        "emoticon": "🙃",
+        "deskripsi": "Emoji ini dikenal sebagai 'Upside-Down Face' yang menunjukkan bercanda.",
+        "jawaban": "Bercanda"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan tidur.",
+        "emoticon": "😴",
+        "deskripsi": "Emoji ini dikenal sebagai 'Sleeping Face' yang menunjukkan tidur.",
+        "jawaban": "Tidur"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan cemas.",
+        "emoticon": "😰",
+        "deskripsi": "Emoji ini dikenal sebagai 'Anxious Face with Sweat' yang menunjukkan cemas.",
+        "jawaban": "Cemas"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan keren.",
+        "emoticon": "🤠",
+        "deskripsi": "Emoji ini dikenal sebagai 'Cowboy Hat Face' yang menunjukkan keren.",
+        "jawaban": "Keren"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan cium.",
+        "emoticon": "😚",
+        "deskripsi": "Emoji ini dikenal sebagai 'Kissing Face with Closed Eyes' yang menunjukkan cium.",
+        "jawaban": "Cium"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan mata duitan.",
+        "emoticon": "🤑",
+        "deskripsi": "Emoji ini dikenal sebagai 'Money-Mouth Face' yang menunjukkan mata duitan.",
+        "jawaban": "Mata duitan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan mual.",
+        "emoticon": "🤮",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face Vomiting' yang menunjukkan mual.",
+        "jawaban": "Mual"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan berpikir.",
+        "emoticon": "🤔",
+        "deskripsi": "Emoji ini dikenal sebagai 'Thinking Face' yang menunjukkan berpikir.",
+        "jawaban": "Berpikir"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan tertawa diam-diam.",
+        "emoticon": "🤭",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face with Hand Over Mouth' yang menunjukkan tertawa diam-diam.",
+        "jawaban": "Tertawa diam-diam"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan diam.",
+        "emoticon": "🤫",
+        "deskripsi": "Emoji ini dikenal sebagai 'Shushing Face' yang menunjukkan diam.",
+        "jawaban": "Diam"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bisu.",
+        "emoticon": "😶",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face Without Mouth' yang menunjukkan bisu.",
+        "jawaban": "Bisu"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan terkejut.",
+        "emoticon": "😯",
+        "deskripsi": "Emoji ini dikenal sebagai 'Hushed Face' yang menunjukkan terkejut.",
+        "jawaban": "Terkejut"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kaget.",
+        "emoticon": "😮",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face with Open Mouth' yang menunjukkan kaget.",
+        "jawaban": "Kaget"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan terheran-heran.",
+        "emoticon": "😲",
+        "deskripsi": "Emoji ini dikenal sebagai 'Astonished Face' yang menunjukkan terheran-heran.",
+        "jawaban": "Terheran-heran"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bohong.",
+        "emoticon": "🤥",
+        "deskripsi": "Emoji ini dikenal sebagai 'Lying Face' yang menunjukkan bohong.",
+        "jawaban": "Bohong"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan datar.",
+        "emoticon": "😑",
+        "deskripsi": "Emoji ini dikenal sebagai 'Expressionless Face' yang menunjukkan datar.",
+        "jawaban": "Datar"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bosan.",
+        "emoticon": "😒",
+        "deskripsi": "Emoji ini dikenal sebagai 'Unamused Face' yang menunjukkan bosan.",
+        "jawaban": "Bosan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan muak.",
+        "emoticon": "🙄",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face with Rolling Eyes' yang menunjukkan muak.",
+        "jawaban": "Muak"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan canggung.",
+        "emoticon": "😬",
+        "deskripsi": "Emoji ini dikenal sebagai 'Grimacing Face' yang menunjukkan canggung.",
+        "jawaban": "Canggung"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan flu.",
+        "emoticon": "🤧",
+        "deskripsi": "Emoji ini dikenal sebagai 'Sneezing Face' yang menunjukkan flu.",
+        "jawaban": "Flu"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan mengantuk.",
+        "emoticon": "🥱",
+        "deskripsi": "Emoji ini dikenal sebagai 'Yawning Face' yang menunjukkan mengantuk.",
+        "jawaban": "Mengantuk"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan terkejut.",
+        "emoticon": "🤯",
+        "deskripsi": "Emoji ini dikenal sebagai 'Exploding Head' yang menunjukkan terkejut.",
+        "jawaban": "Terkejut"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pusing.",
+        "emoticon": "😵",
+        "deskripsi": "Emoji ini dikenal sebagai 'Dizzy Face' yang menunjukkan pusing.",
+        "jawaban": "Pusing"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan gila.",
+        "emoticon": "🤪",
+        "deskripsi": "Emoji ini dikenal sebagai 'Zany Face' yang menunjukkan gila.",
+        "jawaban": "Gila"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan mabuk.",
+        "emoticon": "🥴",
+        "deskripsi": "Emoji ini dikenal sebagai 'Woozy Face' yang menunjukkan mabuk.",
+        "jawaban": "Mabuk"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan marah.",
+        "emoticon": "😠",
+        "deskripsi": "Emoji ini dikenal sebagai 'Angry Face' yang menunjukkan marah.",
+        "jawaban": "Marah"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bingung.",
+        "emoticon": "😕",
+        "deskripsi": "Emoji ini dikenal sebagai 'Confused Face' yang menunjukkan bingung.",
+        "jawaban": "Bingung"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kesal.",
+        "emoticon": "😖",
+        "deskripsi": "Emoji ini dikenal sebagai 'Confounded Face' yang menunjukkan kesal.",
+        "jawaban": "Kesal"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan curiga.",
+        "emoticon": "🤨",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face with Raised Eyebrow' yang menunjukkan curiga.",
+        "jawaban": "Curiga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan geram.",
+        "emoticon": "😤",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face with Steam from Nose' yang menunjukkan geram.",
+        "jawaban": "Geram"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan menangis.",
+        "emoticon": "😭",
+        "deskripsi": "Emoji ini dikenal sebagai 'Loudly Crying Face' yang menunjukkan menangis.",
+        "jawaban": "Menangis"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan mengantuk.",
+        "emoticon": "😪",
+        "deskripsi": "Emoji ini dikenal sebagai 'Sleepy Face' yang menunjukkan mengantuk.",
+        "jawaban": "Mengantuk"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan menahan tangis.",
+        "emoticon": "🥹",
+        "deskripsi": "Emoji ini dikenal sebagai 'Face Holding Back Tears' yang menunjukkan menahan tangis.",
+        "jawaban": "Menahan tangis"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kecewa.",
+        "emoticon": "😞",
+        "deskripsi": "Emoji ini dikenal sebagai 'Disappointed Face' yang menunjukkan kecewa.",
+        "jawaban": "Kecewa"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan khawatir.",
+        "emoticon": "😟",
+        "deskripsi": "Emoji ini dikenal sebagai 'Worried Face' yang menunjukkan khawatir.",
+        "jawaban": "Khawatir"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan menderita.",
+        "emoticon": "😧",
+        "deskripsi": "Emoji ini dikenal sebagai 'Anguished Face' yang menunjukkan menderita.",
+        "jawaban": "Menderita"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan takut.",
+        "emoticon": "😨",
+        "deskripsi": "Emoji ini dikenal sebagai 'Fearful Face' yang menunjukkan takut.",
+        "jawaban": "Takut"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan lelah.",
+        "emoticon": "😩",
+        "deskripsi": "Emoji ini dikenal sebagai 'Weary Face' yang menunjukkan lelah.",
+        "jawaban": "Lelah"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan sedih.",
+        "emoticon": "😿",
+        "deskripsi": "Emoji ini dikenal sebagai 'Crying Cat Face' yang menunjukkan sedih.",
+        "jawaban": "Sedih"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kaget.",
+        "emoticon": "🙀",
+        "deskripsi": "Emoji ini dikenal sebagai 'Weary Cat Face' yang menunjukkan kaget.",
+        "jawaban": "Kaget"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan jatuh cinta.",
+        "emoticon": "😻",
+        "deskripsi": "Emoji ini dikenal sebagai 'Smiling Cat with Heart-Eyes' yang menunjukkan jatuh cinta.",
+        "jawaban": "Jatuh cinta"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan ciuman.",
+        "emoticon": "😽",
+        "deskripsi": "Emoji ini dikenal sebagai 'Kissing Cat Face' yang menunjukkan ciuman.",
+        "jawaban": "Ciuman"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan mati gaya.",
+        "emoticon": "💀",
+        "deskripsi": "Emoji ini dikenal sebagai 'Skull' yang menunjukkan mati gaya.",
+        "jawaban": "Mati gaya"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bahaya.",
+        "emoticon": "☠️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Skull and Crossbones' yang menunjukkan bahaya.",
+        "jawaban": "Bahaya"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan hantu.",
+        "emoticon": "👻",
+        "deskripsi": "Emoji ini dikenal sebagai 'Ghost' yang menunjukkan hantu.",
+        "jawaban": "Hantu"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan aneh.",
+        "emoticon": "👽",
+        "deskripsi": "Emoji ini dikenal sebagai 'Alien' yang menunjukkan aneh.",
+        "jawaban": "Aneh"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan robotik.",
+        "emoticon": "🤖",
+        "deskripsi": "Emoji ini dikenal sebagai 'Robot Face' yang menunjukkan robotik.",
+        "jawaban": "Robotik"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan halloween.",
+        "emoticon": "🎃",
+        "deskripsi": "Emoji ini dikenal sebagai 'Jack-O-Lantern' yang menunjukkan halloween.",
+        "jawaban": "Halloween"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan jahat.",
+        "emoticon": "😈",
+        "deskripsi": "Emoji ini dikenal sebagai 'Smiling Face with Horns' yang menunjukkan jahat.",
+        "jawaban": "Jahat"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan seram.",
+        "emoticon": "👹",
+        "deskripsi": "Emoji ini dikenal sebagai 'Ogre' yang menunjukkan seram.",
+        "jawaban": "Seram"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan menyeramkan.",
+        "emoticon": "👺",
+        "deskripsi": "Emoji ini dikenal sebagai 'Goblin' yang menunjukkan menyeramkan.",
+        "jawaban": "Menyeramkan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan badut.",
+        "emoticon": "🤡",
+        "deskripsi": "Emoji ini dikenal sebagai 'Clown Face' yang menunjukkan badut.",
+        "jawaban": "Badut"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan malu banget.",
+        "emoticon": "🫠",
+        "deskripsi": "Emoji ini dikenal sebagai 'Melting Face' yang menunjukkan malu banget.",
+        "jawaban": "Malu banget"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan hormat.",
+        "emoticon": "🫡",
+        "deskripsi": "Emoji ini dikenal sebagai 'Saluting Face' yang menunjukkan hormat.",
+        "jawaban": "Hormat"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan malaikat.",
+        "emoticon": "😇",
+        "deskripsi": "Emoji ini dikenal sebagai 'Angel Face' yang menunjukkan malaikat.",
+        "jawaban": "Malaikat"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pesta.",
+        "emoticon": "🥳",
+        "deskripsi": "Emoji ini dikenal sebagai 'Partying Face' yang menunjukkan pesta.",
+        "jawaban": "Pesta"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan perayaan.",
+        "emoticon": "🎉",
+        "deskripsi": "Emoji ini dikenal sebagai 'Party Popper' yang menunjukkan perayaan.",
+        "jawaban": "Perayaan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan keluarga.",
+        "emoticon": "👨‍👨‍👧",
+        "deskripsi": "Emoji ini dikenal sebagai 'Family: Man, Man, Girl' yang menunjukkan keluarga.",
+        "jawaban": "Keluarga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan keluarga.",
+        "emoticon": "👨‍👨‍👦",
+        "deskripsi": "Emoji ini dikenal sebagai 'Family: Man, Man, Boy' yang menunjukkan keluarga.",
+        "jawaban": "Keluarga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan keluarga.",
+        "emoticon": "👨‍👩‍👧‍👧",
+        "deskripsi": "Emoji ini dikenal sebagai 'Family: Man, Woman, Two Girls' yang menunjukkan keluarga.",
+        "jawaban": "Keluarga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan keluarga.",
+        "emoticon": "👨‍👩‍👦‍👦",
+        "deskripsi": "Emoji ini dikenal sebagai 'Family: Man, Woman, Two Boys' yang menunjukkan keluarga.",
+        "jawaban": "Keluarga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan keluarga.",
+        "emoticon": "👨‍👩‍👧‍👦",
+        "deskripsi": "Emoji ini dikenal sebagai 'Family: Man, Woman, Girl, Boy' yang menunjukkan keluarga.",
+        "jawaban": "Keluarga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan keluarga.",
+        "emoticon": "👨‍👩‍👦",
+        "deskripsi": "Emoji ini dikenal sebagai 'Family: Man, Woman, Boy' yang menunjukkan keluarga.",
+        "jawaban": "Keluarga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan keluarga.",
+        "emoticon": "👨‍👨‍👦‍👦",
+        "deskripsi": "Emoji ini dikenal sebagai 'Family: Man, Man, Two Boys' yang menunjukkan keluarga.",
+        "jawaban": "Keluarga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan keluarga.",
+        "emoticon": "👨‍👧‍👦",
+        "deskripsi": "Emoji ini dikenal sebagai 'Family: Man, Girl, Boy' yang menunjukkan keluarga.",
+        "jawaban": "Keluarga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan persahabatan.",
+        "emoticon": "👨🏾‍🤝‍👨🏻",
+        "deskripsi": "Emoji ini dikenal sebagai 'People Holding Hands: Medium-Dark Skin Tone, Light Skin Tone' yang menunjukkan persahabatan.",
+        "jawaban": "Persahabatan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan persahabatan.",
+        "emoticon": "👨🏽‍🤝‍👨🏽",
+        "deskripsi": "Emoji ini dikenal sebagai 'People Holding Hands: Medium Skin Tone' yang menunjukkan persahabatan.",
+        "jawaban": "Persahabatan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan anak laki-laki.",
+        "emoticon": "👦",
+        "deskripsi": "Emoji ini dikenal sebagai 'Boy' yang menunjukkan anak laki-laki.",
+        "jawaban": "Anak laki-laki"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan wanita berambut merah.",
+        "emoticon": "👩‍🦰",
+        "deskripsi": "Emoji ini dikenal sebagai 'Woman: Red Hair' yang menunjukkan wanita berambut merah.",
+        "jawaban": "Wanita berambut merah"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pengawal.",
+        "emoticon": "💂‍♂️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Guard: Man' yang menunjukkan pengawal.",
+        "jawaban": "Pengawal"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan seniman.",
+        "emoticon": "👨‍🎨",
+        "deskripsi": "Emoji ini dikenal sebagai 'Man Artist' yang menunjukkan seniman.",
+        "jawaban": "Seniman"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan menolak.",
+        "emoticon": "🙅‍♂️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Man Gesturing No' yang menunjukkan menolak.",
+        "jawaban": "Menolak"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan cemberut.",
+        "emoticon": "🙍‍♀️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Woman Frowning' yang menunjukkan cemberut.",
+        "jawaban": "Cemberut"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan panjat tebing.",
+        "emoticon": "🧗‍♂️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Man Climbing' yang menunjukkan panjat tebing.",
+        "jawaban": "Panjat tebing"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan menari.",
+        "emoticon": "🕺",
+        "deskripsi": "Emoji ini dikenal sebagai 'Man Dancing' yang menunjukkan menari.",
+        "jawaban": "Menari"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan angkat beban.",
+        "emoticon": "🏋️‍♂️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Man Lifting Weights' yang menunjukkan angkat beban.",
+        "jawaban": "Angkat beban"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan angkat beban.",
+        "emoticon": "🏋️‍♀️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Woman Lifting Weights' yang menunjukkan angkat beban.",
+        "jawaban": "Angkat beban"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bermain bola.",
+        "emoticon": "⛹️‍♀️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Woman Bouncing Ball' yang menunjukkan bermain bola.",
+        "jawaban": "Bermain bola"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bermain handball.",
+        "emoticon": "🤾‍♂️",
+        "deskripsi": "Emoji ini dikenal sebagai 'Man Playing Handball' yang menunjukkan bermain handball.",
+        "jawaban": "Bermain handball"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan berdoa.",
+        "emoticon": "🤲",
+        "deskripsi": "Emoji ini dikenal sebagai 'Palms Up Together' yang menunjukkan berdoa.",
+        "jawaban": "Berdoa"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan baik.",
+        "emoticon": "👌",
+        "deskripsi": "Emoji ini dikenal sebagai 'OK Hand' yang menunjukkan baik.",
+        "jawaban": "Baik"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan tangan diangkat.",
+        "emoticon": "🤚",
+        "deskripsi": "Emoji ini dikenal sebagai 'Raised Back of Hand' yang menunjukkan tangan diangkat.",
+        "jawaban": "Tangan diangkat"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan aku cinta kamu.",
+        "emoticon": "🤟",
+        "deskripsi": "Emoji ini dikenal sebagai 'Love-You Gesture' yang menunjukkan aku cinta kamu.",
+        "jawaban": "Aku cinta kamu"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan menulis.",
+        "emoticon": "✍",
+        "deskripsi": "Emoji ini dikenal sebagai 'Writing Hand' yang menunjukkan menulis.",
+        "jawaban": "Menulis"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan terbuka.",
+        "emoticon": "👐",
+        "deskripsi": "Emoji ini dikenal sebagai 'Open Hands' yang menunjukkan terbuka.",
+        "jawaban": "Terbuka"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan jabat tangan.",
+        "emoticon": "🤝",
+        "deskripsi": "Emoji ini dikenal sebagai 'Handshake' yang menunjukkan jabat tangan.",
+        "jawaban": "Jabat tangan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan berdoa.",
+        "emoticon": "🙏",
+        "deskripsi": "Emoji ini dikenal sebagai 'Folded Hands' yang menunjukkan berdoa.",
+        "jawaban": "Berdoa"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan tiket.",
+        "emoticon": "🎫",
+        "deskripsi": "Emoji ini dikenal sebagai 'Ticket' yang menunjukkan tiket.",
+        "jawaban": "Tiket"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pita.",
+        "emoticon": "🎀",
+        "deskripsi": "Emoji ini dikenal sebagai 'Ribbon' yang menunjukkan pita.",
+        "jawaban": "Pita"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan dekorasi jepang.",
+        "emoticon": "🎍",
+        "deskripsi": "Emoji ini dikenal sebagai 'Kadomatsu' yang menunjukkan dekorasi jepang.",
+        "jawaban": "Dekorasi Jepang"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan tiket masuk.",
+        "emoticon": "🎟",
+        "deskripsi": "Emoji ini dikenal sebagai 'Admission Tickets' yang menunjukkan tiket masuk.",
+        "jawaban": "Tiket masuk"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan lonceng angin.",
+        "emoticon": "🎐",
+        "deskripsi": "Emoji ini dikenal sebagai 'Wind Chime' yang menunjukkan lonceng angin.",
+        "jawaban": "Lonceng angin"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bersinar.",
+        "emoticon": "✨",
+        "deskripsi": "Emoji ini dikenal sebagai 'Sparkles' yang menunjukkan bersinar.",
+        "jawaban": "Bersinar"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pita kesadaran.",
+        "emoticon": "🎗",
+        "deskripsi": "Emoji ini dikenal sebagai 'Reminder Ribbon' yang menunjukkan pita kesadaran.",
+        "jawaban": "Pita kesadaran"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan lukisan.",
+        "emoticon": "🖼",
+        "deskripsi": "Emoji ini dikenal sebagai 'Framed Picture' yang menunjukkan lukisan.",
+        "jawaban": "Lukisan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kimono jepang.",
+        "emoticon": "👘",
+        "deskripsi": "Emoji ini dikenal sebagai 'Kimono' yang menunjukkan kimono jepang.",
+        "jawaban": "Kimono Jepang"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pakaian india.",
+        "emoticon": "🥻",
+        "deskripsi": "Emoji ini dikenal sebagai 'Sari' yang menunjukkan pakaian india.",
+        "jawaban": "Pakaian India"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan gaun.",
+        "emoticon": "👗",
+        "deskripsi": "Emoji ini dikenal sebagai 'Dress' yang menunjukkan gaun.",
+        "jawaban": "Gaun"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kaos kaki.",
+        "emoticon": "🧦",
+        "deskripsi": "Emoji ini dikenal sebagai 'Socks' yang menunjukkan kaos kaki.",
+        "jawaban": "Kaos kaki"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan syal.",
+        "emoticon": "🧣",
+        "deskripsi": "Emoji ini dikenal sebagai 'Scarf' yang menunjukkan syal.",
+        "jawaban": "Syal"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan celana dalam.",
+        "emoticon": "🩲",
+        "deskripsi": "Emoji ini dikenal sebagai 'Briefs' yang menunjukkan celana dalam.",
+        "jawaban": "Celana dalam"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan tas tangan.",
+        "emoticon": "👜",
+        "deskripsi": "Emoji ini dikenal sebagai 'Handbag' yang menunjukkan tas tangan.",
+        "jawaban": "Tas tangan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bola voli.",
+        "emoticon": "🏐",
+        "deskripsi": "Emoji ini dikenal sebagai 'Volleyball' yang menunjukkan bola voli.",
+        "jawaban": "Bola voli"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bola softball.",
+        "emoticon": "🥎",
+        "deskripsi": "Emoji ini dikenal sebagai 'Softball' yang menunjukkan bola softball.",
+        "jawaban": "Bola softball"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan topi wanita.",
+        "emoticon": "👒",
+        "deskripsi": "Emoji ini dikenal sebagai 'Woman’s Hat' yang menunjukkan topi wanita.",
+        "jawaban": "Topi wanita"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bola sepak.",
+        "emoticon": "⚽",
+        "deskripsi": "Emoji ini dikenal sebagai 'Soccer Ball' yang menunjukkan bola sepak.",
+        "jawaban": "Bola sepak"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan topi.",
+        "emoticon": "🧢",
+        "deskripsi": "Emoji ini dikenal sebagai 'Billed Cap' yang menunjukkan topi.",
+        "jawaban": "Topi"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan mahkota.",
+        "emoticon": "👑",
+        "deskripsi": "Emoji ini dikenal sebagai 'Crown' yang menunjukkan mahkota.",
+        "jawaban": "Mahkota"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan memancing.",
+        "emoticon": "🎣",
+        "deskripsi": "Emoji ini dikenal sebagai 'Fishing Pole' yang menunjukkan memancing.",
+        "jawaban": "Memancing"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan curling.",
+        "emoticon": "🥌",
+        "deskripsi": "Emoji ini dikenal sebagai 'Curling Stone' yang menunjukkan curling.",
+        "jawaban": "Curling"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan lacrosse.",
+        "emoticon": "🥍",
+        "deskripsi": "Emoji ini dikenal sebagai 'Lacrosse Stick' yang menunjukkan lacrosse.",
+        "jawaban": "Lacrosse"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan baju lari.",
+        "emoticon": "🎽",
+        "deskripsi": "Emoji ini dikenal sebagai 'Running Shirt' yang menunjukkan baju lari.",
+        "jawaban": "Baju lari"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kriket.",
+        "emoticon": "🏏",
+        "deskripsi": "Emoji ini dikenal sebagai 'Cricket Bat' yang menunjukkan kriket.",
+        "jawaban": "Kriket"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan bulutangkis.",
+        "emoticon": "🏸",
+        "deskripsi": "Emoji ini dikenal sebagai 'Badminton' yang menunjukkan bulutangkis.",
+        "jawaban": "Bulutangkis"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan frisbee.",
+        "emoticon": "🥏",
+        "deskripsi": "Emoji ini dikenal sebagai 'Flying Disc' yang menunjukkan frisbee.",
+        "jawaban": "Frisbee"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan medali olahraga.",
+        "emoticon": "🏅",
+        "deskripsi": "Emoji ini dikenal sebagai 'Sports Medal' yang menunjukkan medali olahraga.",
+        "jawaban": "Medali olahraga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan medali perak.",
+        "emoticon": "🥈",
+        "deskripsi": "Emoji ini dikenal sebagai 'Second Place Medal' yang menunjukkan medali perak.",
+        "jawaban": "Medali perak"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan baju bela diri.",
+        "emoticon": "🥋",
+        "deskripsi": "Emoji ini dikenal sebagai 'Martial Arts Uniform' yang menunjukkan baju bela diri.",
+        "jawaban": "Baju bela diri"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan puzzle.",
+        "emoticon": "🧩",
+        "deskripsi": "Emoji ini dikenal sebagai 'Puzzle Piece' yang menunjukkan puzzle.",
+        "jawaban": "Puzzle"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan mahjong.",
+        "emoticon": "🀄",
+        "deskripsi": "Emoji ini dikenal sebagai 'Mahjong Tile' yang menunjukkan mahjong.",
+        "jawaban": "Mahjong"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kartu joker.",
+        "emoticon": "🃏",
+        "deskripsi": "Emoji ini dikenal sebagai 'Joker' yang menunjukkan kartu joker.",
+        "jawaban": "Kartu Joker"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kartu permainan jepang.",
+        "emoticon": "🎴",
+        "deskripsi": "Emoji ini dikenal sebagai 'Flower Playing Cards' yang menunjukkan kartu permainan jepang.",
+        "jawaban": "Kartu permainan Jepang"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan suara kecil.",
+        "emoticon": "🔈",
+        "deskripsi": "Emoji ini dikenal sebagai 'Speaker Low Volume' yang menunjukkan suara kecil.",
+        "jawaban": "Suara kecil"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan suara besar.",
+        "emoticon": "🔊",
+        "deskripsi": "Emoji ini dikenal sebagai 'Speaker High Volume' yang menunjukkan suara besar.",
+        "jawaban": "Suara besar"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pengeras suara.",
+        "emoticon": "📢",
+        "deskripsi": "Emoji ini dikenal sebagai 'Loudspeaker' yang menunjukkan pengeras suara.",
+        "jawaban": "Pengeras suara"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan lonceng.",
+        "emoticon": "🔔",
+        "deskripsi": "Emoji ini dikenal sebagai 'Bell' yang menunjukkan lonceng.",
+        "jawaban": "Lonceng"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan piano.",
+        "emoticon": "🎹",
+        "deskripsi": "Emoji ini dikenal sebagai 'Musical Keyboard' yang menunjukkan piano.",
+        "jawaban": "Piano"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan gitar.",
+        "emoticon": "🎸",
+        "deskripsi": "Emoji ini dikenal sebagai 'Guitar' yang menunjukkan gitar.",
+        "jawaban": "Gitar"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan banjo.",
+        "emoticon": "🪕",
+        "deskripsi": "Emoji ini dikenal sebagai 'Banjo' yang menunjukkan banjo.",
+        "jawaban": "Banjo"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kapak.",
+        "emoticon": "🪓",
+        "deskripsi": "Emoji ini dikenal sebagai 'Axe' yang menunjukkan kapak.",
+        "jawaban": "Kapak"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kunci tua.",
+        "emoticon": "🗝",
+        "deskripsi": "Emoji ini dikenal sebagai 'Old Key' yang menunjukkan kunci tua.",
+        "jawaban": "Kunci tua"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kunci.",
+        "emoticon": "🔑",
+        "deskripsi": "Emoji ini dikenal sebagai 'Key' yang menunjukkan kunci.",
+        "jawaban": "Kunci"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan terkunci dengan pena.",
+        "emoticon": "🔏",
+        "deskripsi": "Emoji ini dikenal sebagai 'Locked with Pen' yang menunjukkan terkunci dengan pena.",
+        "jawaban": "Terkunci dengan pena"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan tidak terkunci.",
+        "emoticon": "🔓",
+        "deskripsi": "Emoji ini dikenal sebagai 'Unlocked' yang menunjukkan tidak terkunci.",
+        "jawaban": "Tidak terkunci"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan alat perkakas.",
+        "emoticon": "🛠",
+        "deskripsi": "Emoji ini dikenal sebagai 'Hammer and Wrench' yang menunjukkan alat perkakas.",
+        "jawaban": "Alat perkakas"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan kunci inggris.",
+        "emoticon": "🔧",
+        "deskripsi": "Emoji ini dikenal sebagai 'Wrench' yang menunjukkan kunci inggris.",
+        "jawaban": "Kunci inggris"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan roda gigi.",
+        "emoticon": "⚙",
+        "deskripsi": "Emoji ini dikenal sebagai 'Gear' yang menunjukkan roda gigi.",
+        "jawaban": "Roda gigi"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan suntikan.",
+        "emoticon": "💉",
+        "deskripsi": "Emoji ini dikenal sebagai 'Syringe' yang menunjukkan suntikan.",
+        "jawaban": "Suntikan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan penyuling.",
+        "emoticon": "⚗",
+        "deskripsi": "Emoji ini dikenal sebagai 'Alembic' yang menunjukkan penyuling.",
+        "jawaban": "Penyuling"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan drum minyak.",
+        "emoticon": "🛢",
+        "deskripsi": "Emoji ini dikenal sebagai 'Oil Drum' yang menunjukkan drum minyak.",
+        "jawaban": "Drum minyak"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan mikroskop.",
+        "emoticon": "🔬",
+        "deskripsi": "Emoji ini dikenal sebagai 'Microscope' yang menunjukkan mikroskop.",
+        "jawaban": "Mikroskop"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan baterai.",
+        "emoticon": "🔋",
+        "deskripsi": "Emoji ini dikenal sebagai 'Battery' yang menunjukkan baterai.",
+        "jawaban": "Baterai"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan pager.",
+        "emoticon": "📟",
+        "deskripsi": "Emoji ini dikenal sebagai 'Pager' yang menunjukkan pager.",
+        "jawaban": "Pager"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan rokok.",
+        "emoticon": "🚬",
+        "deskripsi": "Emoji ini dikenal sebagai 'Cigarette' yang menunjukkan rokok.",
+        "jawaban": "Rokok"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan tautan.",
+        "emoticon": "🔗",
+        "deskripsi": "Emoji ini dikenal sebagai 'Link' yang menunjukkan tautan.",
+        "jawaban": "Tautan"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan dokumen.",
+        "emoticon": "📄",
+        "deskripsi": "Emoji ini dikenal sebagai 'Document' yang menunjukkan dokumen.",
+        "jawaban": "Dokumen"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan papan klip.",
+        "emoticon": "📋",
+        "deskripsi": "Emoji ini dikenal sebagai 'Clipboard' yang menunjukkan papan klip.",
+        "jawaban": "Papan klip"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan diagram batang.",
+        "emoticon": "📊",
+        "deskripsi": "Emoji ini dikenal sebagai 'Bar Chart' yang menunjukkan diagram batang.",
+        "jawaban": "Diagram batang"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan penggaris segitiga.",
+        "emoticon": "📐",
+        "deskripsi": "Emoji ini dikenal sebagai 'Triangular Ruler' yang menunjukkan penggaris segitiga.",
+        "jawaban": "Penggaris segitiga"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan penggaris lurus.",
+        "emoticon": "📏",
+        "deskripsi": "Emoji ini dikenal sebagai 'Straight Ruler' yang menunjukkan penggaris lurus.",
+        "jawaban": "Penggaris lurus"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan indeks kartu.",
+        "emoticon": "📇",
+        "deskripsi": "Emoji ini dikenal sebagai 'Card Index' yang menunjukkan indeks kartu.",
+        "jawaban": "Indeks kartu"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan jam alarm.",
+        "emoticon": "⏰",
+        "deskripsi": "Emoji ini dikenal sebagai 'Alarm Clock' yang menunjukkan jam alarm.",
+        "jawaban": "Jam alarm"
+    },
+    {
+        "soal": "Emoji ini sering digunakan untuk menunjukkan taco.",
+        "emoticon": "🌮",
+        "deskripsi": "Emoji ini dikenal sebagai 'Taco' yang menunjukkan taco.",
+        "jawaban": "Taco"
+    }
+]

@@ -1,0 +1,2144 @@
+[
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "45 + 55 = ?",
+        "jawaban": "100"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "120 - 30 = ?",
+        "jawaban": "90"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "78 + 22 = ?",
+        "jawaban": "100"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "250 - 75 = ?",
+        "jawaban": "175"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "111 + 222 = ?",
+        "jawaban": "333"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "500 - 1 = ?",
+        "jawaban": "499"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "99 + 101 = ?",
+        "jawaban": "200"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "345 - 123 = ?",
+        "jawaban": "222"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "47 + 82 = ?",
+        "jawaban": "129"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "600 - 250 = ?",
+        "jawaban": "350"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Budi punya 15 apel, Siti memberinya 10 lagi. Total apel Budi?",
+        "jawaban": "25"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Ada 50 domba, 12 domba hilang. Sisa domba?",
+        "jawaban": "38"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "240 + 360 = ?",
+        "jawaban": "600"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "1000 - 550 = ?",
+        "jawaban": "450"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "85 + 115 = ?",
+        "jawaban": "200"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "430 - 210 = ?",
+        "jawaban": "220"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Suhu pagi hari 25°C, siang hari naik 7°C. Suhu siang hari?",
+        "jawaban": "32°C"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Di parkiran ada 88 motor, 21 motor pergi. Sisa motor?",
+        "jawaban": "67"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "77 + 33 = ?",
+        "jawaban": "110"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "999 - 888 = ?",
+        "jawaban": "111"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "105 + 205 = ?",
+        "jawaban": "310"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "300 - 151 = ?",
+        "jawaban": "149"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "65 + 35 = ?",
+        "jawaban": "100"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "88 - 44 = ?",
+        "jawaban": "44"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "215 + 115 = ?",
+        "jawaban": "330"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "750 - 250 = ?",
+        "jawaban": "500"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Ibu membeli 24 telur, 6 telur pecah. Sisa telur ibu?",
+        "jawaban": "18"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Ayah memiliki 45 buku, ia membeli 15 buku baru. Berapa total buku ayah?",
+        "jawaban": "60"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "199 + 1 = ?",
+        "jawaban": "200"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "400 - 101 = ?",
+        "jawaban": "299"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "525 + 125 = ?",
+        "jawaban": "650"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "650 - 320 = ?",
+        "jawaban": "330"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Ada 32 siswa di kelas, 3 siswa tidak masuk. Berapa siswa yang masuk?",
+        "jawaban": "29"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Seorang pedagang punya 120 mangga, 40 mangga busuk. Berapa mangga yang bagus?",
+        "jawaban": "80"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "333 + 444 = ?",
+        "jawaban": "777"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "800 - 450 = ?",
+        "jawaban": "350"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "91 + 19 = ?",
+        "jawaban": "110"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "278 - 128 = ?",
+        "jawaban": "150"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Dalam sebuah bus ada 45 penumpang, 12 penumpang turun. Berapa sisa penumpang?",
+        "jawaban": "33"
+    },
+    {
+        "level": "noob",
+        "deskripsi": "Penjumlahan dan pengurangan dasar.",
+        "soal": "Kaka menabung Rp 5.000, lalu menabung lagi Rp 3.000. Total tabungan Kaka?",
+        "jawaban": "Rp 8.000"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "12 × 5 = ?",
+        "jawaban": "60"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "100 ÷ 4 = ?",
+        "jawaban": "25"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "15 × 8 = ?",
+        "jawaban": "120"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "81 ÷ 9 = ?",
+        "jawaban": "9"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "25 × 6 = ?",
+        "jawaban": "150"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "144 ÷ 12 = ?",
+        "jawaban": "12"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Satu kotak berisi 6 donat. Berapa donat dalam 7 kotak?",
+        "jawaban": "42"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Bagikan 50 permen kepada 10 anak. Setiap anak dapat berapa?",
+        "jawaban": "5"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "20 × 20 = ?",
+        "jawaban": "400"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "300 ÷ 15 = ?",
+        "jawaban": "20"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "11 × 11 = ?",
+        "jawaban": "121"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "72 ÷ 8 = ?",
+        "jawaban": "9"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Harga 1 buku Rp 3.000. Harga 5 buku?",
+        "jawaban": "Rp 15.000"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Sebuah mobil menempuh 120 km dengan 10 liter bensin. 1 liter untuk berapa km?",
+        "jawaban": "12 km"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "30 × 7 = ?",
+        "jawaban": "210"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "64 ÷ 4 = ?",
+        "jawaban": "16"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "100 × 10 = ?",
+        "jawaban": "1000"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "99 ÷ 3 = ?",
+        "jawaban": "33"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Satu regu pramuka ada 8 orang. Berapa orang dalam 5 regu?",
+        "jawaban": "40"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "48 roti dibagikan ke 6 orang. Setiap orang dapat berapa?",
+        "jawaban": "8"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "13 × 4 = ?",
+        "jawaban": "52"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "125 ÷ 5 = ?",
+        "jawaban": "25"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Jika 1 jam ada 60 menit, berapa menit dalam 3 jam?",
+        "jawaban": "180 menit"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Satu minggu ada 7 hari. Berapa hari dalam 4 minggu?",
+        "jawaban": "28 hari"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "500 × 3 = ?",
+        "jawaban": "1500"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "500 ÷ 10 = ?",
+        "jawaban": "50"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "22 × 5 = ?",
+        "jawaban": "110"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "220 ÷ 2 = ?",
+        "jawaban": "110"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Petani memanen 5 keranjang apel, tiap keranjang berisi 10 apel. Total apel?",
+        "jawaban": "50"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Ayah membagikan uang Rp 100.000 kepada 4 anaknya. Setiap anak dapat berapa?",
+        "jawaban": "Rp 25.000"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "101 × 7 = ?",
+        "jawaban": "707"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "88 ÷ 11 = ?",
+        "jawaban": "8"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Satu lusin ada 12 buah. Berapa buah dalam 3 lusin?",
+        "jawaban": "36"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Sebuah pita panjangnya 60 cm dipotong menjadi 5 bagian sama panjang. Panjang tiap bagian?",
+        "jawaban": "12 cm"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "45 × 2 = ?",
+        "jawaban": "90"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "90 ÷ 9 = ?",
+        "jawaban": "10"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "150 × 1 = ?",
+        "jawaban": "150"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "150 ÷ 10 = ?",
+        "jawaban": "15"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "Jika 1 kg ada 1000 gram, berapa gram dalam 2 kg?",
+        "jawaban": "2000 gram"
+    },
+    {
+        "level": "easy",
+        "deskripsi": "Perkalian dan pembagian sederhana.",
+        "soal": "63 permen dibagikan untuk 7 anak. Berapa permen untuk setiap anak?",
+        "jawaban": "9"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "(10 + 5) × 2 - 8 = ?",
+        "jawaban": "22"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "50 - 20 ÷ 5 = ?",
+        "jawaban": "46"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "1/2 + 1/4 = ?",
+        "jawaban": "3/4"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "3/5 × 1/2 = ?",
+        "jawaban": "3/10"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "50% dari 200 adalah?",
+        "jawaban": "100"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "8 + 2 × 10 = ?",
+        "jawaban": "28"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "100 ÷ (20 + 5) = ?",
+        "jawaban": "4"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "2/3 - 1/6 = ?",
+        "jawaban": "3/6 atau 1/2"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "1/2 ÷ 1/4 = ?",
+        "jawaban": "2"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Angka 15 adalah 25% dari angka berapa?",
+        "jawaban": "60"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Harga baju Rp 150.000, diskon 20%. Berapa harga setelah diskon?",
+        "jawaban": "Rp 120.000"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Sederhanakan pecahan 16/24.",
+        "jawaban": "2/3"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "(12 - 5) × (8 + 2) = ?",
+        "jawaban": "70"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "0.5 + 1.25 = ?",
+        "jawaban": "1.75"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Bentuk desimal dari 3/4 adalah?",
+        "jawaban": "0.75"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "75 + 100 ÷ 2 = ?",
+        "jawaban": "125"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "2 × (15 - 3) ÷ 6 = ?",
+        "jawaban": "4"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Bentuk persen dari 1/5 adalah?",
+        "jawaban": "20%"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "4/5 dari 50 adalah?",
+        "jawaban": "40"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Urutkan dari terkecil: 1/2, 3/4, 2/5.",
+        "jawaban": "2/5, 1/2, 3/4"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "3 × 4 + 10 ÷ 2 = ?",
+        "jawaban": "17"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "(50 - 10) ÷ 4 × 2 = ?",
+        "jawaban": "20"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "2/5 + 3/10 = ?",
+        "jawaban": "7/10"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "1/3 × 9/4 = ?",
+        "jawaban": "3/4"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "10% dari 500.000 adalah?",
+        "jawaban": "50.000"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "2.5 - 0.75 = ?",
+        "jawaban": "1.75"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Bentuk pecahan biasa dari 1.25 adalah?",
+        "jawaban": "5/4 atau 1 1/4"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "5/6 ÷ 2/3 = ?",
+        "jawaban": "5/4"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "20 adalah 40% dari berapa?",
+        "jawaban": "50"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Seorang siswa menjawab benar 30 dari 40 soal. Berapa persen jawaban benarnya?",
+        "jawaban": "75%"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Suhu -5°C naik sebesar 12°C. Suhu sekarang?",
+        "jawaban": "7°C"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "60 - (5 × 8) ÷ 2 = ?",
+        "jawaban": "40"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Bentuk paling sederhana dari 35/49 adalah?",
+        "jawaban": "5/7"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "1 1/2 + 2 1/4 = ?",
+        "jawaban": "3 3/4"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "0.8 × 0.5 = ?",
+        "jawaban": "0.4"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "150% dari 60 adalah?",
+        "jawaban": "90"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Ibu mempunyai 2 1/2 kg gula, digunakan 1 kg. Sisa gula ibu?",
+        "jawaban": "1 1/2 kg"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Urutkan dari terbesar: 0.8, 3/4, 50%.",
+        "jawaban": "0.8, 3/4, 50%"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "(100 ÷ 10) × 3 + 15 = ?",
+        "jawaban": "45"
+    },
+    {
+        "level": "medium",
+        "deskripsi": "Operasi hitung campuran, pecahan, dan persentase.",
+        "soal": "Ayah mempunyai tali 5 meter dan membeli lagi 2.5 meter. Panjang tali ayah sekarang?",
+        "jawaban": "7.5 meter"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Jika 3x + 5 = 20, maka x = ?",
+        "jawaban": "x = 5"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: 2(a - 4) = 10",
+        "jawaban": "a = 9"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Jika 50 - 4y = 30, maka y = ?",
+        "jawaban": "y = 5"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Luas persegi panjang 48 cm². Jika panjangnya 8 cm, berapa lebarnya?",
+        "jawaban": "6 cm"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Suatu bilangan jika dikali 3 lalu ditambah 7 hasilnya 28. Bilangan berapakah itu?",
+        "jawaban": "7"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan untuk p: p/4 + 2 = 5",
+        "jawaban": "p = 12"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "5n = 3n + 14. Berapakah n?",
+        "jawaban": "n = 7"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Umur Adi 5 tahun lebih tua dari Budi. Jika jumlah umur mereka 25 tahun, berapa umur Adi?",
+        "jawaban": "15 tahun"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Keliling sebuah persegi adalah 44 cm. Berapa panjang sisinya?",
+        "jawaban": "11 cm"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: 7 - 2x = 1",
+        "jawaban": "x = 3"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "3(x + 1) = 2(x + 5). Tentukan x.",
+        "jawaban": "x = 7"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Harga 3 pensil dan 1 buku adalah Rp 9.500. Jika harga 1 pensil Rp 1.500, berapa harga buku?",
+        "jawaban": "Rp 5.000"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Setengah dari sebuah bilangan adalah 14. Berapa 3 kali bilangan tersebut?",
+        "jawaban": "84"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: (2x + 1) / 3 = 5",
+        "jawaban": "x = 7"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "9k - 15 = 4k. Berapa nilai k?",
+        "jawaban": "k = 3"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Sebuah segitiga sama sisi memiliki keliling 60 cm. Berapa panjang sisinya?",
+        "jawaban": "20 cm"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Jika x = -4, hitunglah nilai dari 10 - 3x.",
+        "jawaban": "22"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: 100 - 10x = 0",
+        "jawaban": "x = 10"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Dua bilangan berurutan jumlahnya 41. Tentukan bilangan yang lebih besar.",
+        "jawaban": "21"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: 6(y - 2) = 3y",
+        "jawaban": "y = 4"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Jika 8x - 10 = 6x, maka x = ?",
+        "jawaban": "x = 5"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: (m/3) - 1 = 3",
+        "jawaban": "m = 12"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Jika 5(z + 2) = 25, maka z = ?",
+        "jawaban": "z = 3"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Keliling persegi panjang adalah 30 cm. Jika panjangnya 10 cm, berapa lebarnya?",
+        "jawaban": "5 cm"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Sebuah bilangan ditambah 8, hasilnya adalah 3 kali bilangan itu. Bilangan berapa?",
+        "jawaban": "4"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: 15 - x = 2x",
+        "jawaban": "x = 5"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "4(b + 1) = 3(b + 2). Tentukan b.",
+        "jawaban": "b = 2"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Umur kakak 3 tahun lebih tua dari adik. Jumlah umur mereka 19 tahun. Berapa umur adik?",
+        "jawaban": "8 tahun"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Luas sebuah segitiga adalah 30 cm². Jika alasnya 10 cm, berapa tingginya?",
+        "jawaban": "6 cm"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: 20 = 50 - 2x",
+        "jawaban": "x = 15"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Jika y = 5, hitung nilai dari 3y².",
+        "jawaban": "75"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Harga 5 mangga adalah Rp 12.500. Berapa harga 1 mangga?",
+        "jawaban": "Rp 2.500"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Tiga bilangan ganjil berurutan jumlahnya 33. Tentukan bilangan terkecil.",
+        "jawaban": "9"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: (x/2) + (x/3) = 5",
+        "jawaban": "x = 6"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "7x + 4 = 5x + 10. Tentukan x.",
+        "jawaban": "x = 3"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Jumlah dua bilangan adalah 20, selisihnya 4. Tentukan bilangan yang lebih besar.",
+        "jawaban": "12"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Jika 10/(x+1) = 2, maka x = ?",
+        "jawaban": "x = 4"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Sepertiga dari suatu bilangan dikurangi 2 adalah 3. Bilangan berapakah itu?",
+        "jawaban": "15"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Selesaikan: 10(y - 5) = 5(y - 4)",
+        "jawaban": "y = 6"
+    },
+    {
+        "level": "hard",
+        "deskripsi": "Aljabar dasar dan persamaan linear satu variabel.",
+        "soal": "Luas sebuah belah ketupat adalah 40 cm². Jika salah satu diagonalnya 8 cm, berapa panjang diagonal lainnya?",
+        "jawaban": "10 cm"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Sistem: x + y = 12, x - y = 4. Tentukan x dan y.",
+        "jawaban": "x = 8, y = 4"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan akar-akar dari persamaan kuadrat: x² - 7x + 10 = 0",
+        "jawaban": "x = 2 dan x = 5"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika f(x) = 3x - 2, maka f(5) = ?",
+        "jawaban": "13"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Sistem: 2a + b = 8, a + b = 5. Tentukan a dan b.",
+        "jawaban": "a = 3, b = 2"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan titik potong sumbu y dari grafik fungsi f(x) = x² + 4x - 5.",
+        "jawaban": "(0, -5)"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Harga 2 baju dan 1 celana adalah Rp 170.000. Harga 1 baju dan 1 celana Rp 120.000. Berapa harga 1 baju?",
+        "jawaban": "Rp 50.000"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan diskriminan (D = b²-4ac) dari persamaan x² - 6x + 9 = 0.",
+        "jawaban": "D = 0"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika g(x) = 10 - x², maka g(-3) = ?",
+        "jawaban": "1"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Selesaikan sistem persamaan: y = 2x dan x + y = 15.",
+        "jawaban": "x = 5, y = 10"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan jumlah akar-akar (x1 + x2) dari persamaan 2x² + 8x - 10 = 0.",
+        "jawaban": "-4 (dari -b/a)"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika f(x) = ax + 5 dan f(2) = 11, maka nilai a adalah?",
+        "jawaban": "a = 3"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan hasil kali akar-akar (x1 * x2) dari x² - 12x + 20 = 0.",
+        "jawaban": "20 (dari c/a)"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Sistem: 3x - 2y = 7, x + 3y = -5. Tentukan x.",
+        "jawaban": "x = 1"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan sumbu simetri dari grafik fungsi kuadrat y = (x - 4)² + 1.",
+        "jawaban": "x = 4"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika f(x) = 5x + 1, tentukan x jika f(x) = 21.",
+        "jawaban": "x = 4"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Salah satu akar dari x² + kx - 12 = 0 adalah 3. Tentukan nilai k.",
+        "jawaban": "k = -1"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Sistem: 4p + 3q = 26, 2p - q = 2. Tentukan p dan q.",
+        "jawaban": "p = 2, q = 6"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika f(x) = x² dan g(x) = x + 1, maka f(g(2)) = ?",
+        "jawaban": "9"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan persamaan kuadrat yang akar-akarnya adalah -2 dan 3.",
+        "jawaban": "x² - x - 6 = 0"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan nilai minimum dari fungsi y = x² - 2x + 3.",
+        "jawaban": "y = 2"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika f(x) = x + 4 dan g(x) = 2x - 1, tentukan (g o f)(x).",
+        "jawaban": "2x + 7"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan invers dari fungsi f(x) = 2x - 5.",
+        "jawaban": "f⁻¹(x) = (x + 5) / 2"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Sistem: x + y + z = 6, x - y + z = 2, 2x + y - z = 1. Tentukan x, y, z.",
+        "jawaban": "x = 1, y = 2, z = 3"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Persamaan kuadrat x² - 8x + c = 0 memiliki akar kembar. Tentukan nilai c.",
+        "jawaban": "c = 16 (karena D=0)"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika f(x) = x - 3, tentukan f⁻¹(5).",
+        "jawaban": "8"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan persamaan kuadrat baru yang akar-akarnya dua kali akar-akar x² - 3x + 2 = 0.",
+        "jawaban": "x² - 6x + 8 = 0"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Sistem: 5x + 2y = 23, 3x - y = 7. Tentukan nilai x + y.",
+        "jawaban": "7 (x=3, y=4)"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika f(x) = 1/(x+2), tentukan domain dari f(x).",
+        "jawaban": "Semua bilangan real kecuali x = -2"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan nilai maksimum dari fungsi y = -x² + 6x - 5.",
+        "jawaban": "y = 4"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika g(x) = 3x dan (f o g)(x) = 6x + 2, tentukan f(x).",
+        "jawaban": "f(x) = 2x + 2"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan himpunan penyelesaian dari pertidaksamaan kuadrat x² - 5x + 4 > 0.",
+        "jawaban": "x < 1 atau x > 4"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Sistem: x = 3y, 2x - 3y = 9. Tentukan nilai x.",
+        "jawaban": "x = 9"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan invers dari f(x) = (x+1)/(x-2).",
+        "jawaban": "f⁻¹(x) = (2x+1)/(x-1)"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Akar-akar dari 2x² - 4x + 1 = 0 adalah p dan q. Tentukan nilai dari 1/p + 1/q.",
+        "jawaban": "4"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan titik potong antara grafik y = 2x + 1 dan y = x² - 2.",
+        "jawaban": "(-1, -1) dan (3, 7)"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jika f(x-1) = x + 3, tentukan f(x).",
+        "jawaban": "f(x) = x + 4"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan range dari fungsi kuadrat f(x) = x² - 2x + 5.",
+        "jawaban": "y ≥ 4"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Jumlah dua bilangan adalah 15. Hasil kali kedua bilangan itu adalah 56. Tentukan kedua bilangan itu.",
+        "jawaban": "7 dan 8"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Sistem: 2/x + 3/y = 2, 4/x - 3/y = 1. Tentukan x dan y.",
+        "jawaban": "x = 2, y = 3"
+    },
+    {
+        "level": "master",
+        "deskripsi": "Sistem persamaan linear, fungsi, dan persamaan kuadrat.",
+        "soal": "Tentukan persamaan kuadrat yang akar-akarnya adalah (α+1) dan (β+1) jika α dan β adalah akar-akar dari x² - x - 2 = 0.",
+        "jawaban": "x² - 3x = 0"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Sisi miring segitiga siku-siku dengan sisi tegak 5 cm dan 12 cm adalah?",
+        "jawaban": "13 cm"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas lingkaran dengan jari-jari 10 cm adalah? (Gunakan π ≈ 3.14)",
+        "jawaban": "314 cm²"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Jika sin(A) = 3/5, maka cos(A) = ?",
+        "jawaban": "4/5"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Volume sebuah kubus dengan panjang sisi 5 cm adalah?",
+        "jawaban": "125 cm³"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Keliling lingkaran dengan diameter 14 cm adalah? (Gunakan π ≈ 22/7)",
+        "jawaban": "44 cm"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Dalam segitiga ABC siku-siku di B, panjang AC = 10, sudut C = 30°. Berapa panjang AB?",
+        "jawaban": "5 (karena sin(30) = AB/AC)"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas permukaan sebuah balok dengan p=5, l=4, t=3 adalah?",
+        "jawaban": "94 cm²"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Nilai dari tan(45°) + cos(0°) adalah?",
+        "jawaban": "2"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Diagonal ruang sebuah kubus dengan sisi 6 cm adalah?",
+        "jawaban": "6√3 cm"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas sebuah segitiga dengan alas 10 cm dan tinggi 8 cm adalah?",
+        "jawaban": "40 cm²"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Volume sebuah tabung dengan jari-jari alas 7 cm dan tinggi 10 cm adalah? (π ≈ 22/7)",
+        "jawaban": "1540 cm³"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Sebuah tangga 10 m bersandar di dinding. Sudut antara tangga dan lantai 60°. Berapa tinggi dinding yang dicapai tangga?",
+        "jawaban": "5√3 m (karena sin(60) = tinggi/10)"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas permukaan bola dengan jari-jari 3 cm adalah?",
+        "jawaban": "36π cm²"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Jika cos(θ) = 1/2, salah satu nilai θ yang mungkin adalah?",
+        "jawaban": "60°"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas juring lingkaran dengan sudut pusat 90° dan jari-jari 14 cm adalah? (π ≈ 22/7)",
+        "jawaban": "154 cm²"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Volume kerucut dengan jari-jari alas 3 cm dan tinggi 7 cm adalah? (π ≈ 22/7)",
+        "jawaban": "66 cm³"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Nilai dari sin²(45°) + cos²(45°) adalah?",
+        "jawaban": "1"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Tentukan panjang busur lingkaran dengan jari-jari 21 cm dan sudut pusat 60°. (π ≈ 22/7)",
+        "jawaban": "22 cm"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Sebuah tiang tingginya 12 m. Sudut elevasi dari suatu titik ke puncak tiang adalah 45°. Jarak titik itu ke dasar tiang?",
+        "jawaban": "12 m"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas belah ketupat dengan diagonal 10 cm dan 16 cm adalah?",
+        "jawaban": "80 cm²"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Dalam segitiga ABC, a=8, b=5, dan sudut C=60°. Tentukan panjang sisi c (aturan kosinus).",
+        "jawaban": "c = 7"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Sederhanakan: sin(x) / cos(x).",
+        "jawaban": "tan(x)"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas permukaan tabung dengan jari-jari 5 cm dan tinggi 10 cm adalah?",
+        "jawaban": "150π cm²"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Nilai dari sin(150°) adalah?",
+        "jawaban": "1/2"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Jarak antara titik (1, 2) dan (4, 6) adalah?",
+        "jawaban": "5"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Volume limas dengan luas alas 30 cm² dan tinggi 10 cm adalah?",
+        "jawaban": "100 cm³"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Sederhanakan: (1 - cos²x) / sinx.",
+        "jawaban": "sin(x)"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Sebuah roda berputar 10 kali. Jika jari-jarinya 35 cm, berapa jarak yang ditempuh? (π ≈ 22/7)",
+        "jawaban": "22 meter"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Nilai dari cos(225°) adalah?",
+        "jawaban": "-√2/2"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas permukaan kerucut dengan jari-jari 7 cm dan garis pelukis 10 cm adalah? (π ≈ 22/7)",
+        "jawaban": "374 cm²"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Dalam segitiga ABC, sudut A=30°, B=45°, dan sisi a=10. Tentukan panjang sisi b (aturan sinus).",
+        "jawaban": "10√2"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Gradien garis yang melalui titik (2,3) dan (5,9) adalah?",
+        "jawaban": "2"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Volume bola dengan diameter 12 cm adalah?",
+        "jawaban": "288π cm³"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Nilai dari 2sin(30°)cos(30°) adalah?",
+        "jawaban": "√3/2 (atau sin(60°))"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Persamaan garis yang melalui (1,5) dengan gradien 3 adalah?",
+        "jawaban": "y = 3x + 2"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas segi-8 beraturan dengan panjang sisi 10 adalah?",
+        "jawaban": "200(1+√2)"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Nilai dari tan(75°) adalah?",
+        "jawaban": "2 + √3"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Luas permukaan prisma dengan alas segitiga siku-siku (sisi 3,4,5) dan tinggi 10 adalah?",
+        "jawaban": "132"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Tentukan persamaan lingkaran dengan pusat (2,-1) dan jari-jari 4.",
+        "jawaban": "(x-2)² + (y+1)² = 16"
+    },
+    {
+        "level": "grandmaster",
+        "deskripsi": "Geometri, trigonometri, dan bangun ruang.",
+        "soal": "Jika tan(B) = 4/3, tentukan nilai sin(B).",
+        "jawaban": "4/5"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan pertama dari f(x) = 2x³ - 4x² + 5x - 1.",
+        "jawaban": "f'(x) = 6x² - 8x + 5"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai dari lim (x->2) (3x² - x + 1).",
+        "jawaban": "11"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan gradien garis singgung kurva y = x² + 2x di titik x = 1.",
+        "jawaban": "4"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = 5.",
+        "jawaban": "f'(x) = 0"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai dari lim (x->∞) (1/x).",
+        "jawaban": "0"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = √x.",
+        "jawaban": "f'(x) = 1/(2√x)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Gunakan aturan perkalian untuk menurunkan f(x) = x² * sin(x).",
+        "jawaban": "f'(x) = 2x*sin(x) + x²*cos(x)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan titik stasioner dari f(x) = x² - 4x + 3.",
+        "jawaban": "x = 2"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai dari lim (x->0) (sin(x)/x).",
+        "jawaban": "1"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan kedua (f''(x)) dari f(x) = x⁴ - 3x².",
+        "jawaban": "f''(x) = 12x² - 6"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = cos(3x).",
+        "jawaban": "f'(x) = -3sin(3x)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan interval di mana fungsi f(x) = x³ - 3x naik.",
+        "jawaban": "x < -1 atau x > 1"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai dari lim (x->1) (x²-1)/(x-1).",
+        "jawaban": "2"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = (2x+1)³ menggunakan aturan rantai.",
+        "jawaban": "f'(x) = 6(2x+1)²"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan persamaan garis normal kurva y = x³ di x = 1.",
+        "jawaban": "y - 1 = (-1/3)(x - 1)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = ln(x).",
+        "jawaban": "f'(x) = 1/x"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = e^(2x).",
+        "jawaban": "f'(x) = 2e^(2x)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai maksimum lokal dari f(x) = 2x³ - 3x² - 12x + 1.",
+        "jawaban": "f(-1) = 8"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Gunakan aturan pembagian untuk menurunkan f(x) = x / (x+1).",
+        "jawaban": "f'(x) = 1 / (x+1)²"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan kecekungan kurva f(x) = x³ di x = -2.",
+        "jawaban": "Cekung ke bawah (karena f''(-2) < 0)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai dari lim (x->3) (x-3)/(√x - √3).",
+        "jawaban": "2√3"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = tan(x).",
+        "jawaban": "f'(x) = sec²(x)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Sebuah partikel bergerak dengan posisi s(t) = t³ - 6t² + 9t. Kapan partikel berhenti?",
+        "jawaban": "t = 1 dan t = 3"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai dari lim (x->∞) (3x²+2x)/(x²-1).",
+        "jawaban": "3"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari y = sin(x²).",
+        "jawaban": "y' = 2x*cos(x²)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan persamaan garis singgung kurva y = 1/x di x = 2.",
+        "jawaban": "y - 1/2 = -1/4 (x - 2)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai minimum lokal dari f(x) = x⁴ - 2x².",
+        "jawaban": "f(1) = -1 dan f(-1) = -1"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = x^x.",
+        "jawaban": "f'(x) = x^x (1 + ln(x))"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai dari lim (x->0) (1 - cos(x))/x.",
+        "jawaban": "0"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan percepatan partikel pada t=2 jika posisinya s(t) = 2t³ - 4t.",
+        "jawaban": "a(2) = 24"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = arcsin(x).",
+        "jawaban": "f'(x) = 1/√(1-x²)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan titik belok dari fungsi f(x) = x³ - 6x² + 5.",
+        "jawaban": "(2, -11)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai dari lim (h->0) ((x+h)³ - x³)/h.",
+        "jawaban": "3x²"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Gunakan diferensiasi implisit untuk mencari dy/dx dari x² + y² = 25.",
+        "jawaban": "dy/dx = -x/y"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = log₂(x).",
+        "jawaban": "f'(x) = 1/(x*ln(2))"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan nilai dari lim (x->∞) (√x² + x - x).",
+        "jawaban": "1/2"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Sebuah kotak tanpa tutup dibuat dari selembar karton 16x16 cm dengan memotong persegi di setiap sudut. Tentukan volume maksimum kotak.",
+        "jawaban": "1024/27 cm³"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan turunan dari f(x) = sec(x).",
+        "jawaban": "f'(x) = sec(x)tan(x)"
+    },
+    {
+        "level": "legendary",
+        "deskripsi": "Kalkulus diferensial (limit dan turunan).",
+        "soal": "Tentukan interval di mana f(x) = e^x(x²-3) cekung ke atas.",
+        "jawaban": "x < -3 atau x > 1"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan integral tak tentu: ∫(4x³ + 3x² - 1) dx",
+        "jawaban": "x⁴ + x³ - x + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung integral tentu: ∫ dari 0 sampai 2 untuk (3x²) dx",
+        "jawaban": "8"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫(5) dx",
+        "jawaban": "5x + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung luas di bawah kurva y = x dari x=0 sampai x=4.",
+        "jawaban": "8"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan dengan substitusi: ∫ 2x(x²+1)⁴ dx",
+        "jawaban": "(x²+1)⁵/5 + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ cos(x) dx",
+        "jawaban": "sin(x) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ e^x dx",
+        "jawaban": "e^x + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung ∫ dari 0 sampai π untuk sin(x) dx",
+        "jawaban": "2"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ (1/x) dx",
+        "jawaban": "ln|x| + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung ∫ dari 1 sampai e untuk (1/x) dx",
+        "jawaban": "1"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ (sec²(x)) dx",
+        "jawaban": "tan(x) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Volume benda putar dari y=√x, x=0 sampai x=4, diputar mengelilingi sumbu x. Hitung integralnya: π ∫ (√x)² dx",
+        "jawaban": "8π"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan dengan substitusi: ∫ cos(x)sin²(x) dx",
+        "jawaban": "(1/3)sin³(x) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ (x+1)² dx",
+        "jawaban": "(1/3)(x+1)³ + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung ∫ dari -1 sampai 1 untuk (x³) dx",
+        "jawaban": "0"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ (1/√(1-x²)) dx",
+        "jawaban": "arcsin(x) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ (5x⁴ + 1/x²) dx",
+        "jawaban": "x⁵ - 1/x + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung nilai rata-rata fungsi f(x) = 2x pada interval [1, 3].",
+        "jawaban": "4"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan dengan substitusi: ∫ e^(3x+1) dx",
+        "jawaban": "(1/3)e^(3x+1) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung ∫ dari 0 sampai 1 untuk (x² + 2x + 1) dx",
+        "jawaban": "7/3"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ (x² + 1)/x dx",
+        "jawaban": "x²/2 + ln|x| + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung luas daerah antara kurva y=x² dan y=x.",
+        "jawaban": "1/6"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ tan(x) dx",
+        "jawaban": "-ln|cos(x)| + C atau ln|sec(x)| + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung ∫ dari 0 sampai π/2 untuk cos²(x) dx.",
+        "jawaban": "π/4"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan dengan substitusi: ∫ x/√(1-x²) dx",
+        "jawaban": "-√(1-x²) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ 2^x dx",
+        "jawaban": "2^x / ln(2) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung volume benda putar dari y=x², x=0 sampai x=1, diputar mengelilingi sumbu y.",
+        "jawaban": "π/2"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ dx / (x²+4)",
+        "jawaban": "(1/2)arctan(x/2) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung ∫ dari -2 sampai 2 untuk √(4-x²) dx (luas setengah lingkaran).",
+        "jawaban": "2π"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan dengan substitusi: ∫ (ln(x)/x) dx",
+        "jawaban": "(ln(x))²/2 + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ (sin(x) + cos(x))² dx",
+        "jawaban": "x - (1/2)cos(2x) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung panjang busur kurva y = (2/3)x^(3/2) dari x=0 sampai x=3.",
+        "jawaban": "14/3"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ x*√(x+1) dx",
+        "jawaban": "(2/5)(x+1)^(5/2) - (2/3)(x+1)^(3/2) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung ∫ dari 0 sampai 4 untuk |x-2| dx.",
+        "jawaban": "4"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ e^x * cos(e^x) dx",
+        "jawaban": "sin(e^x) + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung luas daerah yang dibatasi oleh y=e^x, y=0, x=0, dan x=1.",
+        "jawaban": "e - 1"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ dx / (x*ln(x))",
+        "jawaban": "ln|ln(x)| + C"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Hitung nilai rata-rata dari f(x) = sin(x) pada interval [0, π].",
+        "jawaban": "2/π"
+    },
+    {
+        "level": "mythic",
+        "deskripsi": "Kalkulus integral (integral tak tentu dan tentu).",
+        "soal": "Selesaikan: ∫ (x+2)/(x²+4x+5) dx",
+        "jawaban": "(1/2)ln(x²+4x+5) + C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral dengan parsial: ∫ x * e^x dx",
+        "jawaban": "x*e^x - e^x + C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan persamaan diferensial orde 1: dy/dx = 2x",
+        "jawaban": "y = x² + C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan solusi umum dari persamaan diferensial homogen: y'' - 4y' + 3y = 0",
+        "jawaban": "y = C₁e^x + C₂e^(3x)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral tak wajar: ∫ dari 1 sampai ∞ untuk (1/x²) dx",
+        "jawaban": "1"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral dengan parsial: ∫ ln(x) dx",
+        "jawaban": "x*ln(x) - x + C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan PD terpisah: dy/dx = y/x",
+        "jawaban": "y = Cx"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan solusi umum dari PD: y'' + 9y = 0",
+        "jawaban": "y = C₁cos(3x) + C₂sin(3x)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan integral dengan substitusi trigonometri: ∫ dx / (1+x²)",
+        "jawaban": "arctan(x) + C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral lipat dua: ∫∫ (1) dA di mana R adalah persegi [0,2] x [0,3].",
+        "jawaban": "6"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan apakah deret ∑ (1/n²) konvergen atau divergen.",
+        "jawaban": "Konvergen (Uji-p dengan p > 1)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan PD linear orde 1: y' + 2y = 0",
+        "jawaban": "y = Ce^(-2x)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan solusi umum dari PD: y'' - 4y' + 4y = 0",
+        "jawaban": "y = (C₁ + C₂x)e^(2x)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral lintasan dari F=<x,y> sepanjang garis dari (0,0) ke (1,1).",
+        "jawaban": "1"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan Transformasi Laplace dari f(t) = 1.",
+        "jawaban": "F(s) = 1/s"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral dengan dekomposisi pecahan parsial: ∫ dx / (x² - 1)",
+        "jawaban": "(1/2)ln| (x-1)/(x+1) | + C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan PD eksak: (2xy)dx + (x² - 1)dy = 0",
+        "jawaban": "x²y - y = C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan solusi khusus dari y'' - y = 0 dengan y(0)=2 dan y'(0)=0.",
+        "jawaban": "y = e^x + e^(-x) atau y = 2cosh(x)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan divergensi dari medan vektor F = <x², y², z²>.",
+        "jawaban": "div(F) = 2x + 2y + 2z"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan curl (rotasi) dari medan vektor F = <y, -x, 0>.",
+        "jawaban": "curl(F) = <0, 0, -2>"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan integral tak wajar: ∫ dari 0 sampai ∞ untuk (e^(-x)) dx",
+        "jawaban": "1"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral dengan parsial: ∫ x*sin(x) dx",
+        "jawaban": "-x*cos(x) + sin(x) + C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan PD linear: y' + y = e^x.",
+        "jawaban": "y = (1/2)e^x + Ce^(-x)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan solusi umum dari PD: y'' + y' - 2y = 0.",
+        "jawaban": "y = C₁e^x + C₂e^(-2x)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral tak wajar: ∫ dari 0 sampai 1 untuk (1/√x) dx.",
+        "jawaban": "2"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan Transformasi Laplace dari f(t) = e^(at).",
+        "jawaban": "F(s) = 1/(s-a)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan integral dengan substitusi trigonometri: ∫ dx / (x²√(x²+4)).",
+        "jawaban": "-(√(x²+4))/(4x) + C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan apakah deret ∑ (n/(n+1)) konvergen.",
+        "jawaban": "Divergen (limit suku ke-n tidak nol)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral lipat dua dari f(x,y)=x+y pada daerah R=[0,1]x[0,2].",
+        "jawaban": "3"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan PD Bernoulli: y' + (1/x)y = x*y².",
+        "jawaban": "1/y = -x²/2 + Cx"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan solusi umum dari PD: y'' - 2y' + 5y = 0.",
+        "jawaban": "y = e^x(C₁cos(2x) + C₂sin(2x))"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Gunakan Teorema Green untuk menghitung integral garis ∫(x²y)dx + (y³)dy di sepanjang segitiga dengan titik (0,0), (1,0), (0,1).",
+        "jawaban": "-1/12"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan deret Taylor untuk f(x) = e^x di sekitar x=0.",
+        "jawaban": "∑ (x^n / n!) dari n=0 sampai ∞"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral dengan dekomposisi pecahan parsial: ∫ (x+1)/(x²-5x+6) dx.",
+        "jawaban": "4ln|x-3| - 3ln|x-2| + C"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan PD: (x²+1)y' + 2xy = 0.",
+        "jawaban": "y = C/(x²+1)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan Transformasi Fourier dari fungsi kotak f(x) = 1 untuk |x|<1 dan 0 untuk lainnya.",
+        "jawaban": "2sin(ω)/ω"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan solusi dari PD non-homogen: y'' + y = sin(2x).",
+        "jawaban": "y = C₁cos(x) + C₂sin(x) - (1/3)sin(2x)"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Hitung integral permukaan dari f(x,y,z)=z di atas bola satuan x²+y²+z²=1.",
+        "jawaban": "0"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Tentukan radius konvergensi dari deret pangkat ∑ (x^n / n).",
+        "jawaban": "R = 1"
+    },
+    {
+        "level": "god",
+        "deskripsi": "Kalkulus tingkat lanjut dan persamaan diferensial.",
+        "soal": "Selesaikan sistem PD: x' = y, y' = -x.",
+        "jawaban": "x(t) = C₁cos(t) + C₂sin(t), y(t) = -C₁sin(t) + C₂cos(t)"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "img": "https://files.catbox.moe/h7em1w.jpg",
+        "soal": "Fisikawan kelahiran Jerman yang terkenal dengan teori relativitas (E=mc²).",
+        "jawaban": "Albert Einstein",
+        "deskripsi": "Salah satu ilmuwan paling berpengaruh abad ke-20, kontribusinya mengubah pemahaman tentang ruang, waktu, gravitasi, dan alam semesta."
+    },
+    {
+        "img": "https://files.catbox.moe/eqklr1.jpg",
+        "soal": "Seniman Renaisans Italia yang melukis 'Mona Lisa' dan 'The Last Supper', juga seorang penemu ulung.",
+        "jawaban": "Leonardo da Vinci",
+        "deskripsi": "Seorang polimatik sejati dengan keahlian dalam seni, sains, teknik, dan anatomi. Dianggap sebagai salah satu jenius terbesar dalam sejarah."
+    },
+    {
+        "img": "https://files.catbox.moe/89aywx.jpg",
+        "soal": "Aktivis anti-apartheid dan Presiden Afrika Selatan pertama yang terpilih secara demokratis.",
+        "jawaban": "Nelson Mandela",
+        "deskripsi": "Simbol perjuangan melawan diskriminasi rasial dan ikon perdamaian global, menghabiskan 27 tahun di penjara karena aktivismenya."
+    },
+    {
+        "img": "https://files.catbox.moe/zns95b.jpg",
+        "soal": "Ilmuwan Polandia-Prancis, wanita pertama yang memenangkan Hadiah Nobel dan satu-satunya orang yang memenangkan Nobel dalam dua bidang sains berbeda (Fisika dan Kimia).",
+        "jawaban": "Marie Curie",
+        "deskripsi": "Pionir dalam penelitian radioaktivitas, penemu unsur polonium dan radium."
+    },
+    {
+        "img": "https://files.catbox.moe/uocgtn.jpg",
+        "soal": "Penulis drama dan penyair Inggris abad ke-16, dianggap sebagai penulis terbesar dalam bahasa Inggris dengan karya seperti 'Romeo and Juliet' dan 'Hamlet'.",
+        "jawaban": "William Shakespeare",
+        "deskripsi": "Karya-karyanya terus dipentaskan, diadaptasi, dan dipelajari di seluruh dunia, mempengaruhi sastra dan teater secara mendalam."
+    },
+    {
+        "img": "https://files.catbox.moe/mx312n.jpg",
+        "soal": "Ilmuwan Inggris yang merumuskan hukum gravitasi universal dan tiga hukum gerak.",
+        "jawaban": "Isaac Newton",
+        "deskripsi": "Tokoh kunci dalam revolusi ilmiah, karyanya 'Principia Mathematica' menjadi dasar fisika klasik."
+    },
+    {
+        "img": "https://files.catbox.moe/c0e8av.jpg",
+        "soal": "Pemimpin gerakan kemerdekaan India yang terkenal dengan filosofi perlawanan tanpa kekerasan (Satyagraha).",
+        "jawaban": "Mahatma Gandhi",
+        "deskripsi": "Dikenal sebagai 'Bapak Bangsa' India, menginspirasi gerakan hak-hak sipil dan kebebasan di seluruh dunia."
+    },
+    {
+        "img": "https://files.catbox.moe/tzwfpa.jpg",
+        "soal": "Pemimpin gerakan hak-hak sipil Amerika Serikat yang terkenal dengan pidato 'I Have a Dream'.",
+        "jawaban": "Martin Luther King Jr.",
+        "deskripsi": "Memperjuangkan kesetaraan rasial melalui perlawanan tanpa kekerasan, dianugerahi Hadiah Nobel Perdamaian."
+    },
+    {
+        "img": "https://files.catbox.moe/fausb9.jpg",
+        "soal": "Astronom dan fisikawan Italia yang mendukung teori heliosentris dan melakukan pengamatan penting dengan teleskop.",
+        "jawaban": "Galileo Galilei",
+        "deskripsi": "Dianggap sebagai 'Bapak Ilmu Pengetahuan Modern' karena kontribusinya pada metode ilmiah dan astronomi observasional."
+    },
+    {
+        "img": "https://files.catbox.moe/gg11cq.jpg",
+        "soal": "Naturalis Inggris yang mengembangkan teori evolusi melalui seleksi alam.",
+        "jawaban": "Charles Darwin",
+        "deskripsi": "Karyanya 'On the Origin of Species' merevolusi pemahaman tentang kehidupan dan keanekaragaman hayati."
+    },
+    {
+        "img": "https://files.catbox.moe/6c31sb.jpg",
+        "soal": "Presiden ke-16 Amerika Serikat yang memimpin negara melalui Perang Saudara dan menghapuskan perbudakan.",
+        "jawaban": "Abraham Lincoln",
+        "deskripsi": "Dikenang karena kepemimpinannya yang kuat, Proklamasi Emansipasi, dan pidato Gettysburg."
+    },
+    {
+        "img": "https://files.catbox.moe/atlscy.jpg",
+        "soal": "Perdana Menteri Inggris selama Perang Dunia II, terkenal dengan pidato-pidatonya yang membangkitkan semangat.",
+        "jawaban": "Winston Churchill",
+        "deskripsi": "Seorang negarawan, orator, dan penulis, juga memenangkan Hadiah Nobel Sastra."
+    },
+    {
+        "img": "https://files.catbox.moe/5cvmov.jpg",
+        "soal": "Ratu terakhir Mesir Kuno dari dinasti Ptolemaik, terkenal karena hubungan politik dan romantisnya dengan Julius Caesar dan Mark Antony.",
+        "jawaban": "Cleopatra",
+        "deskripsi": "Seorang penguasa yang cerdas dan karismatik, menjadi figur legendaris dalam sejarah dan budaya populer."
+    },
+    {
+        "img": "https://files.catbox.moe/dhcr8x.jpg",
+        "soal": "Jenderal dan negarawan Romawi yang memainkan peran penting dalam transisi Republik Romawi menjadi Kekaisaran Romawi.",
+        "jawaban": "Julius Caesar",
+        "deskripsi": "Terkenal karena kampanye militernya di Galia, reformasi politik, dan akhirnya pembunuhannya."
+    },
+    {
+        "img": "https://files.catbox.moe/hjva1b.jpg",
+        "soal": "Raja Makedonia Kuno yang menaklukkan sebagian besar dunia yang dikenal pada masanya, dari Yunani hingga India.",
+        "jawaban": "Alexander Agung",
+        "deskripsi": "Seorang komandan militer jenius, penyebar budaya Helenistik di seluruh kerajaannya yang luas."
+    },
+    {
+        "img": "https://files.catbox.moe/l3tlb4.jpg",
+        "soal": "Pendiri dan Khan Agung pertama Kekaisaran Mongol, kekaisaran daratan terbesar dalam sejarah.",
+        "jawaban": "Genghis Khan",
+        "deskripsi": "Menyatukan suku-suku Mongol dan memimpin penaklukan yang luas, dikenal karena strategi militer dan hukumnya."
+    },
+    {
+        "img": "https://files.catbox.moe/evm1kx.jpg",
+        "soal": "Pemimpin militer dan Kaisar Prancis yang mendominasi Eropa pada awal abad ke-19.",
+        "jawaban": "Napoleon Bonaparte",
+        "deskripsi": "Terkenal karena reformasi hukum (Kode Napoleon), kampanye militer yang brilian, dan akhirnya kekalahannya di Waterloo."
+    },
+    {
+        "img": "https://files.catbox.moe/7ikxlz.jpg",
+        "soal": "Komposer Austria dari era Klasik, seorang anak ajaib yang menciptakan lebih dari 600 karya musik.",
+        "jawaban": "Wolfgang Amadeus Mozart",
+        "deskripsi": "Dianggap sebagai salah satu komposer terbesar sepanjang masa, karyanya mencakup simfoni, opera, dan musik kamar."
+    },
+    {
+        "img": "https://files.catbox.moe/yft6kl.jpg",
+        "soal": "Komposer dan pianis Jerman, tokoh transisi penting antara era Klasik dan Romantis dalam musik Barat, meskipun mengalami tuli.",
+        "jawaban": "Ludwig van Beethoven",
+        "deskripsi": "Karya-karyanya seperti Simfoni ke-5 dan ke-9, serta 'Für Elise', sangat terkenal dan berpengaruh."
+    },
+    {
+        "img": "https://files.catbox.moe/94by1p.jpg",
+        "soal": "Pelukis pasca-Impresionis Belanda yang terkenal dengan karya-karya emosional seperti 'Starry Night' dan 'Sunflowers'.",
+        "jawaban": "Vincent van Gogh",
+        "deskripsi": "Meskipun tidak sukses semasa hidupnya, ia kini dianggap sebagai salah satu seniman terbesar dan paling berpengaruh dalam sejarah seni Barat."
+    },
+    {
+        "img": "https://files.catbox.moe/qi2u1x.jpg",
+        "soal": "Seniman Spanyol, salah satu pendiri gerakan Kubisme, dan salah satu seniman paling berpengaruh abad ke-20.",
+        "jawaban": "Pablo Picasso",
+        "deskripsi": "Karya-karyanya yang terkenal termasuk 'Guernica' dan 'Les Demoiselles d'Avignon'."
+    },
+    {
+        "img": "https://files.catbox.moe/vfkfj9.jpg",
+        "soal": "Seniman Renaisans Italia yang terkenal dengan patung David, lukisan langit-langit Kapel Sistina, dan desain kubah Basilika Santo Petrus.",
+        "jawaban": "Michelangelo",
+        "deskripsi": "Seorang pematung, pelukis, arsitek, dan penyair, dianggap sebagai salah satu seniman terbesar sepanjang masa."
+    },
+    {
+        "img": "https://files.catbox.moe/k0r617.jpg",
+        "soal": "Filsuf Yunani Kuno, murid Socrates dan guru Aristoteles, pendiri Akademi di Athena.",
+        "jawaban": "Plato",
+        "deskripsi": "Karya-karyanya yang berbentuk dialog, seperti 'Republik', sangat mempengaruhi filsafat Barat dan ilmu politik."
+    },
+    {
+        "img": "https://files.catbox.moe/io4hqf.jpg",
+        "soal": "Filsuf Yunani Kuno, murid Plato, yang karyanya mencakup berbagai subjek seperti fisika, biologi, logika, etika, dan politik.",
+        "jawaban": "Aristoteles",
+        "deskripsi": "Bersama Plato, ia dianggap sebagai salah satu bapak pendiri filsafat Barat."
+    },
+    {
+        "img": "https://files.catbox.moe/kg6scn.jpg",
+        "soal": "Filsuf Yunani Kuno dari Athena, dianggap sebagai salah satu pendiri filsafat Barat, terkenal dengan metode dialektika (metode Socratic).",
+        "jawaban": "Socrates",
+        "deskripsi": "Tidak meninggalkan tulisan, pemikirannya diketahui melalui tulisan murid-muridnya, terutama Plato."
+    },
+    {
+        "img": "https://files.catbox.moe/iid2b4.jpg",
+        "soal": "Fisikawan teoretis, kosmolog, dan penulis Inggris yang terkenal dengan karyanya tentang lubang hitam dan teori relativitas umum, meskipun menderita ALS.",
+        "jawaban": "Stephen Hawking",
+        "deskripsi": "Penulis buku populer 'A Brief History of Time', ia membuat kontribusi signifikan pada pemahaman kita tentang alam semesta."
+    },
+    {
+        "img": "https://files.catbox.moe/ddobyl.jpg",
+        "soal": "Salah satu pendiri Microsoft Corporation dan seorang filantropis terkemuka.",
+        "jawaban": "Bill Gates",
+        "deskripsi": "Memainkan peran kunci dalam revolusi komputer pribadi dan kemudian fokus pada isu-isu kesehatan global dan pendidikan melalui Bill & Melinda Gates Foundation."
+    },
+    {
+        "img": "https://files.catbox.moe/qosw1o.jpg",
+        "soal": "Salah satu pendiri Apple Inc., dikenal karena inovasi dalam teknologi komputer pribadi, musik digital, dan perangkat seluler.",
+        "jawaban": "Steve Jobs",
+        "deskripsi": "Visioner di balik produk-produk ikonik seperti Macintosh, iPod, iPhone, dan iPad."
+    },
+    {
+        "img": "https://files.catbox.moe/i0iz3n.jpg",
+        "soal": "Tokoh media Amerika, pembawa acara talk show, produser, aktris, dan filantropis, dianggap sebagai salah satu wanita paling berpengaruh di dunia.",
+        "jawaban": "Oprah Winfrey",
+        "deskripsi": "'The Oprah Winfrey Show' menjadi salah satu program televisi paling sukses dalam sejarah."
+    },
+    {
+        "img": "https://files.catbox.moe/rh9pq4.jpg",
+        "soal": "Biarawati Katolik Roma dan misionaris kelahiran Albania-India, pendiri Misionaris Cinta Kasih, yang mengabdikan hidupnya untuk melayani orang miskin.",
+        "jawaban": "Bunda Teresa",
+        "deskripsi": "Dianugerahi Hadiah Nobel Perdamaian pada tahun 1979 atas pekerjaan kemanusiaannya di Kolkata, India."
+    },
+    {
+        "img": "https://files.catbox.moe/hlnhh7.jpg",
+        "soal": "Aktivis pendidikan perempuan Pakistan dan penerima Hadiah Nobel Perdamaian termuda.",
+        "jawaban": "Malala Yousafzai",
+        "deskripsi": "Selamat dari upaya pembunuhan oleh Taliban karena advokasinya untuk hak anak perempuan atas pendidikan."
+    },
+    {
+        "img": "https://files.catbox.moe/z7ejye.jpg",
+        "soal": "Gadis Yahudi Jerman yang buku hariannya mendokumentasikan hidupnya bersembunyi selama pendudukan Nazi di Belanda.",
+        "jawaban": "Anne Frank",
+        "deskripsi": "'The Diary of a Young Girl' menjadi salah satu buku paling terkenal dan dibaca di dunia, menjadi simbol korban Holocaust."
+    },
+    {
+        "img": "https://files.catbox.moe/0zm5eo.jpg",
+        "soal": "Ratu Britania Raya dan Alam Persemakmuran lainnya dari tahun 1952 hingga wafatnya pada tahun 2022, menjadi monarki terlama dalam sejarah Inggris.",
+        "jawaban": "Ratu Elizabeth II",
+        "deskripsi": "Memimpin negaranya melalui perubahan sosial yang signifikan dan menjadi simbol stabilitas dan kontinuitas."
+    },
+    {
+        "img": "https://files.catbox.moe/bcg9lq.jpg",
+        "soal": "Astronot Amerika Serikat, manusia pertama yang berjalan di Bulan pada misi Apollo 11 tahun 1969.",
+        "jawaban": "Neil Armstrong",
+        "deskripsi": "Ucapannya 'That's one small step for [a] man, one giant leap for mankind' menjadi ikonik."
+    },
+    {
+        "img": "https://files.catbox.moe/a8bbtc.jpg",
+        "soal": "Dua bersaudara Amerika yang merancang, membangun, dan menerbangkan pesawat terbang bermesin pertama yang sukses di dunia.",
+        "jawaban": "Wright Bersaudara (Orville dan Wilbur)",
+        "deskripsi": "Penerbangan pertama mereka pada tahun 1903 di Kitty Hawk, North Carolina, menandai era penerbangan."
+    },
+    {
+        "img": "https://files.catbox.moe/b9zdvk.jpg",
+        "soal": "Penemu dan pengusaha Amerika yang memegang lebih dari 1.000 paten, termasuk bola lampu pijar praktis dan fonograf.",
+        "jawaban": "Thomas Edison",
+        "deskripsi": "Dikenal sebagai 'Penyihir dari Menlo Park', ia mendirikan laboratorium penelitian industri pertama."
+    },
+    {
+        "img": "https://files.catbox.moe/dydvm1.jpg",
+        "soal": "Penemu, insinyur listrik, dan fisikawan Serbia-Amerika yang terkenal dengan kontribusinya pada desain sistem pasokan listrik arus bolak-balik (AC).",
+        "jawaban": "Nikola Tesla",
+        "deskripsi": "Seorang visioner yang karyanya menjadi dasar bagi banyak teknologi modern, termasuk radio dan motor AC."
+    },
+    {
+        "img": "https://files.catbox.moe/84steo.jpg",
+        "soal": "Revolusioner Marxis Argentina, dokter, penulis, pemimpin gerilya, diplomat, dan ahli teori militer yang menjadi tokoh utama dalam Revolusi Kuba.",
+        "jawaban": "Che Guevara",
+        "deskripsi": "Wajahnya menjadi simbol kontra-budaya pemberontakan dan revolusi di seluruh dunia."
+    },
+    {
+        "img": "https://files.catbox.moe/qa6dsw.jpg",
+        "soal": "Proklamator kemerdekaan dan Presiden pertama Republik Indonesia.",
+        "jawaban": "Soekarno",
+        "deskripsi": "Salah satu Bapak Pendiri Indonesia, memainkan peran sentral dalam perjuangan kemerdekaan dari penjajahan Belanda."
+    },
+    {
+        "img": "https://files.catbox.moe/auslst.jpg",
+        "soal": "Filsuf dan dokter Persia abad pertengahan yang karyanya 'The Canon of Medicine' menjadi teks medis standar di banyak universitas Eropa selama berabad-abad.",
+        "jawaban": "Ibnu Sina (Avicenna)",
+        "deskripsi": "Seorang polimatik yang memberikan kontribusi besar dalam filsafat, kedokteran, astronomi, dan alkimia."
+    }
+]

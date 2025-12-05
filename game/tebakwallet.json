@@ -1,0 +1,197 @@
+[
+    {
+        "soal": "Dompet digital yang identik dengan aplikasi ojek online Gojek dan kini menjadi bagian dari GoTo Financial.",
+        "jawaban": "GoPay",
+        "deskripsi": "Awalnya digunakan untuk pembayaran layanan Gojek, kini telah berkembang untuk berbagai transaksi QRIS, tagihan, dan investasi."
+    },
+    {
+        "soal": "Dompet digital berwarna ungu yang merupakan mitra pembayaran utama untuk aplikasi Grab di Indonesia.",
+        "jawaban": "OVO",
+        "deskripsi": "Salah satu dompet digital terbesar di Indonesia yang banyak diterima di mal, ritel, dan platform online."
+    },
+    {
+        "soal": "Dompet d[\n  {\n    \"soal\": \"Dompet digital yang identik dengan aplikasi ojek online Gojek dan kini menjadi bagian dari GoTo Financial.\",\n    \"jawaban\": \"GoPay\",\n    \"deskripsi\": \"Awalnya digunakan untuk pembayaran layanan Gojek, kini telah berkembang untuk berbagai transaksi QRIS, tagihan, dan investasi.\"\n  },\n  {\n    \"soal\": \"Dompet digital berwarna ungu yang merupakan mitra pembayaran utama untuk aplikasi Grab di Indonesia.\",\n    \"jawaban\": \"OVO\",\n    \"deskripsi\": \"Salah satu dompet digital terbesar di Indonesia yang banyak diterima di mal, ritel, dan platform online.\"\n  },\n  {\n    \"soal\": \"Dompet digital yang merupakan hasil kerjasama Ant Financial (Alipay) dengan Emtek Group dari Indonesia.\",\n    \"jawaban\": \"DANA\",\n    \"deskripsi\": \"Menekankan pada platform terbuka yang bisa terintegrasi dengan banyak merchant dan aplikasi, termasuk Bukalapak dan TIX ID.\"\n  },\n  {\n    \"soal\": \"Dompet digital 'plat merah' hasil sinergi dari berbagai BUMN seperti Telkomsel, Bank Mandiri, BRI, dan BNI.\",\n    \"jawaban\": \"LinkAja\",\n    \"deskripsi\": \"Sebelumnya dikenal sebagai T-Cash dari Telkomsel, kini menjadi dompet digital milik negara untuk berbagai pembayaran, termasuk transportasi publik.\"\n  },\n  {\n    \"soal\": \"Dompet digital yang terintegrasi erat dengan platform e-commerce berwarna oranye terbesar di Asia Tenggara.\",\n    \"jawaban\": \"ShopeePay\",\n    \"deskripsi\": \"Memberikan banyak promo dan kemudahan pembayaran di dalam aplikasi Shopee serta merchant offline.\"\n  },\n  {\n    \"soal\": \"Sistem jaringan yang diinisiasi oleh Bank Indonesia untuk menyatukan berbagai kanal pembayaran agar dapat saling terhubung di seluruh Indonesia.\",\n    \"jawaban\": \"GPN (Gerbang Pembayaran Nasional)\",\n    \"deskripsi\": \"Logo GPN pada kartu debit memastikan kartu tersebut dapat digunakan di semua mesin EDC di Indonesia, tidak peduli dari bank mana.\"\n  },\n  {\n    \"soal\": \"Dompet digital resmi dari grup ritel Indomaret untuk memudahkan pembayaran dan mendapatkan promosi di gerainya.\",\n    \"jawaban\": \"i.saku\",\n    \"deskripsi\": \"Terintegrasi dengan program loyalitas MyPoin dan dapat digunakan untuk membayar belanjaan di seluruh gerai Indomaret.\"\n  },\n  {\n    \"soal\": \"Layanan uang elektronik dari Bank Mandiri yang hadir dalam bentuk kartu nirsentuh (contactless).\",\n    \"jawaban\": \"e-money\",\n    \"deskripsi\": \"Sangat populer digunakan untuk pembayaran tol, parkir, dan transportasi umum seperti TransJakarta dan KRL Commuter Line.\"\n  },\n  {\n    \"soal\": \"Layanan uang elektronik dari Bank Central Asia (BCA) yang juga menggunakan kartu nirsentuh.\",\n    \"jawaban\": \"Flazz\",\n    \"deskripsi\": \"Pesaing utama e-money Mandiri, diterima secara luas untuk pembayaran transportasi, ritel, dan merchant makanan/minuman.\"\n  },\n  {\n    \"soal\": \"Layanan uang elektronik berbasis server dari Bank Rakyat Indonesia (BRI).\",\n    \"jawaban\": \"BRIZZI\",\n    \"deskripsi\": \"Seperti e-money dan Flazz, kartu BRIZZI sering digunakan untuk pembayaran di sektor transportasi dan ritel di seluruh Indonesia.\"\n  },\n  {\n    \"soal\": \"Salah satu platform pembayaran online tertua dan terbesar di dunia, didirikan oleh tokoh seperti Elon Musk dan Peter Thiel.\",\n    \"jawaban\": \"PayPal\",\n    \"deskripsi\": \"Memungkinkan pengguna di seluruh dunia untuk mengirim dan menerima uang secara online, sering digunakan untuk transaksi e-commerce internasional.\"\n  },\n  {\n    \"soal\": \"Jaringan kartu kredit dan debit terbesar di dunia, slogannya yang terkenal adalah 'Everywhere you want to be'.\",\n    \"jawaban\": \"Visa\",\n    \"deskripsi\": \"Perusahaan teknologi pembayaran global yang menghubungkan konsumen, bisnis, dan bank di lebih dari 200 negara.\"\n  },\n  {\n    \"soal\": \"Pesaing utama Visa, dikenal dengan logo dua lingkaran merah dan kuning yang tumpang tindih dan kampanye 'Priceless'.\",\n    \"jawaban\": \"Mastercard\",\n    \"deskripsi\": \"Jaringan pembayaran global yang menawarkan berbagai produk kartu kredit, debit, dan prabayar.\"\n  },\n  {\n    \"soal\": \"Platform pembayaran digital raksasa dari Tiongkok, bagian dari Ant Group yang merupakan afiliasi dari Alibaba.\",\n    \"jawaban\": \"Alipay\",\n    \"deskripsi\": \"Dimulai sebagai layanan escrow untuk Taobao, kini menjadi super-app dengan berbagai layanan keuangan dan gaya hidup.\"\n  },\n  {\n    \"soal\": \"Layanan pembayaran yang terintegrasi dalam aplikasi pesan instan paling populer di Tiongkok, milik Tencent.\",\n    \"jawaban\": \"WeChat Pay\",\n    \"deskripsi\": \"Sangat populer di Tiongkok untuk semua jenis pembayaran, dari toko kelontong hingga transfer uang, terkenal dengan fitur 'Red Packet' (Angpao Digital).\"\n  },\n  {\n    \"soal\": \"Layanan pembayaran nirsentuh (contactless) eksklusif untuk pengguna perangkat Apple seperti iPhone dan Apple Watch.\",\n    \"jawaban\": \"Apple Pay\",\n    \"deskripsi\": \"Menggunakan teknologi NFC untuk pembayaran yang aman dan privat di toko fisik, aplikasi, dan web.\"\n  },\n  {\n    \"soal\": \"Layanan pembayaran dari Google yang tersedia untuk ponsel Android, memungkinkan pembayaran nirsentuh dan penyimpanan kartu loyalitas.\",\n    \"jawaban\": \"Google Pay (Google Wallet)\",\n    \"deskripsi\": \"Terintegrasi dengan akun Google dan memungkinkan pengguna melakukan tap-to-pay di jutaan tempat di seluruh dunia.\"\n  },\n  {\n    \"soal\": \"Jaringan kartu yang identik dengan layanan premium, kartu 'charge card', dan program reward eksklusif. Sering disebut Amex.\",\n    \"jawaban\": \"American Express\",\n    \"deskripsi\": \"Berfungsi sebagai penerbit kartu sekaligus jaringan pembayarannya sendiri, menargetkan segmen pelanggan kelas atas.\"\n  },\n  {\n    \"soal\": \"Layanan pembayaran dari Samsung yang memiliki keunggulan dapat bekerja tidak hanya dengan NFC, tetapi juga dengan mesin EDC magnetik lama (MST).\",\n    \"jawaban\": \"Samsung Pay\",\n    \"deskripsi\": \"Teknologi Magnetic Secure Transmission (MST) membuatnya kompatibel dengan lebih banyak terminal pembayaran dibandingkan kompetitornya.\"\n  },\n  {\n    \"soal\": \"Platform yang dikenal untuk transfer uang internasional dengan biaya transparan dan nilai tukar yang sebenarnya (real mid-market rate).\",\n    \"jawaban\": \"Wise\",\n    \"deskripsi\": \"Awalnya bernama TransferWise, fokus utamanya adalah menyediakan cara yang murah dan adil untuk mengirim uang lintas negara.\"\n  },\n  {\n    \"soal\": \"Platform pembayaran lintas batas yang populer di kalangan freelancer dan bisnis online untuk menerima pembayaran dari perusahaan internasional.\",\n    \"jawaban\": \"Payoneer\",\n    \"deskripsi\": \"Menyediakan rekening penerima virtual dalam berbagai mata uang seperti USD, EUR, dan GBP, memudahkan para pekerja lepas menerima bayaran global.\"\n  },\n  {\n    \"soal\": \"Satu-satunya jaringan kartu pembayaran internasional yang berasal dari Jepang.\",\n    \"jawaban\": \"JCB (Japan Credit Bureau)\",\n    \"deskripsi\": \"Meskipun berasal dari Jepang, kartu ini diterima secara global dan sering bekerjasama dengan bank-bank di berbagai negara, termasuk Indonesia.\"\n  },\n  {\n    \"soal\": \"Dompet digital yang populer di Eropa dan sering digunakan untuk transaksi di situs game online dan platform trading.\",\n    \"jawaban\": \"Skrill\",\n    \"deskripsi\": \"Dahulu dikenal dengan nama Moneybookers, platform ini memungkinkan transfer uang dan pembayaran online dengan cepat.\"\n  },\n  {\n    \"soal\": \"Aplikasi pembayaran peer-to-peer (P2P) yang sangat populer di Amerika Serikat, dimiliki oleh PayPal.\",\n    \"jawaban\": \"Venmo\",\n    \"deskripsi\": \"Terkenal dengan fitur sosialnya di mana pengguna dapat melihat (jika diizinkan) transaksi yang dilakukan oleh teman-temannya.\"\n  },\n  {\n    \"soal\": \"Raksasa e-commerce global yang juga memiliki sistem pembayarannya sendiri untuk checkout cepat di situsnya.\",\n    \"jawaban\": \"Amazon Pay\",\n    \"deskripsi\": \"Memungkinkan pengguna untuk membayar di situs web pihak ketiga menggunakan informasi pembayaran yang sudah tersimpan di akun Amazon mereka.\"\n  },\n  {\n    \"soal\": \"Aplikasi dari Indonesia yang sangat populer untuk melakukan transfer antar bank tanpa biaya administrasi.\",\n    \"jawaban\": \"Flip\",\n    \"deskripsi\": \"Dimulai sebagai solusi untuk menghindari biaya transfer bank, kini juga menyediakan layanan pembelian pulsa, data, dan pembayaran tagihan.\"\n  },\n  {\n    \"soal\": \"Salah satu pelopor gerbang pembayaran (payment gateway) di Indonesia, berdiri sejak tahun 2007.\",\n    \"jawaban\": \"DOKU\",\n    \"deskripsi\": \"Menyediakan berbagai solusi pembayaran online untuk bisnis, dari UKM hingga korporasi besar, dan juga memiliki produk e-wallet.\"\n  },\n  {\n    \"soal\": \"Dompet digital dari Bank BCA yang ditujukan untuk generasi muda, terpisah dari aplikasi m-banking utama.\",\n    \"jawaban\": \"Sakuku\",\n    \"deskripsi\": \"Menawarkan fitur seperti split bill dan transfer menggunakan nomor handphone untuk para nasabah BCA maupun non-nasabah.\"\n  },\n  {\n    \"soal\": \"Jaringan kartu pembayaran raksasa dari Tiongkok, merupakan organisasi kartu bank terbesar di dunia berdasarkan jumlah kartu yang diterbitkan.\",\n    \"jawaban\": \"UnionPay\",\n    \"deskripsi\": \"Awalnya untuk pasar domestik Tiongkok, kini diterima di banyak negara di seluruh dunia dan sering menjadi metode pembayaran turis Tiongkok.\"\n  },\n  {\n    \"soal\": \"Perusahaan 'Beli Sekarang, Bayar Nanti' (BNPL) raksasa asal Swedia yang memungkinkan pelanggan membayar dengan cicilan.\",\n    \"jawaban\": \"Klarna\",\n    \"deskripsi\": \"Salah satu startup fintech paling bernilai di Eropa, dikenal dengan brandingnya yang modern dan berwarna pink.\"\n  },\n  {\n    \"soal\": \"Platform pembayaran digital terbesar di India, yang berevolusi menjadi super-app untuk pembayaran, belanja, dan layanan keuangan.\",\n    \"jawaban\": \"Paytm\",\n    \"deskripsi\": \"Singkatan dari 'Pay Through Mobile', platform ini menjadi pemimpin pasar setelah demonetisasi di India pada tahun 2016.\"\n  },\n  {\n    \"soal\": \"Dompet digital terkemuka di Malaysia, sering digunakan untuk pembayaran tol dengan teknologi RFID.\",\n    \"jawaban\": \"Touch 'n Go eWallet\",\n    \"deskripsi\": \"Merupakan versi digital dari kartu Touch 'n Go fisik yang sudah lama dominan untuk pembayaran transportasi di Malaysia.\"\n  },\n  {\n    \"soal\": \"Pesaing utama Venmo di Amerika Serikat, sebuah aplikasi pembayaran P2P yang dikenal dengan kemudahan penggunaan dan fitur investasi saham/Bitcoin.\",\n    \"jawaban\": \"Cash App\",\n    \"deskripsi\": \"Dikembangkan oleh Block, Inc. (sebelumnya Square), aplikasi ini memungkinkan pengguna mengirim uang menggunakan $Cashtag unik.\"\n  },\n  {\n    \"soal\": \"Jaringan pembayaran digital peer-to-peer (P2P) di Amerika Serikat yang memungkinkan pengguna mentransfer uang langsung antar rekening bank.\",\n    \"jawaban\": \"Zelle\",\n    \"deskripsi\": \"Berbeda dengan Venmo atau Cash App, Zelle terintegrasi langsung ke dalam aplikasi mobile banking dari bank-bank besar di AS.\"\n  },\n  {\n    \"soal\": \"Platform pemrosesan pembayaran untuk bisnis online, dikenal dengan API yang ramah developer dan digunakan oleh jutaan perusahaan di seluruh dunia.\",\n    \"jawaban\": \"Stripe\",\n    \"deskripsi\": \"Meskipun tidak berhadapan langsung dengan konsumen, Stripe adalah mesin di balik banyak proses checkout di situs web dan aplikasi.\"\n  },\n  {\n    \"soal\": \"Dompet digital dan platform pembayaran terkemuka di Filipina, dimiliki oleh Globe Telecom.\",\n    \"jawaban\": \"GCash\",\n    \"deskripsi\": \"Menjadi super-app di Filipina, menyediakan layanan pengiriman uang, pembayaran tagihan, tabungan, dan investasi.\"\n  },\n  {\n    \"soal\": \"Jaringan kartu kredit terbesar keempat di Amerika Serikat setelah Visa, Mastercard, dan Amex.\",\n    \"jawaban\": \"Discover Card\",\n    \"deskripsi\": \"Dikenal karena memperkenalkan program cashback kepada pelanggannya dan tidak membebankan biaya tahunan pada sebagian besar kartunya.\"\n  },\n  {\n    \"soal\": \"Aplikasi perbankan digital dari Bank BTPN yang merevolusi perbankan di Indonesia dengan konsep 'semua dari smartphone'.\",\n    \"jawaban\": \"Jenius\",\n    \"deskripsi\": \"Populer dengan fitur seperti $Cashtag untuk transfer, kartu debit virtual (e-Card) untuk belanja online, dan tabungan fleksibel.\"\n  },\n  {\n    \"soal\": \"Layanan 'Beli Sekarang, Bayar Nanti' (BNPL) yang terintegrasi dengan Gojek dan Tokopedia.\",\n    \"jawaban\": \"GoPayLater\",\n    \"deskripsi\": \"Memungkinkan pengguna untuk melakukan transaksi terlebih dahulu dan membayarnya di akhir bulan atau dengan cicilan.\"\n  }\n]\nigital yang merupakan hasil kerjasama Ant Financial (Alipay) dengan Emtek Group dari Indonesia.",
+        "jawaban": "DANA",
+        "deskripsi": "Menekankan pada platform terbuka yang bisa terintegrasi dengan banyak merchant dan aplikasi, termasuk Bukalapak dan TIX ID."
+    },
+    {
+        "soal": "Dompet digital 'plat merah' hasil sinergi dari berbagai BUMN seperti Telkomsel, Bank Mandiri, BRI, dan BNI.",
+        "jawaban": "LinkAja",
+        "deskripsi": "Sebelumnya dikenal sebagai T-Cash dari Telkomsel, kini menjadi dompet digital milik negara untuk berbagai pembayaran, termasuk transportasi publik."
+    },
+    {
+        "soal": "Dompet digital yang terintegrasi erat dengan platform e-commerce berwarna oranye terbesar di Asia Tenggara.",
+        "jawaban": "ShopeePay",
+        "deskripsi": "Memberikan banyak promo dan kemudahan pembayaran di dalam aplikasi Shopee serta merchant offline."
+    },
+    {
+        "soal": "Sistem jaringan yang diinisiasi oleh Bank Indonesia untuk menyatukan berbagai kanal pembayaran agar dapat saling terhubung di seluruh Indonesia.",
+        "jawaban": "GPN (Gerbang Pembayaran Nasional)",
+        "deskripsi": "Logo GPN pada kartu debit memastikan kartu tersebut dapat digunakan di semua mesin EDC di Indonesia, tidak peduli dari bank mana."
+    },
+    {
+        "soal": "Dompet digital resmi dari grup ritel Indomaret untuk memudahkan pembayaran dan mendapatkan promosi di gerainya.",
+        "jawaban": "i.saku",
+        "deskripsi": "Terintegrasi dengan program loyalitas MyPoin dan dapat digunakan untuk membayar belanjaan di seluruh gerai Indomaret."
+    },
+    {
+        "soal": "Layanan uang elektronik dari Bank Mandiri yang hadir dalam bentuk kartu nirsentuh (contactless).",
+        "jawaban": "e-money",
+        "deskripsi": "Sangat populer digunakan untuk pembayaran tol, parkir, dan transportasi umum seperti TransJakarta dan KRL Commuter Line."
+    },
+    {
+        "soal": "Layanan uang elektronik dari Bank Central Asia (BCA) yang juga menggunakan kartu nirsentuh.",
+        "jawaban": "Flazz",
+        "deskripsi": "Pesaing utama e-money Mandiri, diterima secara luas untuk pembayaran transportasi, ritel, dan merchant makanan/minuman."
+    },
+    {
+        "soal": "Layanan uang elektronik berbasis server dari Bank Rakyat Indonesia (BRI).",
+        "jawaban": "BRIZZI",
+        "deskripsi": "Seperti e-money dan Flazz, kartu BRIZZI sering digunakan untuk pembayaran di sektor transportasi dan ritel di seluruh Indonesia."
+    },
+    {
+        "soal": "Salah satu platform pembayaran online tertua dan terbesar di dunia, didirikan oleh tokoh seperti Elon Musk dan Peter Thiel.",
+        "jawaban": "PayPal",
+        "deskripsi": "Memungkinkan pengguna di seluruh dunia untuk mengirim dan menerima uang secara online, sering digunakan untuk transaksi e-commerce internasional."
+    },
+    {
+        "soal": "Jaringan kartu kredit dan debit terbesar di dunia, slogannya yang terkenal adalah 'Everywhere you want to be'.",
+        "jawaban": "Visa",
+        "deskripsi": "Perusahaan teknologi pembayaran global yang menghubungkan konsumen, bisnis, dan bank di lebih dari 200 negara."
+    },
+    {
+        "soal": "Pesaing utama Visa, dikenal dengan logo dua lingkaran merah dan kuning yang tumpang tindih dan kampanye 'Priceless'.",
+        "jawaban": "Mastercard",
+        "deskripsi": "Jaringan pembayaran global yang menawarkan berbagai produk kartu kredit, debit, dan prabayar."
+    },
+    {
+        "soal": "Platform pembayaran digital raksasa dari Tiongkok, bagian dari Ant Group yang merupakan afiliasi dari Alibaba.",
+        "jawaban": "Alipay",
+        "deskripsi": "Dimulai sebagai layanan escrow untuk Taobao, kini menjadi super-app dengan berbagai layanan keuangan dan gaya hidup."
+    },
+    {
+        "soal": "Layanan pembayaran yang terintegrasi dalam aplikasi pesan instan paling populer di Tiongkok, milik Tencent.",
+        "jawaban": "WeChat Pay",
+        "deskripsi": "Sangat populer di Tiongkok untuk semua jenis pembayaran, dari toko kelontong hingga transfer uang, terkenal dengan fitur 'Red Packet' (Angpao Digital)."
+    },
+    {
+        "soal": "Layanan pembayaran nirsentuh (contactless) eksklusif untuk pengguna perangkat Apple seperti iPhone dan Apple Watch.",
+        "jawaban": "Apple Pay",
+        "deskripsi": "Menggunakan teknologi NFC untuk pembayaran yang aman dan privat di toko fisik, aplikasi, dan web."
+    },
+    {
+        "soal": "Layanan pembayaran dari Google yang tersedia untuk ponsel Android, memungkinkan pembayaran nirsentuh dan penyimpanan kartu loyalitas.",
+        "jawaban": "Google Pay (Google Wallet)",
+        "deskripsi": "Terintegrasi dengan akun Google dan memungkinkan pengguna melakukan tap-to-pay di jutaan tempat di seluruh dunia."
+    },
+    {
+        "soal": "Jaringan kartu yang identik dengan layanan premium, kartu 'charge card', dan program reward eksklusif. Sering disebut Amex.",
+        "jawaban": "American Express",
+        "deskripsi": "Berfungsi sebagai penerbit kartu sekaligus jaringan pembayarannya sendiri, menargetkan segmen pelanggan kelas atas."
+    },
+    {
+        "soal": "Layanan pembayaran dari Samsung yang memiliki keunggulan dapat bekerja tidak hanya dengan NFC, tetapi juga dengan mesin EDC magnetik lama (MST).",
+        "jawaban": "Samsung Pay",
+        "deskripsi": "Teknologi Magnetic Secure Transmission (MST) membuatnya kompatibel dengan lebih banyak terminal pembayaran dibandingkan kompetitornya."
+    },
+    {
+        "soal": "Platform yang dikenal untuk transfer uang internasional dengan biaya transparan dan nilai tukar yang sebenarnya (real mid-market rate).",
+        "jawaban": "Wise",
+        "deskripsi": "Awalnya bernama TransferWise, fokus utamanya adalah menyediakan cara yang murah dan adil untuk mengirim uang lintas negara."
+    },
+    {
+        "soal": "Platform pembayaran lintas batas yang populer di kalangan freelancer dan bisnis online untuk menerima pembayaran dari perusahaan internasional.",
+        "jawaban": "Payoneer",
+        "deskripsi": "Menyediakan rekening penerima virtual dalam berbagai mata uang seperti USD, EUR, dan GBP, memudahkan para pekerja lepas menerima bayaran global."
+    },
+    {
+        "soal": "Satu-satunya jaringan kartu pembayaran internasional yang berasal dari Jepang.",
+        "jawaban": "JCB (Japan Credit Bureau)",
+        "deskripsi": "Meskipun berasal dari Jepang, kartu ini diterima secara global dan sering bekerjasama dengan bank-bank di berbagai negara, termasuk Indonesia."
+    },
+    {
+        "soal": "Dompet digital yang populer di Eropa dan sering digunakan untuk transaksi di situs game online dan platform trading.",
+        "jawaban": "Skrill",
+        "deskripsi": "Dahulu dikenal dengan nama Moneybookers, platform ini memungkinkan transfer uang dan pembayaran online dengan cepat."
+    },
+    {
+        "soal": "Aplikasi pembayaran peer-to-peer (P2P) yang sangat populer di Amerika Serikat, dimiliki oleh PayPal.",
+        "jawaban": "Venmo",
+        "deskripsi": "Terkenal dengan fitur sosialnya di mana pengguna dapat melihat (jika diizinkan) transaksi yang dilakukan oleh teman-temannya."
+    },
+    {
+        "soal": "Raksasa e-commerce global yang juga memiliki sistem pembayarannya sendiri untuk checkout cepat di situsnya.",
+        "jawaban": "Amazon Pay",
+        "deskripsi": "Memungkinkan pengguna untuk membayar di situs web pihak ketiga menggunakan informasi pembayaran yang sudah tersimpan di akun Amazon mereka."
+    },
+    {
+        "soal": "Aplikasi dari Indonesia yang sangat populer untuk melakukan transfer antar bank tanpa biaya administrasi.",
+        "jawaban": "Flip",
+        "deskripsi": "Dimulai sebagai solusi untuk menghindari biaya transfer bank, kini juga menyediakan layanan pembelian pulsa, data, dan pembayaran tagihan."
+    },
+    {
+        "soal": "Salah satu pelopor gerbang pembayaran (payment gateway) di Indonesia, berdiri sejak tahun 2007.",
+        "jawaban": "DOKU",
+        "deskripsi": "Menyediakan berbagai solusi pembayaran online untuk bisnis, dari UKM hingga korporasi besar, dan juga memiliki produk e-wallet."
+    },
+    {
+        "soal": "Dompet digital dari Bank BCA yang ditujukan untuk generasi muda, terpisah dari aplikasi m-banking utama.",
+        "jawaban": "Sakuku",
+        "deskripsi": "Menawarkan fitur seperti split bill dan transfer menggunakan nomor handphone untuk para nasabah BCA maupun non-nasabah."
+    },
+    {
+        "soal": "Jaringan kartu pembayaran raksasa dari Tiongkok, merupakan organisasi kartu bank terbesar di dunia berdasarkan jumlah kartu yang diterbitkan.",
+        "jawaban": "UnionPay",
+        "deskripsi": "Awalnya untuk pasar domestik Tiongkok, kini diterima di banyak negara di seluruh dunia dan sering menjadi metode pembayaran turis Tiongkok."
+    },
+    {
+        "soal": "Perusahaan 'Beli Sekarang, Bayar Nanti' (BNPL) raksasa asal Swedia yang memungkinkan pelanggan membayar dengan cicilan.",
+        "jawaban": "Klarna",
+        "deskripsi": "Salah satu startup fintech paling bernilai di Eropa, dikenal dengan brandingnya yang modern dan berwarna pink."
+    },
+    {
+        "soal": "Platform pembayaran digital terbesar di India, yang berevolusi menjadi super-app untuk pembayaran, belanja, dan layanan keuangan.",
+        "jawaban": "Paytm",
+        "deskripsi": "Singkatan dari 'Pay Through Mobile', platform ini menjadi pemimpin pasar setelah demonetisasi di India pada tahun 2016."
+    },
+    {
+        "soal": "Dompet digital terkemuka di Malaysia, sering digunakan untuk pembayaran tol dengan teknologi RFID.",
+        "jawaban": "Touch 'n Go eWallet",
+        "deskripsi": "Merupakan versi digital dari kartu Touch 'n Go fisik yang sudah lama dominan untuk pembayaran transportasi di Malaysia."
+    },
+    {
+        "soal": "Pesaing utama Venmo di Amerika Serikat, sebuah aplikasi pembayaran P2P yang dikenal dengan kemudahan penggunaan dan fitur investasi saham/Bitcoin.",
+        "jawaban": "Cash App",
+        "deskripsi": "Dikembangkan oleh Block, Inc. (sebelumnya Square), aplikasi ini memungkinkan pengguna mengirim uang menggunakan $Cashtag unik."
+    },
+    {
+        "soal": "Jaringan pembayaran digital peer-to-peer (P2P) di Amerika Serikat yang memungkinkan pengguna mentransfer uang langsung antar rekening bank.",
+        "jawaban": "Zelle",
+        "deskripsi": "Berbeda dengan Venmo atau Cash App, Zelle terintegrasi langsung ke dalam aplikasi mobile banking dari bank-bank besar di AS."
+    },
+    {
+        "soal": "Platform pemrosesan pembayaran untuk bisnis online, dikenal dengan API yang ramah developer dan digunakan oleh jutaan perusahaan di seluruh dunia.",
+        "jawaban": "Stripe",
+        "deskripsi": "Meskipun tidak berhadapan langsung dengan konsumen, Stripe adalah mesin di balik banyak proses checkout di situs web dan aplikasi."
+    },
+    {
+        "soal": "Dompet digital dan platform pembayaran terkemuka di Filipina, dimiliki oleh Globe Telecom.",
+        "jawaban": "GCash",
+        "deskripsi": "Menjadi super-app di Filipina, menyediakan layanan pengiriman uang, pembayaran tagihan, tabungan, dan investasi."
+    },
+    {
+        "soal": "Jaringan kartu kredit terbesar keempat di Amerika Serikat setelah Visa, Mastercard, dan Amex.",
+        "jawaban": "Discover Card",
+        "deskripsi": "Dikenal karena memperkenalkan program cashback kepada pelanggannya dan tidak membebankan biaya tahunan pada sebagian besar kartunya."
+    },
+    {
+        "soal": "Aplikasi perbankan digital dari Bank BTPN yang merevolusi perbankan di Indonesia dengan konsep 'semua dari smartphone'.",
+        "jawaban": "Jenius",
+        "deskripsi": "Populer dengan fitur seperti $Cashtag untuk transfer, kartu debit virtual (e-Card) untuk belanja online, dan tabungan fleksibel."
+    },
+    {
+        "soal": "Layanan 'Beli Sekarang, Bayar Nanti' (BNPL) yang terintegrasi dengan Gojek dan Tokopedia.",
+        "jawaban": "GoPayLater",
+        "deskripsi": "Memungkinkan pengguna untuk melakukan transaksi terlebih dahulu dan membayarnya di akhir bulan atau dengan cicilan."
+    }
+]

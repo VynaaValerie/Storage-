@@ -1,0 +1,366 @@
+[
+    {
+        "soal": "Seorang nabi yang diberikan keistimewaan oleh Allah. Dapat berbicara ketika baru lahir ....",
+        "pilihan": [
+            "Adam as",
+            "Nuh as",
+            "Isa as",
+            "Sulaiman as",
+            "Muhammad saw"
+        ],
+        "jawaban": "Isa as",
+        "deskripsi": "Nabi Isa as diberi mukjizat oleh Allah dapat berbicara ketika masih bayi untuk membela ibunya, Maryam."
+    },
+    {
+        "soal": "Para rasul selalu benar, baik dalam kata-kata mereka maupun dalam perbuatan mereka. Ini membuktikan bahwa rasul memiliki sifat ....",
+        "pilihan": [
+            "terpercaya",
+            "siddiq",
+            "tablig",
+            "Fatana",
+            "kitman"
+        ],
+        "jawaban": "siddiq",
+        "deskripsi": "Sifat siddiq berarti jujur, selalu benar dalam perkataan dan perbuatan."
+    },
+    {
+        "soal": "Kitab yang diberikan kepada Nabi Musa as adalah ....",
+        "pilihan": [
+            "Zabur",
+            "Taurat",
+            "Injil",
+            "Alquran",
+            "Weda"
+        ],
+        "jawaban": "Taurat",
+        "deskripsi": "Kitab Taurat diberikan kepada Nabi Musa as sebagai petunjuk bagi Bani Israil."
+    },
+    {
+        "soal": "Nabi Musa as telah menerima wahyu melalui dialog langsung dengan Tuhan Yang Mahakuasa. Dan terjadi di ....",
+        "pilihan": [
+            "Gua Hira",
+            "Jabal Nur",
+            "Jabal Uhud",
+            "Jabal Rahmah",
+            "Bukit Thursina"
+        ],
+        "jawaban": "Bukit Thursina",
+        "deskripsi": "Nabi Musa as menerima wahyu dan berbicara langsung dengan Allah di Bukit Thursina."
+    },
+    {
+        "soal": "Seorang rasul yang kaya, bahkan seorang raja, taat kepada Allah SWT. adalah ....",
+        "pilihan": [
+            "Adam as",
+            "Ibrahim as",
+            "Sulaiman as",
+            "Musa as",
+            "Muhammad saw"
+        ],
+        "jawaban": "Sulaiman as",
+        "deskripsi": "Nabi Sulaiman as adalah seorang nabi sekaligus raja yang memiliki kekayaan melimpah serta mampu berbicara dengan hewan."
+    },
+    {
+        "soal": "Apa nama surah pertama dalam Al-Qur'an?",
+        "pilihan": [
+            "Al-Ikhlas",
+            "Al-Fatihah",
+            "An-Nas",
+            "Al-Baqarah",
+            "Yasin"
+        ],
+        "jawaban": "Al-Fatihah",
+        "deskripsi": "Surah Al-Fatihah merupakan surah pembuka dalam Al-Qur'an dan sering disebut sebagai Ummul Kitab."
+    },
+    {
+        "soal": "Apa rukun Islam yang pertama?",
+        "pilihan": [
+            "Shalat",
+            "Puasa",
+            "Zakat",
+            "Syahadat",
+            "Haji"
+        ],
+        "jawaban": "Syahadat",
+        "deskripsi": "Syahadat adalah rukun Islam pertama yang merupakan pengakuan keesaan Allah dan kenabian Muhammad saw."
+    },
+    {
+        "soal": "Malaikat yang bertugas mencabut nyawa adalah ....",
+        "pilihan": [
+            "Jibril",
+            "Mikail",
+            "Izrail",
+            "Israfil",
+            "Ridwan"
+        ],
+        "jawaban": "Izrail",
+        "deskripsi": "Malaikat Izrail bertugas mencabut nyawa setiap makhluk yang bernyawa."
+    },
+    {
+        "soal": "Siapakah sahabat Nabi yang dijuluki 'Pedang Allah'?",
+        "pilihan": [
+            "Abu Bakar",
+            "Ali bin Abi Thalib",
+            "Umar bin Khattab",
+            "Khalid bin Walid",
+            "Bilal bin Rabah"
+        ],
+        "jawaban": "Khalid bin Walid",
+        "deskripsi": "Khalid bin Walid dijuluki 'Pedang Allah' karena kepiawaiannya dalam strategi perang."
+    },
+    {
+        "soal": "Berapa jumlah rakaat dalam shalat Isya?",
+        "pilihan": [
+            "2 rakaat",
+            "3 rakaat",
+            "4 rakaat",
+            "5 rakaat",
+            "6 rakaat"
+        ],
+        "jawaban": "4 rakaat",
+        "deskripsi": "Shalat Isya terdiri dari 4 rakaat dalam shalat wajib."
+    },
+    {
+        "soal": "Siapakah yang mendapatkan gelar 'Khatamul Anbiya'?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Ibrahim",
+            "Nabi Muhammad",
+            "Nabi Isa",
+            "Nabi Adam"
+        ],
+        "jawaban": "Nabi Muhammad",
+        "deskripsi": "Khatamul Anbiya berarti penutup para nabi, yaitu gelar yang diberikan kepada Nabi Muhammad saw."
+    },
+    {
+        "soal": "Pada bulan apa umat Islam melaksanakan puasa wajib?",
+        "pilihan": [
+            "Muharram",
+            "Rajab",
+            "Syaban",
+            "Ramadhan",
+            "Dzulhijjah"
+        ],
+        "jawaban": "Ramadhan",
+        "deskripsi": "Puasa wajib bagi umat Islam dilakukan selama bulan Ramadhan sebagai bagian dari rukun Islam."
+    },
+    {
+        "soal": "Apa nama perang besar pertama dalam Islam?",
+        "pilihan": [
+            "Perang Uhud",
+            "Perang Khandak",
+            "Perang Badar",
+            "Perang Hunain",
+            "Perang Tabuk"
+        ],
+        "jawaban": "Perang Badar",
+        "deskripsi": "Perang Badar adalah perang besar pertama dalam sejarah Islam yang dimenangkan oleh kaum Muslimin."
+    },
+    {
+        "soal": "Doa yang dibaca setelah takbiratul ihram dalam shalat adalah ....",
+        "pilihan": [
+            "Doa Qunut",
+            "Doa iftitah",
+            "Doa Sapu Jagad",
+            "Doa Kamilin"
+        ],
+        "jawaban": "Doa iftitah",
+        "deskripsi": "Doa iftitah merupakan doa yang dibaca setelah takbiratul ihram dalam shalat sebagai pembukaan."
+    },
+    {
+        "soal": "Perbuatan menyekutukan Allah dengan sesuatu yang lain sama seperti ....",
+        "pilihan": [
+            "Tawhid",
+            "Syirik",
+            "Munafik",
+            "Mukhlis"
+        ],
+        "jawaban": "Syirik",
+        "deskripsi": "Syirik adalah perbuatan menyekutukan Allah dengan sesuatu yang lain, yang merupakan dosa besar dalam Islam."
+    },
+    {
+        "soal": "Paman Nabi Muhammad SAW yang wafat karena terbunuh ketika Perang Tabuk yaitu ....",
+        "pilihan": [
+            "Abu Thalib",
+            "Hamzah bin Abdul Muthalib",
+            "Abbas bin Abdul Muthalib",
+            "Harits bin Abdul Muthalib"
+        ],
+        "jawaban": "Hamzah bin Abdul Muthalib",
+        "deskripsi": "Hamzah bin Abdul Muthalib adalah paman Nabi Muhammad SAW yang gugur dalam Perang Tabuk."
+    },
+    {
+        "soal": "Shalat sunah yang mengiringi shalat wajib adalah ....",
+        "pilihan": [
+            "Tarawih",
+            "Dhuha",
+            "Tahajud",
+            "Rawatib"
+        ],
+        "jawaban": "Rawatib",
+        "deskripsi": "Shalat rawatib adalah shalat sunah yang mengiringi shalat wajib dan dilakukan sebelum atau setelah shalat fardu."
+    },
+    {
+        "soal": "Kita dibolehkan menggabungkan dua shalat dalam satu waktu dalam keadaan tertentu. Namanya adalah ....",
+        "pilihan": [
+            "Qasar",
+            "Jama",
+            "Tahqiq",
+            "Ijtihad"
+        ],
+        "jawaban": "Jama",
+        "deskripsi": "Jama adalah menggabungkan dua shalat dalam satu waktu karena alasan tertentu, seperti bepergian atau keadaan darurat."
+    },
+    {
+        "soal": "Takbir awal dimulainya shalat adalah ....",
+        "pilihan": [
+            "Takbiratul ihram",
+            "Takbiratul iqamah",
+            "Takbiratul salat",
+            "Takbiratul munajat"
+        ],
+        "jawaban": "Takbiratul ihram",
+        "deskripsi": "Takbiratul ihram adalah takbir pertama yang dilakukan saat memulai shalat dengan mengangkat tangan dan mengucapkan 'Allahu Akbar'."
+    },
+    {
+        "soal": "Al-Quran terdiri dari berapa juz dan surah?",
+        "pilihan": [
+            "30 juz dan 114 surah",
+            "20 juz dan 113 surah",
+            "30 juz dan 113 surah",
+            "20 juz dan 114 surah"
+        ],
+        "jawaban": "30 juz dan 114 surah",
+        "deskripsi": "Al-Quran terdiri dari 30 juz dan 114 surah yang merupakan wahyu Allah kepada Nabi Muhammad SAW."
+    },
+    {
+        "soal": "Khalifah kedua dan diberi gelar amirul mukminin yaitu ....",
+        "pilihan": [
+            "Abu Bakar",
+            "Umar bin Khattab",
+            "Utsman bin Affan",
+            "Ali bin Abi Thalib"
+        ],
+        "jawaban": "Umar bin Khattab",
+        "deskripsi": "Umar bin Khattab adalah khalifah kedua"
+    },
+    {
+        "soal": "Siapakah yang dikenal sebagai 'Khalilullah' atau kekasih Allah?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Ibrahim",
+            "Nabi Isa",
+            "Nabi Muhammad",
+            "Nabi Nuh"
+        ],
+        "jawaban": "Nabi Ibrahim",
+        "deskripsi": "Nabi Ibrahim as dikenal sebagai 'Khalilullah' atau kekasih Allah karena ketaatannya yang luar biasa kepada Allah."
+    },
+    {
+        "soal": "Siapakah malaikat yang bertugas menyampaikan wahyu kepada para nabi?",
+        "pilihan": [
+            "Mikail",
+            "Israfil",
+            "Izrail",
+            "Jibril",
+            "Ridwan"
+        ],
+        "jawaban": "Jibril",
+        "deskripsi": "Malaikat Jibril bertugas menyampaikan wahyu dari Allah kepada para nabi dan rasul."
+    },
+    {
+        "soal": "Apa nama surah yang paling panjang dalam Al-Qur'an?",
+        "pilihan": [
+            "Al-Baqarah",
+            "Ali Imran",
+            "An-Nisa",
+            "Al-Maidah",
+            "Al-An'am"
+        ],
+        "jawaban": "Al-Baqarah",
+        "deskripsi": "Surah Al-Baqarah adalah surah terpanjang dalam Al-Qur'an yang terdiri dari 286 ayat."
+    },
+    {
+        "soal": "Siapakah nabi yang dikenal dengan mukjizat membelah laut?",
+        "pilihan": [
+            "Nabi Nuh",
+            "Nabi Ibrahim",
+            "Nabi Musa",
+            "Nabi Isa",
+            "Nabi Muhammad"
+        ],
+        "jawaban": "Nabi Musa",
+        "deskripsi": "Nabi Musa as dikenal dengan mukjizatnya membelah laut dengan tongkatnya atas izin Allah untuk menyelamatkan Bani Israil dari kejaran Fir'aun."
+    },
+    {
+        "soal": "Apa nama kota kelahiran Nabi Muhammad SAW?",
+        "pilihan": [
+            "Madinah",
+            "Makkah",
+            "Taif",
+            "Yaman",
+            "Syam"
+        ],
+        "jawaban": "Makkah",
+        "deskripsi": "Nabi Muhammad SAW lahir di kota Makkah, yang juga merupakan tempat Ka'bah berada."
+    },
+    {
+        "soal": "Siapakah nabi yang dikenal dengan mukjizat menyembuhkan orang sakit dan menghidupkan orang mati?",
+        "pilihan": [
+            "Nabi Musa",
+            "Nabi Isa",
+            "Nabi Ibrahim",
+            "Nabi Nuh",
+            "Nabi Muhammad"
+        ],
+        "jawaban": "Nabi Isa",
+        "deskripsi": "Nabi Isa as diberi mukjizat oleh Allah untuk menyembuhkan orang sakit dan menghidupkan orang mati dengan izin-Nya."
+    },
+    {
+        "soal": "Apa nama perang yang terjadi setelah Perang Badar?",
+        "pilihan": [
+            "Perang Uhud",
+            "Perang Khandak",
+            "Perang Hunain",
+            "Perang Tabuk",
+            "Perang Yamamah"
+        ],
+        "jawaban": "Perang Uhud",
+        "deskripsi": "Perang Uhud terjadi setelah Perang Badar dan merupakan salah satu perang besar dalam sejarah Islam."
+    },
+    {
+        "soal": "Siapakah sahabat Nabi yang dikenal sebagai 'Ash-Shiddiq'?",
+        "pilihan": [
+            "Umar bin Khattab",
+            "Utsman bin Affan",
+            "Ali bin Abi Thalib",
+            "Abu Bakar",
+            "Bilal bin Rabah"
+        ],
+        "jawaban": "Abu Bakar",
+        "deskripsi": "Abu Bakar as-Shiddiq adalah sahabat Nabi yang dikenal karena kejujurannya dan menjadi khalifah pertama setelah wafatnya Nabi Muhammad SAW."
+    },
+    {
+        "soal": "Apa nama surah yang sering disebut sebagai 'Jantung Al-Qur'an'?",
+        "pilihan": [
+            "Al-Fatihah",
+            "Al-Baqarah",
+            "Yasin",
+            "Al-Kahfi",
+            "Al-Mulk"
+        ],
+        "jawaban": "Yasin",
+        "deskripsi": "Surah Yasin sering disebut sebagai 'Jantung Al-Qur'an' karena keutamaannya dan sering dibaca oleh umat Islam."
+    },
+    {
+        "soal": "Siapakah nabi yang dikenal dengan mukjizat berbicara dengan hewan?",
+        "pilihan": [
+            "Nabi Nuh",
+            "Nabi Ibrahim",
+            "Nabi Musa",
+            "Nabi Sulaiman",
+            "Nabi Muhammad"
+        ],
+        "jawaban": "Nabi Sulaiman",
+        "deskripsi": "Nabi Sulaiman as diberi mukjizat oleh Allah untuk dapat berbicara dengan hewan dan menguasai jin."
+    }
+]

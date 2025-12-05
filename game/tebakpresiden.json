@@ -1,0 +1,322 @@
+[
+    {
+        "soal": "Presiden Amerika Serikat ke-3, penulis utama Deklarasi Kemerdekaan Amerika Serikat.",
+        "jawaban": "Thomas Jefferson",
+        "deskripsi": "Menjabat dari 1801-1809, dikenal juga karena Pembelian Louisiana yang menggandakan wilayah AS."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-26, dikenal dengan kebijakan 'Square Deal' dan konservasi alam.",
+        "jawaban": "Theodore Roosevelt",
+        "deskripsi": "Menjabat dari 1901-1909, ia juga seorang pahlawan perang dan penerima Nobel Perdamaian."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-28 yang memimpin negara selama Perang Dunia I dan mengusulkan Liga Bangsa-Bangsa.",
+        "jawaban": "Woodrow Wilson",
+        "deskripsi": "Menjabat dari 1913-1921, dikenal dengan 'Empat Belas Pasal' sebagai dasar perdamaian."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-33, mengambil alih setelah kematian FDR dan membuat keputusan penggunaan bom atom.",
+        "jawaban": "Harry S. Truman",
+        "deskripsi": "Menjabat dari 1945-1953, juga mengawasi awal Perang Dingin dan pembentukan NATO."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-34, mantan Panglima Tertinggi Sekutu di Eropa selama Perang Dunia II.",
+        "jawaban": "Dwight D. Eisenhower",
+        "deskripsi": "Menjabat dari 1953-1961, dikenal dengan pembangunan sistem jalan tol antarnegara bagian."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-36, menggantikan JFK dan meluncurkan program 'Great Society'.",
+        "jawaban": "Lyndon B. Johnson",
+        "deskripsi": "Menjabat dari 1963-1969, dikenal karena undang-undang hak-hak sipil namun juga eskalasi Perang Vietnam."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-37, membuka hubungan dengan Tiongkok namun mengundurkan diri karena skandal Watergate.",
+        "jawaban": "Richard Nixon",
+        "deskripsi": "Menjabat dari 1969-1974, mengakhiri keterlibatan AS di Vietnam."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-39, dikenal karena fokusnya pada hak asasi manusia dan Perjanjian Camp David.",
+        "jawaban": "Jimmy Carter",
+        "deskripsi": "Menjabat dari 1977-1981, menerima Hadiah Nobel Perdamaian setelah masa kepresidenannya."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-41, memimpin koalisi internasional dalam Perang Teluk Persia.",
+        "jawaban": "George H. W. Bush",
+        "deskripsi": "Menjabat dari 1989-1993, juga mengawasi akhir Perang Dingin."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-42, memimpin selama periode kemakmuran ekonomi di tahun 1990-an.",
+        "jawaban": "Bill Clinton",
+        "deskripsi": "Menjabat dari 1993-2001, menandatangani NAFTA dan terlibat dalam upaya perdamaian di Timur Tengah."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-45, seorang pengusaha dan tokoh televisi sebelum memasuki dunia politik.",
+        "jawaban": "Donald Trump",
+        "deskripsi": "Menjabat dari 2017-2021, dikenal dengan slogan 'Make America Great Again'."
+    },
+    {
+        "soal": "Presiden Amerika Serikat ke-46, menjabat sejak tahun 2021.",
+        "jawaban": "Joe Biden",
+        "deskripsi": "Sebelumnya menjabat sebagai Wakil Presiden di bawah Barack Obama."
+    },
+    {
+        "soal": "Presiden Prancis dari 1995 hingga 2007, dikenal karena menentang invasi Irak 2003.",
+        "jawaban": "Jacques Chirac",
+        "deskripsi": "Juga menjabat sebagai Perdana Menteri Prancis dan Wali Kota Paris."
+    },
+    {
+        "soal": "Presiden Jerman dari 2012 hingga 2017, seorang mantan pendeta dan aktivis hak asasi manusia di Jerman Timur.",
+        "jawaban": "Joachim Gauck",
+        "deskripsi": "Tokoh independen yang dihormati karena perannya dalam menyatukan Jerman."
+    },
+    {
+        "soal": "Presiden Rusia dari 2008 hingga 2012, juga pernah menjabat sebagai Perdana Menteri.",
+        "jawaban": "Dmitry Medvedev",
+        "deskripsi": "Sekutu dekat Vladimir Putin, memainkan peran penting dalam politik Rusia."
+    },
+    {
+        "soal": "Presiden Tiongkok dari 1993 hingga 2003, memimpin Tiongkok melalui pertumbuhan ekonomi yang pesat.",
+        "jawaban": "Jiang Zemin",
+        "deskripsi": "Mengawasi kembalinya Hong Kong ke Tiongkok dan masuknya Tiongkok ke WTO."
+    },
+    {
+        "soal": "Presiden Tiongkok dari 2003 hingga 2013, melanjutkan reformasi ekonomi dan fokus pada 'Masyarakat Harmonis'.",
+        "jawaban": "Hu Jintao",
+        "deskripsi": "Mengawasi Olimpiade Beijing 2008 dan peningkatan pengaruh global Tiongkok."
+    },
+    {
+        "soal": "Presiden Afrika Selatan yang menggantikan Nelson Mandela, menjabat dari 1999 hingga 2008.",
+        "jawaban": "Thabo Mbeki",
+        "deskripsi": "Dikenal karena kebijakan ekonomi makro dan perannya dalam diplomasi Afrika."
+    },
+    {
+        "soal": "Presiden Afrika Selatan yang bekerja sama dengan Nelson Mandela untuk mengakhiri apartheid, berbagi Nobel Perdamaian dengannya.",
+        "jawaban": "F.W. de Klerk",
+        "deskripsi": "Presiden terakhir era apartheid, memainkan peran kunci dalam transisi menuju demokrasi."
+    },
+    {
+        "soal": "Presiden Brasil dari 1995 hingga 2002, seorang sosiolog yang menerapkan reformasi ekonomi penting.",
+        "jawaban": "Fernando Henrique Cardoso",
+        "deskripsi": "Berhasil mengendalikan hiperinflasi dan menstabilkan ekonomi Brasil."
+    },
+    {
+        "soal": "Presiden Brasil dari 2019 hingga 2022, dikenal dengan pandangan konservatif dan populis.",
+        "jawaban": "Jair Bolsonaro",
+        "deskripsi": "Seorang mantan kapten tentara, sering menimbulkan kontroversi dengan pernyataannya."
+    },
+    {
+        "soal": "Presiden wanita pertama Argentina, menjabat dari 2007 hingga 2015, istri dari presiden sebelumnya Néstor Kirchner.",
+        "jawaban": "Cristina Fernández de Kirchner",
+        "deskripsi": "Melanjutkan kebijakan Peronis suaminya dengan fokus pada program sosial dan nasionalisasi."
+    },
+    {
+        "soal": "Presiden Meksiko dari 1934 hingga 1940, dikenal karena nasionalisasi industri minyak.",
+        "jawaban": "Lázaro Cárdenas",
+        "deskripsi": "Melakukan reformasi agraria yang signifikan dan memperkuat hak-hak buruh."
+    },
+    {
+        "soal": "Presiden Mesir yang menandatangani Perjanjian Damai Camp David dengan Israel, terbunuh pada tahun 1981.",
+        "jawaban": "Anwar Sadat",
+        "deskripsi": "Penerus Gamal Abdel Nasser, menerima Hadiah Nobel Perdamaian bersama Menachem Begin."
+    },
+    {
+        "soal": "Presiden Mesir dari 1981 hingga 2011, digulingkan selama Musim Semi Arab.",
+        "jawaban": "Hosni Mubarak",
+        "deskripsi": "Memimpin Mesir selama hampir 30 tahun dengan stabilitas namun juga represi politik."
+    },
+    {
+        "soal": "Presiden Turki saat ini, sebelumnya menjabat sebagai Perdana Menteri, dikenal dengan kepemimpinan yang kuat.",
+        "jawaban": "Recep Tayyip Erdoğan",
+        "deskripsi": "Telah mendominasi politik Turki selama lebih dari dua dekade, mengawasi perubahan konstitusional."
+    },
+    {
+        "soal": "Presiden Iran dari 2005 hingga 2013, dikenal karena retorika konservatif dan program nuklir kontroversial.",
+        "jawaban": "Mahmoud Ahmadinejad",
+        "deskripsi": "Seorang politisi populis yang sering berselisih dengan negara-negara Barat."
+    },
+    {
+        "soal": "Presiden Korea Selatan dari 2013 hingga 2017, presiden wanita pertama negara itu, dimakzulkan karena skandal korupsi.",
+        "jawaban": "Park Geun-hye",
+        "deskripsi": "Putri mantan presiden Park Chung-hee, karir politiknya berakhir dengan kontroversi."
+    },
+    {
+        "soal": "Presiden Filipina dari 2016 hingga 2022, dikenal karena perang kontroversial terhadap narkoba.",
+        "jawaban": "Rodrigo Duterte",
+        "deskripsi": "Seorang politisi populis dengan gaya kepemimpinan yang blak-blakan."
+    },
+    {
+        "soal": "Presiden pertama Nigeria setelah kemerdekaan penuh pada tahun 1963.",
+        "jawaban": "Nnamdi Azikiwe",
+        "deskripsi": "Seorang tokoh kunci dalam gerakan kemerdekaan Nigeria, dikenal sebagai 'Zik'."
+    },
+    {
+        "soal": "Menjabat sebagai Presiden Nigeria dalam dua periode terpisah, pertama sebagai pemimpin militer kemudian sebagai presiden terpilih.",
+        "jawaban": "Olusegun Obasanjo",
+        "deskripsi": "Memainkan peran penting dalam transisi Nigeria menuju demokrasi sipil."
+    },
+    {
+        "soal": "Presiden pertama Kenya setelah kemerdekaan dari Inggris.",
+        "jawaban": "Jomo Kenyatta",
+        "deskripsi": "Seorang tokoh sentral dalam gerakan kemerdekaan Kenya, menjabat dari 1964 hingga kematiannya pada 1978."
+    },
+    {
+        "soal": "Presiden pertama Ghana dan tokoh pan-Afrikanisme terkemuka.",
+        "jawaban": "Kwame Nkrumah",
+        "deskripsi": "Memimpin Ghana meraih kemerdekaan pada tahun 1957 dan menjadi presiden pertama pada tahun 1960."
+    },
+    {
+        "soal": "Presiden Ukraina saat ini, mantan aktor dan komedian yang memimpin negara selama invasi Rusia.",
+        "jawaban": "Volodymyr Zelenskyy",
+        "deskripsi": "Menjadi simbol perlawanan Ukraina dan mendapatkan dukungan internasional yang luas."
+    },
+    {
+        "soal": "Presiden Venezuela dari 1999 hingga kematiannya pada 2013, pemimpin 'Revolusi Bolivarian'.",
+        "jawaban": "Hugo Chávez",
+        "deskripsi": "Dikenal karena kebijakan sosialis, nasionalisasi, dan retorika anti-AS."
+    },
+    {
+        "soal": "Presiden Kolombia dari 2010 hingga 2018, menerima Hadiah Nobel Perdamaian atas upayanya mengakhiri perang saudara.",
+        "jawaban": "Juan Manuel Santos",
+        "deskripsi": "Berhasil mencapai kesepakatan damai dengan kelompok pemberontak FARC."
+    },
+    {
+        "soal": "Presiden Peru dari 1990 hingga 2000, dikenal karena menumpas pemberontakan Shining Path namun juga tuduhan korupsi.",
+        "jawaban": "Alberto Fujimori",
+        "deskripsi": "Seorang tokoh kontroversial dalam sejarah Peru modern."
+    },
+    {
+        "soal": "Presiden wanita pertama Irlandia, menjabat dari 1990 hingga 1997.",
+        "jawaban": "Mary Robinson",
+        "deskripsi": "Kemudian menjabat sebagai Komisioner Tinggi PBB untuk Hak Asasi Manusia."
+    },
+    {
+        "soal": "Presiden Finlandia yang menjabat paling lama, dari tahun 1956 hingga 1982, memimpin negara melalui Perang Dingin.",
+        "jawaban": "Urho Kekkonen",
+        "deskripsi": "Dikenal karena kebijakan netralitas Finlandia yang hati-hati."
+    },
+    {
+        "soal": "Presiden pertama Singapura setelah negara itu merdeka.",
+        "jawaban": "Yusof Ishak",
+        "deskripsi": "Menjabat dari 1965 hingga kematiannya pada 1970, wajahnya diabadikan di uang kertas Singapura."
+    },
+    {
+        "soal": "Presiden pertama Israel, seorang ahli kimia terkemuka dan pemimpin Zionis.",
+        "jawaban": "Chaim Weizmann",
+        "deskripsi": "Menjabat dari 1949 hingga kematiannya pada 1952, memainkan peran penting dalam pendirian negara Israel."
+    },
+    {
+        "soal": "Presiden Portugal dari 1986 hingga 1996, memainkan peran penting dalam transisi menuju demokrasi.",
+        "jawaban": "Mário Soares",
+        "deskripsi": "Seorang tokoh sosialis terkemuka, juga menjabat sebagai Perdana Menteri."
+    },
+    {
+        "soal": "Presiden India ke-11, seorang ilmuwan luar angkasa yang dikenal sebagai 'Presiden Rakyat'.",
+        "jawaban": "A. P. J. Abdul Kalam",
+        "deskripsi": "Menjabat dari 2002 hingga 2007, sangat dihormati karena kerendahan hati dan dedikasinya pada pendidikan."
+    },
+    {
+        "soal": "Presiden Polandia saat ini, menjabat sejak tahun 2015.",
+        "jawaban": "Andrzej Duda",
+        "deskripsi": "Berasal dari partai Hukum dan Keadilan (PiS) yang konservatif."
+    },
+    {
+        "soal": "Presiden Irak yang digulingkan setelah invasi pimpinan AS pada tahun 2003.",
+        "jawaban": "Saddam Hussein",
+        "deskripsi": "Memimpin Irak dari 1979 hingga 2003, dikenal karena rezim otoriter dan perang dengan Iran serta Kuwait."
+    },
+    {
+        "soal": "Presiden Libya selama lebih dari 40 tahun, digulingkan dan dibunuh selama Musim Semi Arab 2011.",
+        "jawaban": "Muammar Gaddafi",
+        "deskripsi": "Pemimpin eksentrik yang menerapkan sistem politik 'Jamahiriya'."
+    },
+    {
+        "soal": "Presiden wanita pertama di benua Afrika, menjabat sebagai Presiden Liberia dari 2006 hingga 2018.",
+        "jawaban": "Ellen Johnson Sirleaf",
+        "deskripsi": "Penerima Hadiah Nobel Perdamaian atas perannya dalam mempromosikan perdamaian dan hak-hak perempuan."
+    },
+    {
+        "soal": "Presiden Chili yang menjabat dalam dua periode non-berturut-turut (2010-2014 dan 2018-2022).",
+        "jawaban": "Sebastián Piñera",
+        "deskripsi": "Seorang pengusaha dan politisi konservatif, menghadapi berbagai tantangan sosial dan ekonomi."
+    },
+    {
+        "soal": "Presiden Pakistan dari 2001 hingga 2008, seorang jenderal yang mengambil alih kekuasaan melalui kudeta militer.",
+        "jawaban": "Pervez Musharraf",
+        "deskripsi": "Memimpin Pakistan selama periode penting dalam 'Perang Melawan Teror'."
+    },
+    {
+        "soal": "Presiden pertama Republik Islam Iran setelah revolusi 1979.",
+        "jawaban": "Abolhassan Banisadr",
+        "deskripsi": "Menjabat dari 1980 hingga 1981 sebelum dimakzulkan."
+    },
+    {
+        "soal": "Presiden Kuba saat ini, menggantikan Raúl Castro pada tahun 2018.",
+        "jawaban": "Miguel Díaz-Canel",
+        "deskripsi": "Presiden Kuba pertama yang lahir setelah Revolusi Kuba."
+    },
+    {
+        "soal": "Presiden Rumania yang digulingkan dan dieksekusi selama Revolusi Rumania 1989.",
+        "jawaban": "Nicolae Ceaușescu",
+        "deskripsi": "Pemimpin Komunis Rumania selama lebih dari dua dekade dengan rezim yang represif."
+    },
+    {
+        "soal": "Presiden pertama Republik Korea (Korea Selatan) setelah didirikan pada tahun 1948.",
+        "jawaban": "Syngman Rhee",
+        "deskripsi": "Memimpin Korea Selatan selama Perang Korea, mengundurkan diri setelah protes massa pada tahun 1960."
+    },
+    {
+        "soal": "Presiden Afrika Selatan saat ini, menjabat sejak 2018.",
+        "jawaban": "Cyril Ramaphosa",
+        "deskripsi": "Seorang mantan aktivis anti-apartheid, pemimpin serikat buruh, dan pengusaha."
+    },
+    {
+        "soal": "Presiden wanita pertama India, menjabat dari 2007 hingga 2012.",
+        "jawaban": "Pratibha Patil",
+        "deskripsi": "Sebelumnya menjabat sebagai Gubernur Rajasthan."
+    },
+    {
+        "soal": "Presiden wanita kedua India dan presiden pertama dari komunitas suku, menjabat sejak 2022.",
+        "jawaban": "Droupadi Murmu",
+        "deskripsi": "Sebelumnya menjabat sebagai Gubernur Jharkhand."
+    },
+    {
+        "soal": "Presiden Mesir saat ini, menjabat sejak 2014.",
+        "jawaban": "Abdel Fattah el-Sisi",
+        "deskripsi": "Mantan Panglima Angkatan Bersenjata Mesir, mengambil alih kekuasaan setelah kudeta militer 2013."
+    },
+    {
+        "soal": "Presiden Argentina saat ini, dikenal dengan pandangan libertarian dan reformasi ekonomi drastis.",
+        "jawaban": "Javier Milei",
+        "deskripsi": "Terpilih pada tahun 2023, seorang ekonom dengan gaya politik yang khas."
+    },
+    {
+        "soal": "Presiden Nigeria saat ini, menjabat sejak Mei 2023.",
+        "jawaban": "Bola Tinubu",
+        "deskripsi": "Mantan Gubernur Negara Bagian Lagos, seorang tokoh politik veteran."
+    },
+    {
+        "soal": "Presiden Kenya saat ini, menjabat sejak September 2022.",
+        "jawaban": "William Ruto",
+        "deskripsi": "Sebelumnya menjabat sebagai Wakil Presiden Kenya."
+    },
+    {
+        "soal": "Presiden Filipina saat ini, putra mantan presiden Ferdinand Marcos Sr.",
+        "jawaban": "Bongbong Marcos",
+        "deskripsi": "Menjabat sejak Juni 2022, juga dikenal sebagai Ferdinand Marcos Jr."
+    },
+    {
+        "soal": "Presiden Korea Selatan saat ini, menjabat sejak Mei 2022.",
+        "jawaban": "Yoon Suk Yeol",
+        "deskripsi": "Mantan Jaksa Agung Korea Selatan."
+    },
+    {
+        "soal": "Presiden Iran yang meninggal dalam kecelakaan helikopter pada tahun 2024.",
+        "jawaban": "Ebrahim Raisi",
+        "deskripsi": "Menjabat dari Agustus 2021 hingga kematiannya, dikenal sebagai seorang konservatif garis keras."
+    },
+    {
+        "soal": "Presiden Finlandia saat ini, menjabat sejak Maret 2024.",
+        "jawaban": "Alexander Stubb",
+        "deskripsi": "Sebelumnya pernah menjabat sebagai Perdana Menteri dan Menteri Luar Negeri Finlandia."
+    }
+]
