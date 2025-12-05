@@ -25,6 +25,7 @@ Aturan:
 
 “Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
 */
+
 const express = require("express");
 const fs = require("fs").promises;
 const path = require("path");
@@ -34,15 +35,24 @@ const PORT = process.env.PORT || 3000;
 
 // Base
 const BASE_DIR = __dirname;
+
+// ===================== STATIC FOLDER ===================== //
+// Frontend utama
 app.use(express.static(path.join(__dirname, "public")));
 
-
+// Game files (json, dll)
 app.use("/game", express.static(path.join(__dirname, "game")));
 
-
+// Audio files
 app.use("/audio", express.static(path.join(__dirname, "audio")));
 
+// 🔥 NEW: Image files (jpg, png, dll)
+// Taruh file gambar di folder: ./image
+// contoh: ./image/levelup.jpg -> https://ge.vynaa.web.id/image/levelup.jpg
+app.use("/image", express.static(path.join(__dirname, "image")));
+// ======================================================== //
 
+// Route utama
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
 });
@@ -61,7 +71,6 @@ const HIDDEN = new Set([
   "",
   "node_modules"
 ]);
-
 
 function cleanPath(p) {
   if (!p) return "";
@@ -107,6 +116,7 @@ app.get("/api/list", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server jalan di http://localhost:${PORT}`);
 });
+
 /*
         ••JANGAN HAPUS INI••
 SCRIPT BY © VYNAA VALERIE 
