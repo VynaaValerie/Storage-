@@ -55,6 +55,10 @@ const HIDDEN = new Set([
   "package-lock.json",
   ".git",
   ".env",
+  ".v8-cache",
+  "___vc",
+  "vercel.json",
+  "",
   "node_modules"
 ]);
 
