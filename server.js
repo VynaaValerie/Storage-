@@ -46,15 +46,18 @@ app.use("/game", express.static(path.join(__dirname, "game")));
 // Audio files
 app.use("/audio", express.static(path.join(__dirname, "audio")));
 
-// Image files (jpg, png, dll)
+// 🔥 NEW: Image files (jpg, png, dll)
+// Taruh file gambar di folder: ./image
+// contoh: ./image/levelup.jpg -> https://ge.vynaa.web.id/image/levelup.jpg
 app.use("/image", express.static(path.join(__dirname, "image")));
 
 // 🔥 NEW: Font files (ttf, fnt, png bitmap font, dll)
 // Taruh file font di folder: ./font
-// contoh: ./font/Spell of Asia.ttf        -> /font/Spell%20of%20Asia.ttf
-//         ./font/Spell_of_Asia.fnt       -> /font/Spell_of_Asia.fnt
-//         ./font/Spell_of_Asia.png       -> /font/Spell_of_Asia.png
+// contoh: ./font/Spell of Asia.ttf  -> /font/Spell%20of%20Asia.ttf
+//         ./font/Spell_of_Asia.fnt -> /font/Spell_of_Asia.fnt
+//         ./font/Spell_of_Asia.png -> /font/Spell_of_Asia.png
 app.use("/font", express.static(path.join(__dirname, "font")));
+
 // ======================================================== //
 
 // Route utama
@@ -118,6 +121,58 @@ app.get("/api/list", async (req, res) => {
   }
 });
 
+// API: RAW VIEW FILE (lihat isi mentah .js, .json, .fnt, dll)
+app.get("/api/raw", async (req, res) => {
+  const rel = cleanPath(req.query.path || "");
+  const filePath = path.join(BASE_DIR, rel);
+
+  try {
+    const ext = path.extname(filePath).toLowerCase();
+    const textLike = [".js", ".json", ".txt", ".md", ".fnt", ".html", ".css"];
+
+    const encoding = textLike.includes(ext) ? "utf8" : null;
+    const data = await fs.readFile(filePath, encoding || undefined);
+
+    if (encoding) {
+      res.setHeader("Content-Type", "text/plain; charset=utf-8");
+      res.send(data);
+    } else {
+      res.setHeader("Content-Type", "application/octet-stream");
+      res.send(data);
+    }
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("Error: " + err.message);
+  }
+});
+
 app.listen(PORT, () => {
   console.log(`Server jalan di http://localhost:${PORT}`);
 });
+/*
+        ••JANGAN HAPUS INI••
+SCRIPT BY © VYNAA VALERIE 
+•• recode kasih credits 
+•• contacts: (6282389924037)
+•• instagram: @vynaa_valerie 
+•• (github.com/VynaaValerie) 
+
+• Menerima pembuatan script bot
+• Menerima perbaikan script atau fitur bot
+• Menerima pembuatan fitur bot
+• Menerima semua kebutuhan bot
+• Menerima Jadi Bot
+
+ℹ️ Information
+
+• Pembayaran bisa dicicil
+• Bisa bayar di awal atau akhir
+• Pembayaran melalu QRIS Only
+• Testimoni Banyak
+
+Aturan:
+1. Dilarang memperjualbelikan script ini.
+2. Hak cipta milik Vynaa Valerie.
+
+“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
+*/
