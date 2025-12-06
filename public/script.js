@@ -30,27 +30,31 @@ Aturan:
 
 “Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
 */
+
+// Format size file
+function formatSize(bytes) {
+  if (bytes < 1024) return bytes + " B";
+  const KB = bytes / 1024;
+  if (KB < 1024) return KB.toFixed(1) + " KB";
+  const MB = KB / 1024;
+  if (MB < 1024) return MB.toFixed(1) + " MB";
+  const GB = MB / 1024;
+  return GB.toFixed(1) + " GB";
+}
+
 // Format tanggal
-function formatDate(t) {
-  if (!t) return "";
-  const d = new Date(t);
-  return `${d.getDate()}/${d.getMonth() + 1}`;
+function formatDate(d) {
+  const dt = new Date(d);
+  if (isNaN(dt.getTime())) return "-";
+  return dt.toLocaleString();
 }
 
-async function fetchJSON(url) {
-  const r = await fetch(url);
-  if (!r.ok) throw new Error("HTTP " + r.status);
-  return r.json();
-}
+// Load list folder
+async function loadList(path) {
+  const url = "/api/list" + (path ? `?path=${encodeURIComponent(path)}` : "");
+  const res = await fetch(url);
+  const data = await res.json();
 
-function updateBack() {
-  if (!currentPath) backBtn.classList.add("back-btn-disabled");
-  else backBtn.classList.remove("back-btn-disabled");
-}
-
-// Load satu folder
-async function loadList(path = "") {
-  const data = await fetchJSON(`/api/list?path=${encodeURIComponent(path)}`);
   currentPath = data.path || "";
   renderBreadcrumb(currentPath);
   renderList(data.items || []);
@@ -89,12 +93,15 @@ function renderBreadcrumb(path) {
   });
 }
 
-// Render isi folder
+// Render daftar file/folder
 function renderList(items) {
   listEl.innerHTML = "";
 
   if (!items.length) {
-    listEl.innerHTML = `<div class="empty-state">Folder kosong</div>`;
+    const empty = document.createElement("div");
+    empty.className = "empty";
+    empty.textContent = "Folder kosong.";
+    listEl.appendChild(empty);
     return;
   }
 
@@ -103,9 +110,8 @@ function renderList(items) {
     row.className = "item-row";
 
     const icon = document.createElement("div");
-    icon.className = `icon ${
-      it.type === "folder" ? "icon-folder" : "icon-file"
-    }`;
+    icon.className = "item-icon";
+    icon.textContent = it.type === "folder" ? "📁" : "📄";
 
     const main = document.createElement("div");
     main.className = "item-main";
@@ -116,7 +122,8 @@ function renderList(items) {
 
     const meta = document.createElement("div");
     meta.className = "item-meta";
-    meta.textContent = it.type === "folder" ? "folder" : it.size + " byte";
+    meta.textContent =
+      it.type === "folder" ? "folder" : formatSize(it.size || 0);
 
     main.appendChild(name);
     main.appendChild(meta);
@@ -134,18 +141,45 @@ function renderList(items) {
         const p = currentPath ? `${currentPath}/${it.name}` : it.name;
         loadList(p);
       } else {
-        // OPEN FILE LANGSUNG (TANPA /api/raw)
+        // Jika file text-like (js, json, txt, md, fnt, html, css) → buka via /api/raw
         const p = currentPath ? `${currentPath}/${it.name}` : it.name;
-        // contoh hasil:
-        // p = "game/tebakkata.json"  -> /game/tebakkata.json
-        // p = "audio/pinaa.mp3"      -> /audio/pinaa.mp3
-        window.location.href = "/" + p;
+        const ext = it.name.split(".").pop().toLowerCase();
+        const textLike = ["json", "js", "txt", "md", "fnt", "html", "css"];
+
+        if (textLike.includes(ext)) {
+          window.location.href = `/api/raw?path=${encodeURIComponent(p)}`;
+        } else {
+          // default: buka langsung (mp3, jpg, png, ttf, dll)
+          window.location.href = "/" + p;
+        }
       }
     };
 
     listEl.appendChild(row);
   });
 }
+
+// Update tombol back
+function updateBack() {
+  if (!currentPath) {
+    backBtn.disabled = true;
+    backBtn.classList.add("disabled");
+  } else {
+    backBtn.disabled = false;
+    backBtn.classList.remove("disabled");
+  }
+}
+
+// Tombol BACK
+backBtn.onclick = () => {
+  if (!currentPath) return;
+  const parts = currentPath.split("/").filter(Boolean);
+  parts.pop();
+  loadList(parts.join("/"));
+};
+
+// Start
+document.addEventListener("DOMContentLoaded", () => loadList(""));
 /*
         ••JANGAN HAPUS INI••
 SCRIPT BY © VYNAA VALERIE 
@@ -173,13 +207,3 @@ Aturan:
 
 “Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
 */
-// Tombol BACK
-backBtn.onclick = () => {
-  if (!currentPath) return;
-  const parts = currentPath.split("/").filter(Boolean);
-  parts.pop();
-  loadList(parts.join("/"));
-};
-
-// Start
-document.addEventListener("DOMContentLoaded", () => loadList(""));
