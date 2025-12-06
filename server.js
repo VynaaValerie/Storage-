@@ -46,10 +46,15 @@ app.use("/game", express.static(path.join(__dirname, "game")));
 // Audio files
 app.use("/audio", express.static(path.join(__dirname, "audio")));
 
-// 🔥 NEW: Image files (jpg, png, dll)
-// Taruh file gambar di folder: ./image
-// contoh: ./image/levelup.jpg -> https://ge.vynaa.web.id/image/levelup.jpg
+// Image files (jpg, png, dll)
 app.use("/image", express.static(path.join(__dirname, "image")));
+
+// 🔥 NEW: Font files (ttf, fnt, png bitmap font, dll)
+// Taruh file font di folder: ./font
+// contoh: ./font/Spell of Asia.ttf        -> /font/Spell%20of%20Asia.ttf
+//         ./font/Spell_of_Asia.fnt       -> /font/Spell_of_Asia.fnt
+//         ./font/Spell_of_Asia.png       -> /font/Spell_of_Asia.png
+app.use("/font", express.static(path.join(__dirname, "font")));
 // ======================================================== //
 
 // Route utama
@@ -69,7 +74,7 @@ const HIDDEN = new Set([
   "___vc",
   "vercel.json",
   "",
-  "node_modules"
+  "node_modules",
 ]);
 
 function cleanPath(p) {
@@ -96,7 +101,7 @@ app.get("/api/list", async (req, res) => {
             name: e.name,
             type: e.isDirectory() ? "folder" : "file",
             size: stat.size,
-            mtime: stat.mtime
+            mtime: stat.mtime,
           };
         })
     );
@@ -116,31 +121,3 @@ app.get("/api/list", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server jalan di http://localhost:${PORT}`);
 });
-
-/*
-        ••JANGAN HAPUS INI••
-SCRIPT BY © VYNAA VALERIE 
-•• recode kasih credits 
-•• contacts: (6282389924037)
-•• instagram: @vynaa_valerie 
-•• (github.com/VynaaValerie) 
-
-• Menerima pembuatan script bot
-• Menerima perbaikan script atau fitur bot
-• Menerima pembuatan fitur bot
-• Menerima semua kebutuhan bot
-• Menerima Jadi Bot
-
-ℹ️ Information
-
-• Pembayaran bisa dicicil
-• Bisa bayar di awal atau akhir
-• Pembayaran melalu QRIS Only
-• Testimoni Banyak
-
-Aturan:
-1. Dilarang memperjualbelikan script ini.
-2. Hak cipta milik Vynaa Valerie.
-
-“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
-*/
