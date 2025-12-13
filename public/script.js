@@ -1,248 +1,209 @@
-[file name]: script.js
-[file content begin]
-"use strict";
+const listEl = document.getElementById("list");
+const breadcrumbEl = document.getElementById("breadcrumb");
+const backBtn = document.getElementById("btn-back");
 
 let currentPath = "";
+/*
+        ••JANGAN HAPUS INI••
+SCRIPT BY © VYNAA VALERIE 
+•• recode kasih credits 
+•• contacts: (6282389924037)
+•• instagram: @vynaa_valerie 
+•• (github.com/VynaaValerie) 
 
-const $ = (sel) => document.querySelector(sel);
+• Menerima pembuatan script bot
+• Menerima perbaikan script atau fitur bot
+• Menerima pembuatan fitur bot
+• Menerima semua kebutuhan bot
+• Menerima Jadi Bot
 
-function formatBytes(bytes) {
-  if (bytes == null) return "";
-  const units = ["B", "KB", "MB", "GB", "TB"];
-  let i = 0;
-  let n = Number(bytes);
-  while (n >= 1024 && i < units.length - 1) {
-    n /= 1024;
-    i++;
-  }
-  return `${n.toFixed(i === 0 ? 0 : 2)} ${units[i]}`;
+ℹ️ Information
+
+• Pembayaran bisa dicicil
+• Bisa bayar di awal atau akhir
+• Pembayaran melalu QRIS Only
+• Testimoni Banyak
+
+Aturan:
+1. Dilarang memperjualbelikan script ini.
+2. Hak cipta milik Vynaa Valerie.
+
+“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
+*/
+
+// Format size file
+function formatSize(bytes) {
+  if (bytes < 1024) return bytes + " B";
+  const KB = bytes / 1024;
+  if (KB < 1024) return KB.toFixed(1) + " KB";
+  const MB = KB / 1024;
+  if (MB < 1024) return MB.toFixed(1) + " MB";
+  const GB = MB / 1024;
+  return GB.toFixed(1) + " GB";
 }
 
-function formatDate(ms) {
-  if (!ms) return "";
-  const d = new Date(ms);
-  return d.toLocaleString();
+// Format tanggal
+function formatDate(d) {
+  const dt = new Date(d);
+  if (isNaN(dt.getTime())) return "-";
+  return dt.toLocaleString();
 }
 
-function joinPath(base, name) {
-  if (!base) return name;
-  return `${base}/${name}`;
+// Load list folder
+async function loadList(path) {
+  const url = "/api/list" + (path ? `?path=${encodeURIComponent(path)}` : "");
+  const res = await fetch(url);
+  const data = await res.json();
+
+  currentPath = data.path || "";
+  renderBreadcrumb(currentPath);
+  renderList(data.items || []);
+  updateBack();
 }
 
-function setBreadcrumb(pathStr) {
-  const el = $("#breadcrumb");
-  if (!el) return;
-
-  const parts = pathStr ? pathStr.split("/") : [];
-  const frag = document.createDocumentFragment();
+// Render folder breadcrumb
+function renderBreadcrumb(path) {
+  breadcrumbEl.innerHTML = "";
 
   const root = document.createElement("span");
   root.className = "crumb-clickable";
-  root.textContent = "root";
-  root.onclick = (e) => {
-    e.preventDefault();
-    loadList("");
-  };
-  frag.appendChild(root);
+  root.textContent = "Root";
+  root.onclick = () => loadList("");
+  breadcrumbEl.appendChild(root);
 
-  let accum = "";
-  for (const p of parts) {
-    if (!p) continue;
-    accum = accum ? `${accum}/${p}` : p;
+  if (!path) return;
 
-    frag.appendChild(document.createTextNode(" / "));
+  const parts = path.split("/").filter(Boolean);
+  let walk = "";
 
-    const a = document.createElement("span");
-    a.className = "crumb-clickable";
-    a.textContent = p;
-    a.onclick = (e) => {
-      e.preventDefault();
-      loadList(accum);
-    };
-    frag.appendChild(a);
-  }
+  parts.forEach((p, idx) => {
+    breadcrumbEl.appendChild(document.createTextNode(" / "));
+    walk += (walk ? "/" : "") + p;
 
-  el.innerHTML = "";
-  el.appendChild(frag);
+    const s = document.createElement("span");
+    s.textContent = p;
+
+    if (idx === parts.length - 1) {
+      s.className = "crumb-current";
+    } else {
+      s.className = "crumb-clickable";
+      s.onclick = () => loadList(walk);
+    }
+    breadcrumbEl.appendChild(s);
+  });
 }
 
-function isTextLike(name) {
-  const lower = String(name).toLowerCase();
-  const textExtensions = [
-    ".js", ".mjs", ".cjs", ".ts", ".tsx", ".jsx",
-    ".json", ".txt", ".md", ".html", ".htm", ".css",
-    ".scss", ".sass", ".xml", ".yml", ".yaml",
-    ".env", ".gitignore", ".editorconfig",
-    ".fnt", ".csv", ".log", ".sql", ".php", ".py",
-    ".rb", ".java", ".c", ".cpp", ".h", ".hpp",
-    ".go", ".rs", ".swift", ".kt", ".dart"
-  ];
-  
-  return textExtensions.some(ext => lower.endsWith(ext));
-}
+// Render daftar file/folder
+function renderList(items) {
+  listEl.innerHTML = "";
 
-function isImageLike(name) {
-  const lower = String(name).toLowerCase();
-  return lower.endsWith(".jpg") || lower.endsWith(".jpeg") || 
-         lower.endsWith(".png") || lower.endsWith(".gif") ||
-         lower.endsWith(".bmp") || lower.endsWith(".webp") ||
-         lower.endsWith(".svg");
-}
-
-function isAudioLike(name) {
-  const lower = String(name).toLowerCase();
-  return lower.endsWith(".mp3") || lower.endsWith(".wav") || 
-         lower.endsWith(".ogg") || lower.endsWith(".m4a");
-}
-
-function isVideoLike(name) {
-  const lower = String(name).toLowerCase();
-  return lower.endsWith(".mp4") || lower.endsWith(".webm") || 
-         lower.endsWith(".mov") || lower.endsWith(".avi");
-}
-
-async function updatePreview(item, path) {
-  const previewName = $("#preview-name");
-  const previewContent = $("#preview-content");
-  
-  if (!item || item.type === "folder") {
-    previewName.textContent = "";
-    previewContent.innerHTML = "";
+  if (!items.length) {
+    const empty = document.createElement("div");
+    empty.className = "empty";
+    empty.textContent = "Folder kosong.";
+    listEl.appendChild(empty);
     return;
   }
 
-  const fullPath = joinPath(path, item.name);
-  previewName.textContent = fullPath;
+  items.forEach((it) => {
+    const row = document.createElement("div");
+    row.className = "item-row";
 
-  if (isTextLike(item.name)) {
-    try {
-      const res = await fetch(`/api/code?path=${encodeURIComponent(fullPath)}`);
-      if (res.ok) {
-        const text = await res.text();
-        previewContent.textContent = text;
-      } else {
-        previewContent.textContent = `Error loading file: ${res.status}`;
-      }
-    } catch (e) {
-      previewContent.textContent = `Error: ${e.message}`;
-    }
-  } else if (isImageLike(item.name)) {
-    previewContent.innerHTML = `<img src="/api/raw?path=${encodeURIComponent(fullPath)}" alt="${item.name}" style="max-width: 100%; border-radius: 8px;">`;
-  } else if (isAudioLike(item.name)) {
-    previewContent.innerHTML = `<audio controls style="width: 100%; margin-top: 10px;"><source src="/api/raw?path=${encodeURIComponent(fullPath)}" type="audio/mpeg"></audio>`;
-  } else if (isVideoLike(item.name)) {
-    previewContent.innerHTML = `<video controls style="width: 100%; border-radius: 8px;"><source src="/api/raw?path=${encodeURIComponent(fullPath)}" type="video/mp4"></video>`;
-  } else {
-    previewContent.textContent = `[Binary file - ${formatBytes(item.size)}]\nClick "View" or "Raw" to download.`;
-  }
-}
+    const icon = document.createElement("div");
+    icon.className = "item-icon";
+    icon.textContent = it.type === "folder" ? "📁" : "📄";
 
-async function loadList(p) {
-  currentPath = p || "";
-  setBreadcrumb(currentPath);
+    const main = document.createElement("div");
+    main.className = "item-main";
 
-  const list = $("#list");
-  if (!list) return;
+    const name = document.createElement("div");
+    name.className = "item-name";
+    name.textContent = it.name;
 
-  list.innerHTML = '<div class="empty-state">Loading...</div>';
+    const meta = document.createElement("div");
+    meta.className = "item-meta";
+    meta.textContent =
+      it.type === "folder" ? "folder" : formatSize(it.size || 0);
 
-  try {
-    const res = await fetch(`/api/list?path=${encodeURIComponent(currentPath)}`);
-    const data = await res.json();
-    if (!data.ok) throw new Error(data.error || "Failed");
+    main.appendChild(name);
+    main.appendChild(meta);
 
-    list.innerHTML = "";
+    const right = document.createElement("div");
+    right.className = "item-right";
+    right.textContent = formatDate(it.mtime);
 
-    if (data.items.length === 0) {
-      list.innerHTML = '<div class="empty-state">Folder kosong</div>';
-      return;
-    }
+    row.appendChild(icon);
+    row.appendChild(main);
+    row.appendChild(right);
 
-    for (const it of data.items) {
-      const row = document.createElement("div");
-      row.className = "item-row";
-
-      const icon = document.createElement("div");
-      icon.className = it.type === "folder" ? "icon icon-folder" : "icon icon-file";
-
-      const main = document.createElement("div");
-      main.className = "item-main";
-
-      const name = document.createElement("div");
-      name.className = "item-name";
-      name.textContent = it.name;
-
-      const meta = document.createElement("div");
-      meta.className = "item-meta";
-      meta.textContent = it.type === "folder" ? "Folder" : formatBytes(it.size);
-
-      main.appendChild(name);
-      main.appendChild(meta);
-
-      const right = document.createElement("div");
-      right.className = "item-right";
-      right.textContent = formatDate(it.mtime);
-
-      row.appendChild(icon);
-      row.appendChild(main);
-      row.appendChild(right);
-
+    row.onclick = () => {
       if (it.type === "folder") {
-        row.onclick = () => loadList(joinPath(currentPath, it.name));
+        const p = currentPath ? `${currentPath}/${it.name}` : it.name;
+        loadList(p);
       } else {
-        row.onclick = () => {
-          updatePreview(it, currentPath);
-          
-          // Untuk file text, buka di tab baru ketika double click
-          if (isTextLike(it.name)) {
-            const openUrl = `/api/code?path=${encodeURIComponent(joinPath(currentPath, it.name))}`;
-            window.open(openUrl, "_blank", "noopener");
-          }
-        };
-        
-        // Tambah context menu untuk opsi lainnya
-        row.addEventListener("contextmenu", (e) => {
-          e.preventDefault();
-          // Bisa ditambahkan menu konteks di sini nanti
-        });
-      }
+        // Jika file text-like (js, json, txt, md, fnt, html, css) → buka via /api/raw
+        const p = currentPath ? `${currentPath}/${it.name}` : it.name;
+        const ext = it.name.split(".").pop().toLowerCase();
+        const textLike = ["json", "js", "txt", "md", "fnt", "html", "css"];
 
-      list.appendChild(row);
-    }
-    
-    // Reset preview ketika pindah folder
-    updatePreview(null, currentPath);
-  } catch (e) {
-    list.innerHTML = `<div class="empty-state">Error: ${e.message}</div>`;
-  }
+        if (textLike.includes(ext)) {
+          window.location.href = `/api/raw?path=${encodeURIComponent(p)}`;
+        } else {
+          // default: buka langsung (mp3, jpg, png, ttf, dll)
+          window.location.href = "/" + p;
+        }
+      }
+    };
+
+    listEl.appendChild(row);
+  });
 }
 
 // Update tombol back
-function updateBackButton() {
-  const btnBack = $("#btn-back");
-  if (!btnBack) return;
-  
+function updateBack() {
   if (!currentPath) {
-    btnBack.className = "back-btn back-btn-disabled";
-    btnBack.onclick = null;
+    backBtn.disabled = true;
+    backBtn.classList.add("disabled");
   } else {
-    btnBack.className = "back-btn";
-    btnBack.onclick = () => {
-      const parts = currentPath.split("/").filter(Boolean);
-      parts.pop();
-      loadList(parts.join("/"));
-    };
+    backBtn.disabled = false;
+    backBtn.classList.remove("disabled");
   }
 }
 
-window.addEventListener("DOMContentLoaded", () => {
-  loadList("");
-  
-  // Update back button setiap kali path berubah
-  const observer = new MutationObserver(updateBackButton);
-  const breadcrumb = $("#breadcrumb");
-  if (breadcrumb) {
-    observer.observe(breadcrumb, { childList: true, subtree: true });
-  }
-});
-[file content end]
+// Tombol BACK
+backBtn.onclick = () => {
+  if (!currentPath) return;
+  const parts = currentPath.split("/").filter(Boolean);
+  parts.pop();
+  loadList(parts.join("/"));
+};
+
+// Start
+document.addEventListener("DOMContentLoaded", () => loadList(""));
+/*
+        ••JANGAN HAPUS INI••
+SCRIPT BY © VYNAA VALERIE 
+•• recode kasih credits 
+•• contacts: (6282389924037)
+•• instagram: @vynaa_valerie 
+•• (github.com/VynaaValerie) 
+
+• Menerima pembuatan script bot
+• Menerima perbaikan script atau fitur bot
+• Menerima pembuatan fitur bot
+• Menerima semua kebutuhan bot
+• Menerima Jadi Bot
+
+ℹ️ Information
+
+• Pembayaran bisa dicicil
+• Bisa bayar di awal atau akhir
+• Pembayaran melalu QRIS Only
+• Testimoni Banyak
+
+Aturan:
+1. Dilarang memperjualbelikan script ini.
+2. Hak cipta milik Vynaa Valerie.
+
+“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
+*/
