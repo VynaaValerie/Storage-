@@ -1,7 +1,7 @@
 {
   "name": "storage-viewer",
   "version": "1.0.0",
-  "description": "Simple storage browser with beautiful raw view",
+  "description": "Simple storage browser for any file type",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
