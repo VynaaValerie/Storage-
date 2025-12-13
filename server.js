@@ -1,160 +1,209 @@
-"use strict";
+/*
+        ••JANGAN HAPUS INI••
+SCRIPT BY © VYNAA VALERIE 
+•• recode kasih credits 
+•• contacts: (6282389924037)
+•• instagram: @vynaa_valerie 
+•• (github.com/VynaaValerie) 
+
+• Menerima pembuatan script bot
+• Menerima perbaikan script atau fitur bot
+• Menerima pembuatan fitur bot
+• Menerima semua kebutuhan bot
+• Menerima Jadi Bot
+
+ℹ️ Information
+
+• Pembayaran bisa dicicil
+• Bisa bayar di awal atau akhir
+• Pembayaran melalu QRIS Only
+• Testimoni Banyak
+
+Aturan:
+1. Dilarang memperjualbelikan script ini.
+2. Hak cipta milik Vynaa Valerie.
+
+"Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu." (QS. Al-Baqarah: 188)
+*/
 
 const express = require("express");
-const fs = require("fs");
-const fsp = require("fs/promises");
+const fs = require("fs").promises;
 const path = require("path");
 const mime = require("mime-types");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Folder yang dibrowse (default: ./storage)
-// Kamu bisa set: BASE_DIR=/path/ke/folder node server.js
-const BASE_DIR = path.resolve(process.env.BASE_DIR || path.join(__dirname, "storage"));
+// Base directory
+const BASE_DIR = __dirname;
 
-// --- Helpers ---
-function cleanPath(input) {
-  // pastikan string, decode aman
-  let p = String(input || "");
-  try {
-    p = decodeURIComponent(p);
-  } catch (_) {}
+// ===================== STATIC FOLDER ===================== //
+// Frontend utama
+app.use(express.static(path.join(__dirname, "public")));
+// Game files
+app.use("/game", express.static(path.join(__dirname, "game")));
+// Audio files
+app.use("/audio", express.static(path.join(__dirname, "audio")));
+// Image files
+app.use("/image", express.static(path.join(__dirname, "image")));
+// Font files
+app.use("/font", express.static(path.join(__dirname, "font")));
+// ======================================================== //
 
-  // normalisasi separator
-  p = p.replace(/\\/g, "/");
+// Route utama
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "index.html"));
+});
 
-  // hilangkan leading slash
-  while (p.startsWith("/")) p = p.slice(1);
+const HIDDEN = new Set([
+  "public",
+  "package.json",
+  "server.js",
+  "server.js.bak",
+  "package-lock.json",
+  ".git",
+  ".env",
+  ".v8-cache",
+  "___vc",
+  "vercel.json",
+  "",
+  "node_modules",
+]);
 
-  // normalkan dan cegah path traversal
-  const normalized = path.posix.normalize(p);
-
-  if (normalized === "." || normalized === "") return "";
-  if (normalized.startsWith("..") || normalized.includes("/..")) {
-    throw new Error("Bad path");
-  }
-  return normalized;
+function cleanPath(p) {
+  if (!p) return "";
+  return p.replace(/\\/g, "/").replace(/\.\./g, "");
 }
 
-function absFromRel(rel) {
-  const safeRel = cleanPath(rel);
-  const abs = path.join(BASE_DIR, safeRel);
-
-  // extra safety: pastikan tetap di BASE_DIR
-  const resolved = path.resolve(abs);
-  if (!resolved.startsWith(BASE_DIR)) throw new Error("Bad path");
-
-  return resolved;
+// Helper functions
+function formatBytes(bytes) {
+  if (bytes === 0) return "0 B";
+  const k = 1024;
+  const sizes = ["B", "KB", "MB", "GB"];
+  const i = Math.floor(Math.log(bytes) / Math.log(k));
+  return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + " " + sizes[i];
 }
 
-async function statSafe(filePath) {
-  try {
-    return await fsp.stat(filePath);
-  } catch {
-    return null;
-  }
+function escapeHtml(text) {
+  if (!text) return "";
+  return text
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;")
+    .replace(/\n/g, "<br>")
+    .replace(/\t/g, "&nbsp;&nbsp;&nbsp;&nbsp;")
+    .replace(/ /g, "&nbsp;");
 }
 
-// --- Static (frontend) ---
-// taruh index.html + script.js di folder yang sama dengan server.js
-app.use(express.static(__dirname));
+function getLanguageClass(ext) {
+  const langMap = {
+    '.js': 'javascript',
+    '.json': 'json',
+    '.html': 'html',
+    '.css': 'css',
+    '.php': 'php',
+    '.py': 'python',
+    '.java': 'java',
+    '.c': 'c',
+    '.cpp': 'cpp',
+    '.cs': 'csharp',
+    '.go': 'go',
+    '.rs': 'rust',
+    '.md': 'markdown',
+    '.yml': 'yaml',
+    '.yaml': 'yaml',
+    '.xml': 'xml',
+    '.sh': 'bash',
+    '.bat': 'batch',
+    '.sql': 'sql',
+    '.txt': 'plaintext',
+    '.fnt': 'plaintext',
+    '.env': 'plaintext',
+    '.gitignore': 'plaintext'
+  };
+  return langMap[ext] || 'plaintext';
+}
 
-// --- API: List directory ---
+function getFileIcon(ext, mimeType) {
+  const icons = {
+    // Code files
+    '.js': '📜', '.json': '📋', '.html': '🌐', '.css': '🎨', '.php': '🐘',
+    '.py': '🐍', '.java': '☕', '.cpp': '⚙️', '.c': '🔧', '.go': '🐹',
+    '.rs': '🦀',
+    
+    // Documents
+    '.pdf': '📕', '.doc': '📘', '.docx': '📘', '.xls': '📊', '.xlsx': '📊',
+    '.ppt': '📽️', '.pptx': '📽️', '.txt': '📄', '.md': '📝',
+    
+    // Media
+    '.jpg': '🖼️', '.jpeg': '🖼️', '.png': '🖼️', '.gif': '🎞️', '.mp4': '🎥',
+    '.mp3': '🎵', '.wav': '🎵', '.avi': '🎬', '.mov': '🎬',
+    
+    // Archives
+    '.zip': '🗜️', '.rar': '🗜️', '.tar': '🗜️', '.gz': '🗜️', '.7z': '🗜️',
+    
+    // Config
+    '.env': '⚙️', '.config': '⚙️', '.yml': '⚙️', '.yaml': '⚙️', '.xml': '⚙️',
+    '.ini': '⚙️', '.conf': '⚙️'
+  };
+  
+  return icons[ext] || (mimeType?.startsWith('image/') ? '🖼️' : 
+                       mimeType?.startsWith('audio/') ? '🎵' : 
+                       mimeType?.startsWith('video/') ? '🎥' : 
+                       mimeType?.startsWith('text/') ? '📄' : '📎');
+}
+
+// API: LIST isi folder
 app.get("/api/list", async (req, res) => {
+  const rel = cleanPath(req.query.path || "");
+  const dir = path.join(BASE_DIR, rel);
+
   try {
-    const rel = req.query.path || "";
-    const dirPath = absFromRel(rel);
+    const entries = await fs.readdir(dir, { withFileTypes: true });
 
-    const st = await statSafe(dirPath);
-    if (!st) return res.status(404).json({ ok: false, error: "Not found" });
-    if (!st.isDirectory()) return res.status(400).json({ ok: false, error: "Not a directory" });
+    const items = await Promise.all(
+      entries
+        .filter((e) => !HIDDEN.has(e.name))
+        .map(async (e) => {
+          const full = path.join(dir, e.name);
+          const stat = await fs.stat(full);
+          const ext = path.extname(e.name).toLowerCase();
+          const mimeType = mime.lookup(e.name) || "unknown";
+          const icon = e.isDirectory() ? "📁" : getFileIcon(ext, mimeType);
 
-    const entries = await fsp.readdir(dirPath, { withFileTypes: true });
+          return {
+            name: e.name,
+            type: e.isDirectory() ? "folder" : "file",
+            size: stat.size,
+            mtime: stat.mtime,
+            ext: ext,
+            mime: mimeType,
+            icon: icon
+          };
+        })
+    );
 
-    const items = [];
-    for (const ent of entries) {
-      const full = path.join(dirPath, ent.name);
-      const s = await statSafe(full);
-
-      items.push({
-        name: ent.name,
-        type: ent.isDirectory() ? "folder" : "file",
-        size: s && s.isFile() ? s.size : null,
-        mtime: s ? s.mtimeMs : null
-      });
-    }
-
-    // sort folder dulu, lalu alfabet
     items.sort((a, b) => {
-      if (a.type !== b.type) return a.type === "folder" ? -1 : 1;
-      return a.name.localeCompare(b.name);
+      if (a.type === b.type) return a.name.localeCompare(b.name);
+      return a.type === "folder" ? -1 : 1;
     });
 
-    res.json({
-      ok: true,
-      base: path.basename(BASE_DIR),
-      path: cleanPath(rel),
-      items
-    });
+    res.json({ path: rel, items });
   } catch (err) {
-    res.status(400).json({ ok: false, error: err.message });
+    console.error(err);
+    res.status(500).json({ error: err.message });
   }
 });
 
-// --- API: RAW text (khusus file text) ---
+// API: RAW VIEW FILE (tampilan rapi)
 app.get("/api/raw", async (req, res) => {
+  const rel = cleanPath(req.query.path || "");
+  const filePath = path.join(BASE_DIR, rel);
+  const MAX_FILE_SIZE = 10 * 1024 * 1024; // 10MB
+
   try {
-    const rel = req.query.path || "";
-    const filePath = absFromRel(rel);
-
-    const st = await statSafe(filePath);
-    if (!st) return res.status(404).send("Not found");
-    if (!st.isFile()) return res.status(400).send("Not a file");
-
-    const ext = path.extname(filePath).toLowerCase();
-    const textLike = new Set([
-      ".txt", ".md", ".json", ".js", ".mjs", ".cjs",
-      ".ts", ".tsx", ".jsx",
-      ".html", ".css", ".xml", ".csv", ".log", ".yml", ".yaml"
-    ]);
-
-    if (!textLike.has(ext)) {
-      return res.status(415).send("This file is not text-like. Use /api/view for inline preview.");
-    }
-
-    res.setHeader("Content-Type", "text/plain; charset=utf-8");
-    const content = await fsp.readFile(filePath, "utf8");
-    res.send(content);
-  } catch (err) {
-    res.status(400).send("Error: " + err.message);
-  }
-});
-
-// --- API: VIEW (SEMUA jenis file, inline + MIME bener) ---
-app.get("/api/view", async (req, res) => {
-  try {
-    const rel = req.query.path || "";
-    const filePath = absFromRel(rel);
-
-    const st = await statSafe(filePath);
-    if (!st) return res.status(404).send("Not found");
-    if (!st.isFile()) return res.status(400).send("Not a file");
-
-    const type = mime.lookup(filePath) || "application/octet-stream";
-    res.setHeader("Content-Type", type);
-    res.setHeader("Content-Disposition", `inline; filename="${path.basename(filePath)}"`);
-
-    const stream = fs.createReadStream(filePath);
-    stream.on("error", (e) => res.status(500).send("Error: " + e.message));
-    stream.pipe(res);
-  } catch (err) {
-    res.status(400).send("Error: " + err.message);
-  }
-});
-
-app.listen(PORT, () => {
-  console.log("Storage Viewer running:");
-  console.log("PORT:", PORT);
-  console.log("BASE_DIR:", BASE_DIR);
-});
+    const stat = await fs.stat(filePath);
+    
+    if (stat.size > MAX_FILE
