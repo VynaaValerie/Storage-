@@ -1,0 +1,21 @@
+{
+  "name": "Storage Browser Pro",
+  "short_name": "Storage",
+  "description": "Advanced file browser with beautiful preview",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111315",
+  "theme_color": "#ffb547",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
