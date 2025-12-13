@@ -1,3 +1,10 @@
+const express = require("express");
+const fs = require("fs").promises;
+const path = require("path");
+
+const app = express();
+const PORT = process.env.PORT || 3000;
+
 /*
         ••JANGAN HAPUS INI••
 SCRIPT BY © VYNAA VALERIE 
@@ -25,13 +32,6 @@ Aturan:
 
 “Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
 */
-
-const express = require("express");
-const fs = require("fs").promises;
-const path = require("path");
-
-const app = express();
-const PORT = process.env.PORT || 3000;
 
 // Base
 const BASE_DIR = __dirname;
@@ -82,7 +82,8 @@ const HIDDEN = new Set([
 
 function cleanPath(p) {
   if (!p) return "";
-  return p.replace(/\\/g, "/").replace(/\.\./g, "");
+  // Menghapus garis miring ganda, mengganti backslash, dan mencegah traversi direktori (..)
+  return p.replace(/\\/g, "/").replace(/\.\./g, "").replace(/\/\//g, "/");
 }
 
 // API: LIST isi folder
@@ -110,13 +111,19 @@ app.get("/api/list", async (req, res) => {
     );
 
     items.sort((a, b) => {
-      if (a.type === b.type) return a.name.localeCompare(b.name);
-      return a.type === "folder" ? -1 : 1;
+      // Folder di atas File
+      if (a.type !== b.type) return a.type === "folder" ? -1 : 1;
+      // Urutan alfabetis
+      return a.name.localeCompare(b.name);
     });
 
     res.json({ path: rel, items });
   } catch (err) {
-    console.error(err);
+    console.error(`Error listing directory ${dir}: ${err.message}`);
+    // Kirim 404 jika folder tidak ditemukan
+    if (err.code === 'ENOENT') {
+        return res.status(404).json({ error: `Path not found: /${rel}` });
+    }
     res.status(500).json({ error: err.message });
   }
 });
@@ -128,20 +135,28 @@ app.get("/api/raw", async (req, res) => {
 
   try {
     const ext = path.extname(filePath).toLowerCase();
-    const textLike = [".js", ".json", ".txt", ".md", ".fnt", ".html", ".css"];
+    // Tambahkan .md (Markdown) ke daftar file teks
+    const textLike = [".js", ".json", ".txt", ".md", ".fnt", ".html", ".css", ".yaml", ".yml", ".ts", ".jsx", ".tsx"];
 
-    const encoding = textLike.includes(ext) ? "utf8" : null;
+    const isTextFile = textLike.includes(ext);
+    const encoding = isTextFile ? "utf8" : null;
     const data = await fs.readFile(filePath, encoding || undefined);
 
-    if (encoding) {
+    if (isTextFile) {
+      // Pastikan disajikan sebagai plain text agar browser tidak mencoba merender HTML/CSS
       res.setHeader("Content-Type", "text/plain; charset=utf-8");
       res.send(data);
     } else {
+      // Untuk file biner (audio, image, dll.)
       res.setHeader("Content-Type", "application/octet-stream");
       res.send(data);
     }
   } catch (err) {
-    console.error(err);
+    console.error(`Error reading file ${filePath}: ${err.message}`);
+    // Kirim 404 jika file tidak ditemukan
+    if (err.code === 'ENOENT') {
+        return res.status(404).send("File not found: " + rel);
+    }
     res.status(500).send("Error: " + err.message);
   }
 });
@@ -149,30 +164,3 @@ app.get("/api/raw", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server jalan di http://localhost:${PORT}`);
 });
-/*
-        ••JANGAN HAPUS INI••
-SCRIPT BY © VYNAA VALERIE 
-•• recode kasih credits 
-•• contacts: (6282389924037)
-•• instagram: @vynaa_valerie 
-•• (github.com/VynaaValerie) 
-
-• Menerima pembuatan script bot
-• Menerima perbaikan script atau fitur bot
-• Menerima pembuatan fitur bot
-• Menerima semua kebutuhan bot
-• Menerima Jadi Bot
-
-ℹ️ Information
-
-• Pembayaran bisa dicicil
-• Bisa bayar di awal atau akhir
-• Pembayaran melalu QRIS Only
-• Testimoni Banyak
-
-Aturan:
-1. Dilarang memperjualbelikan script ini.
-2. Hak cipta milik Vynaa Valerie.
-
-“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
-*/
