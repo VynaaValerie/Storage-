@@ -1,4 +1,3 @@
-
 /*
         ••JANGAN HAPUS INI••
 SCRIPT BY © VYNAA VALERIE 
@@ -24,13 +23,12 @@ Aturan:
 1. Dilarang memperjualbelikan script ini.
 2. Hak cipta milik Vynaa Valerie.
 
-"Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu." (QS. Al-Baqarah: 188)
+“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
 */
 
 const express = require("express");
 const fs = require("fs").promises;
 const path = require("path");
-const mime = require("mime-types");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -49,9 +47,15 @@ app.use("/game", express.static(path.join(__dirname, "game")));
 app.use("/audio", express.static(path.join(__dirname, "audio")));
 
 // 🔥 NEW: Image files (jpg, png, dll)
+// Taruh file gambar di folder: ./image
+// contoh: ./image/levelup.jpg -> https://ge.vynaa.web.id/image/levelup.jpg
 app.use("/image", express.static(path.join(__dirname, "image")));
 
 // 🔥 NEW: Font files (ttf, fnt, png bitmap font, dll)
+// Taruh file font di folder: ./font
+// contoh: ./font/Spell of Asia.ttf  -> /font/Spell%20of%20Asia.ttf
+//         ./font/Spell_of_Asia.fnt -> /font/Spell_of_Asia.fnt
+//         ./font/Spell_of_Asia.png -> /font/Spell_of_Asia.png
 app.use("/font", express.static(path.join(__dirname, "font")));
 
 // ======================================================== //
@@ -91,7 +95,7 @@ app.get("/api/list", async (req, res) => {
 
     const items = await Promise.all(
       entries
-        .filter((e) => !HIDDEN.has(e.name))
+        .filter((e) => !HIDDEN.has(e.name)) // sembunyikan yang sensitif
         .map(async (e) => {
           const full = path.join(dir, e.name);
           const stat = await fs.stat(full);
@@ -117,103 +121,24 @@ app.get("/api/list", async (req, res) => {
   }
 });
 
-// API: RAW VIEW FILE (untuk download/view binary)
+// API: RAW VIEW FILE (lihat isi mentah .js, .json, .fnt, dll)
 app.get("/api/raw", async (req, res) => {
   const rel = cleanPath(req.query.path || "");
   const filePath = path.join(BASE_DIR, rel);
 
   try {
-    const mimeType = mime.lookup(filePath) || "application/octet-stream";
-    const data = await fs.readFile(filePath);
-
-    res.setHeader("Content-Type", mimeType);
-    res.setHeader("Content-Disposition", `inline; filename="${path.basename(filePath)}"`);
-    res.send(data);
-  } catch (err) {
-    console.error(err);
-    res.status(500).send("Error: " + err.message);
-  }
-});
-
-// 🔥 NEW: API untuk view code seperti GitHub (raw content text only)
-app.get("/api/code", async (req, res) => {
-  const rel = cleanPath(req.query.path || "");
-  const filePath = path.join(BASE_DIR, rel);
-
-  try {
-    // Cek apakah file text-based
     const ext = path.extname(filePath).toLowerCase();
-    const textExtensions = [
-      ".js", ".mjs", ".cjs", ".ts", ".tsx", ".jsx",
-      ".json", ".txt", ".md", ".html", ".htm", ".css",
-      ".scss", ".sass", ".xml", ".yml", ".yaml",
-      ".env", ".gitignore", ".editorconfig",
-      ".fnt", ".csv", ".log", ".sql", ".php", ".py",
-      ".rb", ".java", ".c", ".cpp", ".h", ".hpp",
-      ".go", ".rs", ".swift", ".kt", ".dart"
-    ];
+    const textLike = [".js", ".json", ".txt", ".md", ".fnt", ".html", ".css"];
 
-    if (!textExtensions.includes(ext)) {
-      // Jika bukan file text, redirect ke /api/raw
-      return res.redirect(`/api/raw?path=${encodeURIComponent(rel)}`);
-    }
+    const encoding = textLike.includes(ext) ? "utf8" : null;
+    const data = await fs.readFile(filePath, encoding || undefined);
 
-    // Baca file sebagai text
-    const content = await fs.readFile(filePath, "utf8");
-    
-    // Kirim sebagai plain text dengan header sederhana
-    res.setHeader("Content-Type", "text/plain; charset=utf-8");
-    res.setHeader("Cache-Control", "no-cache");
-    res.send(content);
-  } catch (err) {
-    console.error(err);
-    res.status(500).send("Error: " + err.message);
-  }
-});
-
-// API: VIEW FILE (untuk preview di iframe/embed)
-app.get("/api/view", async (req, res) => {
-  const rel = cleanPath(req.query.path || "");
-  const filePath = path.join(BASE_DIR, rel);
-
-  try {
-    const mimeType = mime.lookup(filePath) || "application/octet-stream";
-    
-    if (mimeType.startsWith("image/") || mimeType.startsWith("audio/") || mimeType.startsWith("video/")) {
-      // Untuk media files, buat halaman embed sederhana
-      const html = `
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>${path.basename(filePath)}</title>
-  <style>
-    body { margin: 0; padding: 20px; background: #111; color: #fff; font-family: monospace; }
-    .container { max-width: 100%; text-align: center; }
-    img, video, audio { max-width: 100%; max-height: 80vh; }
-    .filename { margin-bottom: 10px; color: #888; }
-    .download { margin-top: 10px; }
-    a { color: #4dabf7; text-decoration: none; }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="filename">${path.basename(filePath)}</div>
-    ${mimeType.startsWith("image/") ? `<img src="/api/raw?path=${encodeURIComponent(rel)}" alt="${path.basename(filePath)}">` : ""}
-    ${mimeType.startsWith("video/") ? `<video controls><source src="/api/raw?path=${encodeURIComponent(rel)}" type="${mimeType}"></video>` : ""}
-    ${mimeType.startsWith("audio/") ? `<audio controls><source src="/api/raw?path=${encodeURIComponent(rel)}" type="${mimeType}"></audio>` : ""}
-    <div class="download">
-      <a href="/api/raw?path=${encodeURIComponent(rel)}" download>Download</a> | 
-      <a href="/">Back to Storage</a>
-    </div>
-  </div>
-</body>
-</html>`;
-      res.send(html);
+    if (encoding) {
+      res.setHeader("Content-Type", "text/plain; charset=utf-8");
+      res.send(data);
     } else {
-      // Untuk file lain, redirect ke raw
-      res.redirect(`/api/raw?path=${encodeURIComponent(rel)}`);
+      res.setHeader("Content-Type", "application/octet-stream");
+      res.send(data);
     }
   } catch (err) {
     console.error(err);
@@ -249,5 +174,5 @@ Aturan:
 1. Dilarang memperjualbelikan script ini.
 2. Hak cipta milik Vynaa Valerie.
 
-"Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu." (QS. Al-Baqarah: 188)
+“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
 */
