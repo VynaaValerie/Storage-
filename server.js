@@ -1,178 +1,160 @@
-/*
-        ••JANGAN HAPUS INI••
-SCRIPT BY © VYNAA VALERIE 
-•• recode kasih credits 
-•• contacts: (6282389924037)
-•• instagram: @vynaa_valerie 
-•• (github.com/VynaaValerie) 
-
-• Menerima pembuatan script bot
-• Menerima perbaikan script atau fitur bot
-• Menerima pembuatan fitur bot
-• Menerima semua kebutuhan bot
-• Menerima Jadi Bot
-
-ℹ️ Information
-
-• Pembayaran bisa dicicil
-• Bisa bayar di awal atau akhir
-• Pembayaran melalu QRIS Only
-• Testimoni Banyak
-
-Aturan:
-1. Dilarang memperjualbelikan script ini.
-2. Hak cipta milik Vynaa Valerie.
-
-“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
-*/
+"use strict";
 
 const express = require("express");
-const fs = require("fs").promises;
+const fs = require("fs");
+const fsp = require("fs/promises");
 const path = require("path");
+const mime = require("mime-types");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Base
-const BASE_DIR = __dirname;
+// Folder yang dibrowse (default: ./storage)
+// Kamu bisa set: BASE_DIR=/path/ke/folder node server.js
+const BASE_DIR = path.resolve(process.env.BASE_DIR || path.join(__dirname, "storage"));
 
-// ===================== STATIC FOLDER ===================== //
-// Frontend utama
-app.use(express.static(path.join(__dirname, "public")));
+// --- Helpers ---
+function cleanPath(input) {
+  // pastikan string, decode aman
+  let p = String(input || "");
+  try {
+    p = decodeURIComponent(p);
+  } catch (_) {}
 
-// Game files (json, dll)
-app.use("/game", express.static(path.join(__dirname, "game")));
+  // normalisasi separator
+  p = p.replace(/\\/g, "/");
 
-// Audio files
-app.use("/audio", express.static(path.join(__dirname, "audio")));
+  // hilangkan leading slash
+  while (p.startsWith("/")) p = p.slice(1);
 
-// 🔥 NEW: Image files (jpg, png, dll)
-// Taruh file gambar di folder: ./image
-// contoh: ./image/levelup.jpg -> https://ge.vynaa.web.id/image/levelup.jpg
-app.use("/image", express.static(path.join(__dirname, "image")));
+  // normalkan dan cegah path traversal
+  const normalized = path.posix.normalize(p);
 
-// 🔥 NEW: Font files (ttf, fnt, png bitmap font, dll)
-// Taruh file font di folder: ./font
-// contoh: ./font/Spell of Asia.ttf  -> /font/Spell%20of%20Asia.ttf
-//         ./font/Spell_of_Asia.fnt -> /font/Spell_of_Asia.fnt
-//         ./font/Spell_of_Asia.png -> /font/Spell_of_Asia.png
-app.use("/font", express.static(path.join(__dirname, "font")));
-
-// ======================================================== //
-
-// Route utama
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "index.html"));
-});
-
-const HIDDEN = new Set([
-  "public",
-  "package.json",
-  "server.js",
-  "server.js.bak",
-  "package-lock.json",
-  ".git",
-  ".env",
-  ".v8-cache",
-  "___vc",
-  "vercel.json",
-  "",
-  "node_modules",
-]);
-
-function cleanPath(p) {
-  if (!p) return "";
-  return p.replace(/\\/g, "/").replace(/\.\./g, "");
+  if (normalized === "." || normalized === "") return "";
+  if (normalized.startsWith("..") || normalized.includes("/..")) {
+    throw new Error("Bad path");
+  }
+  return normalized;
 }
 
-// API: LIST isi folder
-app.get("/api/list", async (req, res) => {
-  const rel = cleanPath(req.query.path || "");
-  const dir = path.join(BASE_DIR, rel);
+function absFromRel(rel) {
+  const safeRel = cleanPath(rel);
+  const abs = path.join(BASE_DIR, safeRel);
 
+  // extra safety: pastikan tetap di BASE_DIR
+  const resolved = path.resolve(abs);
+  if (!resolved.startsWith(BASE_DIR)) throw new Error("Bad path");
+
+  return resolved;
+}
+
+async function statSafe(filePath) {
   try {
-    const entries = await fs.readdir(dir, { withFileTypes: true });
+    return await fsp.stat(filePath);
+  } catch {
+    return null;
+  }
+}
 
-    const items = await Promise.all(
-      entries
-        .filter((e) => !HIDDEN.has(e.name)) // sembunyikan yang sensitif
-        .map(async (e) => {
-          const full = path.join(dir, e.name);
-          const stat = await fs.stat(full);
+// --- Static (frontend) ---
+// taruh index.html + script.js di folder yang sama dengan server.js
+app.use(express.static(__dirname));
 
-          return {
-            name: e.name,
-            type: e.isDirectory() ? "folder" : "file",
-            size: stat.size,
-            mtime: stat.mtime,
-          };
-        })
-    );
+// --- API: List directory ---
+app.get("/api/list", async (req, res) => {
+  try {
+    const rel = req.query.path || "";
+    const dirPath = absFromRel(rel);
 
+    const st = await statSafe(dirPath);
+    if (!st) return res.status(404).json({ ok: false, error: "Not found" });
+    if (!st.isDirectory()) return res.status(400).json({ ok: false, error: "Not a directory" });
+
+    const entries = await fsp.readdir(dirPath, { withFileTypes: true });
+
+    const items = [];
+    for (const ent of entries) {
+      const full = path.join(dirPath, ent.name);
+      const s = await statSafe(full);
+
+      items.push({
+        name: ent.name,
+        type: ent.isDirectory() ? "folder" : "file",
+        size: s && s.isFile() ? s.size : null,
+        mtime: s ? s.mtimeMs : null
+      });
+    }
+
+    // sort folder dulu, lalu alfabet
     items.sort((a, b) => {
-      if (a.type === b.type) return a.name.localeCompare(b.name);
-      return a.type === "folder" ? -1 : 1;
+      if (a.type !== b.type) return a.type === "folder" ? -1 : 1;
+      return a.name.localeCompare(b.name);
     });
 
-    res.json({ path: rel, items });
+    res.json({
+      ok: true,
+      base: path.basename(BASE_DIR),
+      path: cleanPath(rel),
+      items
+    });
   } catch (err) {
-    console.error(err);
-    res.status(500).json({ error: err.message });
+    res.status(400).json({ ok: false, error: err.message });
   }
 });
 
-// API: RAW VIEW FILE (lihat isi mentah .js, .json, .fnt, dll)
+// --- API: RAW text (khusus file text) ---
 app.get("/api/raw", async (req, res) => {
-  const rel = cleanPath(req.query.path || "");
-  const filePath = path.join(BASE_DIR, rel);
-
   try {
+    const rel = req.query.path || "";
+    const filePath = absFromRel(rel);
+
+    const st = await statSafe(filePath);
+    if (!st) return res.status(404).send("Not found");
+    if (!st.isFile()) return res.status(400).send("Not a file");
+
     const ext = path.extname(filePath).toLowerCase();
-    const textLike = [".js", ".json", ".txt", ".md", ".fnt", ".html", ".css"];
+    const textLike = new Set([
+      ".txt", ".md", ".json", ".js", ".mjs", ".cjs",
+      ".ts", ".tsx", ".jsx",
+      ".html", ".css", ".xml", ".csv", ".log", ".yml", ".yaml"
+    ]);
 
-    const encoding = textLike.includes(ext) ? "utf8" : null;
-    const data = await fs.readFile(filePath, encoding || undefined);
-
-    if (encoding) {
-      res.setHeader("Content-Type", "text/plain; charset=utf-8");
-      res.send(data);
-    } else {
-      res.setHeader("Content-Type", "application/octet-stream");
-      res.send(data);
+    if (!textLike.has(ext)) {
+      return res.status(415).send("This file is not text-like. Use /api/view for inline preview.");
     }
+
+    res.setHeader("Content-Type", "text/plain; charset=utf-8");
+    const content = await fsp.readFile(filePath, "utf8");
+    res.send(content);
   } catch (err) {
-    console.error(err);
-    res.status(500).send("Error: " + err.message);
+    res.status(400).send("Error: " + err.message);
+  }
+});
+
+// --- API: VIEW (SEMUA jenis file, inline + MIME bener) ---
+app.get("/api/view", async (req, res) => {
+  try {
+    const rel = req.query.path || "";
+    const filePath = absFromRel(rel);
+
+    const st = await statSafe(filePath);
+    if (!st) return res.status(404).send("Not found");
+    if (!st.isFile()) return res.status(400).send("Not a file");
+
+    const type = mime.lookup(filePath) || "application/octet-stream";
+    res.setHeader("Content-Type", type);
+    res.setHeader("Content-Disposition", `inline; filename="${path.basename(filePath)}"`);
+
+    const stream = fs.createReadStream(filePath);
+    stream.on("error", (e) => res.status(500).send("Error: " + e.message));
+    stream.pipe(res);
+  } catch (err) {
+    res.status(400).send("Error: " + err.message);
   }
 });
 
 app.listen(PORT, () => {
-  console.log(`Server jalan di http://localhost:${PORT}`);
+  console.log("Storage Viewer running:");
+  console.log("PORT:", PORT);
+  console.log("BASE_DIR:", BASE_DIR);
 });
-/*
-        ••JANGAN HAPUS INI••
-SCRIPT BY © VYNAA VALERIE 
-•• recode kasih credits 
-•• contacts: (6282389924037)
-•• instagram: @vynaa_valerie 
-•• (github.com/VynaaValerie) 
-
-• Menerima pembuatan script bot
-• Menerima perbaikan script atau fitur bot
-• Menerima pembuatan fitur bot
-• Menerima semua kebutuhan bot
-• Menerima Jadi Bot
-
-ℹ️ Information
-
-• Pembayaran bisa dicicil
-• Bisa bayar di awal atau akhir
-• Pembayaran melalu QRIS Only
-• Testimoni Banyak
-
-Aturan:
-1. Dilarang memperjualbelikan script ini.
-2. Hak cipta milik Vynaa Valerie.
-
-“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
-*/
