@@ -1,10 +1,8 @@
-// rch.js (Diubah ke CommonJS)
-
-const fetch = require('node-fetch'); // Menggunakan require
+const fetch = require('node-fetch');
 
 // ====== (apikey di sini) ======
 const RCH_BASE = 'https://vynaa.web.id/tools/rch/rch';
-const RCH_APIKEY = 'ISI_APIKEY_MU'; // AMBIL FI vynaa.web.id
+const RCH_APIKEY = 'ISI_APIKEY_MU'; // AMBIL di vynaa.web.id
 // ==========================================
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
