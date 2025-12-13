@@ -1,209 +1,160 @@
-const listEl = document.getElementById("list");
-const breadcrumbEl = document.getElementById("breadcrumb");
-const backBtn = document.getElementById("btn-back");
+"use strict";
 
 let currentPath = "";
-/*
-        ••JANGAN HAPUS INI••
-SCRIPT BY © VYNAA VALERIE 
-•• recode kasih credits 
-•• contacts: (6282389924037)
-•• instagram: @vynaa_valerie 
-•• (github.com/VynaaValerie) 
 
-• Menerima pembuatan script bot
-• Menerima perbaikan script atau fitur bot
-• Menerima pembuatan fitur bot
-• Menerima semua kebutuhan bot
-• Menerima Jadi Bot
+const $ = (sel) => document.querySelector(sel);
 
-ℹ️ Information
-
-• Pembayaran bisa dicicil
-• Bisa bayar di awal atau akhir
-• Pembayaran melalu QRIS Only
-• Testimoni Banyak
-
-Aturan:
-1. Dilarang memperjualbelikan script ini.
-2. Hak cipta milik Vynaa Valerie.
-
-“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
-*/
-
-// Format size file
-function formatSize(bytes) {
-  if (bytes < 1024) return bytes + " B";
-  const KB = bytes / 1024;
-  if (KB < 1024) return KB.toFixed(1) + " KB";
-  const MB = KB / 1024;
-  if (MB < 1024) return MB.toFixed(1) + " MB";
-  const GB = MB / 1024;
-  return GB.toFixed(1) + " GB";
-}
-
-// Format tanggal
-function formatDate(d) {
-  const dt = new Date(d);
-  if (isNaN(dt.getTime())) return "-";
-  return dt.toLocaleString();
-}
-
-// Load list folder
-async function loadList(path) {
-  const url = "/api/list" + (path ? `?path=${encodeURIComponent(path)}` : "");
-  const res = await fetch(url);
-  const data = await res.json();
-
-  currentPath = data.path || "";
-  renderBreadcrumb(currentPath);
-  renderList(data.items || []);
-  updateBack();
-}
-
-// Render folder breadcrumb
-function renderBreadcrumb(path) {
-  breadcrumbEl.innerHTML = "";
-
-  const root = document.createElement("span");
-  root.className = "crumb-clickable";
-  root.textContent = "Root";
-  root.onclick = () => loadList("");
-  breadcrumbEl.appendChild(root);
-
-  if (!path) return;
-
-  const parts = path.split("/").filter(Boolean);
-  let walk = "";
-
-  parts.forEach((p, idx) => {
-    breadcrumbEl.appendChild(document.createTextNode(" / "));
-    walk += (walk ? "/" : "") + p;
-
-    const s = document.createElement("span");
-    s.textContent = p;
-
-    if (idx === parts.length - 1) {
-      s.className = "crumb-current";
-    } else {
-      s.className = "crumb-clickable";
-      s.onclick = () => loadList(walk);
-    }
-    breadcrumbEl.appendChild(s);
-  });
-}
-
-// Render daftar file/folder
-function renderList(items) {
-  listEl.innerHTML = "";
-
-  if (!items.length) {
-    const empty = document.createElement("div");
-    empty.className = "empty";
-    empty.textContent = "Folder kosong.";
-    listEl.appendChild(empty);
-    return;
+function formatBytes(bytes) {
+  if (bytes == null) return "";
+  const units = ["B", "KB", "MB", "GB", "TB"];
+  let i = 0;
+  let n = Number(bytes);
+  while (n >= 1024 && i < units.length - 1) {
+    n /= 1024;
+    i++;
   }
+  return `${n.toFixed(i === 0 ? 0 : 2)} ${units[i]}`;
+}
 
-  items.forEach((it) => {
-    const row = document.createElement("div");
-    row.className = "item-row";
+function formatDate(ms) {
+  if (!ms) return "";
+  const d = new Date(ms);
+  return d.toLocaleString();
+}
 
-    const icon = document.createElement("div");
-    icon.className = "item-icon";
-    icon.textContent = it.type === "folder" ? "📁" : "📄";
+function joinPath(base, name) {
+  if (!base) return name;
+  return `${base}/${name}`;
+}
 
-    const main = document.createElement("div");
-    main.className = "item-main";
+function setBreadcrumb(pathStr) {
+  const el = $("#breadcrumb");
+  if (!el) return;
 
-    const name = document.createElement("div");
-    name.className = "item-name";
-    name.textContent = it.name;
+  const parts = pathStr ? pathStr.split("/") : [];
+  const frag = document.createDocumentFragment();
 
-    const meta = document.createElement("div");
-    meta.className = "item-meta";
-    meta.textContent =
-      it.type === "folder" ? "folder" : formatSize(it.size || 0);
+  // root
+  const root = document.createElement("a");
+  root.href = "#";
+  root.textContent = "root";
+  root.onclick = (e) => {
+    e.preventDefault();
+    loadList("");
+  };
+  frag.appendChild(root);
 
-    main.appendChild(name);
-    main.appendChild(meta);
+  let accum = "";
+  for (const p of parts) {
+    if (!p) continue;
+    accum = accum ? `${accum}/${p}` : p;
 
-    const right = document.createElement("div");
-    right.className = "item-right";
-    right.textContent = formatDate(it.mtime);
+    const sep = document.createTextNode(" / ");
+    frag.appendChild(sep);
 
-    row.appendChild(icon);
-    row.appendChild(main);
-    row.appendChild(right);
-
-    row.onclick = () => {
-      if (it.type === "folder") {
-        const p = currentPath ? `${currentPath}/${it.name}` : it.name;
-        loadList(p);
-      } else {
-        // Jika file text-like (js, json, txt, md, fnt, html, css) → buka via /api/raw
-        const p = currentPath ? `${currentPath}/${it.name}` : it.name;
-        const ext = it.name.split(".").pop().toLowerCase();
-        const textLike = ["json", "js", "txt", "md", "fnt", "html", "css"];
-
-        if (textLike.includes(ext)) {
-          window.location.href = `/api/raw?path=${encodeURIComponent(p)}`;
-        } else {
-          // default: buka langsung (mp3, jpg, png, ttf, dll)
-          window.location.href = "/" + p;
-        }
-      }
+    const a = document.createElement("a");
+    a.href = "#";
+    a.textContent = p;
+    a.onclick = (e) => {
+      e.preventDefault();
+      loadList(accum);
     };
+    frag.appendChild(a);
+  }
 
-    listEl.appendChild(row);
-  });
+  el.innerHTML = "";
+  el.appendChild(frag);
 }
 
-// Update tombol back
-function updateBack() {
-  if (!currentPath) {
-    backBtn.disabled = true;
-    backBtn.classList.add("disabled");
-  } else {
-    backBtn.disabled = false;
-    backBtn.classList.remove("disabled");
+async function loadList(p) {
+  currentPath = p || "";
+  setBreadcrumb(currentPath);
+
+  const tbody = $("#tbody");
+  const status = $("#status");
+  if (status) status.textContent = "Loading...";
+
+  try {
+    const res = await fetch(`/api/list?path=${encodeURIComponent(currentPath)}`);
+    const data = await res.json();
+
+    if (!data.ok) throw new Error(data.error || "Failed");
+
+    if (tbody) tbody.innerHTML = "";
+
+    for (const it of data.items) {
+      const tr = document.createElement("tr");
+      tr.className = "row";
+
+      const icon = document.createElement("td");
+      icon.textContent = it.type === "folder" ? "📁" : "📄";
+
+      const name = document.createElement("td");
+      name.textContent = it.name;
+
+      const size = document.createElement("td");
+      size.textContent = it.type === "file" ? formatBytes(it.size) : "";
+
+      const mtime = document.createElement("td");
+      mtime.textContent = formatDate(it.mtime);
+
+      const actions = document.createElement("td");
+
+      const fullPath = joinPath(currentPath, it.name);
+
+      if (it.type === "file") {
+        // VIEW (inline)
+        const viewBtn = document.createElement("a");
+        viewBtn.href = `/api/view?path=${encodeURIComponent(fullPath)}`;
+        viewBtn.textContent = "View";
+        viewBtn.target = "_blank";
+        viewBtn.rel = "noopener";
+
+        // RAW (text-only)
+        const rawBtn = document.createElement("a");
+        rawBtn.href = `/api/raw?path=${encodeURIComponent(fullPath)}`;
+        rawBtn.textContent = "Raw";
+        rawBtn.target = "_blank";
+        rawBtn.rel = "noopener";
+        rawBtn.style.marginLeft = "10px";
+
+        actions.appendChild(viewBtn);
+        actions.appendChild(rawBtn);
+
+        // klik row => View
+        tr.onclick = () => {
+          window.open(`/api/view?path=${encodeURIComponent(fullPath)}`, "_blank", "noopener");
+        };
+      } else {
+        // klik folder => masuk
+        tr.onclick = () => loadList(fullPath);
+      }
+
+      tr.appendChild(icon);
+      tr.appendChild(name);
+      tr.appendChild(size);
+      tr.appendChild(mtime);
+      tr.appendChild(actions);
+
+      tbody.appendChild(tr);
+    }
+
+    if (status) status.textContent = `${data.items.length} item(s)`;
+  } catch (e) {
+    if (status) status.textContent = `Error: ${e.message}`;
   }
 }
 
-// Tombol BACK
-backBtn.onclick = () => {
-  if (!currentPath) return;
-  const parts = currentPath.split("/").filter(Boolean);
-  parts.pop();
-  loadList(parts.join("/"));
-};
+window.addEventListener("DOMContentLoaded", () => {
+  const upBtn = $("#upBtn");
+  if (upBtn) {
+    upBtn.onclick = () => {
+      if (!currentPath) return loadList("");
+      const parts = currentPath.split("/").filter(Boolean);
+      parts.pop();
+      loadList(parts.join("/"));
+    };
+  }
 
-// Start
-document.addEventListener("DOMContentLoaded", () => loadList(""));
-/*
-        ••JANGAN HAPUS INI••
-SCRIPT BY © VYNAA VALERIE 
-•• recode kasih credits 
-•• contacts: (6282389924037)
-•• instagram: @vynaa_valerie 
-•• (github.com/VynaaValerie) 
-
-• Menerima pembuatan script bot
-• Menerima perbaikan script atau fitur bot
-• Menerima pembuatan fitur bot
-• Menerima semua kebutuhan bot
-• Menerima Jadi Bot
-
-ℹ️ Information
-
-• Pembayaran bisa dicicil
-• Bisa bayar di awal atau akhir
-• Pembayaran melalu QRIS Only
-• Testimoni Banyak
-
-Aturan:
-1. Dilarang memperjualbelikan script ini.
-2. Hak cipta milik Vynaa Valerie.
-
-“Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan janganlah kamu membunuh dirimu sendiri. Sesungguhnya Allah adalah Maha Penyayang kepadamu.” (QS. Al-Baqarah: 188)
-*/
+  loadList("");
+});
