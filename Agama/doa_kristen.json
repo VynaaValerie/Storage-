@@ -1,0 +1,2205 @@
+{
+  "doa_kristen": [
+    {
+      "id": 1,
+      "judul": "Doa Meminta Tuntunan dan Hikmat",
+      "tujuan": "Memohon petunjuk Tuhan dalam menjalani hidup dan mengambil keputusan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 119:105",
+        "Yohanes 16:13",
+        "Amsal 3:5-6"
+      ]
+    },
+    {
+      "id": 2,
+      "judul": "Doa Syukur Pagi",
+      "tujuan": "Mengucap syukur untuk nafas kehidupan dan memulai hari bersama Tuhan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 4:6",
+        "Mazmur 5:4",
+        "Ratapan 3:22-23"
+      ]
+    },
+    {
+      "id": 3,
+      "judul": "Doa Perlindungan",
+      "tujuan": "Memohon perlindungan Tuhan dari bahaya, kejahatan, dan pencobaan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 121:7-8",
+        "Matius 6:13",
+        "Mazmur 91:1-2"
+      ]
+    },
+    {
+      "id": 4,
+      "judul": "Doa Memohon Damai Sejahtera",
+      "tujuan": "Memohon damai sejahtera Tuhan di hati dan keluarga",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 15:13",
+        "Yohanes 14:27",
+        "Kolose 3:15"
+      ]
+    },
+    {
+      "id": 5,
+      "judul": "Doa Kesembuhan (untuk masa depan kami)",
+      "tujuan": "Berdoa untuk pemulihan fisik, batin, dan rohani",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "3 Yohanes 1:2",
+        "Mazmur 103:2-3",
+        "Yesaya 53:5"
+      ]
+    },
+    {
+      "id": 6,
+      "judul": "Doa Penghiburan",
+      "tujuan": "Memohon penghiburan Tuhan dalam dukacita dan kesedihan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 147:3",
+        "Mazmur 34:19",
+        "Matius 5:4"
+      ]
+    },
+    {
+      "id": 7,
+      "judul": "Doa Memohon Kekuatan",
+      "tujuan": "Memohon kekuatan dan keteguhan saat menghadapi tantangan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Korintus 12:9",
+        "Yesaya 41:10",
+        "Mazmur 46:2"
+      ]
+    },
+    {
+      "id": 8,
+      "judul": "Doa Pertobatan",
+      "tujuan": "Mengakui dosa dan memohon pengampunan serta pembaruan hidup",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 51:12",
+        "Yesaya 1:18",
+        "Kisah Para Rasul 3:19"
+      ]
+    },
+    {
+      "id": 9,
+      "judul": "Doa Untuk Keluarga",
+      "tujuan": "Mendoakan keluarga agar dipimpin Tuhan, diberkati, dan bersatu",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yosua 24:15",
+        "Kolose 3:14",
+        "Mazmur 127:1"
+      ]
+    },
+    {
+      "id": 10,
+      "judul": "Doa Untuk Anak (ketika penuh sukacita)",
+      "tujuan": "Memohon Tuhan membimbing anak bertumbuh dalam iman dan karakter",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 54:13",
+        "2 Timotius 3:15",
+        "Amsal 22:6"
+      ]
+    },
+    {
+      "id": 11,
+      "judul": "Doa Untuk Pasangan",
+      "tujuan": "Memohon kasih dan kesetiaan Tuhan di dalam pernikahan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "1 Korintus 13:4-7",
+        "Pengkhotbah 4:9-10",
+        "Efesus 5:25"
+      ]
+    },
+    {
+      "id": 12,
+      "judul": "Doa Untuk Pekerjaan",
+      "tujuan": "Memohon integritas, hikmat, dan berkat Tuhan dalam pekerjaan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 90:17",
+        "Kolose 3:23",
+        "Ulangan 28:12"
+      ]
+    },
+    {
+      "id": 13,
+      "judul": "Doa Untuk Keuangan",
+      "tujuan": "Memohon kecukupan, hikmat mengelola, dan hati yang murah",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Korintus 9:8",
+        "Matius 6:33",
+        "Amsal 3:9-10"
+      ]
+    },
+    {
+      "id": 14,
+      "judul": "Doa Untuk Pelayanan",
+      "tujuan": "Memohon urapan dan kesetiaan dalam melayani Tuhan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "1 Petrus 4:10",
+        "Matius 28:19-20",
+        "Kolose 4:3"
+      ]
+    },
+    {
+      "id": 15,
+      "judul": "Doa Untuk Bangsa (dalam musim ini)",
+      "tujuan": "Berdoa bagi bangsa, pemimpin, dan kedamaian sosial",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 33:12",
+        "Amsal 21:1",
+        "Yeremia 29:7"
+      ]
+    },
+    {
+      "id": 16,
+      "judul": "Doa Memohon Kasih",
+      "tujuan": "Memohon hati yang mengasihi Tuhan dan sesama",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 22:37-39",
+        "1 Yohanes 4:19",
+        "Roma 5:5"
+      ]
+    },
+    {
+      "id": 17,
+      "judul": "Doa Menghadapi Ketakutan",
+      "tujuan": "Memohon keberanian dan iman ketika takut atau cemas",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yohanes 16:33",
+        "2 Timotius 1:7",
+        "Yesaya 43:1-2"
+      ]
+    },
+    {
+      "id": 18,
+      "judul": "Doa Sebelum Tidur",
+      "tujuan": "Menyerahkan diri dan keluarga dalam penjagaan Tuhan di malam hari",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Penuhi hati kami dengan iman, harapan, dan kasih. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:24",
+        "Mazmur 91:5",
+        "Mazmur 4:9"
+      ]
+    },
+    {
+      "id": 19,
+      "judul": "Doa Memohon Kerendahan Hati",
+      "tujuan": "Memohon hati yang lembut, rendah hati, dan mau diajar",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 4:6",
+        "Filipi 2:3-4",
+        "Amsal 11:2"
+      ]
+    },
+    {
+      "id": 20,
+      "judul": "Doa Memohon Kesetiaan (untuk keluarga kami)",
+      "tujuan": "Memohon kesetiaan dalam iman, perkataan, dan perbuatan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Wahyu 2:10",
+        "Galatia 5:22-23",
+        "1 Korintus 15:58"
+      ]
+    },
+    {
+      "id": 21,
+      "judul": "Doa Sebelum Belajar",
+      "tujuan": "Memohon fokus, ingatan, dan hikmat dalam belajar",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 119:66",
+        "Kolose 1:9",
+        "Amsal 2:6"
+      ]
+    },
+    {
+      "id": 22,
+      "judul": "Doa Sebelum Perjalanan",
+      "tujuan": "Memohon penyertaan dan keselamatan selama perjalanan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Keluaran 23:20",
+        "Mazmur 91:11",
+        "Mazmur 121:7-8"
+      ]
+    },
+    {
+      "id": 23,
+      "judul": "Doa Untuk Sahabat",
+      "tujuan": "Mendoakan sahabat agar dikuatkan, diberkati, dan bertumbuh dalam Tuhan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Pengkhotbah 4:9-10",
+        "Filipi 1:9",
+        "Amsal 17:17"
+      ]
+    },
+    {
+      "id": 24,
+      "judul": "Doa Memohon Roh Kudus Menuntun",
+      "tujuan": "Memohon pimpinan Roh Kudus dalam kehidupan sehari-hari",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yohanes 14:26",
+        "Zakharia 4:6",
+        "Galatia 5:16"
+      ]
+    },
+    {
+      "id": 25,
+      "judul": "Doa Mengampuni (untuk pelayanan kami)",
+      "tujuan": "Memohon kemampuan mengampuni dan dipulihkan dari luka",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:13",
+        "Efesus 4:32",
+        "Matius 6:14-15"
+      ]
+    },
+    {
+      "id": 26,
+      "judul": "Doa Meminta Tuntunan dan Hikmat",
+      "tujuan": "Memohon petunjuk Tuhan dalam menjalani hidup dan mengambil keputusan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:5-6",
+        "Roma 12:2",
+        "Yohanes 16:13"
+      ]
+    },
+    {
+      "id": 27,
+      "judul": "Doa Syukur Pagi",
+      "tujuan": "Mengucap syukur untuk nafas kehidupan dan memulai hari bersama Tuhan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 118:24",
+        "Mazmur 5:4",
+        "Filipi 4:6"
+      ]
+    },
+    {
+      "id": 28,
+      "judul": "Doa Perlindungan",
+      "tujuan": "Memohon perlindungan Tuhan dari bahaya, kejahatan, dan pencobaan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 121:7-8",
+        "Matius 6:13",
+        "2 Tesalonika 3:3"
+      ]
+    },
+    {
+      "id": 29,
+      "judul": "Doa Memohon Damai Sejahtera",
+      "tujuan": "Memohon damai sejahtera Tuhan di hati dan keluarga",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:15",
+        "Filipi 4:7",
+        "Yohanes 14:27"
+      ]
+    },
+    {
+      "id": 30,
+      "judul": "Doa Kesembuhan (ketika penuh sukacita)",
+      "tujuan": "Berdoa untuk pemulihan fisik, batin, dan rohani",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 103:2-3",
+        "Yakobus 5:14-15",
+        "3 Yohanes 1:2"
+      ]
+    },
+    {
+      "id": 31,
+      "judul": "Doa Penghiburan",
+      "tujuan": "Memohon penghiburan Tuhan dalam dukacita dan kesedihan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 34:19",
+        "Mazmur 147:3",
+        "2 Korintus 1:3-4"
+      ]
+    },
+    {
+      "id": 32,
+      "judul": "Doa Memohon Kekuatan",
+      "tujuan": "Memohon kekuatan dan keteguhan saat menghadapi tantangan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 4:13",
+        "Yesaya 41:10",
+        "2 Korintus 12:9"
+      ]
+    },
+    {
+      "id": 33,
+      "judul": "Doa Pertobatan",
+      "tujuan": "Mengakui dosa dan memohon pengampunan serta pembaruan hidup",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 51:12",
+        "Yesaya 1:18",
+        "1 Yohanes 1:9"
+      ]
+    },
+    {
+      "id": 34,
+      "judul": "Doa Untuk Keluarga",
+      "tujuan": "Mendoakan keluarga agar dipimpin Tuhan, diberkati, dan bersatu",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yosua 24:15",
+        "Mazmur 127:1",
+        "Kolose 3:14"
+      ]
+    },
+    {
+      "id": 35,
+      "judul": "Doa Untuk Anak (saat mengambil keputusan penting)",
+      "tujuan": "Memohon Tuhan membimbing anak bertumbuh dalam iman dan karakter",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 128:3",
+        "Amsal 22:6",
+        "2 Timotius 3:15"
+      ]
+    },
+    {
+      "id": 36,
+      "judul": "Doa Untuk Pasangan",
+      "tujuan": "Memohon kasih dan kesetiaan Tuhan di dalam pernikahan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Efesus 5:25",
+        "Pengkhotbah 4:9-10",
+        "1 Korintus 13:4-7"
+      ]
+    },
+    {
+      "id": 37,
+      "judul": "Doa Untuk Pekerjaan",
+      "tujuan": "Memohon integritas, hikmat, dan berkat Tuhan dalam pekerjaan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 16:3",
+        "Kolose 3:23",
+        "Ulangan 28:12"
+      ]
+    },
+    {
+      "id": 38,
+      "judul": "Doa Untuk Keuangan",
+      "tujuan": "Memohon kecukupan, hikmat mengelola, dan hati yang murah",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Korintus 9:8",
+        "Matius 6:33",
+        "Filipi 4:19"
+      ]
+    },
+    {
+      "id": 39,
+      "judul": "Doa Untuk Pelayanan",
+      "tujuan": "Memohon urapan dan kesetiaan dalam melayani Tuhan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 28:19-20",
+        "Kolose 4:3",
+        "2 Timotius 4:2"
+      ]
+    },
+    {
+      "id": 40,
+      "judul": "Doa Untuk Bangsa (ketika menghadapi perubahan)",
+      "tujuan": "Berdoa bagi bangsa, pemimpin, dan kedamaian sosial",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 33:12",
+        "1 Timotius 2:1-2",
+        "Yeremia 29:7"
+      ]
+    },
+    {
+      "id": 41,
+      "judul": "Doa Memohon Kasih",
+      "tujuan": "Memohon hati yang mengasihi Tuhan dan sesama",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 5:5",
+        "Kolose 3:14",
+        "1 Yohanes 4:19"
+      ]
+    },
+    {
+      "id": 42,
+      "judul": "Doa Menghadapi Ketakutan",
+      "tujuan": "Memohon keberanian dan iman ketika takut atau cemas",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yohanes 16:33",
+        "Mazmur 56:4",
+        "2 Timotius 1:7"
+      ]
+    },
+    {
+      "id": 43,
+      "judul": "Doa Sebelum Tidur",
+      "tujuan": "Menyerahkan diri dan keluarga dalam penjagaan Tuhan di malam hari",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 91:5",
+        "Mazmur 121:4",
+        "Mazmur 4:9"
+      ]
+    },
+    {
+      "id": 44,
+      "judul": "Doa Memohon Kerendahan Hati",
+      "tujuan": "Memohon hati yang lembut, rendah hati, dan mau diajar",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 2:3-4",
+        "Mikha 6:8",
+        "Yakobus 4:6"
+      ]
+    },
+    {
+      "id": 45,
+      "judul": "Doa Memohon Kesetiaan (untuk masa depan kami)",
+      "tujuan": "Memohon kesetiaan dalam iman, perkataan, dan perbuatan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 119:9",
+        "Wahyu 2:10",
+        "1 Korintus 15:58"
+      ]
+    },
+    {
+      "id": 46,
+      "judul": "Doa Sebelum Belajar",
+      "tujuan": "Memohon fokus, ingatan, dan hikmat dalam belajar",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 1:9",
+        "Amsal 2:6",
+        "Mazmur 119:66"
+      ]
+    },
+    {
+      "id": 47,
+      "judul": "Doa Sebelum Perjalanan",
+      "tujuan": "Memohon penyertaan dan keselamatan selama perjalanan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Keluaran 23:20",
+        "Mazmur 121:7-8",
+        "Mazmur 91:11"
+      ]
+    },
+    {
+      "id": 48,
+      "judul": "Doa Untuk Sahabat",
+      "tujuan": "Mendoakan sahabat agar dikuatkan, diberkati, dan bertumbuh dalam Tuhan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Pengkhotbah 4:9-10",
+        "1 Tesalonika 5:11",
+        "Amsal 17:17"
+      ]
+    },
+    {
+      "id": 49,
+      "judul": "Doa Memohon Roh Kudus Menuntun",
+      "tujuan": "Memohon pimpinan Roh Kudus dalam kehidupan sehari-hari",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yohanes 14:26",
+        "Galatia 5:16",
+        "Roma 8:14"
+      ]
+    },
+    {
+      "id": 50,
+      "judul": "Doa Mengampuni (untuk pekerjaan kami)",
+      "tujuan": "Memohon kemampuan mengampuni dan dipulihkan dari luka",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:13",
+        "Roma 12:18",
+        "Matius 6:14-15"
+      ]
+    },
+    {
+      "id": 51,
+      "judul": "Doa Meminta Tuntunan dan Hikmat",
+      "tujuan": "Memohon petunjuk Tuhan dalam menjalani hidup dan mengambil keputusan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:5-6",
+        "Yakobus 1:5",
+        "Yohanes 16:13"
+      ]
+    },
+    {
+      "id": 52,
+      "judul": "Doa Syukur Pagi",
+      "tujuan": "Mengucap syukur untuk nafas kehidupan dan memulai hari bersama Tuhan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 118:24",
+        "Mazmur 5:4",
+        "Ratapan 3:22-23"
+      ]
+    },
+    {
+      "id": 53,
+      "judul": "Doa Perlindungan",
+      "tujuan": "Memohon perlindungan Tuhan dari bahaya, kejahatan, dan pencobaan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 121:7-8",
+        "2 Tesalonika 3:3",
+        "Matius 6:13"
+      ]
+    },
+    {
+      "id": 54,
+      "judul": "Doa Memohon Damai Sejahtera",
+      "tujuan": "Memohon damai sejahtera Tuhan di hati dan keluarga",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:15",
+        "Yohanes 14:27",
+        "Filipi 4:7"
+      ]
+    },
+    {
+      "id": 55,
+      "judul": "Doa Kesembuhan (untuk hubungan kami)",
+      "tujuan": "Berdoa untuk pemulihan fisik, batin, dan rohani",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 5:14-15",
+        "Yesaya 53:5",
+        "Mazmur 103:2-3"
+      ]
+    },
+    {
+      "id": 56,
+      "judul": "Doa Penghiburan",
+      "tujuan": "Memohon penghiburan Tuhan dalam dukacita dan kesedihan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 5:4",
+        "2 Korintus 1:3-4",
+        "Mazmur 147:3"
+      ]
+    },
+    {
+      "id": 57,
+      "judul": "Doa Memohon Kekuatan",
+      "tujuan": "Memohon kekuatan dan keteguhan saat menghadapi tantangan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Penuhi hati kami dengan iman, harapan, dan kasih. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Korintus 12:9",
+        "Yesaya 41:10",
+        "Filipi 4:13"
+      ]
+    },
+    {
+      "id": 58,
+      "judul": "Doa Pertobatan",
+      "tujuan": "Mengakui dosa dan memohon pengampunan serta pembaruan hidup",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "1 Yohanes 1:9",
+        "Yesaya 1:18",
+        "Kisah Para Rasul 3:19"
+      ]
+    },
+    {
+      "id": 59,
+      "judul": "Doa Untuk Keluarga",
+      "tujuan": "Mendoakan keluarga agar dipimpin Tuhan, diberkati, dan bersatu",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Efesus 6:4",
+        "Yosua 24:15",
+        "Kolose 3:14"
+      ]
+    },
+    {
+      "id": 60,
+      "judul": "Doa Untuk Anak (untuk pelayanan kami)",
+      "tujuan": "Memohon Tuhan membimbing anak bertumbuh dalam iman dan karakter",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 128:3",
+        "Yesaya 54:13",
+        "Amsal 22:6"
+      ]
+    },
+    {
+      "id": 61,
+      "judul": "Doa Untuk Pasangan",
+      "tujuan": "Memohon kasih dan kesetiaan Tuhan di dalam pernikahan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Pengkhotbah 4:9-10",
+        "1 Korintus 13:4-7",
+        "Efesus 5:25"
+      ]
+    },
+    {
+      "id": 62,
+      "judul": "Doa Untuk Pekerjaan",
+      "tujuan": "Memohon integritas, hikmat, dan berkat Tuhan dalam pekerjaan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Ulangan 28:12",
+        "Amsal 16:3",
+        "Mazmur 90:17"
+      ]
+    },
+    {
+      "id": 63,
+      "judul": "Doa Untuk Keuangan",
+      "tujuan": "Memohon kecukupan, hikmat mengelola, dan hati yang murah",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:9-10",
+        "Filipi 4:19",
+        "Matius 6:33"
+      ]
+    },
+    {
+      "id": 64,
+      "judul": "Doa Untuk Pelayanan",
+      "tujuan": "Memohon urapan dan kesetiaan dalam melayani Tuhan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 28:19-20",
+        "1 Petrus 4:10",
+        "2 Timotius 4:2"
+      ]
+    },
+    {
+      "id": 65,
+      "judul": "Doa Untuk Bangsa (dalam musim ini)",
+      "tujuan": "Berdoa bagi bangsa, pemimpin, dan kedamaian sosial",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yeremia 29:7",
+        "1 Timotius 2:1-2",
+        "Amsal 21:1"
+      ]
+    },
+    {
+      "id": 66,
+      "judul": "Doa Memohon Kasih",
+      "tujuan": "Memohon hati yang mengasihi Tuhan dan sesama",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 22:37-39",
+        "1 Yohanes 4:19",
+        "Roma 5:5"
+      ]
+    },
+    {
+      "id": 67,
+      "judul": "Doa Menghadapi Ketakutan",
+      "tujuan": "Memohon keberanian dan iman ketika takut atau cemas",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Timotius 1:7",
+        "Mazmur 56:4",
+        "Yesaya 43:1-2"
+      ]
+    },
+    {
+      "id": 68,
+      "judul": "Doa Sebelum Tidur",
+      "tujuan": "Menyerahkan diri dan keluarga dalam penjagaan Tuhan di malam hari",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 121:4",
+        "Mazmur 4:9",
+        "Mazmur 91:5"
+      ]
+    },
+    {
+      "id": 69,
+      "judul": "Doa Memohon Kerendahan Hati",
+      "tujuan": "Memohon hati yang lembut, rendah hati, dan mau diajar",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 2:3-4",
+        "Amsal 11:2",
+        "Mikha 6:8"
+      ]
+    },
+    {
+      "id": 70,
+      "judul": "Doa Memohon Kesetiaan (dalam musim ini)",
+      "tujuan": "Memohon kesetiaan dalam iman, perkataan, dan perbuatan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 119:9",
+        "1 Korintus 15:58",
+        "Galatia 5:22-23"
+      ]
+    },
+    {
+      "id": 71,
+      "judul": "Doa Sebelum Belajar",
+      "tujuan": "Memohon fokus, ingatan, dan hikmat dalam belajar",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 1:5",
+        "Mazmur 119:66",
+        "Kolose 1:9"
+      ]
+    },
+    {
+      "id": 72,
+      "judul": "Doa Sebelum Perjalanan",
+      "tujuan": "Memohon penyertaan dan keselamatan selama perjalanan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:5-6",
+        "Keluaran 23:20",
+        "Mazmur 91:11"
+      ]
+    },
+    {
+      "id": 73,
+      "judul": "Doa Untuk Sahabat",
+      "tujuan": "Mendoakan sahabat agar dikuatkan, diberkati, dan bertumbuh dalam Tuhan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 17:17",
+        "1 Tesalonika 5:11",
+        "Filipi 1:9"
+      ]
+    },
+    {
+      "id": 74,
+      "judul": "Doa Memohon Roh Kudus Menuntun",
+      "tujuan": "Memohon pimpinan Roh Kudus dalam kehidupan sehari-hari",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Zakharia 4:6",
+        "Yohanes 14:26",
+        "Galatia 5:16"
+      ]
+    },
+    {
+      "id": 75,
+      "judul": "Doa Mengampuni (di hari ini)",
+      "tujuan": "Memohon kemampuan mengampuni dan dipulihkan dari luka",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Efesus 4:32",
+        "Roma 12:18",
+        "Kolose 3:13"
+      ]
+    },
+    {
+      "id": 76,
+      "judul": "Doa Meminta Tuntunan dan Hikmat",
+      "tujuan": "Memohon petunjuk Tuhan dalam menjalani hidup dan mengambil keputusan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 1:5",
+        "Mazmur 119:105",
+        "Amsal 3:5-6"
+      ]
+    },
+    {
+      "id": 77,
+      "judul": "Doa Syukur Pagi",
+      "tujuan": "Mengucap syukur untuk nafas kehidupan dan memulai hari bersama Tuhan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 5:4",
+        "Ratapan 3:22-23",
+        "Filipi 4:6"
+      ]
+    },
+    {
+      "id": 78,
+      "judul": "Doa Perlindungan",
+      "tujuan": "Memohon perlindungan Tuhan dari bahaya, kejahatan, dan pencobaan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Tesalonika 3:3",
+        "Mazmur 121:7-8",
+        "Matius 6:13"
+      ]
+    },
+    {
+      "id": 79,
+      "judul": "Doa Memohon Damai Sejahtera",
+      "tujuan": "Memohon damai sejahtera Tuhan di hati dan keluarga",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 15:13",
+        "Kolose 3:15",
+        "Yohanes 14:27"
+      ]
+    },
+    {
+      "id": 80,
+      "judul": "Doa Kesembuhan (untuk kesehatan kami)",
+      "tujuan": "Berdoa untuk pemulihan fisik, batin, dan rohani",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 53:5",
+        "3 Yohanes 1:2",
+        "Mazmur 103:2-3"
+      ]
+    },
+    {
+      "id": 81,
+      "judul": "Doa Penghiburan",
+      "tujuan": "Memohon penghiburan Tuhan dalam dukacita dan kesedihan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Korintus 1:3-4",
+        "Matius 5:4",
+        "Mazmur 147:3"
+      ]
+    },
+    {
+      "id": 82,
+      "judul": "Doa Memohon Kekuatan",
+      "tujuan": "Memohon kekuatan dan keteguhan saat menghadapi tantangan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 41:10",
+        "Filipi 4:13",
+        "Mazmur 46:2"
+      ]
+    },
+    {
+      "id": 83,
+      "judul": "Doa Pertobatan",
+      "tujuan": "Mengakui dosa dan memohon pengampunan serta pembaruan hidup",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kisah Para Rasul 3:19",
+        "1 Yohanes 1:9",
+        "Yesaya 1:18"
+      ]
+    },
+    {
+      "id": 84,
+      "judul": "Doa Untuk Keluarga",
+      "tujuan": "Mendoakan keluarga agar dipimpin Tuhan, diberkati, dan bersatu",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:14",
+        "Efesus 6:4",
+        "Mazmur 127:1"
+      ]
+    },
+    {
+      "id": 85,
+      "judul": "Doa Untuk Anak (untuk pekerjaan kami)",
+      "tujuan": "Memohon Tuhan membimbing anak bertumbuh dalam iman dan karakter",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 54:13",
+        "Mazmur 128:3",
+        "2 Timotius 3:15"
+      ]
+    },
+    {
+      "id": 86,
+      "judul": "Doa Untuk Pasangan",
+      "tujuan": "Memohon kasih dan kesetiaan Tuhan di dalam pernikahan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "1 Korintus 13:4-7",
+        "Kolose 3:19",
+        "Efesus 5:25"
+      ]
+    },
+    {
+      "id": 87,
+      "judul": "Doa Untuk Pekerjaan",
+      "tujuan": "Memohon integritas, hikmat, dan berkat Tuhan dalam pekerjaan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 16:3",
+        "Ulangan 28:12",
+        "Mazmur 90:17"
+      ]
+    },
+    {
+      "id": 88,
+      "judul": "Doa Untuk Keuangan",
+      "tujuan": "Memohon kecukupan, hikmat mengelola, dan hati yang murah",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:9-10",
+        "Matius 6:33",
+        "Filipi 4:19"
+      ]
+    },
+    {
+      "id": 89,
+      "judul": "Doa Untuk Pelayanan",
+      "tujuan": "Memohon urapan dan kesetiaan dalam melayani Tuhan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 28:19-20",
+        "1 Petrus 4:10",
+        "Kolose 4:3"
+      ]
+    },
+    {
+      "id": 90,
+      "judul": "Doa Untuk Bangsa (untuk pekerjaan kami)",
+      "tujuan": "Berdoa bagi bangsa, pemimpin, dan kedamaian sosial",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yeremia 29:7",
+        "Mazmur 33:12",
+        "1 Timotius 2:1-2"
+      ]
+    },
+    {
+      "id": 91,
+      "judul": "Doa Memohon Kasih",
+      "tujuan": "Memohon hati yang mengasihi Tuhan dan sesama",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:14",
+        "Roma 5:5",
+        "1 Yohanes 4:19"
+      ]
+    },
+    {
+      "id": 92,
+      "judul": "Doa Menghadapi Ketakutan",
+      "tujuan": "Memohon keberanian dan iman ketika takut atau cemas",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Timotius 1:7",
+        "Yesaya 43:1-2",
+        "Yohanes 16:33"
+      ]
+    },
+    {
+      "id": 93,
+      "judul": "Doa Sebelum Tidur",
+      "tujuan": "Menyerahkan diri dan keluarga dalam penjagaan Tuhan di malam hari",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:24",
+        "Mazmur 91:5",
+        "Mazmur 121:4"
+      ]
+    },
+    {
+      "id": 94,
+      "judul": "Doa Memohon Kerendahan Hati",
+      "tujuan": "Memohon hati yang lembut, rendah hati, dan mau diajar",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 2:3-4",
+        "Amsal 11:2",
+        "Mikha 6:8"
+      ]
+    },
+    {
+      "id": 95,
+      "judul": "Doa Memohon Kesetiaan (ketika menghadapi perubahan)",
+      "tujuan": "Memohon kesetiaan dalam iman, perkataan, dan perbuatan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 119:9",
+        "1 Korintus 15:58",
+        "Galatia 5:22-23"
+      ]
+    },
+    {
+      "id": 96,
+      "judul": "Doa Sebelum Belajar",
+      "tujuan": "Memohon fokus, ingatan, dan hikmat dalam belajar",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 1:5",
+        "Mazmur 119:66",
+        "Kolose 1:9"
+      ]
+    },
+    {
+      "id": 97,
+      "judul": "Doa Sebelum Perjalanan",
+      "tujuan": "Memohon penyertaan dan keselamatan selama perjalanan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Keluaran 23:20",
+        "Mazmur 91:11",
+        "Mazmur 121:7-8"
+      ]
+    },
+    {
+      "id": 98,
+      "judul": "Doa Untuk Sahabat",
+      "tujuan": "Mendoakan sahabat agar dikuatkan, diberkati, dan bertumbuh dalam Tuhan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Pengkhotbah 4:9-10",
+        "Filipi 1:9",
+        "1 Tesalonika 5:11"
+      ]
+    },
+    {
+      "id": 99,
+      "judul": "Doa Memohon Roh Kudus Menuntun",
+      "tujuan": "Memohon pimpinan Roh Kudus dalam kehidupan sehari-hari",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Galatia 5:16",
+        "Zakharia 4:6",
+        "Yohanes 14:26"
+      ]
+    },
+    {
+      "id": 100,
+      "judul": "Doa Mengampuni (untuk pelayanan kami)",
+      "tujuan": "Memohon kemampuan mengampuni dan dipulihkan dari luka",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 12:18",
+        "Matius 6:14-15",
+        "Efesus 4:32"
+      ]
+    },
+    {
+      "id": 101,
+      "judul": "Doa Meminta Tuntunan dan Hikmat",
+      "tujuan": "Memohon petunjuk Tuhan dalam menjalani hidup dan mengambil keputusan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 12:2",
+        "Amsal 3:5-6",
+        "Mazmur 119:105"
+      ]
+    },
+    {
+      "id": 102,
+      "judul": "Doa Syukur Pagi",
+      "tujuan": "Mengucap syukur untuk nafas kehidupan dan memulai hari bersama Tuhan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 5:4",
+        "Mazmur 118:24",
+        "Filipi 4:6"
+      ]
+    },
+    {
+      "id": 103,
+      "judul": "Doa Perlindungan",
+      "tujuan": "Memohon perlindungan Tuhan dari bahaya, kejahatan, dan pencobaan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 6:13",
+        "2 Tesalonika 3:3",
+        "Mazmur 91:1-2"
+      ]
+    },
+    {
+      "id": 104,
+      "judul": "Doa Memohon Damai Sejahtera",
+      "tujuan": "Memohon damai sejahtera Tuhan di hati dan keluarga",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 4:7",
+        "Kolose 3:15",
+        "Yohanes 14:27"
+      ]
+    },
+    {
+      "id": 105,
+      "judul": "Doa Kesembuhan (di hari ini)",
+      "tujuan": "Berdoa untuk pemulihan fisik, batin, dan rohani",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 5:14-15",
+        "Yesaya 53:5",
+        "3 Yohanes 1:2"
+      ]
+    },
+    {
+      "id": 106,
+      "judul": "Doa Penghiburan",
+      "tujuan": "Memohon penghiburan Tuhan dalam dukacita dan kesedihan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 147:3",
+        "Mazmur 34:19",
+        "2 Korintus 1:3-4"
+      ]
+    },
+    {
+      "id": 107,
+      "judul": "Doa Memohon Kekuatan",
+      "tujuan": "Memohon kekuatan dan keteguhan saat menghadapi tantangan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 4:13",
+        "2 Korintus 12:9",
+        "Yesaya 41:10"
+      ]
+    },
+    {
+      "id": 108,
+      "judul": "Doa Pertobatan",
+      "tujuan": "Mengakui dosa dan memohon pengampunan serta pembaruan hidup",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 1:18",
+        "Mazmur 51:12",
+        "1 Yohanes 1:9"
+      ]
+    },
+    {
+      "id": 109,
+      "judul": "Doa Untuk Keluarga",
+      "tujuan": "Mendoakan keluarga agar dipimpin Tuhan, diberkati, dan bersatu",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yosua 24:15",
+        "Kolose 3:14",
+        "Mazmur 127:1"
+      ]
+    },
+    {
+      "id": 110,
+      "judul": "Doa Untuk Anak (di hari ini)",
+      "tujuan": "Memohon Tuhan membimbing anak bertumbuh dalam iman dan karakter",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 128:3",
+        "Amsal 22:6",
+        "2 Timotius 3:15"
+      ]
+    },
+    {
+      "id": 111,
+      "judul": "Doa Untuk Pasangan",
+      "tujuan": "Memohon kasih dan kesetiaan Tuhan di dalam pernikahan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:19",
+        "Efesus 5:25",
+        "Pengkhotbah 4:9-10"
+      ]
+    },
+    {
+      "id": 112,
+      "judul": "Doa Untuk Pekerjaan",
+      "tujuan": "Memohon integritas, hikmat, dan berkat Tuhan dalam pekerjaan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Penuhi hati kami dengan iman, harapan, dan kasih. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Ulangan 28:12",
+        "Kolose 3:23",
+        "Mazmur 90:17"
+      ]
+    },
+    {
+      "id": 113,
+      "judul": "Doa Untuk Keuangan",
+      "tujuan": "Memohon kecukupan, hikmat mengelola, dan hati yang murah",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 4:19",
+        "2 Korintus 9:8",
+        "Amsal 3:9-10"
+      ]
+    },
+    {
+      "id": 114,
+      "judul": "Doa Untuk Pelayanan",
+      "tujuan": "Memohon urapan dan kesetiaan dalam melayani Tuhan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Penuhi hati kami dengan iman, harapan, dan kasih. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 4:3",
+        "2 Timotius 4:2",
+        "1 Petrus 4:10"
+      ]
+    },
+    {
+      "id": 115,
+      "judul": "Doa Untuk Bangsa (untuk keluarga kami)",
+      "tujuan": "Berdoa bagi bangsa, pemimpin, dan kedamaian sosial",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "1 Timotius 2:1-2",
+        "Amsal 21:1",
+        "Yeremia 29:7"
+      ]
+    },
+    {
+      "id": 116,
+      "judul": "Doa Memohon Kasih",
+      "tujuan": "Memohon hati yang mengasihi Tuhan dan sesama",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 22:37-39",
+        "1 Yohanes 4:19",
+        "Roma 5:5"
+      ]
+    },
+    {
+      "id": 117,
+      "judul": "Doa Menghadapi Ketakutan",
+      "tujuan": "Memohon keberanian dan iman ketika takut atau cemas",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 43:1-2",
+        "Mazmur 56:4",
+        "Yohanes 16:33"
+      ]
+    },
+    {
+      "id": 118,
+      "judul": "Doa Sebelum Tidur",
+      "tujuan": "Menyerahkan diri dan keluarga dalam penjagaan Tuhan di malam hari",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 4:9",
+        "Mazmur 91:5",
+        "Amsal 3:24"
+      ]
+    },
+    {
+      "id": 119,
+      "judul": "Doa Memohon Kerendahan Hati",
+      "tujuan": "Memohon hati yang lembut, rendah hati, dan mau diajar",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 11:2",
+        "Yakobus 4:6",
+        "Mikha 6:8"
+      ]
+    },
+    {
+      "id": 120,
+      "judul": "Doa Memohon Kesetiaan (ketika penuh sukacita)",
+      "tujuan": "Memohon kesetiaan dalam iman, perkataan, dan perbuatan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Wahyu 2:10",
+        "1 Korintus 15:58",
+        "Mazmur 119:9"
+      ]
+    },
+    {
+      "id": 121,
+      "judul": "Doa Sebelum Belajar",
+      "tujuan": "Memohon fokus, ingatan, dan hikmat dalam belajar",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 2:6",
+        "Kolose 1:9",
+        "Yakobus 1:5"
+      ]
+    },
+    {
+      "id": 122,
+      "judul": "Doa Sebelum Perjalanan",
+      "tujuan": "Memohon penyertaan dan keselamatan selama perjalanan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 91:11",
+        "Mazmur 121:7-8",
+        "Amsal 3:5-6"
+      ]
+    },
+    {
+      "id": 123,
+      "judul": "Doa Untuk Sahabat",
+      "tujuan": "Mendoakan sahabat agar dikuatkan, diberkati, dan bertumbuh dalam Tuhan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Pengkhotbah 4:9-10",
+        "Filipi 1:9",
+        "Amsal 17:17"
+      ]
+    },
+    {
+      "id": 124,
+      "judul": "Doa Memohon Roh Kudus Menuntun",
+      "tujuan": "Memohon pimpinan Roh Kudus dalam kehidupan sehari-hari",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Galatia 5:16",
+        "Roma 8:14",
+        "Yohanes 14:26"
+      ]
+    },
+    {
+      "id": 125,
+      "judul": "Doa Mengampuni (untuk keluarga kami)",
+      "tujuan": "Memohon kemampuan mengampuni dan dipulihkan dari luka",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 12:18",
+        "Kolose 3:13",
+        "Matius 6:14-15"
+      ]
+    },
+    {
+      "id": 126,
+      "judul": "Doa Meminta Tuntunan dan Hikmat",
+      "tujuan": "Memohon petunjuk Tuhan dalam menjalani hidup dan mengambil keputusan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 12:2",
+        "Mazmur 119:105",
+        "Amsal 3:5-6"
+      ]
+    },
+    {
+      "id": 127,
+      "judul": "Doa Syukur Pagi",
+      "tujuan": "Mengucap syukur untuk nafas kehidupan dan memulai hari bersama Tuhan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 4:6",
+        "Mazmur 5:4",
+        "Ratapan 3:22-23"
+      ]
+    },
+    {
+      "id": 128,
+      "judul": "Doa Perlindungan",
+      "tujuan": "Memohon perlindungan Tuhan dari bahaya, kejahatan, dan pencobaan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Tesalonika 3:3",
+        "Matius 6:13",
+        "Mazmur 121:7-8"
+      ]
+    },
+    {
+      "id": 129,
+      "judul": "Doa Memohon Damai Sejahtera",
+      "tujuan": "Memohon damai sejahtera Tuhan di hati dan keluarga",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 15:13",
+        "Filipi 4:7",
+        "Kolose 3:15"
+      ]
+    },
+    {
+      "id": 130,
+      "judul": "Doa Kesembuhan (saat mengambil keputusan penting)",
+      "tujuan": "Berdoa untuk pemulihan fisik, batin, dan rohani",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 5:14-15",
+        "Mazmur 103:2-3",
+        "3 Yohanes 1:2"
+      ]
+    },
+    {
+      "id": 131,
+      "judul": "Doa Penghiburan",
+      "tujuan": "Memohon penghiburan Tuhan dalam dukacita dan kesedihan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Korintus 1:3-4",
+        "Matius 5:4",
+        "Mazmur 147:3"
+      ]
+    },
+    {
+      "id": 132,
+      "judul": "Doa Memohon Kekuatan",
+      "tujuan": "Memohon kekuatan dan keteguhan saat menghadapi tantangan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 46:2",
+        "Filipi 4:13",
+        "2 Korintus 12:9"
+      ]
+    },
+    {
+      "id": 133,
+      "judul": "Doa Pertobatan",
+      "tujuan": "Mengakui dosa dan memohon pengampunan serta pembaruan hidup",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kisah Para Rasul 3:19",
+        "1 Yohanes 1:9",
+        "Yesaya 1:18"
+      ]
+    },
+    {
+      "id": 134,
+      "judul": "Doa Untuk Keluarga",
+      "tujuan": "Mendoakan keluarga agar dipimpin Tuhan, diberkati, dan bersatu",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yosua 24:15",
+        "Mazmur 127:1",
+        "Efesus 6:4"
+      ]
+    },
+    {
+      "id": 135,
+      "judul": "Doa Untuk Anak (di hari ini)",
+      "tujuan": "Memohon Tuhan membimbing anak bertumbuh dalam iman dan karakter",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 54:13",
+        "Mazmur 128:3",
+        "Amsal 22:6"
+      ]
+    },
+    {
+      "id": 136,
+      "judul": "Doa Untuk Pasangan",
+      "tujuan": "Memohon kasih dan kesetiaan Tuhan di dalam pernikahan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "1 Korintus 13:4-7",
+        "Pengkhotbah 4:9-10",
+        "Kolose 3:19"
+      ]
+    },
+    {
+      "id": 137,
+      "judul": "Doa Untuk Pekerjaan",
+      "tujuan": "Memohon integritas, hikmat, dan berkat Tuhan dalam pekerjaan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 16:3",
+        "Mazmur 90:17",
+        "Kolose 3:23"
+      ]
+    },
+    {
+      "id": 138,
+      "judul": "Doa Untuk Keuangan",
+      "tujuan": "Memohon kecukupan, hikmat mengelola, dan hati yang murah",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:9-10",
+        "Filipi 4:19",
+        "2 Korintus 9:8"
+      ]
+    },
+    {
+      "id": 139,
+      "judul": "Doa Untuk Pelayanan",
+      "tujuan": "Memohon urapan dan kesetiaan dalam melayani Tuhan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 4:3",
+        "Matius 28:19-20",
+        "1 Petrus 4:10"
+      ]
+    },
+    {
+      "id": 140,
+      "judul": "Doa Untuk Bangsa (ketika merasa lelah)",
+      "tujuan": "Berdoa bagi bangsa, pemimpin, dan kedamaian sosial",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 33:12",
+        "Yeremia 29:7",
+        "1 Timotius 2:1-2"
+      ]
+    },
+    {
+      "id": 141,
+      "judul": "Doa Memohon Kasih",
+      "tujuan": "Memohon hati yang mengasihi Tuhan dan sesama",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Penuhi hati kami dengan iman, harapan, dan kasih. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 5:5",
+        "Matius 22:37-39",
+        "Kolose 3:14"
+      ]
+    },
+    {
+      "id": 142,
+      "judul": "Doa Menghadapi Ketakutan",
+      "tujuan": "Memohon keberanian dan iman ketika takut atau cemas",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 43:1-2",
+        "2 Timotius 1:7",
+        "Yohanes 16:33"
+      ]
+    },
+    {
+      "id": 143,
+      "judul": "Doa Sebelum Tidur",
+      "tujuan": "Menyerahkan diri dan keluarga dalam penjagaan Tuhan di malam hari",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 4:9",
+        "Amsal 3:24",
+        "Mazmur 121:4"
+      ]
+    },
+    {
+      "id": 144,
+      "judul": "Doa Memohon Kerendahan Hati",
+      "tujuan": "Memohon hati yang lembut, rendah hati, dan mau diajar",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 2:3-4",
+        "Amsal 11:2",
+        "Mikha 6:8"
+      ]
+    },
+    {
+      "id": 145,
+      "judul": "Doa Memohon Kesetiaan (untuk kesehatan kami)",
+      "tujuan": "Memohon kesetiaan dalam iman, perkataan, dan perbuatan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Wahyu 2:10",
+        "Galatia 5:22-23",
+        "Mazmur 119:9"
+      ]
+    },
+    {
+      "id": 146,
+      "judul": "Doa Sebelum Belajar",
+      "tujuan": "Memohon fokus, ingatan, dan hikmat dalam belajar",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 119:66",
+        "Kolose 1:9",
+        "Amsal 2:6"
+      ]
+    },
+    {
+      "id": 147,
+      "judul": "Doa Sebelum Perjalanan",
+      "tujuan": "Memohon penyertaan dan keselamatan selama perjalanan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 91:11",
+        "Mazmur 121:7-8",
+        "Amsal 3:5-6"
+      ]
+    },
+    {
+      "id": 148,
+      "judul": "Doa Untuk Sahabat",
+      "tujuan": "Mendoakan sahabat agar dikuatkan, diberkati, dan bertumbuh dalam Tuhan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 17:17",
+        "Filipi 1:9",
+        "Pengkhotbah 4:9-10"
+      ]
+    },
+    {
+      "id": 149,
+      "judul": "Doa Memohon Roh Kudus Menuntun",
+      "tujuan": "Memohon pimpinan Roh Kudus dalam kehidupan sehari-hari",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Galatia 5:16",
+        "Roma 8:14",
+        "Zakharia 4:6"
+      ]
+    },
+    {
+      "id": 150,
+      "judul": "Doa Mengampuni (ketika menghadapi perubahan)",
+      "tujuan": "Memohon kemampuan mengampuni dan dipulihkan dari luka",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 12:18",
+        "Matius 6:14-15",
+        "Kolose 3:13"
+      ]
+    },
+    {
+      "id": 151,
+      "judul": "Doa Meminta Tuntunan dan Hikmat",
+      "tujuan": "Memohon petunjuk Tuhan dalam menjalani hidup dan mengambil keputusan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:5-6",
+        "Roma 12:2",
+        "Mazmur 119:105"
+      ]
+    },
+    {
+      "id": 152,
+      "judul": "Doa Syukur Pagi",
+      "tujuan": "Mengucap syukur untuk nafas kehidupan dan memulai hari bersama Tuhan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 4:6",
+        "Mazmur 118:24",
+        "Mazmur 5:4"
+      ]
+    },
+    {
+      "id": 153,
+      "judul": "Doa Perlindungan",
+      "tujuan": "Memohon perlindungan Tuhan dari bahaya, kejahatan, dan pencobaan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 6:13",
+        "Mazmur 121:7-8",
+        "2 Tesalonika 3:3"
+      ]
+    },
+    {
+      "id": 154,
+      "judul": "Doa Memohon Damai Sejahtera",
+      "tujuan": "Memohon damai sejahtera Tuhan di hati dan keluarga",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 4:7",
+        "Kolose 3:15",
+        "Roma 15:13"
+      ]
+    },
+    {
+      "id": 155,
+      "judul": "Doa Kesembuhan (dalam musim ini)",
+      "tujuan": "Berdoa untuk pemulihan fisik, batin, dan rohani",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 53:5",
+        "3 Yohanes 1:2",
+        "Yakobus 5:14-15"
+      ]
+    },
+    {
+      "id": 156,
+      "judul": "Doa Penghiburan",
+      "tujuan": "Memohon penghiburan Tuhan dalam dukacita dan kesedihan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 147:3",
+        "Mazmur 34:19",
+        "Matius 5:4"
+      ]
+    },
+    {
+      "id": 157,
+      "judul": "Doa Memohon Kekuatan",
+      "tujuan": "Memohon kekuatan dan keteguhan saat menghadapi tantangan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 41:10",
+        "Mazmur 46:2",
+        "Filipi 4:13"
+      ]
+    },
+    {
+      "id": 158,
+      "judul": "Doa Pertobatan",
+      "tujuan": "Mengakui dosa dan memohon pengampunan serta pembaruan hidup",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kisah Para Rasul 3:19",
+        "1 Yohanes 1:9",
+        "Yesaya 1:18"
+      ]
+    },
+    {
+      "id": 159,
+      "judul": "Doa Untuk Keluarga",
+      "tujuan": "Mendoakan keluarga agar dipimpin Tuhan, diberkati, dan bersatu",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:14",
+        "Efesus 6:4",
+        "Mazmur 127:1"
+      ]
+    },
+    {
+      "id": 160,
+      "judul": "Doa Untuk Anak (saat mengambil keputusan penting)",
+      "tujuan": "Memohon Tuhan membimbing anak bertumbuh dalam iman dan karakter",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Penuhi hati kami dengan iman, harapan, dan kasih. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 128:3",
+        "Amsal 22:6",
+        "2 Timotius 3:15"
+      ]
+    },
+    {
+      "id": 161,
+      "judul": "Doa Untuk Pasangan",
+      "tujuan": "Memohon kasih dan kesetiaan Tuhan di dalam pernikahan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Pengkhotbah 4:9-10",
+        "Efesus 5:25",
+        "1 Korintus 13:4-7"
+      ]
+    },
+    {
+      "id": 162,
+      "judul": "Doa Untuk Pekerjaan",
+      "tujuan": "Memohon integritas, hikmat, dan berkat Tuhan dalam pekerjaan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 90:17",
+        "Kolose 3:23",
+        "Amsal 16:3"
+      ]
+    },
+    {
+      "id": 163,
+      "judul": "Doa Untuk Keuangan",
+      "tujuan": "Memohon kecukupan, hikmat mengelola, dan hati yang murah",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 4:19",
+        "2 Korintus 9:8",
+        "Matius 6:33"
+      ]
+    },
+    {
+      "id": 164,
+      "judul": "Doa Untuk Pelayanan",
+      "tujuan": "Memohon urapan dan kesetiaan dalam melayani Tuhan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 4:3",
+        "1 Petrus 4:10",
+        "2 Timotius 4:2"
+      ]
+    },
+    {
+      "id": 165,
+      "judul": "Doa Untuk Bangsa (saat mengambil keputusan penting)",
+      "tujuan": "Berdoa bagi bangsa, pemimpin, dan kedamaian sosial",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 21:1",
+        "1 Timotius 2:1-2",
+        "Yeremia 29:7"
+      ]
+    },
+    {
+      "id": 166,
+      "judul": "Doa Memohon Kasih",
+      "tujuan": "Memohon hati yang mengasihi Tuhan dan sesama",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "1 Yohanes 4:19",
+        "Kolose 3:14",
+        "Matius 22:37-39"
+      ]
+    },
+    {
+      "id": 167,
+      "judul": "Doa Menghadapi Ketakutan",
+      "tujuan": "Memohon keberanian dan iman ketika takut atau cemas",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 43:1-2",
+        "Mazmur 56:4",
+        "Yohanes 16:33"
+      ]
+    },
+    {
+      "id": 168,
+      "judul": "Doa Sebelum Tidur",
+      "tujuan": "Menyerahkan diri dan keluarga dalam penjagaan Tuhan di malam hari",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 121:4",
+        "Mazmur 91:5",
+        "Amsal 3:24"
+      ]
+    },
+    {
+      "id": 169,
+      "judul": "Doa Memohon Kerendahan Hati",
+      "tujuan": "Memohon hati yang lembut, rendah hati, dan mau diajar",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 4:6",
+        "Amsal 11:2",
+        "Mikha 6:8"
+      ]
+    },
+    {
+      "id": 170,
+      "judul": "Doa Memohon Kesetiaan (untuk pekerjaan kami)",
+      "tujuan": "Memohon kesetiaan dalam iman, perkataan, dan perbuatan",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Galatia 5:22-23",
+        "Wahyu 2:10",
+        "Mazmur 119:9"
+      ]
+    },
+    {
+      "id": 171,
+      "judul": "Doa Sebelum Belajar",
+      "tujuan": "Memohon fokus, ingatan, dan hikmat dalam belajar",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 1:5",
+        "Mazmur 119:66",
+        "Amsal 2:6"
+      ]
+    },
+    {
+      "id": 172,
+      "judul": "Doa Sebelum Perjalanan",
+      "tujuan": "Memohon penyertaan dan keselamatan selama perjalanan",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Keluaran 23:20",
+        "Amsal 3:5-6",
+        "Mazmur 91:11"
+      ]
+    },
+    {
+      "id": 173,
+      "judul": "Doa Untuk Sahabat",
+      "tujuan": "Mendoakan sahabat agar dikuatkan, diberkati, dan bertumbuh dalam Tuhan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Filipi 1:9",
+        "1 Tesalonika 5:11",
+        "Pengkhotbah 4:9-10"
+      ]
+    },
+    {
+      "id": 174,
+      "judul": "Doa Memohon Roh Kudus Menuntun",
+      "tujuan": "Memohon pimpinan Roh Kudus dalam kehidupan sehari-hari",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yohanes 14:26",
+        "Zakharia 4:6",
+        "Galatia 5:16"
+      ]
+    },
+    {
+      "id": 175,
+      "judul": "Doa Mengampuni (di hari ini)",
+      "tujuan": "Memohon kemampuan mengampuni dan dipulihkan dari luka",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:13",
+        "Roma 12:18",
+        "Matius 6:14-15"
+      ]
+    },
+    {
+      "id": 176,
+      "judul": "Doa Meminta Tuntunan dan Hikmat",
+      "tujuan": "Memohon petunjuk Tuhan dalam menjalani hidup dan mengambil keputusan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 119:105",
+        "Yohanes 16:13",
+        "Amsal 3:5-6"
+      ]
+    },
+    {
+      "id": 177,
+      "judul": "Doa Syukur Pagi",
+      "tujuan": "Mengucap syukur untuk nafas kehidupan dan memulai hari bersama Tuhan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Ratapan 3:22-23",
+        "Mazmur 118:24",
+        "Filipi 4:6"
+      ]
+    },
+    {
+      "id": 178,
+      "judul": "Doa Perlindungan",
+      "tujuan": "Memohon perlindungan Tuhan dari bahaya, kejahatan, dan pencobaan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Penuhi hati kami dengan iman, harapan, dan kasih. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 91:1-2",
+        "Matius 6:13",
+        "2 Tesalonika 3:3"
+      ]
+    },
+    {
+      "id": 179,
+      "judul": "Doa Memohon Damai Sejahtera",
+      "tujuan": "Memohon damai sejahtera Tuhan di hati dan keluarga",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yohanes 14:27",
+        "Filipi 4:7",
+        "Kolose 3:15"
+      ]
+    },
+    {
+      "id": 180,
+      "judul": "Doa Kesembuhan (ketika menghadapi perubahan)",
+      "tujuan": "Berdoa untuk pemulihan fisik, batin, dan rohani",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 5:14-15",
+        "Mazmur 103:2-3",
+        "Yesaya 53:5"
+      ]
+    },
+    {
+      "id": 181,
+      "judul": "Doa Penghiburan",
+      "tujuan": "Memohon penghiburan Tuhan dalam dukacita dan kesedihan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 34:19",
+        "Matius 5:4",
+        "2 Korintus 1:3-4"
+      ]
+    },
+    {
+      "id": 182,
+      "judul": "Doa Memohon Kekuatan",
+      "tujuan": "Memohon kekuatan dan keteguhan saat menghadapi tantangan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 41:10",
+        "Mazmur 46:2",
+        "2 Korintus 12:9"
+      ]
+    },
+    {
+      "id": 183,
+      "judul": "Doa Pertobatan",
+      "tujuan": "Mengakui dosa dan memohon pengampunan serta pembaruan hidup",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 51:12",
+        "1 Yohanes 1:9",
+        "Yesaya 1:18"
+      ]
+    },
+    {
+      "id": 184,
+      "judul": "Doa Untuk Keluarga",
+      "tujuan": "Mendoakan keluarga agar dipimpin Tuhan, diberkati, dan bersatu",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:14",
+        "Yosua 24:15",
+        "Efesus 6:4"
+      ]
+    },
+    {
+      "id": 185,
+      "judul": "Doa Untuk Anak (dalam musim ini)",
+      "tujuan": "Memohon Tuhan membimbing anak bertumbuh dalam iman dan karakter",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yesaya 54:13",
+        "Amsal 22:6",
+        "2 Timotius 3:15"
+      ]
+    },
+    {
+      "id": 186,
+      "judul": "Doa Untuk Pasangan",
+      "tujuan": "Memohon kasih dan kesetiaan Tuhan di dalam pernikahan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Kiranya damai sejahtera-Mu menjaga hati dan pikiran kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:19",
+        "Efesus 5:25",
+        "1 Korintus 13:4-7"
+      ]
+    },
+    {
+      "id": 187,
+      "judul": "Doa Untuk Pekerjaan",
+      "tujuan": "Memohon integritas, hikmat, dan berkat Tuhan dalam pekerjaan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Kolose 3:23",
+        "Ulangan 28:12",
+        "Mazmur 90:17"
+      ]
+    },
+    {
+      "id": 188,
+      "judul": "Doa Untuk Keuangan",
+      "tujuan": "Memohon kecukupan, hikmat mengelola, dan hati yang murah",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Korintus 9:8",
+        "Filipi 4:19",
+        "Amsal 3:9-10"
+      ]
+    },
+    {
+      "id": 189,
+      "judul": "Doa Untuk Pelayanan",
+      "tujuan": "Memohon urapan dan kesetiaan dalam melayani Tuhan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "1 Petrus 4:10",
+        "Kolose 4:3",
+        "2 Timotius 4:2"
+      ]
+    },
+    {
+      "id": 190,
+      "judul": "Doa Untuk Bangsa (dalam musim ini)",
+      "tujuan": "Berdoa bagi bangsa, pemimpin, dan kedamaian sosial",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 21:1",
+        "Yeremia 29:7",
+        "Mazmur 33:12"
+      ]
+    },
+    {
+      "id": 191,
+      "judul": "Doa Memohon Kasih",
+      "tujuan": "Memohon hati yang mengasihi Tuhan dan sesama",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Matius 22:37-39",
+        "1 Yohanes 4:19",
+        "Roma 5:5"
+      ]
+    },
+    {
+      "id": 192,
+      "judul": "Doa Menghadapi Ketakutan",
+      "tujuan": "Memohon keberanian dan iman ketika takut atau cemas",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "2 Timotius 1:7",
+        "Yesaya 43:1-2",
+        "Yohanes 16:33"
+      ]
+    },
+    {
+      "id": 193,
+      "judul": "Doa Sebelum Tidur",
+      "tujuan": "Menyerahkan diri dan keluarga dalam penjagaan Tuhan di malam hari",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Bimbing kami agar berpikir jernih, berkata benar, dan bertindak bijaksana. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:24",
+        "Mazmur 121:4",
+        "Mazmur 4:9"
+      ]
+    },
+    {
+      "id": 194,
+      "judul": "Doa Memohon Kerendahan Hati",
+      "tujuan": "Memohon hati yang lembut, rendah hati, dan mau diajar",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yakobus 4:6",
+        "Filipi 2:3-4",
+        "Mikha 6:8"
+      ]
+    },
+    {
+      "id": 195,
+      "judul": "Doa Memohon Kesetiaan (untuk masa depan kami)",
+      "tujuan": "Memohon kesetiaan dalam iman, perkataan, dan perbuatan",
+      "teks": "Ya Tuhan, Engkau mengenal hati dan jalan kami. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Galatia 5:22-23",
+        "1 Korintus 15:58",
+        "Wahyu 2:10"
+      ]
+    },
+    {
+      "id": 196,
+      "judul": "Doa Sebelum Belajar",
+      "tujuan": "Memohon fokus, ingatan, dan hikmat dalam belajar",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Tuntun kami berjalan dalam terang-Mu dan kebenaran-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Mazmur 119:66",
+        "Yakobus 1:5",
+        "Amsal 2:6"
+      ]
+    },
+    {
+      "id": 197,
+      "judul": "Doa Sebelum Perjalanan",
+      "tujuan": "Memohon penyertaan dan keselamatan selama perjalanan",
+      "teks": "Bapa di surga, kami menyerahkan hidup kami kepada-Mu. Tolong kami hidup rendah hati, mengasihi sesama, dan setia sampai akhir. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Amsal 3:5-6",
+        "Mazmur 91:11",
+        "Keluaran 23:20"
+      ]
+    },
+    {
+      "id": 198,
+      "judul": "Doa Untuk Sahabat",
+      "tujuan": "Mendoakan sahabat agar dikuatkan, diberkati, dan bertumbuh dalam Tuhan",
+      "teks": "Bapa Surgawi yang penuh kasih, kami datang ke hadapan-Mu. Pulihkan bagian hidup kami yang lemah, dan kuatkan langkah kami. Pimpin kami oleh Roh Kudus-Mu dalam segala hal. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "1 Tesalonika 5:11",
+        "Pengkhotbah 4:9-10",
+        "Filipi 1:9"
+      ]
+    },
+    {
+      "id": 199,
+      "judul": "Doa Memohon Roh Kudus Menuntun",
+      "tujuan": "Memohon pimpinan Roh Kudus dalam kehidupan sehari-hari",
+      "teks": "Tuhan Yesus Kristus, kami bersyukur karena anugerah-Mu. Penuhi hati kami dengan iman, harapan, dan kasih. Kami percaya Engkau menyertai kami dan tidak pernah meninggalkan kami. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Yohanes 14:26",
+        "Roma 8:14",
+        "Zakharia 4:6"
+      ]
+    },
+    {
+      "id": 200,
+      "judul": "Doa Mengampuni (untuk pelayanan kami)",
+      "tujuan": "Memohon kemampuan mengampuni dan dipulihkan dari luka",
+      "teks": "Allah Bapa yang baik, kami bersandar pada kasih setia-Mu. Ajari kami mendengar suara-Mu dan taat pada kehendak-Mu. Jadikan hidup kami kesaksian yang memuliakan nama-Mu. Dalam nama Yesus Kristus kami berdoa. Amin.",
+      "referensi_alkitab": [
+        "Roma 12:18",
+        "Kolose 3:13",
+        "Matius 6:14-15"
+      ]
+    }
+  ],
+  "catatan_umum": "Doa Kristen umumnya ditutup dengan 'Dalam nama Yesus Kristus kami berdoa. Amin.' atau cukup 'Amin.' Sebutan 'dalam nama Yesus' menegaskan iman bahwa Yesus Kristus adalah perantara antara manusia dan Allah Bapa (bdk. Yohanes 14:6; 1 Timotius 2:5)."
+}
