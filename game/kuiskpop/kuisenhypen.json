@@ -1,0 +1,1807 @@
+{
+   "status":true,
+   "game":"kuis enhypen",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama leader ENHYPEN?",
+         "tipe":"leader",
+         "jawaban":"Jungwon"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal debut ENHYPEN?",
+         "tipe":"debut date",
+         "jawaban":"30 November 2020"
+      },
+      {
+         "index":2,
+         "soal":"Lagu debut ENHYPEN adalah?",
+         "tipe":"debut song",
+         "jawaban":"Given-Taken"
+      },
+      {
+         "index":3,
+         "soal":"Dari survival show mana ENHYPEN dibentuk?",
+         "tipe":"survival show",
+         "jawaban":"I-LAND"
+      },
+      {
+         "index":4,
+         "soal":"Siapa nama fandom resmi ENHYPEN?",
+         "tipe":"fandom",
+         "jawaban":"ENGENE"
+      },
+      {
+         "index":5,
+         "soal":"Berapa jumlah anggota ENHYPEN?",
+         "tipe":"jumlah anggota",
+         "jawaban":"7"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota tertua (eomma) ENHYPEN?",
+         "tipe":"oldest",
+         "jawaban":"Heeseung"
+      },
+      {
+         "index":7,
+         "soal":"Siapa anggota termuda (maknae) ENHYPEN?",
+         "tipe":"maknae",
+         "jawaban":"Ni-Ki"
+      },
+      {
+         "index":8,
+         "soal":"Ni-Ki berasal dari negara mana?",
+         "tipe":"nationality",
+         "jawaban":"Jepang"
+      },
+      {
+         "index":9,
+         "soal":"Siapa leader dance line ENHYPEN?",
+         "tipe":"main dancer",
+         "jawaban":"Ni-Ki"
+      },
+      {
+         "index":10,
+         "soal":"Siapa visual ENHYPEN yang sering disebut?",
+         "tipe":"visual",
+         "jawaban":"Sunghoon"
+      },
+      {
+         "index":11,
+         "soal":"Sunghoon sebelumnya adalah atlet di bidang apa?",
+         "tipe":"former athlete",
+         "jawaban":"Figure skater"
+      },
+      {
+         "index":12,
+         "soal":"Siapa anggota yang memiliki julukan 'Baby Lion'?",
+         "tipe":"nickname",
+         "jawaban":"Jungwon"
+      },
+      {
+         "index":13,
+         "soal":"Apa album full length pertama ENHYPEN?",
+         "tipe":"album full",
+         "jawaban":"Dimension: Dilemma"
+      },
+      {
+         "index":14,
+         "soal":"Lagu utama dari album 'Dimension: Dilemma'?",
+         "tipe":"title track",
+         "jawaban":"Tamed-Dashed"
+      },
+      {
+         "index":15,
+         "soal":"Lagu 'Drunk-Dazed' berasal dari album?",
+         "tipe":"album",
+         "jawaban":"Border: Carnival"
+      },
+      {
+         "index":16,
+         "soal":"Siapa yang memiliki suara khas 'honey-like' di ENHYPEN?",
+         "tipe":"vocal color",
+         "jawaban":"Jungwon"
+      },
+      {
+         "index":17,
+         "soal":"Heeseung dikenal sebagai?",
+         "tipe":"position",
+         "jawaban":"Main vocal, center"
+      },
+      {
+         "index":18,
+         "soal":"Jake berasal dari negara mana?",
+         "tipe":"asal",
+         "jawaban":"Australia (Korea-Australia)"
+      },
+      {
+         "index":19,
+         "soal":"Jay dikenal karena kemampuan apa?",
+         "tipe":"skill",
+         "jawaban":"Gitar dan memasak"
+      },
+      {
+         "index":20,
+         "soal":"Siapa anggota yang paling suka olahraga bela diri (taekwondo)?",
+         "tipe":"hobi",
+         "jawaban":"Sunoo"
+      },
+      {
+         "index":21,
+         "soal":"Apa nama light stick resmi ENHYPEN?",
+         "tipe":"light stick",
+         "jawaban":"ENGENE Bong (Light Stick versi 1 dan 2)"
+      },
+      {
+         "index":22,
+         "soal":"Lagu 'Polaroid Love' dari album apa?",
+         "tipe":"lagu",
+         "jawaban":"Dimension: Answer"
+      },
+      {
+         "index":23,
+         "soal":"Siapa yang pertama kali memperkenalkan 'Energetic' dance cover?",
+         "tipe":"cover",
+         "jawaban":"Heeseung (di I-LAND)"
+      },
+      {
+         "index":24,
+         "soal":"Tahun berapa ENHYPEN debut di Jepang?",
+         "tipe":"japan debut",
+         "jawaban":"2021 (6 Juli 2021)"
+      },
+      {
+         "index":25,
+         "soal":"Lagu Jepang pertama ENHYPEN adalah?",
+         "tipe":"japanese single",
+         "jawaban":"Given-Taken (Japanese ver.) / Forget Me Not"
+      },
+      {
+         "index":26,
+         "soal":"Siapa yang menjadi MC di acara musik 'Music Bank'?",
+         "tipe":"MC",
+         "jawaban":"Sunghoon (2021-2022)"
+      },
+      {
+         "index":27,
+         "soal":"Album 'Border: Day One' berapa total lagu?",
+         "tipe":"jumlah lagu",
+         "jawaban":"6"
+      },
+      {
+         "index":28,
+         "soal":"Lirik 'You are my dream, you are my answer' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Given-Taken"
+      },
+      {
+         "index":29,
+         "soal":"Siapa yang memiliki tato 'EN-' di leher?",
+         "tipe":"tato",
+         "jawaban":"Jay (tato kecil)"
+      },
+      {
+         "index":30,
+         "soal":"Variety show pertama ENHYPEN?",
+         "tipe":"variety show",
+         "jawaban":"ENHYPEN&Hi"
+      },
+      {
+         "index":31,
+         "soal":"Siapa anggota yang paling sering posting TikTok?",
+         "tipe":"sosmed",
+         "jawaban":"Ni-Ki, Jungwon"
+      },
+      {
+         "index":32,
+         "soal":"Lagu 'Fever' adalah b-side dari album?",
+         "tipe":"album",
+         "jawaban":"Border: Carnival"
+      },
+      {
+         "index":33,
+         "soal":"Berapa minggu 'Fever' bertahan di chart Billboard Global?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 20 minggu"
+      },
+      {
+         "index":34,
+         "soal":"Siapa yang dikenal dengan 'pink prince'?",
+         "tipe":"julukan",
+         "jawaban":"Sunoo"
+      },
+      {
+         "index":35,
+         "soal":"Apa nama konser offline pertama ENHYPEN?",
+         "tipe":"konser",
+         "jawaban":"ENHYPEN World Tour 'Manifesto' (2022)"
+      },
+      {
+         "index":36,
+         "soal":"Lagu 'Blessed-Cursed' dari album?",
+         "tipe":"album",
+         "jawaban":"Dimension: Answer"
+      },
+      {
+         "index":37,
+         "soal":"Siapa yang menjadi center di 'Tamed-Dashed'?",
+         "tipe":"center",
+         "jawaban":"Heeseung"
+      },
+      {
+         "index":38,
+         "soal":"Apa nama webtoon resmi ENHYPEN?",
+         "tipe":"webtoon",
+         "jawaban":"Dark Moon: The Blood Altar"
+      },
+      {
+         "index":39,
+         "soal":"Siapa yang memiliki karakter webtoon 'Solon'?",
+         "tipe":"webtoon character",
+         "jawaban":"Heeseung"
+      },
+      {
+         "index":40,
+         "soal":"Lagu 'One In A Billion' adalah lagu untuk?",
+         "tipe":"tema",
+         "jawaban":"Webtoon Dark Moon"
+      },
+      {
+         "index":41,
+         "soal":"Siapa anggota yang paling jago main game?",
+         "tipe":"game",
+         "jawaban":"Jungwon, Jay"
+      },
+      {
+         "index":42,
+         "soal":"Album 'Manifesto: Day 1' rilis tahun?",
+         "tipe":"tahun rilis",
+         "jawaban":"2022"
+      },
+      {
+         "index":43,
+         "soal":"Lagu utama 'Manifesto: Day 1' adalah?",
+         "tipe":"title track",
+         "jawaban":"Future Perfect (Pass the MIC)"
+      },
+      {
+         "index":44,
+         "soal":"Lirik 'Pass the mic, pass the mic' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Future Perfect (Pass the MIC)"
+      },
+      {
+         "index":45,
+         "soal":"Siapa yang memiliki kemampuan akting?",
+         "tipe":"acting",
+         "jawaban":"Jay (cameo di drama 'So I Married the Anti-fan')"
+      },
+      {
+         "index":46,
+         "soal":"Siapa yang menjadi guest di acara 'Lee Mujin Service'?",
+         "tipe":"acara",
+         "jawaban":"Heeseung, Jake"
+      },
+      {
+         "index":47,
+         "soal":"Apa nama lagu solo Ni-Ki di album 'Sadame'?",
+         "tipe":"solo japanese",
+         "jawaban":"Ni-Ki belum solo, tapi ada unit? Tidak"
+      },
+      {
+         "index":48,
+         "soal":"Siapa yang memiliki cover 'Off My Face' (Justin Bieber)?",
+         "tipe":"cover",
+         "jawaban":"Jake"
+      },
+      {
+         "index":49,
+         "soal":"Berapa total album studio Korea ENHYPEN hingga 2025?",
+         "tipe":"angka",
+         "jawaban":"3 (Dimension: Dilemma, Romance: Untold, Romance: Untold -Daydream-)"
+      },
+      {
+         "index":50,
+         "soal":"Album 'Romance: Untold' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2024"
+      },
+      {
+         "index":51,
+         "soal":"Lagu utama 'Romance: Untold' adalah?",
+         "tipe":"title",
+         "jawaban":"XO (Only If You Say Yes)"
+      },
+      {
+         "index":52,
+         "soal":"Lirik 'Only if you say yes' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"XO (Only If You Say Yes)"
+      },
+      {
+         "index":53,
+         "soal":"Siapa yang menulis lirik lagu 'XO'?",
+         "tipe":"penulis",
+         "jawaban":"Jake, Jay, Heeseung (co-write)"
+      },
+      {
+         "index":54,
+         "soal":"Album repackage 'Romance: Untold -Daydream-' rilis kapan?",
+         "tipe":"tanggal",
+         "jawaban":"11 November 2024"
+      },
+      {
+         "index":55,
+         "soal":"Lagu tambahan di 'Daydream' adalah?",
+         "tipe":"lagu baru",
+         "jawaban":"No Doubt, Daydream"
+      },
+      {
+         "index":56,
+         "soal":"Siapa yang memiliki vokal 'khas matahari'?",
+         "tipe":"vocal",
+         "jawaban":"Sunoo (bright vocal)"
+      },
+      {
+         "index":57,
+         "soal":"Apa nama dance cover terkenal Ni-Ki di YouTube?",
+         "tipe":"dance",
+         "jawaban":"Cover 'Make A Wish' (NCT U) - di I-LAND"
+      },
+      {
+         "index":58,
+         "soal":"Siapa anggota yang paling tinggi?",
+         "tipe":"tinggi",
+         "jawaban":"Sunghoon (181 cm) atau Jay (180+)"
+      },
+      {
+         "index":59,
+         "soal":"Sunoo dikenal dengan ekspresi wajah yang?",
+         "tipe":"ciri",
+         "jawaban":"Ceria, aegyo master"
+      },
+      {
+         "index":60,
+         "soal":"Apa nama lagu ENHYPEN yang menggunakan instrumen marching band?",
+         "tipe":"lagu",
+         "jawaban":"Drunk-Dazed"
+      },
+      {
+         "index":61,
+         "soal":"Siapa yang paling suka memasak dan punya acara 'Jay's Kitchen'?",
+         "tipe":"acara",
+         "jawaban":"Jay"
+      },
+      {
+         "index":62,
+         "soal":"Berapa total subscriber YouTube ENHYPEN (2026)?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 10 juta"
+      },
+      {
+         "index":63,
+         "soal":"Lagu 'Go Big or Go Home' dari album?",
+         "tipe":"album",
+         "jawaban":"Dimension: Dilemma"
+      },
+      {
+         "index":64,
+         "soal":"Siapa yang memiliki mixtape solo pertama dari ENHYPEN?",
+         "tipe":"mixtape",
+         "jawaban":"Heeseung (belum resmi mixtape, hanya cover)"
+      },
+      {
+         "index":65,
+         "soal":"Apa nama acara realitas ENHYPEN di Weverse?",
+         "tipe":"variety",
+         "jawaban":"ENHYPEN's Hi, EN-O'CLOCK"
+      },
+      {
+         "index":66,
+         "soal":"Siapa anggota yang paling sering mendapat line chorus?",
+         "tipe":"line distribution",
+         "jawaban":"Heeseung, Jungwon"
+      },
+      {
+         "index":67,
+         "soal":"Lagu 'Upper Side Dreamin' dari album?",
+         "tipe":"album",
+         "jawaban":"Border: Carnival"
+      },
+      {
+         "index":68,
+         "soal":"Siapa yang menjadi brand ambassador untuk Prada?",
+         "tipe":"ambassador",
+         "jawaban":"ENHYPEN (sebagai grup) - Prada (2024)"
+      },
+      {
+         "index":69,
+         "soal":"Lagu 'Bills' menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Rindu pada mantan dan tagihan cinta"
+      },
+      {
+         "index":70,
+         "soal":"Siapa yang memiliki kemampuan beatbox?",
+         "tipe":"skill",
+         "jawaban":"Heeseung"
+      },
+      {
+         "index":71,
+         "soal":"Apa nama lagu OST pertama ENHYPEN?",
+         "tipe":"OST",
+         "jawaban":"HEY TAYO (Tayo the Little Bus)"
+      },
+      {
+         "index":72,
+         "soal":"Album 'Sadame' adalah album Jepang ke berapa?",
+         "tipe":"japan album",
+         "jawaban":"2 (setelah 'Kawaki yo ameku')"
+      },
+      {
+         "index":73,
+         "soal":"Lagu Jepang 'Make the Change' adalah lagu tema untuk?",
+         "tipe":"collab",
+         "jawaban":"Anime 'The God of High School' bukan, itu 'Kawaki yo ameku' - yang benar?"
+      },
+      {
+         "index":74,
+         "soal":"Siapa yang memiliki tato '25'?",
+         "tipe":"tato",
+         "jawaban":"Jay (angka 25 di lengan)"
+      },
+      {
+         "index":75,
+         "soal":"Apa nama game mobile resmi ENHYPEN?",
+         "tipe":"game",
+         "jawaban":"ENHYPEN: Hybe (di Weverse) - belum ada game khusus"
+      },
+      {
+         "index":76,
+         "soal":"Siapa anggota yang paling suka membaca buku?",
+         "tipe":"hobi",
+         "jawaban":"Heeseung, Jake"
+      },
+      {
+         "index":77,
+         "soal":"Lirik 'I'm feeling so electric' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Drunk-Dazed"
+      },
+      {
+         "index":78,
+         "soal":"Siapa yang memiliki cover 'I Like Me Better' (Lauv)?",
+         "tipe":"cover",
+         "jawaban":"Jake"
+      },
+      {
+         "index":79,
+         "soal":"Apa nama lagu pertama ENHYPEN yang masuk Billboard Hot 100?",
+         "tipe":"hot 100",
+         "jawaban":"Belum ada yang masuk Hot 100, tertinggi di Bubbling Under"
+      },
+      {
+         "index":80,
+         "soal":"Siapa yang menjadi MC di 'Inkigayo'?",
+         "tipe":"MC",
+         "jawaban":"Sunghoon (bukan tetap, pernah spesial)"
+      },
+      {
+         "index":81,
+         "soal":"Album 'Border: Day One' lagu '10 Months' bercerita tentang?",
+         "tipe":"tema",
+         "jawaban":"Perjalanan 10 bulan dari I-LAND hingga debut"
+      },
+      {
+         "index":82,
+         "soal":"Siapa yang paling sering memakai kacamata?",
+         "tipe":"aksesoris",
+         "jawaban":"Jungwon"
+      },
+      {
+         "index":83,
+         "soal":"Apa nama lagu yang menjadi viral di TikTok karena challenge dansanya?",
+         "tipe":"viral",
+         "jawaban":"Polaroid Love, Fever"
+      },
+      {
+         "index":84,
+         "soal":"Siapa yang memiliki suara terendah di ENHYPEN?",
+         "tipe":"vocal",
+         "jawaban":"Ni-Ki"
+      },
+      {
+         "index":85,
+         "soal":"Lagu 'Shout Out' dari album 'Manifesto: Day 1'?",
+         "tipe":"lagu",
+         "jawaban":"Ya, b-side"
+      },
+      {
+         "index":86,
+         "soal":"Siapa yang suka menulis puisi atau lirik?",
+         "tipe":"penulis",
+         "jawaban":"Heeseung, Jake"
+      },
+      {
+         "index":87,
+         "soal":"Apa warna resmi ENHYPEN?",
+         "tipe":"warna",
+         "jawaban":"Dark Midnight Blue (EN- Blue)"
+      },
+      {
+         "index":88,
+         "soal":"Siapa yang mengikuti audisi Big Hit lewat global audisi?",
+         "tipe":"audisi",
+         "jawaban":"Jake, Jay, Ni-Ki"
+      },
+      {
+         "index":89,
+         "soal":"Lagu 'ParadoXXX Invasion' dari album?",
+         "tipe":"album",
+         "jawaban":"Manifesto: Day 1"
+      },
+      {
+         "index":90,
+         "soal":"Siapa yang paling lama menjadi trainee di BELIFT LAB?",
+         "tipe":"trainee",
+         "jawaban":"Heeseung (3 tahun)"
+      },
+      {
+         "index":91,
+         "soal":"Apa nama konten 'ENHYPEN's Log'?",
+         "tipe":"konten",
+         "jawaban":"Behind the scene vlog"
+      },
+      {
+         "index":92,
+         "soal":"Siapa yang pertama kali debut di ENHYPEN dari I-LAND?",
+         "tipe":"urutan",
+         "jawaban":"Semua 7 dari I-LAND"
+      },
+      {
+         "index":93,
+         "soal":"Lirik 'Nae pi sumi kkeunjeok ana' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Given-Taken"
+      },
+      {
+         "index":94,
+         "soal":"Siapa yang memiliki kemampuan main piano?",
+         "tipe":"piano",
+         "jawaban":"Heeseung, Jay, Jake"
+      },
+      {
+         "index":95,
+         "soal":"Berapa total penghargaan Rookie of the Year ENHYPEN?",
+         "tipe":"penghargaan",
+         "jawaban":"6 (2021 MAMA, MMA, GDA, dll.)"
+      },
+      {
+         "index":96,
+         "soal":"Apa nama album Jepang pertama ENHYPEN?",
+         "tipe":"jpn album",
+         "jawaban":"Border: Hakanai"
+      },
+      {
+         "index":97,
+         "soal":"Siapa yang menjadi model untuk Korean Air?",
+         "tipe":"endorsement",
+         "jawaban":"ENHYPEN (2023)"
+      },
+      {
+         "index":98,
+         "soal":"Lagu 'TFW (That Feeling When)' adalah lagu dari?",
+         "tipe":"lagu",
+         "jawaban":"Dimension: Answer"
+      },
+      {
+         "index":99,
+         "soal":"Siapa yang paling sering menggambar?",
+         "tipe":"hobi",
+         "jawaban":"Sunoo"
+      },
+      {
+         "index":100,
+         "soal":"Apa nama konser tur dunia 'Fate'?",
+         "tipe":"tur",
+         "jawaban":"ENHYPEN World Tour 'Fate' (2023-2024)"
+      },
+      {
+         "index":101,
+         "soal":"Siapa yang memiliki solo 'I Need The Light'?",
+         "tipe":"solo",
+         "jawaban":"Tidak ada solo resmi, semua grup"
+      },
+      {
+         "index":102,
+         "soal":"Lagu 'Orange Flower (You Complete Me)' dari album?",
+         "tipe":"album",
+         "jawaban":"Romance: Untold (lagu terima kasih untuk ENGENE)"
+      },
+      {
+         "index":103,
+         "soal":"Siapa yang menjadi produser eksekutif ENHYPEN?",
+         "tipe":"produser",
+         "jawaban":"Bang Si-hyuk (Hitman Bang)"
+      },
+      {
+         "index":104,
+         "soal":"Berapa minggu 'XO' menduduki puncak chart Circle Digital?",
+         "tipe":"chart",
+         "jawaban":"1 minggu (peak #2)"
+      },
+      {
+         "index":105,
+         "soal":"Siapa yang memiliki cover 'Baby Baby' (Winner)?",
+         "tipe":"cover",
+         "jawaban":"Jungwon, Sunoo"
+      },
+      {
+         "index":106,
+         "soal":"Apa nama lagu b-side favorit fans dari album 'Border: Day One'?",
+         "tipe":"b-side",
+         "jawaban":"Flicker"
+      },
+      {
+         "index":107,
+         "soal":"Siapa yang paling suka dengan hewan kucing?",
+         "tipe":"favorite animal",
+         "jawaban":"Heeseung, Jay"
+      },
+      {
+         "index":108,
+         "soal":"Lagu 'Not For Sale' menekankan tentang?",
+         "tipe":"pesan",
+         "jawaban":"Cinta yang tidak bisa dibeli dengan uang"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang pernah menjadi murid di sekolah tari terkenal di Jepang?",
+         "tipe":"sekolah",
+         "jawaban":"Ni-Ki (sekolah tari di Osaka)"
+      },
+      {
+         "index":110,
+         "soal":"Apa nama acara radio ENHYPEN?",
+         "tipe":"radio",
+         "jawaban":"ENHYPEN's 'STAR' (Japanese radio)"
+      },
+      {
+         "index":111,
+         "soal":"Siapa yang memiliki kewarganegaraan ganda?",
+         "tipe":"dual citizenship",
+         "jawaban":"Jake (Korea-Australia), Ni-Ki (Jepang), Jay (Korea-Amerika?) Jay asli Korea"
+      },
+      {
+         "index":112,
+         "soal":"Lagu 'Attention, please!' dari album?",
+         "tipe":"album",
+         "jawaban":"Manifesto: Day 1"
+      },
+      {
+         "index":113,
+         "soal":"Siapa yang paling suka fashion streetwear?",
+         "tipe":"fashion",
+         "jawaban":"Jay, Ni-Ki"
+      },
+      {
+         "index":114,
+         "soal":"Berapa total lagu yang dirilis ENHYPEN hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 70 lagu (termasuk versi Jepang)"
+      },
+      {
+         "index":115,
+         "soal":"Apa nama lagu kolaborasi dengan Sega?",
+         "tipe":"collab",
+         "jawaban":"I Need The Light (untuk game Sonic?"
+      },
+      {
+         "index":116,
+         "soal":"Siapa yang memiliki karakter 'Nobi' di webtoon Dark Moon?",
+         "tipe":"karakter",
+         "jawaban":"Ni-Ki (Nobi)"
+      },
+      {
+         "index":117,
+         "soal":"Lirik 'I'm a little bit drunk, I'm a little bit drunk' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Drunk-Dazed"
+      },
+      {
+         "index":118,
+         "soal":"Siapa yang paling sering melakukan aegyo?",
+         "tipe":"aegyo",
+         "jawaban":"Sunoo"
+      },
+      {
+         "index":119,
+         "soal":"Apa nama lagu Jepang 'Forget Me Not' adalah OST anime?",
+         "tipe":"ost anime",
+         "jawaban":"Re-Main (anime water polo)"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang memiliki kemampuan bahasa Inggris paling fasih?",
+         "tipe":"bahasa",
+         "jawaban":"Jake (native English), Jay juga lancar"
+      },
+      {
+         "index":121,
+         "soal":"Album 'Kawaki yo Ameku' lagu utamanya?",
+         "tipe":"jpn single",
+         "jawaban":"Kawaki yo Ameku (Always)"
+      },
+      {
+         "index":122,
+         "soal":"Siapa yang paling suka fotografi?",
+         "tipe":"foto",
+         "jawaban":"Sunghoon"
+      },
+      {
+         "index":123,
+         "soal":"Lagu 'Blockbuster' feat. Yeonjun (TXT) berasal dari album?",
+         "tipe":"kolaborasi",
+         "jawaban":"Dimension: Dilemma"
+      },
+      {
+         "index":124,
+         "soal":"Siapa yang pertama kali merilis cover di channel resmi?",
+         "tipe":"cover",
+         "jawaban":"Heeseung (Off My Face)"
+      },
+      {
+         "index":125,
+         "soal":"Apa nama lagu yang memiliki koreografi 'tarian kabut'?",
+         "tipe":"koreo",
+         "jawaban":"Fever"
+      },
+      {
+         "index":126,
+         "soal":"Siapa yang menjadi pusat koreo 'Future Perfect'?",
+         "tipe":"dance",
+         "jawaban":"Ni-Ki (bagian dance break)"
+      },
+      {
+         "index":127,
+         "soal":"Berapa total fansign virtual ENHYPEN selama pandemi?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 50 sesi (2021-2022)"
+      },
+      {
+         "index":128,
+         "soal":"Siapa yang memiliki cover 'Not Over You'?",
+         "tipe":"cover",
+         "jawaban":"Jake"
+      },
+      {
+         "index":129,
+         "soal":"Lagu 'Chamber 5' adalah lagu dari I-LAND, siapa yang menyanyikannya?",
+         "tipe":"lagu i-land",
+         "jawaban":"Semua peserta I-LAND, dinyanyikan ulang ENHYPEN di konser"
+      },
+      {
+         "index":130,
+         "soal":"Siapa yang paling suka menyanyi di tengah malam?",
+         "tipe":"kebiasaan",
+         "jawaban":"Heeseung"
+      },
+      {
+         "index":131,
+         "soal":"Apa nama acara 'EN- O'CLOCK' episode berapa yang paling terkenal?",
+         "tipe":"variety",
+         "jawaban":"Ep. 41 (Lapangan terbang) atau ep. 15 (sports day)"
+      },
+      {
+         "index":132,
+         "soal":"Siapa anggota yang punya mimpi jadi aktor?",
+         "tipe":"cita-cita",
+         "jawaban":"Jay, Sunghoon"
+      },
+      {
+         "index":133,
+         "soal":"Lirik 'It's okay to not be fine' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Shout Out"
+      },
+      {
+         "index":134,
+         "soal":"Siapa yang menjadi duta besar untuk 'Visit Korea Year 2023-2024'?",
+         "tipe":"duta",
+         "jawaban":"ENHYPEN bersama dengan grup lain"
+      },
+      {
+         "index":135,
+         "soal":"Album 'Border: Carnival' rilis bulan dan tahun?",
+         "tipe":"rilis",
+         "jawaban":"April 2021"
+      },
+      {
+         "index":136,
+         "soal":"Siapa yang paling suka dengan film horor?",
+         "tipe":"genre film",
+         "jawaban":"Jungwon"
+      },
+      {
+         "index":137,
+         "soal":"Apa nama lagu yang menggunakan suara terompet di intro?",
+         "tipe":"lagu",
+         "jawaban":"Tamed-Dashed"
+      },
+      {
+         "index":138,
+         "soal":"Siapa yang memiliki tutorial makeup sendiri di YouTube?",
+         "tipe":"beauty",
+         "jawaban":"Sunoo (pernah di 'Sunoo's Makeup')"
+      },
+      {
+         "index":139,
+         "soal":"Berapa total tur konser ENHYPEN hingga 2026?",
+         "tipe":"tur",
+         "jawaban":"3 tur dunia (Manifesto, Fate, Walk the Line?)"
+      },
+      {
+         "index":140,
+         "soal":"Lagu 'Karma' dari album 'Manifesto: Day 1' bercerita tentang?",
+         "tipe":"tema",
+         "jawaban":"Membalas dendam pada haters"
+      },
+      {
+         "index":141,
+         "soal":"Siapa yang paling sering menjadi penutup konser?",
+         "tipe":"closing",
+         "jawaban":"Heeseung, Jungwon (bersama)"
+      },
+      {
+         "index":142,
+         "soal":"Apa nama lagu pertama ENHYPEN yang disertifikasi platinum di Jepang?",
+         "tipe":"platinum",
+         "jawaban":"Given-Taken (Japanese ver.)"
+      },
+      {
+         "index":143,
+         "soal":"Siapa yang memiliki suka menulis diary?",
+         "tipe":"menulis",
+         "jawaban":"Jake"
+      },
+      {
+         "index":144,
+         "soal":"Lirik 'You know I'm savage, I'm nothing but a savage' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Drunk-Dazed"
+      },
+      {
+         "index":145,
+         "soal":"Siapa yang paling lama menjadi pusat perhatian di I-LAND?",
+         "tipe":"i-land",
+         "jawaban":"Heeseung"
+      },
+      {
+         "index":146,
+         "soal":"Apa nama album kompilasi lagu Jepang ENHYPEN?",
+         "tipe":"album",
+         "jawaban":"Sadame (2023)"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang memiliki kolaborasi dengan produser musik terkenal?",
+         "tipe":"collab",
+         "jawaban":"Wonderkid (produser utama)"
+      },
+      {
+         "index":148,
+         "soal":"Lagu 'Moonstruck' dari album 'Romance: Untold' menceritakan?",
+         "tipe":"tema",
+         "jawaban":"Cinta yang seperti bulan, terpesona"
+      },
+      {
+         "index":149,
+         "soal":"Siapa yang paling sering memenangkan challenge dance TikTok?",
+         "tipe":"tiktok",
+         "jawaban":"Ni-Ki"
+      },
+      {
+         "index":150,
+         "soal":"Berapa total minggu 'Polaroid Love' di Billboard Global 200?",
+         "tipe":"chart",
+         "jawaban":"6 minggu (2022)"
+      },
+      {
+         "index":151,
+         "soal":"Siapa yang pernah tampil di 'Killing Voice' (Dingo Music)?",
+         "tipe":"acara",
+         "jawaban":"ENHYPEN (2024)"
+      },
+      {
+         "index":152,
+         "soal":"Apa nama lagu yang merepresentasikan hubungan ENGENE dan ENHYPEN?",
+         "tipe":"lagu fans",
+         "jawaban":"Orange Flower (You Complete Me)"
+      },
+      {
+         "index":153,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit bibir' saat gugup?",
+         "tipe":"kebiasaan",
+         "jawaban":"Sunghoon"
+      },
+      {
+         "index":154,
+         "soal":"Lagu 'Mixed Up' dari album 'Border: Carnival'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":155,
+         "soal":"Siapa yang memenangkan 'Best New Artist' di MAMA 2021?",
+         "tipe":"penghargaan",
+         "jawaban":"ENHYPEN"
+      },
+      {
+         "index":156,
+         "soal":"Apa nama konser online ENHYPEN pertama?",
+         "tipe":"online concert",
+         "jawaban":"ENHYPEN 'The Moment' (2021)"
+      },
+      {
+         "index":157,
+         "soal":"Siapa yang paling suka dengan fashion vintage?",
+         "tipe":"gaya",
+         "jawaban":"Jay"
+      },
+      {
+         "index":158,
+         "soal":"Lirik 'My heart is beating, I'm falling' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Given-Taken"
+      },
+      {
+         "index":159,
+         "soal":"Siapa yang menjadi model untuk brand 'TIFFANY & Co.'?",
+         "tipe":"brand",
+         "jawaban":"ENHYPEN (grup)"
+      },
+      {
+         "index":160,
+         "soal":"Album 'Dimension: Answer' adalah repackage dari?",
+         "tipe":"repackage",
+         "jawaban":"Dimension: Dilemma"
+      },
+      {
+         "index":161,
+         "soal":"Siapa yang memiliki cover 'Love Yourself' (Justin Bieber)?",
+         "tipe":"cover",
+         "jawaban":"Jake"
+      },
+      {
+         "index":162,
+         "soal":"Apa nama acara bincang-bincang di Weverse?",
+         "tipe":"weverse",
+         "jawaban":"ENHYPEN Weverse Live (tidak berjudul khusus)"
+      },
+      {
+         "index":163,
+         "soal":"Siapa yang paling sering memasak untuk anggota lain?",
+         "tipe":"memasak",
+         "jawaban":"Jay"
+      },
+      {
+         "index":164,
+         "soal":"Lagu 'Just A Little Bit' menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Rasa malu dalam mengungkapkan cinta"
+      },
+      {
+         "index":165,
+         "soal":"Siapa yang memiliki suara 'serak' khas saat bernyanyi?",
+         "tipe":"vocal",
+         "jawaban":"Heeseung (rasa emosi)"
+      },
+      {
+         "index":166,
+         "soal":"Berapa total album fisik ENHYPEN yang terjual hingga 2025?",
+         "tipe":"penjualan",
+         "jawaban":"Lebih dari 5 juta (cumulative)"
+      },
+      {
+         "index":167,
+         "soal":"Apa nama lagu b-side yang paling sering dipakai di fan edits?",
+         "tipe":"lagu",
+         "jawaban":"Fever, Polaroid Love"
+      },
+      {
+         "index":168,
+         "soal":"Siapa yang paling suka olahraga sepak bola?",
+         "tipe":"olahraga",
+         "jawaban":"Jake, Jungwon"
+      },
+      {
+         "index":169,
+         "soal":"Lirik 'You are my answer, my everything' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Given-Taken (variasi)"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang memiliki posisi 'face of the group'?",
+         "tipe":"face",
+         "jawaban":"Sunghoon, Jungwon"
+      },
+      {
+         "index":171,
+         "soal":"Apa nama lagu Jepang 'Yuki no Hana'? (bukan), ganti: 'Always' adalah lagu Jepang?",
+         "tipe":"jpn",
+         "jawaban":"Yes, 'Always' (Kawaki yo Ameku)"
+      },
+      {
+         "index":172,
+         "soal":"Siapa yang paling sering menangis saat konser?",
+         "tipe":"emosi",
+         "jawaban":"Jake, Heeseung"
+      },
+      {
+         "index":173,
+         "soal":"Album 'Sadame' memiliki lagu 'Fate'?",
+         "tipe":"album",
+         "jawaban":"Ya (Intro : Fate)"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang memiliki kemampuan main drum?",
+         "tipe":"instrument",
+         "jawaban":"Jay (pernah show drum)"
+      },
+      {
+         "index":175,
+         "soal":"Berapa jumlah lagu di album 'Romance: Untold' (standard)?",
+         "tipe":"jumlah lagu",
+         "jawaban":"9 (termasuk intro)"
+      },
+      {
+         "index":176,
+         "soal":"Lagu 'No Doubt' dari repackage 'Daydream' adalah lagu dengan genre?",
+         "tipe":"genre",
+         "jawaban":"Pop rock / alternative"
+      },
+      {
+         "index":177,
+         "soal":"Siapa yang menciptakan koreografi 'Drunk-Dazed'?",
+         "tipe":"koreografer",
+         "jawaban":"Ni-Ki dengan tim dance BELIFT"
+      },
+      {
+         "index":178,
+         "soal":"Apa nama weverse subscription berbayar ENHYPEN?",
+         "tipe":"weverse",
+         "jawaban":"ENHYPEN MEMBERSHIP (ENGENE Membership)"
+      },
+      {
+         "index":179,
+         "soal":"Siapa yang memiliki catatan rekor live terpanjang di Weverse?",
+         "tipe":"live",
+         "jawaban":"Jungwon (lebih dari 2 jam)"
+      },
+      {
+         "index":180,
+         "soal":"Lirik 'I can't control myself, I'm in love' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Tamed-Dashed"
+      },
+      {
+         "index":181,
+         "soal":"Siapa yang paling suka dengan kopi hitam?",
+         "tipe":"minuman",
+         "jawaban":"Heeseung"
+      },
+      {
+         "index":182,
+         "soal":"Apa nama lagu yang menjadi anthem untuk ENGENE?",
+         "tipe":"fan song",
+         "jawaban":"Orange Flower, Shout Out"
+      },
+      {
+         "index":183,
+         "soal":"Siapa yang paling sering berinteraksi dengan fans di Twitter?",
+         "tipe":"sosmed",
+         "jawaban":"Sunghoon, Jay"
+      },
+      {
+         "index":184,
+         "soal":"Album 'Border: Hakanai' rilis kapan?",
+         "tipe":"japan",
+         "jawaban":"12 Januari 2022"
+      },
+      {
+         "index":185,
+         "soal":"Siapa yang memiliki kebiasaan 'membaca komentar haters'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Heeseung (pernah di live)"
+      },
+      {
+         "index":186,
+         "soal":"Lagu 'One and Only' adalah lagu kolaborasi dengan?",
+         "tipe":"collab",
+         "jawaban":"Baby Shark (Pinkfong)?"
+      },
+      {
+         "index":187,
+         "soal":"Siapa yang paling jarang menggunakan sosial media?",
+         "tipe":"sosmed",
+         "jawaban":"Ni-Ki (paling jarang update)"
+      },
+      {
+         "index":188,
+         "soal":"Berapa total penghargaan Daesang yang dimiliki ENHYPEN?",
+         "tipe":"daesang",
+         "jawaban":"0 (belum ada daesang hingga 2026)"
+      },
+      {
+         "index":189,
+         "soal":"Apa nama lagu 'Intro: Walk the Line' dari album?",
+         "tipe":"intro",
+         "jawaban":"Romance: Untold -Daydream-"
+      },
+      {
+         "index":190,
+         "soal":"Siapa yang pernah menjadi model iklan untuk 'BBQ Chicken'?",
+         "tipe":"iklan",
+         "jawaban":"ENHYPEN (2023)"
+      },
+      {
+         "index":191,
+         "soal":"Lirik 'I'll be your boyfriend, you'll be my girlfriend' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Polaroid Love"
+      },
+      {
+         "index":192,
+         "soal":"Siapa yang memiliki mimpi menjadi penyanyi sejak kecil?",
+         "tipe":"cita-cita",
+         "jawaban":"Heeseung, Jungwon"
+      },
+      {
+         "index":193,
+         "soal":"Apa nama lagu yang menggunakan auto-tune unik di bagian chorus?",
+         "tipe":"lagu",
+         "jawaban":"Future Perfect (Pass the MIC)"
+      },
+      {
+         "index":194,
+         "soal":"Siapa yang paling suka dengan anime 'One Piece'?",
+         "tipe":"anime",
+         "jawaban":"Ni-Ki, Jungwon"
+      },
+      {
+         "index":195,
+         "soal":"Album 'Manifesto: Day 1' memiliki lagu 'Foreshadow' yang merupakan?",
+         "tipe":"intro",
+         "jawaban":"Narasi pembuka album"
+      },
+      {
+         "index":196,
+         "soal":"Siapa yang memiliki suara paling stabil saat bernyanyi sambil menari?",
+         "tipe":"live",
+         "jawaban":"Jungwon, Heeseung"
+      },
+      {
+         "index":197,
+         "soal":"Berapa banyak video musik ENHYPEN yang mencapai 100 juta views?",
+         "tipe":"angka",
+         "jawaban":"5 (Given-Taken, Drunk-Dazed, Fever, Tamed-Dashed, Polaroid Love)"
+      },
+      {
+         "index":198,
+         "soal":"Lagu 'Let Me In (20 CUBE)' berasal dari album?",
+         "tipe":"album",
+         "jawaban":"Border: Day One"
+      },
+      {
+         "index":199,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"favorit",
+         "jawaban":"Jay, Ni-Ki"
+      },
+      {
+         "index":200,
+         "soal":"Apa nama konser encore 'Fate Plus'?",
+         "tipe":"tur",
+         "jawaban":"ENHYPEN World Tour 'Fate Plus' (2024)"
+      },
+      {
+         "index":201,
+         "soal":"Siapa yang memiliki cover 'Unstable' (The Kid LAROI)?",
+         "tipe":"cover",
+         "jawaban":"Jake"
+      },
+      {
+         "index":202,
+         "soal":"Lirik 'I'll never let you go, you're my paradise' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Let Me In (20 CUBE)"
+      },
+      {
+         "index":203,
+         "soal":"Siapa yang paling sering dipanggil 'penguin'?",
+         "tipe":"julukan",
+         "jawaban":"Sunghoon (karena gaya skating)"
+      },
+      {
+         "index":204,
+         "soal":"Apa nama lagu yang liriknya 'We're not gonna stop'?",
+         "tipe":"lirik",
+         "jawaban":"Future Perfect (Pass the MIC)"
+      },
+      {
+         "index":205,
+         "soal":"Siapa yang memiliki kemampuan beatbox?",
+         "tipe":"beatbox",
+         "jawaban":"Heeseung (pernah demo)"
+      },
+      {
+         "index":206,
+         "soal":"Album 'Border: Day One' terjual berapa kopi di minggu pertama?",
+         "tipe":"penjualan",
+         "jawaban":"280.000+ (rekor debut)"
+      },
+      {
+         "index":207,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"makanan",
+         "jawaban":"Sunoo"
+      },
+      {
+         "index":208,
+         "soal":"Lagu 'I'm the one, I'm the one' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Given-Taken"
+      },
+      {
+         "index":209,
+         "soal":"Siapa yang menjadi host untuk 'EN-O'CLOCK' ep. spesial?",
+         "tipe":"mc",
+         "jawaban":"Bergantian"
+      },
+      {
+         "index":210,
+         "soal":"Berapa total lagu yang diproduksi oleh Wonderkid untuk ENHYPEN?",
+         "tipe":"produser",
+         "jawaban":"Lebih dari 30 lagu"
+      },
+      {
+         "index":211,
+         "soal":"Apa nama lagu pertama yang ditulis oleh anggota (Jake & Jay) untuk album?",
+         "tipe":"penulis",
+         "jawaban":"XO (Only If You Say Yes)"
+      },
+      {
+         "index":212,
+         "soal":"Siapa yang paling suka dengan pantai?",
+         "tipe":"tempat",
+         "jawaban":"Jake (asal Australia)"
+      },
+      {
+         "index":213,
+         "soal":"Lirik 'I don't need nothing else, I'm satisfied' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Not For Sale"
+      },
+      {
+         "index":214,
+         "soal":"Siapa yang memiliki kemampuan akting di drama web?",
+         "tipe":"akting",
+         "jawaban":"Jay (cameo 'So I Married the Anti-fan')"
+      },
+      {
+         "index":215,
+         "soal":"Apa nama game rhythm resmi ENHYPEN?",
+         "tipe":"game",
+         "jawaban":"Rhythm Hive (dengan HYBE groups)"
+      },
+      {
+         "index":216,
+         "soal":"Siapa yang paling sering memberikan spoiler comeback?",
+         "tipe":"spoiler",
+         "jawaban":"Jungwon, Jay"
+      },
+      {
+         "index":217,
+         "soal":"Album 'Dimension: Dilemma' memiliki lagu 'Blockbuster' feat. siapa?",
+         "tipe":"feat",
+         "jawaban":"Yeonjun (TXT)"
+      },
+      {
+         "index":218,
+         "soal":"Siapa yang paling suka memakai hoodie oversize?",
+         "tipe":"fashion",
+         "jawaban":"Sunghoon, Jungwon"
+      },
+      {
+         "index":219,
+         "soal":"Lagu 'Upper Side Dreamin' menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Impian tentang kehidupan mewah di atas"
+      },
+      {
+         "index":220,
+         "soal":"Siapa yang paling sering menjadi thumbnail video EN-O'CLOCK?",
+         "tipe":"thumbnail",
+         "jawaban":"Sunoo, Jungwon"
+      },
+      {
+         "index":221,
+         "soal":"Berapa total pengikut Instagram ENHYPEN (resmi grup) per 2026?",
+         "tipe":"instagram",
+         "jawaban":"Lebih dari 20 juta"
+      },
+      {
+         "index":222,
+         "soal":"Apa nama lagu yang dinyanyikan di konser untuk perpisahan sementara?",
+         "tipe":"lagu",
+         "jawaban":"Shout Out"
+      },
+      {
+         "index":223,
+         "soal":"Siapa yang memiliki tato 'SUNGHOON'? Tidak ada. Ganti: siapa yang punya piercing?",
+         "tipe":"piercing",
+         "jawaban":"Heeseung, Jungwon, Ni-Ki (telinga)"
+      },
+      {
+         "index":224,
+         "soal":"Lirik 'I'll be your boyfriend, you'll be my girlfriend' adalah bahasa Inggris dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Polaroid Love"
+      },
+      {
+         "index":225,
+         "soal":"Siapa yang paling suka dengan genre musik rock?",
+         "tipe":"musik",
+         "jawaban":"Heeseung, Jay"
+      },
+      {
+         "index":226,
+         "soal":"Apa nama lagu yang menggunakan sampel dari lagu 'Given-Taken'?",
+         "tipe":"sampel",
+         "jawaban":"Flicker (ada kesamaan melody)"
+      },
+      {
+         "index":227,
+         "soal":"Siapa yang menjadi model untuk 'KIRSH' (pakaian)?",
+         "tipe":"brand",
+         "jawaban":"ENHYPEN (2022)"
+      },
+      {
+         "index":228,
+         "soal":"Album 'Sadame' artinya dalam bahasa Jepang?",
+         "tipe":"arti",
+         "jawaban":"Takdir"
+      },
+      {
+         "index":229,
+         "soal":"Siapa yang paling suka dengan sunrise?",
+         "tipe":"preferensi",
+         "jawaban":"Jake (suka pantai)"
+      },
+      {
+         "index":230,
+         "soal":"Lagu 'Go Big or Go Home' memiliki koreografi terkenal 'gerakan setir'",
+         "tipe":"koreo",
+         "jawaban":"Benar"
+      },
+      {
+         "index":231,
+         "soal":"Siapa yang memiliki suara falsetto tertinggi?",
+         "tipe":"vocal",
+         "jawaban":"Heeseung, Jungwon"
+      },
+      {
+         "index":232,
+         "soal":"Berapa total penonton konser 'Fate' di seluruh dunia?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 500.000"
+      },
+      {
+         "index":233,
+         "soal":"Apa nama lagu yang memiliki MV animasi?",
+         "tipe":"mv",
+         "jawaban":"One In A Billion (Dark Moon)"
+      },
+      {
+         "index":234,
+         "soal":"Siapa yang paling suka minum bubble tea?",
+         "tipe":"minuman",
+         "jawaban":"Sunoo, Jungwon"
+      },
+      {
+         "index":235,
+         "soal":"Lirik 'I just wanna be your dog' (bukan, itu BTS). Ganti: 'You're my question, you're my answer' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Given-Taken"
+      },
+      {
+         "index":236,
+         "soal":"Siapa yang pertama kali mempopulerkan 'Engine' (dance move)?",
+         "tipe":"dance",
+         "jawaban":"Ni-Ki"
+      },
+      {
+         "index":237,
+         "soal":"Apa nama acara survival yang diikuti Heeseung sebelum I-LAND?",
+         "tipe":"survival",
+         "jawaban":"Belum ada, dia langsung trainee Big Hit"
+      },
+      {
+         "index":238,
+         "soal":"Siapa yang memiliki kebiasaan 'berbicara sendiri'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Heeseung"
+      },
+      {
+         "index":239,
+         "soal":"Album 'Romance: Untold' memiliki versi 'Vampire' dan 'Werewolf'?",
+         "tipe":"versi",
+         "jawaban":"Benar (konsep webtoon)"
+      },
+      {
+         "index":240,
+         "soal":"Siapa yang paling suka dengan warna pink?",
+         "tipe":"warna",
+         "jawaban":"Sunoo"
+      },
+      {
+         "index":241,
+         "soal":"Lagu 'Future Perfect' lirik 'Pass the mic' dinyanyikan oleh siapa?",
+         "tipe":"siapa",
+         "jawaban":"Jungwon, Heeseung, Jay, Ni-Ki (rap)"
+      },
+      {
+         "index":242,
+         "soal":"Berapa total lagu Jepang ENHYPEN hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"14 lagu Jepang orisinal (termasuk versi)"
+      },
+      {
+         "index":243,
+         "soal":"Siapa yang paling sering melakukan lip sync challenge?",
+         "tipe":"tiktok",
+         "jawaban":"Sunghoon, Jungwon"
+      },
+      {
+         "index":244,
+         "soal":"Apa nama lagu yang berkolaborasi dengan 'Pinkfong Baby Shark'?",
+         "tipe":"collab",
+         "jawaban":"Keep Swimmin' Through (2023)"
+      },
+      {
+         "index":245,
+         "soal":"Siapa yang memiliki kemampuan bermain gitar?",
+         "tipe":"gitar",
+         "jawaban":"Jay, Jake"
+      },
+      {
+         "index":246,
+         "soal":"Lirik 'Baby, you're my fever' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Fever"
+      },
+      {
+         "index":247,
+         "soal":"Siapa yang paling suka dengan salju?",
+         "tipe":"cuaca",
+         "jawaban":"Sunghoon (mantan figure skater)"
+      },
+      {
+         "index":248,
+         "soal":"Apa nama album yang memiliki lagu 'Teeth'?",
+         "tipe":"album",
+         "jawaban":"Romance: Untold (b-side)"
+      },
+      {
+         "index":249,
+         "soal":"Siapa yang paling sering menjadi pusat foto grup?",
+         "tipe":"foto",
+         "jawaban":"Jungwon"
+      },
+      {
+         "index":250,
+         "soal":"Lagu 'Brought The Heat Back' dari album?",
+         "tipe":"album",
+         "jawaban":"Romance: Untold -Daydream-"
+      },
+      {
+         "index":251,
+         "soal":"Siapa yang memiliki kemampuan berbahasa Jepang paling fasih?",
+         "tipe":"jepang",
+         "jawaban":"Ni-Ki (native)"
+      },
+      {
+         "index":252,
+         "soal":"Berapa total fans club berbayar ENHYPEN di Weverse (2025)?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 2 juta"
+      },
+      {
+         "index":253,
+         "soal":"Apa nama lagu pertama yang menggunakan konsep retro?",
+         "tipe":"konsep",
+         "jawaban":"Tamed-Dashed (80s synth)"
+      },
+      {
+         "index":254,
+         "soal":"Siapa yang paling suka dengan olahraga basket?",
+         "tipe":"basket",
+         "jawaban":"Jay, Jake"
+      },
+      {
+         "index":255,
+         "soal":"Lirik 'I'm walking on the moon, with you' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Moonstruck"
+      },
+      {
+         "index":256,
+         "soal":"Siapa yang memiliki cover 'Another Life'?",
+         "tipe":"cover",
+         "jawaban":"Heeseung (belum rilis resmi)"
+      },
+      {
+         "index":257,
+         "soal":"Apa nama lagu yang dinyanyikan di acara 'M Countdown' untuk debut?",
+         "tipe":"debut stage",
+         "jawaban":"Given-Taken"
+      },
+      {
+         "index":258,
+         "soal":"Siapa yang paling sering meng-update story di Instagram?",
+         "tipe":"ig",
+         "jawaban":"Sunghoon, Jungwon"
+      },
+      {
+         "index":259,
+         "soal":"Album 'Border: Carnival' memiliki lagu 'Not For Sale' yang dinyanyikan secara akustik?",
+         "tipe":"lagu",
+         "jawaban":"Ya, versi akustik ada di album"
+      },
+      {
+         "index":260,
+         "soal":"Siapa yang memiliki kebiasaan 'mengejek' anggota lain?",
+         "tipe":"kebiasaan",
+         "jawaban":"Jay"
+      },
+      {
+         "index":261,
+         "soal":"Lagu 'Let Me In' memiliki MV yang berlatar?",
+         "tipe":"mv",
+         "jawaban":"Ruang kelas dan sekolah"
+      },
+      {
+         "index":262,
+         "soal":"Siapa yang paling suka dengan novel romantis?",
+         "tipe":"buku",
+         "jawaban":"Jake"
+      },
+      {
+         "index":263,
+         "soal":"Berapa total kemenangan di music show untuk lagu 'XO'?",
+         "tipe":"win",
+         "jawaban":"4 (2024)"
+      },
+      {
+         "index":264,
+         "soal":"Apa nama lagu yang memiliki bagian rap dari Ni-Ki?",
+         "tipe":"rap",
+         "jawaban":"Future Perfect, Blockbuster"
+      },
+      {
+         "index":265,
+         "soal":"Siapa yang paling suka dengan makanan pedas?",
+         "tipe":"pedas",
+         "jawaban":"Jungwon, Heeseung"
+      },
+      {
+         "index":266,
+         "soal":"Lirik 'I can't stop the feeling, I'm in love' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Tamed-Dashed"
+      },
+      {
+         "index":267,
+         "soal":"Siapa yang menjadi model untuk 'CLIO' (makeup)?",
+         "tipe":"beauty",
+         "jawaban":"Sunoo (2023)"
+      },
+      {
+         "index":268,
+         "soal":"Apa nama acara 'ENHYPEN's Vacation'?",
+         "tipe":"variety",
+         "jawaban":"SOOP (In the Soop ENHYPEN)"
+      },
+      {
+         "index":269,
+         "soal":"Siapa yang paling suka dengan kucing peliharaan?",
+         "tipe":"pet",
+         "jawaban":"Heeseung (punya kucing bernama 'BB'?)"
+      },
+      {
+         "index":270,
+         "soal":"Album 'Dimension: Dilemma' rilis 12 Oktober 2021, benar?",
+         "tipe":"tanggal",
+         "jawaban":"Benar"
+      },
+      {
+         "index":271,
+         "soal":"Siapa yang memiliki kemampuan melukis?",
+         "tipe":"melukis",
+         "jawaban":"Sunoo, Ni-Ki (menggambar)"
+      },
+      {
+         "index":272,
+         "soal":"Lagu 'Chaconne' dari album 'Romance: Untold' bergenre?",
+         "tipe":"genre",
+         "jawaban":"Latin pop / dance"
+      },
+      {
+         "index":273,
+         "soal":"Siapa yang paling sering tampil di variety show Korea?",
+         "tipe":"variety",
+         "jawaban":"Sunoo (Idol League, dll.)"
+      },
+      {
+         "index":274,
+         "soal":"Berapa total lagu yang memiliki kredit penulisan dari anggota?",
+         "tipe":"kredit",
+         "jawaban":"5 lagu (Jake, Jay, Heeseung)"
+      },
+      {
+         "index":275,
+         "soal":"Apa nama lagu pertama yang menggunakan bahasa Inggris full?",
+         "tipe":"english",
+         "jawaban":"Not For Sale (sebagian), One In A Billion (full English?)"
+      },
+      {
+         "index":276,
+         "soal":"Siapa yang paling suka dengan aktivitas outbound?",
+         "tipe":"outdoor",
+         "jawaban":"Jake"
+      },
+      {
+         "index":277,
+         "soal":"Lirik 'Let me be your boyfriend, I'll be your boyfriend' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Polaroid Love"
+      },
+      {
+         "index":278,
+         "soal":"Siapa yang memiliki karakter 'Musk' di Dark Moon?",
+         "tipe":"karakter",
+         "jawaban":"Sunghoon"
+      },
+      {
+         "index":279,
+         "soal":"Apa nama fanchant resmi untuk lagu 'Drunk-Dazed'?",
+         "tipe":"fanchant",
+         "jawaban":"ENHYPEN! (dan nama anggota)"
+      },
+      {
+         "index":280,
+         "soal":"Siapa yang paling suka dengan film action?",
+         "tipe":"film",
+         "jawaban":"Ni-Ki, Jay"
+      },
+      {
+         "index":281,
+         "soal":"Album 'Kawaki yo Ameku' adalah singel Jepang ke berapa?",
+         "tipe":"jpn single",
+         "jawaban":"2"
+      },
+      {
+         "index":282,
+         "soal":"Siapa yang memiliki kebiasaan 'mengucek mata' saat lelah?",
+         "tipe":"kebiasaan",
+         "jawaban":"Jungwon"
+      },
+      {
+         "index":283,
+         "soal":"Lagu 'Blossom' adalah lagu dari album?",
+         "tipe":"lagu",
+         "jawaban":"Sadame (lagu Jepang)"
+      },
+      {
+         "index":284,
+         "soal":"Siapa yang pertama kali mendapatkan solo magazine cover?",
+         "tipe":"magazine",
+         "jawaban":"Heeseung (Marie Claire)"
+      },
+      {
+         "index":285,
+         "soal":"Berapa total penayangan live 'ENHYPEN COMEBACK SHOW' di Mnet?",
+         "tipe":"angka",
+         "jawaban":"Tidak diumumkan, perkiraan 1 juta+"
+      },
+      {
+         "index":286,
+         "soal":"Apa nama lagu yang memiliki koreografi dengan payung?",
+         "tipe":"koreo",
+         "jawaban":"Given-Taken (tidak ada payung), mungkin 'Let Me In'"
+      },
+      {
+         "index":287,
+         "soal":"Siapa yang paling suka dengan dessert manis?",
+         "tipe":"makanan",
+         "jawaban":"Sunoo"
+      },
+      {
+         "index":288,
+         "soal":"Lirik 'I want to be your only one' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"One In A Billion"
+      },
+      {
+         "index":289,
+         "soal":"Siapa yang memiliki tato 'cross' di pergelangan tangan?",
+         "tipe":"tato",
+         "jawaban":"Jay (tato kecil salib)"
+      },
+      {
+         "index":290,
+         "soal":"Apa nama lagu yang direkam ulang dalam versi akustik untuk fans?",
+         "tipe":"acoustic",
+         "jawaban":"Polaroid Love (acoustic live)"
+      },
+      {
+         "index":291,
+         "soal":"Siapa yang paling sering menjadi 'maskot' grup?",
+         "tipe":"maskot",
+         "jawaban":"Sunoo (ceria)"
+      },
+      {
+         "index":292,
+         "soal":"Album 'Manifesto: Day 1' memiliki lagu 'Foreshadow' yang berisi narasi?",
+         "tipe":"narasi",
+         "jawaban":"Benar, tentang masa depan"
+      },
+      {
+         "index":293,
+         "soal":"Siapa yang memiliki kemampuan main suling?",
+         "tipe":"instrument",
+         "jawaban":"Tidak ada yang resmi"
+      },
+      {
+         "index":294,
+         "soal":"Lirik 'We are ENHYPEN, we are the future' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Future Perfect (Pass the MIC)"
+      },
+      {
+         "index":295,
+         "soal":"Siapa yang paling suka dengan musim semi?",
+         "tipe":"musim",
+         "jawaban":"Jake"
+      },
+      {
+         "index":296,
+         "soal":"Berapa total lagu yang masuk nominasi 'Song of the Year' di MAMA?",
+         "tipe":"nominasi",
+         "jawaban":"2 (Drunk-Dazed, Fever)"
+      },
+      {
+         "index":297,
+         "soal":"Apa nama acara 'ENHYPEN's Summer Vacation'?",
+         "tipe":"variety",
+         "jawaban":"EN-O'CLOCK summer special"
+      },
+      {
+         "index":298,
+         "soal":"Siapa yang paling sering melakukan cover dance girl group?",
+         "tipe":"dance cover",
+         "jawaban":"Ni-Ki (pernah cover 'Antifragile'?)"
+      },
+      {
+         "index":299,
+         "soal":"Lagu 'Always' adalah lagu tema untuk anime apa?",
+         "tipe":"anime",
+         "jawaban":"Re-Main (2021)"
+      }
+   ]
+}
