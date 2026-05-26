@@ -1,307 +1,1807 @@
 {
-  "status": true,
-  "game": "kuis nct",
-  "total": 300,
-  "result": [
-    {"index": 0, "soal": "Apa kepanjangan dari NCT?", "tipe": "singkatan", "jawaban": "Neo Culture Technology"},
-    {"index": 1, "soal": "Siapa leader NCT?", "tipe": "leader", "jawaban": "Taeyong (NCT 127, NCT overall)"},
-    {"index": 2, "soal": "Tanggal debut NCT U (unit pertama)?", "tipe": "debut date", "jawaban": "9 April 2016"},
-    {"index": 3, "soal": "Lagu debut NCT U adalah?", "tipe": "debut song", "jawaban": "The 7th Sense"},
-    {"index": 4, "soal": "Siapa nama fandom resmi NCT?", "tipe": "fandom", "jawaban": "NCTzen"},
-    {"index": 5, "soal": "Berapa jumlah anggota NCT (total hingga 2026)?", "tipe": "jumlah anggota", "jawaban": "26 (termasuk semua subunit aktif)"},
-    {"index": 6, "soal": "Siapa anggota NCT dengan masa trainee terlama?", "tipe": "trainee", "jawaban": "Johnny (SM Rookies 2007-2016, 9 tahun)"},
-    {"index": 7, "soal": "Siapa anggota termuda NCT (maknae keseluruhan)?", "tipe": "maknae", "jawaban": "Sakuya (NCT WISH, lahir 2007)"},
-    {"index": 8, "soal": "Siapa anggota tertua NCT?", "tipe": "oldest", "jawaban": "Taeil (1994)"},
-    {"index": 9, "soal": "Subunit NCT yang berbasis di Seoul?", "tipe": "subunit", "jawaban": "NCT 127"},
-    {"index": 10, "soal": "Apa arti angka '127' di NCT 127?", "tipe": "arti", "jawaban": "Garis bujur Seoul (longitude Seoul)"},
-    {"index": 11, "soal": "Kapan NCT 127 debut?", "tipe": "debut date", "jawaban": "7 Juli 2016"},
-    {"index": 12, "soal": "Lagu debut NCT 127 adalah?", "tipe": "debut song", "jawaban": "Fire Truck"},
-    {"index": 13, "soal": "Subunit NCT yang berbasis di China?", "tipe": "subunit", "jawaban": "WayV (威神V)"},
-    {"index": 14, "soal": "WayV debut tanggal?", "tipe": "debut date", "jawaban": "17 Januari 2019"},
-    {"index": 15, "soal": "Lagu debut WayV adalah?", "tipe": "debut song", "jawaban": "Regular (Chinese ver.)"},
-    {"index": 16, "soal": "Subunit NCT yang usianya rata-rata termuda (teen concept)?", "tipe": "subunit", "jawaban": "NCT DREAM"},
-    {"index": 17, "soal": "NCT DREAM debut tanggal?", "tipe": "debut date", "jawaban": "25 Agustus 2016"},
-    {"index": 18, "soal": "Lagu debut NCT DREAM adalah?", "tipe": "debut song", "jawaban": "Chewing Gum"},
-    {"index": 19, "soal": "Subunit NCT terbaru yang debut 2024?", "tipe": "subunit", "jawaban": "NCT WISH"},
-    {"index": 20, "soal": "NCT WISH debut tanggal?", "tipe": "debut date", "jawaban": "28 Februari 2024"},
-    {"index": 21, "soal": "Lagu debut NCT WISH adalah?", "tipe": "debut song", "jawaban": "WISH"},
-    {"index": 22, "soal": "Siapa leader NCT 127?", "tipe": "leader 127", "jawaban": "Taeyong (2016-2023, lalu digantikan selama wajib militer, saat ini Taeil? Tapi Taeil keluar 2024. Pasca 2025: Doyoung? Yang jelas Taeyong masih leader overall)"},
-    {"index": 23, "soal": "Siapa leader NCT DREAM?", "tipe": "leader dream", "jawaban": "Mark (awal), sekarang Jeno (sejak 2020?)"},
-    {"index": 24, "soal": "Siapa leader WayV?", "tipe": "leader wayv", "jawaban": "Kun"},
-    {"index": 25, "soal": "Siapa leader NCT WISH?", "tipe": "leader wish", "jawaban": "Sion"},
-    {"index": 26, "soal": "Siapa main vocal NCT 127?", "tipe": "main vocal", "jawaban": "Taeil (sebelum keluar), Doyoung, Haechan, Jaehyun, Jungwoo"},
-    {"index": 27, "soal": "Siapa main dancer NCT 127?", "tipe": "main dancer", "jawaban": "Taeyong, Mark, Jaehyun, Yuta, Haechan"},
-    {"index": 28, "soal": "Siapa main rapper NCT 127?", "tipe": "main rapper", "jawaban": "Taeyong, Mark"},
-    {"index": 29, "soal": "Siapa anggota NCT yang dikenal dengan 'center' pusat?", "tipe": "center", "jawaban": "Taeyong"},
-    {"index": 30, "soal": "Siapa visual NCT yang disebut 'Face of NCT'?", "tipe": "visual", "jawaban": "Jaehyun, Taeyong"},
-    {"index": 31, "soal": "Lagu 'BOSS' dari subunit NCT U, siapa saja line-up-nya?", "tipe": "line-up", "jawaban": "Taeyong, Jaehyun, Mark, Doyoung, Winwin, Jungwoo, Lucas (ex)"},
-    {"index": 32, "soal": "Lagu 'Baby Don't Stop' dari NCT U dinyanyikan oleh?", "tipe": "duet", "jawaban": "Taeyong x Ten"},
-    {"index": 33, "soal": "Siapa yang memiliki suara khas 'honey-like' di NCT?", "tipe": "vocal", "jawaban": "Haechan, Doyoung"},
-    {"index": 34, "soal": "Siapa anggota NCT yang berasal dari Thailand?", "tipe": "thai", "jawaban": "Ten (WayV, NCT U)"},
-    {"index": 35, "soal": "Siapa anggota NCT yang berasal dari Jepang?", "tipe": "japanese", "jawaban": "Yuta (NCT 127), Sion (NCT WISH), Riku, Yushi, Ryo, Sakuya, Shotaro (ex)"},
-    {"index": 36, "soal": "Siapa anggota NCT yang berasal dari China (selain WayV)?", "tipe": "chinese", "jawaban": "Winwin (NCT 127, WayV), Kun, Ten (Thai-Chinese?), Chenle, Renjun, Yangyang, Hendery, Xiaojun"},
-    {"index": 37, "soal": "Siapa anggota NCT yang berasal dari Kanada?", "tipe": "canada", "jawaban": "Mark Lee"},
-    {"index": 38, "soal": "Siapa anggota NCT yang berasal dari Amerika?", "tipe": "usa", "jawaban": "Johnny (Chicago)"},
-    {"index": 39, "soal": "Siapa anggota NCT yang paling fasih berbahasa Inggris?", "tipe": "english", "jawaban": "Johnny, Mark, Jaehyun, Ten"},
-    {"index": 40, "soal": "Album full length pertama NCT adalah?", "tipe": "album full", "jawaban": "NCT 2018 Empathy"},
-    {"index": 41, "soal": "Proyek 'NCT 2020' merilis album apa?", "tipe": "proyek", "jawaban": "NCT Resonance Pt.1 & Pt.2"},
-    {"index": 42, "soal": "Lagu 'Make A Wish (Birthday Song)' dari NCT U, line-up siapa?", "tipe": "line-up", "jawaban": "Taeyong, Doyoung, Jaehyun, Lucas, Xiaojun, Shotaro"},
-    {"index": 43, "soal": "Lirik 'I can do this all day' dari lagu NCT?", "tipe": "lirik", "jawaban": "Kick It (NCT 127)"},
-    {"index": 44, "soal": "Koreografi 'Cherry Bomb' dikenal dengan gerakan apa?", "tipe": "koreo", "jawaban": "Gerakan 'mencabut' dan 'menembak' (zero to five seconds)"},
-    {"index": 45, "soal": "Siapa yang membuat koreografi 'Turn Back Time' (WayV)?", "tipe": "koreografer", "jawaban": "Ten (partisipasi)"},
-    {"index": 46, "soal": "Lagu 'Regular' versi Korea, China, Inggris, siapa yang rap di versi Inggris?", "tipe": "rap", "jawaban": "Mark, Taeyong, Johnny (English)"},
-    {"index": 47, "soal": "Siapa yang memiliki julukan 'Panda'?", "tipe": "julukan", "jawaban": "Jeno (NCT DREAM)"},
-    {"index": 48, "soal": "Siapa yang memiliki julukan 'Samoyed'?", "tipe": "julukan", "jawaban": "Jungwoo (mirip anjing Samoyed)"},
-    {"index": 49, "soal": "Siapa yang memiliki julukan 'Baby Shark'?", "tipe": "julukan", "jawaban": "Haechan (karena suka nyanyi Baby Shark)"},
-    {"index": 50, "soal": "Siapa yang disebut 'Yogurt Boy'?", "tipe": "julukan", "jawaban": "Jaemin (karena kulit putih bersih)"},
-    {"index": 51, "soal": "Siapa yang memiliki kemampuan akting di drama 'How to Hate You'?", "tipe": "akting", "jawaban": "Jaehyun (cameo)"},
-    {"index": 52, "soal": "Doyoung membintangi drama apa?", "tipe": "drama", "jawaban": "Dear.M (2022)"},
-    {"index": 53, "soal": "Siapa yang pernah menjadi MC di 'Inkigayo'?", "tipe": "mc", "jawaban": "Doyoung, Jaehyun"},
-    {"index": 54, "soal": "Siapa yang menjadi MC 'M Countdown'?", "tipe": "mc", "jawaban": "Doyoung (2019-2021)"},
-    {"index": 55, "soal": "Siapa yang merilis solo single 'Starlight' (Jaehyun)?", "tipe": "solo", "jawaban": "Jaehyun (2023)"},
-    {"index": 56, "soal": "Siapa yang merilis solo 'Forever Only'?", "tipe": "solo", "jawaban": "Jaehyun"},
-    {"index": 57, "soal": "Ten memiliki solo debut dengan lagu?", "tipe": "solo", "jawaban": "Paint Me Naked (2021)"},
-    {"index": 58, "soal": "Siapa yang memiliki solo 'Honey' (WayV)?", "tipe": "solo", "jawaban": "Ten (bukan Honey, tapi 'Birthday'?)"},
-    {"index": 59, "soal": "Mark Lee merilis solo 'Child' tahun?", "tipe": "solo", "jawaban": "2022"},
-    {"index": 60, "soal": "Siapa yang memiliki solo 'Blue' (Taeyong)?", "tipe": "solo", "jawaban": "Taeyong (2023, album 'SHALALA')"},
-    {"index": 61, "soal": "Album solo Taeyong 'SHALALA' rilis tahun?", "tipe": "tahun", "jawaban": "2023"},
-    {"index": 62, "soal": "Siapa yang memiliki solo 'Ghost' (Doyoung)?", "tipe": "solo", "jawaban": "Doyoung (2024 mini album 'Youth')"},
-    {"index": 63, "soal": "Album solo Doyoung 'Youth' rilis tahun?", "tipe": "tahun", "jawaban": "2024"},
-    {"index": 64, "soal": "Siapa yang memiliki lagu solo 'Lie Again' (Kun)?", "tipe": "solo", "jawaban": "Kun (single 2022)"},
-    {"index": 65, "soal": "Siapa yang memiliki kemampuan main piano?", "tipe": "piano", "jawaban": "Kun (main piano, komposer), Doyoung, Jaehyun, Mark"},
-    {"index": 66, "soal": "Siapa anggota NCT yang bisa main gitar?", "tipe": "gitar", "jawaban": "Jaehyun, Mark, Yuta"},
-    {"index": 67, "soal": "Siapa yang memiliki kemampuan main drum?", "tipe": "drum", "jawaban": "Johnny, Jaehyun"},
-    {"index": 68, "soal": "Siapa yang paling suka memasak?", "tipe": "masak", "jawaban": "Johnny (suka masak, punya konten 'Johnny's Cooking')"},
-    {"index": 69, "soal": "Apa nama lightstick resmi NCT?", "tipe": "lightstick", "jawaban": "NCT Light Stick (Neo Bong)"},
-    {"index": 70, "soal": "Siapa yang memiliki tato 'NCT' di tubuh?", "tipe": "tato", "jawaban": "Taeyong (tato NCT di leher)"},
-    {"index": 71, "soal": "Siapa yang memiliki tato 'M' di jari?", "tipe": "tato", "jawaban": "Mark (tato M di jari manis)"},
-    {"index": 72, "soal": "Siapa yang memiliki tato 'sun' dan 'moon'?", "tipe": "tato", "jawaban": "Taeyong (tato matahari dan bulan)"},
-    {"index": 73, "soal": "Siapa anggota yang paling suka dengan kucing?", "tipe": "kucing", "jawaban": "Doyoung, Jaehyun, Ten"},
-    {"index": 74, "soal": "Siapa yang punya anjing peliharaan?", "tipe": "anjing", "jawaban": "Jaemin (anjing Luna), Jeno (anjing Bbo), Haechan (anjing Haetsal)"},
-    {"index": 75, "soal": "Lagu 'Sticker' dari NCT 127 kontroversial karena?", "tipe": "kontroversi", "jawaban": "Suara flute yang unik dan disko"},
-    {"index": 76, "soal": "Album 'Sticker' rilis tahun?", "tipe": "tahun", "jawaban": "2021"},
-    {"index": 77, "soal": "Lagu 'Favorite (Vampire)' adalah repackage dari 'Sticker'?", "tipe": "repackage", "jawaban": "Benar"},
-    {"index": 78, "soal": "Siapa yang memiliki high note di lagu 'From Home' (NCT U)?", "tipe": "high note", "jawaban": "Doyoung, Haechan, Chenle"},
-    {"index": 79, "soal": "Lagu '90's Love' dari NCT U lineup unit?", "tipe": "lineup", "jawaban": "Ten, Winwin, Mark, Jeno, Haechan, Yangyang, Sungchan"},
-    {"index": 80, "soal": "Siapa yang suka dengan film Marvel?", "tipe": "marvel", "jawaban": "Johnny, Jaehyun, Mark"},
-    {"index": 81, "soal": "Siapa yang paling tinggi di NCT?", "tipe": "tinggi", "jawaban": "Johnny (185 cm), Jaehyun (182 cm), Lucas (ex 182 cm)"},
-    {"index": 82, "soal": "Siapa yang paling pendek di NCT?", "tipe": "pendek", "jawaban": "Haechan (170 cm?), Chenle, Renjun, Sakuya (sekitar 168-172)"},
-    {"index": 83, "soal": "Siapa yang paling suka dengan warna hitam?", "tipe": "warna", "jawaban": "Taeyong"},
-    {"index": 84, "soal": "Siapa yang paling suka dengan warna pink?", "tipe": "warna", "jawaban": "Jaemin, Renjun"},
-    {"index": 85, "soal": "Apa nama acara variety NCT 'NCT Life'?", "tipe": "variety", "jawaban": "NCT Life (banyak season)"},
-    {"index": 86, "soal": "Season 'NCT Life in...' yang paling terkenal?", "tipe": "season", "jawaban": "NCT Life in Seoul, Bangkok, dll."},
-    {"index": 87, "soal": "Siapa yang memiliki konten YouTube 'Johnny's Communication Center'?", "tipe": "youtube", "jawaban": "Johnny"},
-    {"index": 88, "soal": "Siapa yang punya konten 'Jaemin's Channel'?", "tipe": "youtube", "jawaban": "Jaemin (tidak resmi, tapi sering live)"},
-    {"index": 89, "soal": "Siapa yang paling sering update Instagram?", "tipe": "instagram", "jawaban": "Ten, Jaehyun, Johnny"},
-    {"index": 90, "soal": "Berapa total album studio Korea NCT 127 hingga 2026?", "tipe": "angka", "jawaban": "5 (Regular-Irregular, Neo Zone, Sticker, 2 Baddies, Fact Check)"},
-    {"index": 91, "soal": "Album 'Neo Zone' rilis tahun?", "tipe": "tahun", "jawaban": "2020"},
-    {"index": 92, "soal": "Lagu utama 'Neo Zone' adalah?", "tipe": "title", "jawaban": "Kick It"},
-    {"index": 93, "soal": "Album '2 Baddies' rilis tahun?", "tipe": "tahun", "jawaban": "2022"},
-    {"index": 94, "soal": "Lagu 'Fact Check' rilis tahun?", "tipe": "tahun", "jawaban": "2023"},
-    {"index": 95, "soal": "Album NCT DREAM full length pertama?", "tipe": "album full", "jawaban": "Hot Sauce (2021)"},
-    {"index": 96, "soal": "Lagu 'Hot Sauce' mencapai berapa juta streaming?", "tipe": "angka", "jawaban": "100 juta+"},
-    {"index": 97, "soal": "Album 'Glitch Mode' rilis tahun?", "tipe": "tahun", "jawaban": "2022"},
-    {"index": 98, "soal": "Album 'ISTJ' rilis tahun?", "tipe": "tahun", "jawaban": "2023"},
-    {"index": 99, "soal": "Album 'Dreamscape' rilis tahun?", "tipe": "tahun", "jawaban": "2024"},
-    {"index": 100, "soal": "Siapa anggota NCT DREAM yang lulus (graduation system) tapi kembali?", "tipe": "graduation", "jawaban": "Mark (kembali 2020 setelah sistem dihapus)"},
-    {"index": 101, "soal": "Siapa yang paling suka dengan olahraga renang?", "tipe": "renang", "jawaban": "Jeno, Jaemin"},
-    {"index": 102, "soal": "Siapa yang paling suka dengan olahraga sepak bola?", "tipe": "sepak bola", "jawaban": "Mark, Yuta, Jungwoo"},
-    {"index": 103, "soal": "Lagu 'Candy' (NCT DREAM) adalah remake dari lagu H.O.T., benar?", "tipe": "true false", "jawaban": "Benar"},
-    {"index": 104, "soal": "Siapa yang memiliki OST 'Rainbow' (NCT Dream)?", "tipe": "ost", "jawaban": "Bukan OST, lagu b-side"},
-    {"index": 105, "soal": "WayV album full length pertama?", "tipe": "album", "jawaban": "Awaken the World (2020)"},
-    {"index": 106, "soal": "Lagu utama 'Awaken the World'?", "tipe": "title", "jawaban": "Turn Back Time"},
-    {"index": 107, "soal": "Album WayV 'Phantom' rilis tahun?", "tipe": "tahun", "jawaban": "2022"},
-    {"index": 108, "soal": "Lagu 'Kick Back' (WayV) rilis tahun?", "tipe": "tahun", "jawaban": "2021"},
-    {"index": 109, "soal": "Siapa yang memiliki kemampuan bahasa Mandarin fasih selain Chinese line?", "tipe": "mandarin", "jawaban": "Ten (bisa Mandarin, Thai, Inggris)"},
-    {"index": 110, "soal": "Siapa anggota WayV yang paling suka dengan fashion edgy?", "tipe": "fashion", "jawaban": "Yangyang, Hendery"},
-    {"index": 111, "soal": "Siapa yang memiliki solo 'Low Low' (Ten & Yangyang)?", "tipe": "duet", "jawaban": "Ten & Yangyang"},
-    {"index": 112, "soal": "Lagu 'Back To You' (Kun & Xiaojun) adalah?", "tipe": "duet", "jawaban": "Duet, single 2021"},
-    {"index": 113, "soal": "Siapa yang memiliki solo 'All For Love' (Xiaojun)?", "tipe": "solo", "jawaban": "Xiaojun (2023)"},
-    {"index": 114, "soal": "Siapa yang memiliki solo 'Otra Vez' (Kun)?", "tipe": "solo", "jawaban": "Kun (single 2022)"},
-    {"index": 115, "soal": "NCT WISH memiliki lagu 'WISH' yang debut di Jepang dan Korea, benar?", "tipe": "true false", "jawaban": "Benar"},
-    {"index": 116, "soal": "Siapa anggota NCT WISH yang berasal dari Korea?", "tipe": "korean", "jawaban": "Sion, Ryo, Jaehee"},
-    {"index": 117, "soal": "Siapa anggota NCT WISH yang berasal dari Jepang?", "tipe": "japanese", "jawaban": "Riku, Yushi, Sakuya"},
-    {"index": 118, "soal": "Siapa leader NCT WISH?", "tipe": "leader wish", "jawaban": "Sion"},
-    {"index": 119, "soal": "Lagu 'NASA' dari NCT WISH adalah b-side?", "tipe": "lagu", "jawaban": "Ya"},
-    {"index": 120, "soal": "Siapa yang menjadi brand ambassador untuk 'Prada'?", "tipe": "brand", "jawaban": "Jaehyun (2023)"},
-    {"index": 121, "soal": "Siapa yang menjadi model untuk 'Dolce & Gabbana'?", "tipe": "brand", "jawaban": "Taeyong (2022-2023)"},
-    {"index": 122, "soal": "Siapa yang menjadi brand ambassador 'Laneige'?", "tipe": "brand", "jawaban": "Jeno (2023)"},
-    {"index": 123, "soal": "Siapa yang menjadi model 'Nacific'?", "tipe": "brand", "jawaban": "Jaemin"},
-    {"index": 124, "soal": "Berapa total lagu NCT yang mencapai #1 di Billboard World Digital Song Sales?", "tipe": "angka", "jawaban": "Banyak, termasuk 'Regular', 'Kick It', 'Sticker'"},
-    {"index": 125, "soal": "Siapa yang memiliki suara rap tercepat di NCT?", "tipe": "rap", "jawaban": "Mark Lee"},
-    {"index": 126, "soal": "Lagu 'Jopping' dari SuperM (berisi anggota NCT)?", "tipe": "supergroup", "jawaban": "Ya, Taeyong, Mark, Ten, Lucas (ex) bersama Baekhyun, Kai, Taemin"},
-    {"index": 127, "soal": "Siapa saja anggota NCT di SuperM?", "tipe": "superm", "jawaban": "Taeyong, Mark, Ten"},
-    {"index": 128, "soal": "Siapa yang memiliki kemampuan beatbox?", "tipe": "beatbox", "jawaban": "Mark, Johnny"},
-    {"index": 129, "soal": "Siapa yang paling suka dengan kopi?", "tipe": "kopi", "jawaban": "Doyoung, Taeyong"},
-    {"index": 130, "soal": "Lagu 'Love Talk' (WayV) versi Inggris sangat populer, benar?", "tipe": "true false", "jawaban": "Benar"},
-    {"index": 131, "soal": "Lirik 'I can't live without you, you're my love talk' dari lagu?", "tipe": "lirik", "jawaban": "Love Talk (WayV)"},
-    {"index": 132, "soal": "Siapa yang memiliki vokal 'soulful' khas?", "tipe": "vocal", "jawaban": "Jaehyun, Doyoung, Xiaojun"},
-    {"index": 133, "soal": "Siapa yang paling sering menjadi pusat (center) di dance break?", "tipe": "center", "jawaban": "Taeyong"},
-    {"index": 134, "soal": "Apa nama konser tur dunia NCT 127 'Neo City'?", "tipe": "tur", "jawaban": "Neo City - The Origin (2019), Neo City - The Link (2022)"},
-    {"index": 135, "soal": "NCT DREAM tur dunia 'The Dream Show' pertama tahun?", "tipe": "tur", "jawaban": "2022 (The Dream Show 2)"},
-    {"index": 136, "soal": "Siapa yang paling suka dengan game online?", "tipe": "game", "jawaban": "Jeno (suka game), Taeyong (main League of Legends)"},
-    {"index": 137, "soal": "Siapa yang memiliki stream di Twitch?", "tipe": "twitch", "jawaban": "Johnny (pernah stream)"},
-    {"index": 138, "soal": "Lagu 'Universe (Let's Play Ball)' dari NCT 2021, lineup?", "tipe": "lineup", "jawaban": "Doyoung, Jungwoo, Mark, Xiaojun, Jeno, Haechan, Jaemin, Yangyang, Shotaro, Sungchan"},
-    {"index": 139, "soal": "Siapa yang memiliki solo 'Rain Day' (NCT U)?", "tipe": "unit song", "jawaban": "Kun, Taeil, Yangyang (bukan solo)"},
-    {"index": 140, "soal": "Lagu 'Dreaming' dari NCT Dream adalah lagu?", "tipe": "b-side", "jawaban": "Dari album 'Glitch Mode'"},
-    {"index": 141, "soal": "Siapa yang paling suka dengan dessert?", "tipe": "makanan", "jawaban": "Haechan (suka manis)"},
-    {"index": 142, "soal": "Siapa yang memiliki kebiasaan 'menggigit' anggota lain?", "tipe": "kebiasaan", "jawaban": "Haechan (suka gigit Jeno)"},
-    {"index": 143, "soal": "Siapa yang paling sering dipanggil 'Puppy'?", "tipe": "julukan", "jawaban": "Jeno (mirip anjing), Mark (Mark puppy)"},
-    {"index": 144, "soal": "Lagu 'Yestoday' dari NCT U bercerita tentang masa lalu?", "tipe": "tema", "jawaban": "Benar (penyesalan dan kenangan)"},
-    {"index": 145, "soal": "Siapa yang menulis lirik 'Yestoday'?", "tipe": "penulis", "jawaban": "Taeyong, Mark"},
-    {"index": 146, "soal": "Siapa yang memiliki kemampuan akting di film 'The Battle of Jangsari'?", "tipe": "film", "jawaban": "Jaehyun (cameo)"},
-    {"index": 147, "soal": "Siapa yang memiliki OST 'Because It's First Love' (Doyoung)?", "tipe": "ost", "jawaban": "Doyoung (drama 'Itaewon Class'? bukan, itu 'Start Over')"},
-    {"index": 148, "soal": "Lagu 'A Little Bit' (NCT Dream) adalah b-side?", "tipe": "lagu", "jawaban": "Ya"},
-    {"index": 149, "soal": "Siapa yang paling suka dengan hujan?", "tipe": "cuaca", "jawaban": "Jaemin (suka suasana hujan)"},
-    {"index": 150, "soal": "Berapa total anggota yang pernah keluar dari NCT (permanen)?", "tipe": "keluar", "jawaban": "3 (Lucas, Shotaro, Sungchan - pindah ke RIIZE? Lucas hengkang, Shotaro & Sungchan keluar 2023, Taeil 2024)"},
-    {"index": 151, "soal": "Siapa yang memiliki tato '7' di lengan?", "tipe": "tato", "jawaban": "Taeyong (tato angka 7)"},
-    {"index": 152, "soal": "Siapa yang memiliki tato 'rose'?", "tipe": "tato", "jawaban": "Taeyong (tato mawar)"},
-    {"index": 153, "soal": "Lagu 'Sun & Moon' dari NCT 127 menceritakan tentang?", "tipe": "tema", "jawaban": "Pasangan seperti matahari dan bulan"},
-    {"index": 154, "soal": "Siapa yang paling suka dengan fashion vintage?", "tipe": "fashion", "jawaban": "Johnny, Jaehyun"},
-    {"index": 155, "soal": "Apa nama lagu NCT yang memiliki koreografi dengan payung?", "tipe": "koreo", "jawaban": "Gimme Gimme (NCT 127 Japanese)"},
-    {"index": 156, "soal": "Siapa yang suka dengan film horor?", "tipe": "horor", "jawaban": "Jaemin (suka horor), Haechan (takut)"},
-    {"index": 157, "soal": "Lagu 'Fireflies' (NCT DREAM) adalah lagu untuk?", "tipe": "campaign", "jawaban": "Earth Day 2020"},
-    {"index": 158, "soal": "Siapa yang memiliki kebiasaan 'mengumpulkan piring kertas'?", "tipe": "unik", "jawaban": "Jeno (pernah cerita)"},
-    {"index": 159, "soal": "Berapa total penghargaan 'Rookie of the Year' untuk NCT?", "tipe": "rookie", "jawaban": "NCT 127 menang 4, NCT Dream menang 3"},
-    {"index": 160, "soal": "Siapa yang memiliki solo 'Smile On My Face' (Doyoung)?", "tipe": "solo", "jawaban": "Doyoung (dari album 'Youth')"},
-    {"index": 161, "soal": "Lagu 'Faded In My Last Song' dari NCT 127 album 'Neo Zone'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 162, "soal": "Siapa yang paling suka dengan binatang eksotis?", "tipe": "binatang", "jawaban": "Taeyong (punya kura-kura, dan banyak hewan)"},
-    {"index": 163, "soal": "Apa nama lagu NCT 127 yang menjadi viral di TikTok dengan challenge 'sticker'?", "tipe": "viral", "jawaban": "Sticker (gerakan ketuk kepala)"},
-    {"index": 164, "soal": "Siapa yang memiliki kemampuan main ukulele?", "tipe": "ukulele", "jawaban": "Jaehyun, Mark"},
-    {"index": 165, "soal": "Lagu 'My Everything' dari NCT U (Taeil, Xiaojun, Renjun) adalah ballad?", "tipe": "genre", "jawaban": "Ballad"},
-    {"index": 166, "soal": "Siapa yang paling suka dengan olahraga basket?", "tipe": "basket", "jawaban": "Johnny (tinggi dan suka basket)"},
-    {"index": 167, "soal": "Berapa total lagu NCT dalam album 'NCT 2020 Resonance'?", "tipe": "jumlah", "jawaban": "21 (Pt.1 dan Pt.2)"},
-    {"index": 168, "soal": "Siapa yang memiliki solo 'Evergreen' (Jaehyun)?", "tipe": "solo", "jawaban": "Jaehyun (single 2023)"},
-    {"index": 169, "soal": "Lagu 'Raise The Roof' dari NCT 2020 line-up siapa?", "tipe": "lineup", "jawaban": "Taeyong, Jaehyun, Yuta, Ten, Jeno, Hendery, Renjun, Yangyang, Chenle"},
-    {"index": 170, "soal": "Siapa yang paling suka dengan warna biru?", "tipe": "warna", "jawaban": "Doyoung"},
-    {"index": 171, "soal": "Siapa yang memiliki kebiasaan 'bicara cepat'?", "tipe": "kebiasaan", "jawaban": "Mark (rap cepat, bicara cepat)"},
-    {"index": 172, "soal": "Apa nama lagu Jepang NCT 127 'Chain'?", "tipe": "jpn", "jawaban": "Chain (2018)"},
-    {"index": 173, "soal": "Siapa yang memiliki cover 'I Like Me Better' (Lauv) di YouTube?", "tipe": "cover", "jawaban": "Jaehyun"},
-    {"index": 174, "soal": "Siapa yang memiliki cover 'Havana' (Camila Cabello)?", "tipe": "cover", "jawaban": "Doyoung (dengan Johnny)"},
-    {"index": 175, "soal": "Lagu 'Dream Launch' adalah lagu untuk permainan?", "tipe": "game", "jawaban": "Superstar SMTOWN"},
-    {"index": 176, "soal": "Siapa yang paling sering menjadi 'ending fairy'?", "tipe": "ending", "jawaban": "Jaemin (sering senyum di ending), Jaehyun"},
-    {"index": 177, "soal": "Berapa total konser online NCT 'Beyond LIVE'?", "tipe": "online", "jawaban": "2 (NCT 127, NCT Dream)"},
-    {"index": 178, "soal": "Siapa yang memiliki solo 'Light Bulb' (NCT U)?", "tipe": "unit", "jawaban": "Taeyong, Doyoung, Kun, Sungchan (bukan solo)"},
-    {"index": 179, "soal": "Lagu 'Ok!' dari NCT 127 album 'Neo Zone'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 180, "soal": "Siapa yang paling suka dengan es krim?", "tipe": "makanan", "jawaban": "Haechan, Chenle"},
-    {"index": 181, "soal": "Siapa yang memiliki kemampuan sulap?", "tipe": "sulap", "jawaban": "Jungwoo (suka sulap sederhana)"},
-    {"index": 182, "soal": "Apa nama lagu NCT DREAM yang populer dengan lirik 'We go up, we go up'?", "tipe": "lirik", "jawaban": "We Go Up"},
-    {"index": 183, "soal": "Siapa yang memiliki OST 'Star Blossom' (Doyoung & Sejeong)?", "tipe": "duet", "jawaban": "Doyoung"},
-    {"index": 184, "soal": "Lagu 'King of Hearts' dari WayV adalah?", "tipe": "lagu", "jawaban": "B-side dari album 'Awaken the World'"},
-    {"index": 185, "soal": "Siapa yang paling suka dengan roller coaster?", "tipe": "taman hiburan", "jawaban": "Jaemin, Jeno"},
-    {"index": 186, "soal": "Berapa total subunit resmi NCT?", "tipe": "subunit", "jawaban": "5 (NCT U, NCT 127, NCT DREAM, WayV, NCT WISH)"},
-    {"index": 187, "soal": "Siapa yang memiliki suara tertinggi di NCT?", "tipe": "vocal", "jawaban": "Haechan (falsetto), Chenle (high pitch)"},
-    {"index": 188, "soal": "Lagu 'No Longer' (NCT 127) adalah ballad emosional, benar?", "tipe": "true false", "jawaban": "Benar"},
-    {"index": 189, "soal": "Siapa yang memiliki kemampuan akting di musikal 'Marie Antoinette'?", "tipe": "musical", "jawaban": "Taeyong (2023)"},
-    {"index": 190, "soal": "Siapa yang menjadi host di acara 'NCT Show'?", "tipe": "show", "jawaban": "Bergantian, sering Johnny dan Jaehyun"},
-    {"index": 191, "soal": "Lagu 'White Lie' dari NCT 127 album '2 Baddies'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 192, "soal": "Siapa yang paling suka dengan fashion jalanan (streetwear)?", "tipe": "streetwear", "jawaban": "Taeyong, Johnny, Yangyang"},
-    {"index": 193, "soal": "Apa nama lagu NCT yang memiliki koreografi 'mengemudi'?", "tipe": "koreo", "jawaban": "2 Baddies (gerakan setir)"},
-    {"index": 194, "soal": "Siapa yang memiliki kebiasaan 'membaca buku'?", "tipe": "buku", "jawaban": "Doyoung, Jaehyun, Kun"},
-    {"index": 195, "soal": "Lagu 'Punch' (NCT 127) adalah lagu repackage dari 'Neo Zone'?", "tipe": "repackage", "jawaban": "Benar (Final Round)"},
-    {"index": 196, "soal": "Siapa yang memiliki solo 'Fuego' (Taeyong)?", "tipe": "solo", "jawaban": "Taeyong (dari album 'SHALALA')"},
-    {"index": 197, "soal": "Berapa total penjualan album 'Sticker' di minggu pertama?", "tipe": "penjualan", "jawaban": "2,15 juta (Gaon)"},
-    {"index": 198, "soal": "Siapa yang paling suka dengan hewan kura-kura?", "tipe": "hewan", "jawaban": "Taeyong (punya kura-kura bernama 'Geobuk')"},
-    {"index": 199, "soal": "Lagu 'Beautiful' dari NCT 2021 adalah lagu untuk?", "tipe": "fan song", "jawaban": "NCTzen"},
-    {"index": 200, "soal": "Siapa yang memiliki cover 'Stay' (Blackpink) di TikTok?", "tipe": "cover", "jawaban": "Jeno, Jaemin (tidak resmi)"},
-    {"index": 201, "soal": "Apa nama acara 'NCT Universe' (variety)?", "tipe": "variety", "jawaban": "NCT Universe: LASTART (2023)"},
-    {"index": 202, "soal": "Siapa yang paling sering tertawa terbahak-bahak?", "tipe": "tertawa", "jawaban": "Haechan (tertawa khas), Jungwoo"},
-    {"index": 203, "soal": "Lagu 'ANL' (NCT Dream) singkatan dari?", "tipe": "singkatan", "jawaban": "ANL adalah singkatan dari 'All Night Long'? Bukan, itu judul"},
-    {"index": 204, "soal": "Siapa yang memiliki kemampuan main biola?", "tipe": "biola", "jawaban": "Ten (pernah main biola di acara)"},
-    {"index": 205, "soal": "Berapa total lagu dalam album 'Fact Check' (NCT 127)?", "tipe": "jumlah", "jawaban": "9"},
-    {"index": 206, "soal": "Siapa yang paling suka dengan lilin wangi?", "tipe": "aroma", "jawaban": "Jaehyun (suka parfum dan lilin)"},
-    {"index": 207, "soal": "Lagu 'Dreams Come True' (NCT 127) adalah cover dari?", "tipe": "cover", "jawaban": "Bukan cover, lagu original dari album 'Sticker'"},
-    {"index": 208, "soal": "Siapa yang memiliki kebiasaan 'meniru' anggota lain?", "tipe": "kebiasaan", "jawaban": "Haechan (suka niru)"},
-    {"index": 209, "soal": "Apa nama lagu WayV yang paling terkenal di Tiongkok?", "tipe": "populer", "jawaban": "Love Talk, Kick Back"},
-    {"index": 210, "soal": "Siapa yang menjadi model untuk 'Tiffany & Co.'?", "tipe": "brand", "jawaban": "Jaehyun (2024)"},
-    {"index": 211, "soal": "Siapa yang memiliki solo 'Colorful' (NCT Dream)?", "tipe": "solo", "jawaban": "Bukan solo, lagu grup"},
-    {"index": 212, "soal": "Lagu 'Back 2 U (AM 01:27)' dari NCT 127 sangat emosional, benar?", "tipe": "true false", "jawaban": "Benar"},
-    {"index": 213, "soal": "Siapa yang paling suka dengan matahari terbenam?", "tipe": "pemandangan", "jawaban": "Jaemin"},
-    {"index": 214, "soal": "Berapa total lagu yang diproduseri oleh SM 'Kenzie' untuk NCT?", "tipe": "produser", "jawaban": "Banyak, seperti 'BOSS', 'Kick It', 'Sticker'"},
-    {"index": 215, "soal": "Siapa yang memiliki kemampuan main bass?", "tipe": "bass", "jawaban": "Johnny (pernah main bass)"},
-    {"index": 216, "soal": "Apa nama konser 'NCT Nation' (2023)?", "tipe": "konser", "jawaban": "NCT Nation: To The World (2023 di Incheon)"},
-    {"index": 217, "soal": "Siapa yang paling suka dengan tanaman?", "tipe": "tanaman", "jawaban": "Doyoung (punya tanaman di kamar)"},
-    {"index": 218, "soal": "Lagu 'The Bat' dari NCT U adalah lagu dark concept, benar?", "tipe": "true false", "jawaban": "Benar"},
-    {"index": 219, "soal": "Siapa yang memiliki kebiasaan 'mengucek mata'?", "tipe": "kebiasaan", "jawaban": "Jeno"},
-    {"index": 220, "soal": "Apa nama lagu NCT DREAM yang dirilis untuk ulang tahun ke-5?", "tipe": "anniversary", "jawaban": "Hello Future (2021)"},
-    {"index": 221, "soal": "Siapa yang paling sering melakukan aegyo?", "tipe": "aegyo", "jawaban": "Jaemin, Haechan"},
-    {"index": 222, "soal": "Lagu 'Lipstick' (NCT 127) dari album '2 Baddies'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 223, "soal": "Siapa yang memiliki solo 'Flower' (Taeyong)?", "tipe": "solo", "jawaban": "Taeyong (dari album 'SHALALA')"},
-    {"index": 224, "soal": "Berapa total anggota yang lahir di tahun 2000-an?", "tipe": "generasi", "jawaban": "Banyak: Haechan, Jaemin, Jeno, Renjun, Chenle, Jisung, Yangyang, Hendery, Xiaojun? Xiaojun 1999, plus NCT WISH semua 2000an"},
-    {"index": 225, "soal": "Siapa yang paling suka dengan fashion designer?", "tipe": "designer", "jawaban": "Johnny (suka fashion, kenal desainer)"},
-    {"index": 226, "soal": "Lagu 'Fire Alarm' (NCT 127) dari album 'Fact Check'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 227, "soal": "Siapa yang memiliki kemampuan akting di web drama 'A-TEEN 2'?", "tipe": "drama", "jawaban": "Jaehyun (cameo), juga ada Doyoung"},
-    {"index": 228, "soal": "Apa nama lagu NCT U 'From Home' yang memiliki versi remix?", "tipe": "remix", "jawaban": "From Home (Rearranged version)"},
-    {"index": 229, "soal": "Siapa yang paling suka dengan bintang (astronomi)?", "tipe": "astronomi", "jawaban": "Taeyong (suka rasi bintang)"},
-    {"index": 230, "soal": "Lagu 'Tangerine Love' (NCT Dream) dari album 'ISTJ'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 231, "soal": "Siapa yang memiliki kebiasaan 'bicara dengan tangan'?", "tipe": "gestur", "jawaban": "Johnny (suka gestur tangan besar)"},
-    {"index": 232, "soal": "Berapa total video musik NCT yang mencapai 100 juta views?", "tipe": "angka", "jawaban": "Lebih dari 10 (Cherry Bomb, Boss, Kick It, Sticker, Make A Wish, dsb)"},
-    {"index": 233, "soal": "Siapa yang memiliki solo 'Lost' (Doyoung)?", "tipe": "solo", "jawaban": "Doyoung (dari album 'Youth')"},
-    {"index": 234, "soal": "Apa nama lagu NCT 127 'gimme gimme' yang berbahasa Jepang?", "tipe": "jpn", "jawaban": "Gimme Gimme (2021)"},
-    {"index": 235, "soal": "Siapa yang paling suka dengan kopi Americano?", "tipe": "kopi", "jawaban": "Doyoung (americano), Jaehyun (cold brew)"},
-    {"index": 236, "soal": "Lagu 'Work It' dari NCT U line-up?", "tipe": "lineup", "jawaban": "Jungwoo, Johnny, Yuta, Ten, Jaemin, Hendery, Jisung"},
-    {"index": 237, "soal": "Siapa yang memiliki kebiasaan 'menggigit bibir'?", "tipe": "kebiasaan", "jawaban": "Jaehyun (saat serius)"},
-    {"index": 238, "soal": "Berapa total album yang dirilis NCT 127 di Jepang?", "tipe": "jpn album", "jawaban": "3 (Awaken, Loveholic, The Link)"},
-    {"index": 239, "soal": "Siapa yang paling suka dengan binatang ular?", "tipe": "ular", "jawaban": "Tidak ada yang suka, Taeyong takut ular"},
-    {"index": 240, "soal": "Lagu 'Dreamer' (NCT 127) dari album 'Neo Zone'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 241, "soal": "Siapa yang memiliki kemampuan melukis?", "tipe": "melukis", "jawaban": "Taeyong (suka melukis), Xiaojun"},
-    {"index": 242, "soal": "Apa nama lagu NCT yang liriknya 'I'm the biggest hit on this stage'?", "tipe": "lirik", "jawaban": "Kick It"},
-    {"index": 243, "soal": "Siapa yang paling sering menjadi MC di acara 'Show Champion'?", "tipe": "mc", "jawaban": "Jungwoo (pernah jadi special MC)"},
-    {"index": 244, "soal": "Lagu 'Teddy Bear' (NCT Dream) adalah b-side manis?", "tipe": "lagu", "jawaban": "Ya"},
-    {"index": 245, "soal": "Siapa yang memiliki kebiasaan 'makan cepat'?", "tipe": "makan", "jawaban": "Jeno (makan cepat habis)"},
-    {"index": 246, "soal": "Berapa total fans club berbayar NCT di Weverse (2025)?", "tipe": "angka", "jawaban": "Perkiraan 1,5 juta"},
-    {"index": 247, "soal": "Siapa yang memiliki solo 'On the way' (NCT Dream)?", "tipe": "solo", "jawaban": "Bukan solo, lagu unit Dream"},
-    {"index": 248, "soal": "Apa nama lagu WayV 'Miracle'?", "tipe": "lagu", "jawaban": "Miracle (dari album 'Phantom')"},
-    {"index": 249, "soal": "Siapa yang paling suka dengan pantai?", "tipe": "pantai", "jawaban": "Johnny (dari Chicago, tapi suka pantai)"},
-    {"index": 250, "soal": "Lagu 'Paradise' (NCT 127) dari album 'Fact Check'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 251, "soal": "Siapa yang memiliki kebiasaan 'mengucap kalimat motivasi'?", "tipe": "motivasi", "jawaban": "Taeyong (sering bicara inspirasi)"},
-    {"index": 252, "soal": "Berapa total anggota NCT yang merilis solo album (resmi)?", "tipe": "solo album", "jawaban": "3 (Taeyong, Doyoung, Jaehyun), Ten belum full album"},
-    {"index": 253, "soal": "Siapa yang memiliki cover 'Fools' (Troye Sivan) di radio?", "tipe": "cover", "jawaban": "Jaehyun (di radio)"},
-    {"index": 254, "soal": "Apa nama lagu NCT U 'Round&Round'?", "tipe": "lagu", "jawaban": "Dari album 'NCT 2023 Golden Age'"},
-    {"index": 255, "soal": "Siapa yang paling suka dengan warna ungu?", "tipe": "warna", "jawaban": "Renjun"},
-    {"index": 256, "soal": "Lagu 'Broken Melodies' (NCT Dream) dari album 'ISTJ'?", "tipe": "lagu", "jawaban": "B-side yang populer"},
-    {"index": 257, "soal": "Siapa yang memiliki kemampuan akting di film 'Boy B'?", "tipe": "film", "jawaban": "Taeyong (peran pendukung)"},
-    {"index": 258, "soal": "Berapa total lagu dalam album 'NCT 2023 Golden Age'?", "tipe": "jumlah", "jawaban": "10"},
-    {"index": 259, "soal": "Siapa yang paling suka dengan salju?", "tipe": "salju", "jawaban": "Yuta (Jepang, suka salju)"},
-    {"index": 260, "soal": "Lagu 'Pado' (NCT U) dari album 'Golden Age'?", "tipe": "lagu", "jawaban": "Ya"},
-    {"index": 261, "soal": "Siapa yang memiliki kebiasaan 'telat bangun'?", "tipe": "tidur", "jawaban": "Haechan (suka tidur)"},
-    {"index": 262, "soal": "Apa nama lagu NCT 127 '영웅 (Hero)'? Itu 'Kick It'?", "tipe": "judul", "jawaban": "Kick It judul Korea '영웅' (Hero)"},
-    {"index": 263, "soal": "Siapa yang paling suka dengan anime?", "tipe": "anime", "jawaban": "Yuta, Shotaro (ex), Yangyang"},
-    {"index": 264, "soal": "Lagu 'Space' (NCT 127) dari album 'Fact Check'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 265, "soal": "Siapa yang memiliki solo 'When I'm Alone' (Jaehyun)?", "tipe": "solo", "jawaban": "Jaehyun (single 2024)"},
-    {"index": 266, "soal": "Berapa total lagu yang mencapai #1 di iTunes Top Album di 50 negara?", "tipe": "prestasi", "jawaban": "NCT 127 'Sticker' dan '2 Baddies' mencapai"},
-    {"index": 267, "soal": "Siapa yang paling suka dengan kue coklat?", "tipe": "makanan", "jawaban": "Haechan, Chenle"},
-    {"index": 268, "soal": "Lagu 'Vroom' (NCT Dream) dari album 'Dreamscape'?", "tipe": "lagu", "jawaban": "Ya"},
-    {"index": 269, "soal": "Siapa yang memiliki kebiasaan 'berfoto selfie setiap hari'?", "tipe": "selfie", "jawaban": "Jaemin (sering posting selfie)"},
-    {"index": 270, "soal": "Apa nama lagu WayV 'Action Figure'?", "tipe": "lagu", "jawaban": "Dari album 'Kick Back' (2021)"},
-    {"index": 271, "soal": "Siapa yang memiliki kemampuan main harmonika?", "tipe": "harmonika", "jawaban": "Tidak ada yang resmi"},
-    {"index": 272, "soal": "Lagu 'Focus' (NCT 127) dari album 'Neo Zone'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 273, "soal": "Siapa yang paling suka dengan olahraga baseball?", "tipe": "baseball", "jawaban": "Jaehyun (suka baseball, pernah lempar pertama)"},
-    {"index": 274, "soal": "Berapa total anggota yang pernah menjadi trainee SM Rookies?", "tipe": "sm rookies", "jawaban": "15+ (Taeyong, Johnny, Yuta, Ten, Jaehyun, Mark, Jeno, Jaemin, Haechan, Jisung, Doyoung, dll)"},
-    {"index": 275, "soal": "Siapa yang memiliki kebiasaan 'memotret anggota lain'?", "tipe": "fotografi", "jawaban": "Jaehyun (suka foto), Johnny"},
-    {"index": 276, "soal": "Apa nama lagu NCT Dream 'SOS'?", "tipe": "lagu", "jawaban": "Dari album 'ISTJ'"},
-    {"index": 277, "soal": "Siapa yang paling suka dengan fashion sneakers?", "tipe": "sepatu", "jawaban": "Johnny, Taeyong (kolektor sneakers)"},
-    {"index": 278, "soal": "Lagu 'Love Is A Beauty' (NCT 127) dari album 'Fact Check'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 279, "soal": "Siapa yang memiliki solo 'Let's Shut Up & Dance' bersama?", "tipe": "collab", "jawaban": "Taeyong, Doyoung, Johnny, Mark (dengan Jason Derulo & Lay)"},
-    {"index": 280, "soal": "Berapa total video call fansign NCT selama pandemi?", "tipe": "angka", "jawaban": "Ratusan"},
-    {"index": 281, "soal": "Siapa yang paling suka dengan warna pastel?", "tipe": "warna", "jawaban": "Renjun"},
-    {"index": 282, "soal": "Apa nama lagu NCT 127 'Skyscraper'?", "tipe": "lagu", "jawaban": "Dari album '2 Baddies'"},
-    {"index": 283, "soal": "Siapa yang memiliki kebiasaan 'membaca komentar netizen'?", "tipe": "kebiasaan", "jawaban": "Doyoung (suka baca komen)"},
-    {"index": 284, "soal": "Lagu 'Yogurt Shake' (NCT Dream) dari album 'We Go Up'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 285, "soal": "Siapa yang paling suka dengan drama Korea?", "tipe": "drakor", "jawaban": "Doyoung (suka nonton drakor)"},
-    {"index": 286, "soal": "Berapa total lagu yang diproduksi oleh Moonshine untuk NCT?", "tipe": "produser", "jawaban": "Banyak, seperti 'Kick It', 'Favorite', 'Sticker'"},
-    {"index": 287, "soal": "Siapa yang memiliki kemampuan akting di musikal 'The Man Who Laughs'?", "tipe": "musical", "jawaban": "Jaehyun (bukan, itu Suho EXO). NCT: Taeyong belum musikal"},
-    {"index": 288, "soal": "Lagu 'Dancing In The Rain' (NCT U) dari album 'NCT 2020'?", "tipe": "lagu", "jawaban": "Ya"},
-    {"index": 289, "soal": "Siapa yang paling suka dengan minuman boba?", "tipe": "boba", "jawaban": "Jaemin, Haechan"},
-    {"index": 290, "soal": "Apa nama lagu WayV 'Nectar'?", "tipe": "lagu", "jawaban": "Dari album 'Awaken the World'"},
-    {"index": 291, "soal": "Siapa yang memiliki kebiasaan 'menggelengkan kepala' saat rap?", "tipe": "rap", "jawaban": "Mark"},
-    {"index": 292, "soal": "Lagu 'Magic Carpet Ride' (NCT 127) dari album 'Sticker'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 293, "soal": "Siapa yang paling suka dengan hewan beruang?", "tipe": "beruang", "jawaban": "Jeno (mirip beruang)"},
-    {"index": 294, "soal": "Berapa total anggota yang sudah wajib militer hingga 2026?", "tipe": "militer", "jawaban": "Taeil (2024), Taeyong (2024?), Doyoung (2025?), yang lain masih muda"},
-    {"index": 295, "soal": "Siapa yang memiliki solo 'Rose' (Doyoung)?", "tipe": "solo", "jawaban": "Doyoung (dari album 'Youth')"},
-    {"index": 296, "soal": "Apa nama lagu NCT 127 'Gold Dust'?", "tipe": "lagu", "jawaban": "Dari album '2 Baddies'"},
-    {"index": 297, "soal": "Siapa yang paling suka dengan olahraga fitness?", "tipe": "fitness", "jawaban": "Johnny (rajin gym), Jaehyun"},
-    {"index": 298, "soal": "Lagu 'Black Clouds' (NCT 127) dari album 'Neo Zone'?", "tipe": "lagu", "jawaban": "B-side"},
-    {"index": 299, "soal": "Apa slogan NCT yang terkenal? 'To the world, we are Neo Culture Technology. NCT, we are one!'", "tipe": "slogan", "jawaban": "NCT, we are one! / Neo Culture Technology"}
-  ]
+   "status":true,
+   "game":"kuis nct",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Apa kepanjangan dari NCT?",
+         "tipe":"singkatan",
+         "jawaban":"Neo Culture Technology"
+      },
+      {
+         "index":1,
+         "soal":"Siapa leader NCT?",
+         "tipe":"leader",
+         "jawaban":"Taeyong (NCT 127, NCT overall)"
+      },
+      {
+         "index":2,
+         "soal":"Tanggal debut NCT U (unit pertama)?",
+         "tipe":"debut date",
+         "jawaban":"9 April 2016"
+      },
+      {
+         "index":3,
+         "soal":"Lagu debut NCT U adalah?",
+         "tipe":"debut song",
+         "jawaban":"The 7th Sense"
+      },
+      {
+         "index":4,
+         "soal":"Siapa nama fandom resmi NCT?",
+         "tipe":"fandom",
+         "jawaban":"NCTzen"
+      },
+      {
+         "index":5,
+         "soal":"Berapa jumlah anggota NCT (total hingga 2026)?",
+         "tipe":"jumlah anggota",
+         "jawaban":"26 (termasuk semua subunit aktif)"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota NCT dengan masa trainee terlama?",
+         "tipe":"trainee",
+         "jawaban":"Johnny (SM Rookies 2007-2016, 9 tahun)"
+      },
+      {
+         "index":7,
+         "soal":"Siapa anggota termuda NCT (maknae keseluruhan)?",
+         "tipe":"maknae",
+         "jawaban":"Sakuya (NCT WISH, lahir 2007)"
+      },
+      {
+         "index":8,
+         "soal":"Siapa anggota tertua NCT?",
+         "tipe":"oldest",
+         "jawaban":"Taeil (1994)"
+      },
+      {
+         "index":9,
+         "soal":"Subunit NCT yang berbasis di Seoul?",
+         "tipe":"subunit",
+         "jawaban":"NCT 127"
+      },
+      {
+         "index":10,
+         "soal":"Apa arti angka '127' di NCT 127?",
+         "tipe":"arti",
+         "jawaban":"Garis bujur Seoul (longitude Seoul)"
+      },
+      {
+         "index":11,
+         "soal":"Kapan NCT 127 debut?",
+         "tipe":"debut date",
+         "jawaban":"7 Juli 2016"
+      },
+      {
+         "index":12,
+         "soal":"Lagu debut NCT 127 adalah?",
+         "tipe":"debut song",
+         "jawaban":"Fire Truck"
+      },
+      {
+         "index":13,
+         "soal":"Subunit NCT yang berbasis di China?",
+         "tipe":"subunit",
+         "jawaban":"WayV (威神V)"
+      },
+      {
+         "index":14,
+         "soal":"WayV debut tanggal?",
+         "tipe":"debut date",
+         "jawaban":"17 Januari 2019"
+      },
+      {
+         "index":15,
+         "soal":"Lagu debut WayV adalah?",
+         "tipe":"debut song",
+         "jawaban":"Regular (Chinese ver.)"
+      },
+      {
+         "index":16,
+         "soal":"Subunit NCT yang usianya rata-rata termuda (teen concept)?",
+         "tipe":"subunit",
+         "jawaban":"NCT DREAM"
+      },
+      {
+         "index":17,
+         "soal":"NCT DREAM debut tanggal?",
+         "tipe":"debut date",
+         "jawaban":"25 Agustus 2016"
+      },
+      {
+         "index":18,
+         "soal":"Lagu debut NCT DREAM adalah?",
+         "tipe":"debut song",
+         "jawaban":"Chewing Gum"
+      },
+      {
+         "index":19,
+         "soal":"Subunit NCT terbaru yang debut 2024?",
+         "tipe":"subunit",
+         "jawaban":"NCT WISH"
+      },
+      {
+         "index":20,
+         "soal":"NCT WISH debut tanggal?",
+         "tipe":"debut date",
+         "jawaban":"28 Februari 2024"
+      },
+      {
+         "index":21,
+         "soal":"Lagu debut NCT WISH adalah?",
+         "tipe":"debut song",
+         "jawaban":"WISH"
+      },
+      {
+         "index":22,
+         "soal":"Siapa leader NCT 127?",
+         "tipe":"leader 127",
+         "jawaban":"Taeyong (2016-2023, lalu digantikan selama wajib militer, saat ini Taeil? Tapi Taeil keluar 2024. Pasca 2025: Doyoung? Yang jelas Taeyong masih leader overall)"
+      },
+      {
+         "index":23,
+         "soal":"Siapa leader NCT DREAM?",
+         "tipe":"leader dream",
+         "jawaban":"Mark (awal), sekarang Jeno (sejak 2020?)"
+      },
+      {
+         "index":24,
+         "soal":"Siapa leader WayV?",
+         "tipe":"leader wayv",
+         "jawaban":"Kun"
+      },
+      {
+         "index":25,
+         "soal":"Siapa leader NCT WISH?",
+         "tipe":"leader wish",
+         "jawaban":"Sion"
+      },
+      {
+         "index":26,
+         "soal":"Siapa main vocal NCT 127?",
+         "tipe":"main vocal",
+         "jawaban":"Taeil (sebelum keluar), Doyoung, Haechan, Jaehyun, Jungwoo"
+      },
+      {
+         "index":27,
+         "soal":"Siapa main dancer NCT 127?",
+         "tipe":"main dancer",
+         "jawaban":"Taeyong, Mark, Jaehyun, Yuta, Haechan"
+      },
+      {
+         "index":28,
+         "soal":"Siapa main rapper NCT 127?",
+         "tipe":"main rapper",
+         "jawaban":"Taeyong, Mark"
+      },
+      {
+         "index":29,
+         "soal":"Siapa anggota NCT yang dikenal dengan 'center' pusat?",
+         "tipe":"center",
+         "jawaban":"Taeyong"
+      },
+      {
+         "index":30,
+         "soal":"Siapa visual NCT yang disebut 'Face of NCT'?",
+         "tipe":"visual",
+         "jawaban":"Jaehyun, Taeyong"
+      },
+      {
+         "index":31,
+         "soal":"Lagu 'BOSS' dari subunit NCT U, siapa saja line-up-nya?",
+         "tipe":"line-up",
+         "jawaban":"Taeyong, Jaehyun, Mark, Doyoung, Winwin, Jungwoo, Lucas (ex)"
+      },
+      {
+         "index":32,
+         "soal":"Lagu 'Baby Don't Stop' dari NCT U dinyanyikan oleh?",
+         "tipe":"duet",
+         "jawaban":"Taeyong x Ten"
+      },
+      {
+         "index":33,
+         "soal":"Siapa yang memiliki suara khas 'honey-like' di NCT?",
+         "tipe":"vocal",
+         "jawaban":"Haechan, Doyoung"
+      },
+      {
+         "index":34,
+         "soal":"Siapa anggota NCT yang berasal dari Thailand?",
+         "tipe":"thai",
+         "jawaban":"Ten (WayV, NCT U)"
+      },
+      {
+         "index":35,
+         "soal":"Siapa anggota NCT yang berasal dari Jepang?",
+         "tipe":"japanese",
+         "jawaban":"Yuta (NCT 127), Sion (NCT WISH), Riku, Yushi, Ryo, Sakuya, Shotaro (ex)"
+      },
+      {
+         "index":36,
+         "soal":"Siapa anggota NCT yang berasal dari China (selain WayV)?",
+         "tipe":"chinese",
+         "jawaban":"Winwin (NCT 127, WayV), Kun, Ten (Thai-Chinese?), Chenle, Renjun, Yangyang, Hendery, Xiaojun"
+      },
+      {
+         "index":37,
+         "soal":"Siapa anggota NCT yang berasal dari Kanada?",
+         "tipe":"canada",
+         "jawaban":"Mark Lee"
+      },
+      {
+         "index":38,
+         "soal":"Siapa anggota NCT yang berasal dari Amerika?",
+         "tipe":"usa",
+         "jawaban":"Johnny (Chicago)"
+      },
+      {
+         "index":39,
+         "soal":"Siapa anggota NCT yang paling fasih berbahasa Inggris?",
+         "tipe":"english",
+         "jawaban":"Johnny, Mark, Jaehyun, Ten"
+      },
+      {
+         "index":40,
+         "soal":"Album full length pertama NCT adalah?",
+         "tipe":"album full",
+         "jawaban":"NCT 2018 Empathy"
+      },
+      {
+         "index":41,
+         "soal":"Proyek 'NCT 2020' merilis album apa?",
+         "tipe":"proyek",
+         "jawaban":"NCT Resonance Pt.1 & Pt.2"
+      },
+      {
+         "index":42,
+         "soal":"Lagu 'Make A Wish (Birthday Song)' dari NCT U, line-up siapa?",
+         "tipe":"line-up",
+         "jawaban":"Taeyong, Doyoung, Jaehyun, Lucas, Xiaojun, Shotaro"
+      },
+      {
+         "index":43,
+         "soal":"Lirik 'I can do this all day' dari lagu NCT?",
+         "tipe":"lirik",
+         "jawaban":"Kick It (NCT 127)"
+      },
+      {
+         "index":44,
+         "soal":"Koreografi 'Cherry Bomb' dikenal dengan gerakan apa?",
+         "tipe":"koreo",
+         "jawaban":"Gerakan 'mencabut' dan 'menembak' (zero to five seconds)"
+      },
+      {
+         "index":45,
+         "soal":"Siapa yang membuat koreografi 'Turn Back Time' (WayV)?",
+         "tipe":"koreografer",
+         "jawaban":"Ten (partisipasi)"
+      },
+      {
+         "index":46,
+         "soal":"Lagu 'Regular' versi Korea, China, Inggris, siapa yang rap di versi Inggris?",
+         "tipe":"rap",
+         "jawaban":"Mark, Taeyong, Johnny (English)"
+      },
+      {
+         "index":47,
+         "soal":"Siapa yang memiliki julukan 'Panda'?",
+         "tipe":"julukan",
+         "jawaban":"Jeno (NCT DREAM)"
+      },
+      {
+         "index":48,
+         "soal":"Siapa yang memiliki julukan 'Samoyed'?",
+         "tipe":"julukan",
+         "jawaban":"Jungwoo (mirip anjing Samoyed)"
+      },
+      {
+         "index":49,
+         "soal":"Siapa yang memiliki julukan 'Baby Shark'?",
+         "tipe":"julukan",
+         "jawaban":"Haechan (karena suka nyanyi Baby Shark)"
+      },
+      {
+         "index":50,
+         "soal":"Siapa yang disebut 'Yogurt Boy'?",
+         "tipe":"julukan",
+         "jawaban":"Jaemin (karena kulit putih bersih)"
+      },
+      {
+         "index":51,
+         "soal":"Siapa yang memiliki kemampuan akting di drama 'How to Hate You'?",
+         "tipe":"akting",
+         "jawaban":"Jaehyun (cameo)"
+      },
+      {
+         "index":52,
+         "soal":"Doyoung membintangi drama apa?",
+         "tipe":"drama",
+         "jawaban":"Dear.M (2022)"
+      },
+      {
+         "index":53,
+         "soal":"Siapa yang pernah menjadi MC di 'Inkigayo'?",
+         "tipe":"mc",
+         "jawaban":"Doyoung, Jaehyun"
+      },
+      {
+         "index":54,
+         "soal":"Siapa yang menjadi MC 'M Countdown'?",
+         "tipe":"mc",
+         "jawaban":"Doyoung (2019-2021)"
+      },
+      {
+         "index":55,
+         "soal":"Siapa yang merilis solo single 'Starlight' (Jaehyun)?",
+         "tipe":"solo",
+         "jawaban":"Jaehyun (2023)"
+      },
+      {
+         "index":56,
+         "soal":"Siapa yang merilis solo 'Forever Only'?",
+         "tipe":"solo",
+         "jawaban":"Jaehyun"
+      },
+      {
+         "index":57,
+         "soal":"Ten memiliki solo debut dengan lagu?",
+         "tipe":"solo",
+         "jawaban":"Paint Me Naked (2021)"
+      },
+      {
+         "index":58,
+         "soal":"Siapa yang memiliki solo 'Honey' (WayV)?",
+         "tipe":"solo",
+         "jawaban":"Ten (bukan Honey, tapi 'Birthday'?)"
+      },
+      {
+         "index":59,
+         "soal":"Mark Lee merilis solo 'Child' tahun?",
+         "tipe":"solo",
+         "jawaban":"2022"
+      },
+      {
+         "index":60,
+         "soal":"Siapa yang memiliki solo 'Blue' (Taeyong)?",
+         "tipe":"solo",
+         "jawaban":"Taeyong (2023, album 'SHALALA')"
+      },
+      {
+         "index":61,
+         "soal":"Album solo Taeyong 'SHALALA' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":62,
+         "soal":"Siapa yang memiliki solo 'Ghost' (Doyoung)?",
+         "tipe":"solo",
+         "jawaban":"Doyoung (2024 mini album 'Youth')"
+      },
+      {
+         "index":63,
+         "soal":"Album solo Doyoung 'Youth' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2024"
+      },
+      {
+         "index":64,
+         "soal":"Siapa yang memiliki lagu solo 'Lie Again' (Kun)?",
+         "tipe":"solo",
+         "jawaban":"Kun (single 2022)"
+      },
+      {
+         "index":65,
+         "soal":"Siapa yang memiliki kemampuan main piano?",
+         "tipe":"piano",
+         "jawaban":"Kun (main piano, komposer), Doyoung, Jaehyun, Mark"
+      },
+      {
+         "index":66,
+         "soal":"Siapa anggota NCT yang bisa main gitar?",
+         "tipe":"gitar",
+         "jawaban":"Jaehyun, Mark, Yuta"
+      },
+      {
+         "index":67,
+         "soal":"Siapa yang memiliki kemampuan main drum?",
+         "tipe":"drum",
+         "jawaban":"Johnny, Jaehyun"
+      },
+      {
+         "index":68,
+         "soal":"Siapa yang paling suka memasak?",
+         "tipe":"masak",
+         "jawaban":"Johnny (suka masak, punya konten 'Johnny's Cooking')"
+      },
+      {
+         "index":69,
+         "soal":"Apa nama lightstick resmi NCT?",
+         "tipe":"lightstick",
+         "jawaban":"NCT Light Stick (Neo Bong)"
+      },
+      {
+         "index":70,
+         "soal":"Siapa yang memiliki tato 'NCT' di tubuh?",
+         "tipe":"tato",
+         "jawaban":"Taeyong (tato NCT di leher)"
+      },
+      {
+         "index":71,
+         "soal":"Siapa yang memiliki tato 'M' di jari?",
+         "tipe":"tato",
+         "jawaban":"Mark (tato M di jari manis)"
+      },
+      {
+         "index":72,
+         "soal":"Siapa yang memiliki tato 'sun' dan 'moon'?",
+         "tipe":"tato",
+         "jawaban":"Taeyong (tato matahari dan bulan)"
+      },
+      {
+         "index":73,
+         "soal":"Siapa anggota yang paling suka dengan kucing?",
+         "tipe":"kucing",
+         "jawaban":"Doyoung, Jaehyun, Ten"
+      },
+      {
+         "index":74,
+         "soal":"Siapa yang punya anjing peliharaan?",
+         "tipe":"anjing",
+         "jawaban":"Jaemin (anjing Luna), Jeno (anjing Bbo), Haechan (anjing Haetsal)"
+      },
+      {
+         "index":75,
+         "soal":"Lagu 'Sticker' dari NCT 127 kontroversial karena?",
+         "tipe":"kontroversi",
+         "jawaban":"Suara flute yang unik dan disko"
+      },
+      {
+         "index":76,
+         "soal":"Album 'Sticker' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2021"
+      },
+      {
+         "index":77,
+         "soal":"Lagu 'Favorite (Vampire)' adalah repackage dari 'Sticker'?",
+         "tipe":"repackage",
+         "jawaban":"Benar"
+      },
+      {
+         "index":78,
+         "soal":"Siapa yang memiliki high note di lagu 'From Home' (NCT U)?",
+         "tipe":"high note",
+         "jawaban":"Doyoung, Haechan, Chenle"
+      },
+      {
+         "index":79,
+         "soal":"Lagu '90's Love' dari NCT U lineup unit?",
+         "tipe":"lineup",
+         "jawaban":"Ten, Winwin, Mark, Jeno, Haechan, Yangyang, Sungchan"
+      },
+      {
+         "index":80,
+         "soal":"Siapa yang suka dengan film Marvel?",
+         "tipe":"marvel",
+         "jawaban":"Johnny, Jaehyun, Mark"
+      },
+      {
+         "index":81,
+         "soal":"Siapa yang paling tinggi di NCT?",
+         "tipe":"tinggi",
+         "jawaban":"Johnny (185 cm), Jaehyun (182 cm), Lucas (ex 182 cm)"
+      },
+      {
+         "index":82,
+         "soal":"Siapa yang paling pendek di NCT?",
+         "tipe":"pendek",
+         "jawaban":"Haechan (170 cm?), Chenle, Renjun, Sakuya (sekitar 168-172)"
+      },
+      {
+         "index":83,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"warna",
+         "jawaban":"Taeyong"
+      },
+      {
+         "index":84,
+         "soal":"Siapa yang paling suka dengan warna pink?",
+         "tipe":"warna",
+         "jawaban":"Jaemin, Renjun"
+      },
+      {
+         "index":85,
+         "soal":"Apa nama acara variety NCT 'NCT Life'?",
+         "tipe":"variety",
+         "jawaban":"NCT Life (banyak season)"
+      },
+      {
+         "index":86,
+         "soal":"Season 'NCT Life in...' yang paling terkenal?",
+         "tipe":"season",
+         "jawaban":"NCT Life in Seoul, Bangkok, dll."
+      },
+      {
+         "index":87,
+         "soal":"Siapa yang memiliki konten YouTube 'Johnny's Communication Center'?",
+         "tipe":"youtube",
+         "jawaban":"Johnny"
+      },
+      {
+         "index":88,
+         "soal":"Siapa yang punya konten 'Jaemin's Channel'?",
+         "tipe":"youtube",
+         "jawaban":"Jaemin (tidak resmi, tapi sering live)"
+      },
+      {
+         "index":89,
+         "soal":"Siapa yang paling sering update Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Ten, Jaehyun, Johnny"
+      },
+      {
+         "index":90,
+         "soal":"Berapa total album studio Korea NCT 127 hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"5 (Regular-Irregular, Neo Zone, Sticker, 2 Baddies, Fact Check)"
+      },
+      {
+         "index":91,
+         "soal":"Album 'Neo Zone' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2020"
+      },
+      {
+         "index":92,
+         "soal":"Lagu utama 'Neo Zone' adalah?",
+         "tipe":"title",
+         "jawaban":"Kick It"
+      },
+      {
+         "index":93,
+         "soal":"Album '2 Baddies' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":94,
+         "soal":"Lagu 'Fact Check' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":95,
+         "soal":"Album NCT DREAM full length pertama?",
+         "tipe":"album full",
+         "jawaban":"Hot Sauce (2021)"
+      },
+      {
+         "index":96,
+         "soal":"Lagu 'Hot Sauce' mencapai berapa juta streaming?",
+         "tipe":"angka",
+         "jawaban":"100 juta+"
+      },
+      {
+         "index":97,
+         "soal":"Album 'Glitch Mode' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":98,
+         "soal":"Album 'ISTJ' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":99,
+         "soal":"Album 'Dreamscape' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2024"
+      },
+      {
+         "index":100,
+         "soal":"Siapa anggota NCT DREAM yang lulus (graduation system) tapi kembali?",
+         "tipe":"graduation",
+         "jawaban":"Mark (kembali 2020 setelah sistem dihapus)"
+      },
+      {
+         "index":101,
+         "soal":"Siapa yang paling suka dengan olahraga renang?",
+         "tipe":"renang",
+         "jawaban":"Jeno, Jaemin"
+      },
+      {
+         "index":102,
+         "soal":"Siapa yang paling suka dengan olahraga sepak bola?",
+         "tipe":"sepak bola",
+         "jawaban":"Mark, Yuta, Jungwoo"
+      },
+      {
+         "index":103,
+         "soal":"Lagu 'Candy' (NCT DREAM) adalah remake dari lagu H.O.T., benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":104,
+         "soal":"Siapa yang memiliki OST 'Rainbow' (NCT Dream)?",
+         "tipe":"ost",
+         "jawaban":"Bukan OST, lagu b-side"
+      },
+      {
+         "index":105,
+         "soal":"WayV album full length pertama?",
+         "tipe":"album",
+         "jawaban":"Awaken the World (2020)"
+      },
+      {
+         "index":106,
+         "soal":"Lagu utama 'Awaken the World'?",
+         "tipe":"title",
+         "jawaban":"Turn Back Time"
+      },
+      {
+         "index":107,
+         "soal":"Album WayV 'Phantom' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":108,
+         "soal":"Lagu 'Kick Back' (WayV) rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2021"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang memiliki kemampuan bahasa Mandarin fasih selain Chinese line?",
+         "tipe":"mandarin",
+         "jawaban":"Ten (bisa Mandarin, Thai, Inggris)"
+      },
+      {
+         "index":110,
+         "soal":"Siapa anggota WayV yang paling suka dengan fashion edgy?",
+         "tipe":"fashion",
+         "jawaban":"Yangyang, Hendery"
+      },
+      {
+         "index":111,
+         "soal":"Siapa yang memiliki solo 'Low Low' (Ten & Yangyang)?",
+         "tipe":"duet",
+         "jawaban":"Ten & Yangyang"
+      },
+      {
+         "index":112,
+         "soal":"Lagu 'Back To You' (Kun & Xiaojun) adalah?",
+         "tipe":"duet",
+         "jawaban":"Duet, single 2021"
+      },
+      {
+         "index":113,
+         "soal":"Siapa yang memiliki solo 'All For Love' (Xiaojun)?",
+         "tipe":"solo",
+         "jawaban":"Xiaojun (2023)"
+      },
+      {
+         "index":114,
+         "soal":"Siapa yang memiliki solo 'Otra Vez' (Kun)?",
+         "tipe":"solo",
+         "jawaban":"Kun (single 2022)"
+      },
+      {
+         "index":115,
+         "soal":"NCT WISH memiliki lagu 'WISH' yang debut di Jepang dan Korea, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":116,
+         "soal":"Siapa anggota NCT WISH yang berasal dari Korea?",
+         "tipe":"korean",
+         "jawaban":"Sion, Ryo, Jaehee"
+      },
+      {
+         "index":117,
+         "soal":"Siapa anggota NCT WISH yang berasal dari Jepang?",
+         "tipe":"japanese",
+         "jawaban":"Riku, Yushi, Sakuya"
+      },
+      {
+         "index":118,
+         "soal":"Siapa leader NCT WISH?",
+         "tipe":"leader wish",
+         "jawaban":"Sion"
+      },
+      {
+         "index":119,
+         "soal":"Lagu 'NASA' dari NCT WISH adalah b-side?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Prada'?",
+         "tipe":"brand",
+         "jawaban":"Jaehyun (2023)"
+      },
+      {
+         "index":121,
+         "soal":"Siapa yang menjadi model untuk 'Dolce & Gabbana'?",
+         "tipe":"brand",
+         "jawaban":"Taeyong (2022-2023)"
+      },
+      {
+         "index":122,
+         "soal":"Siapa yang menjadi brand ambassador 'Laneige'?",
+         "tipe":"brand",
+         "jawaban":"Jeno (2023)"
+      },
+      {
+         "index":123,
+         "soal":"Siapa yang menjadi model 'Nacific'?",
+         "tipe":"brand",
+         "jawaban":"Jaemin"
+      },
+      {
+         "index":124,
+         "soal":"Berapa total lagu NCT yang mencapai #1 di Billboard World Digital Song Sales?",
+         "tipe":"angka",
+         "jawaban":"Banyak, termasuk 'Regular', 'Kick It', 'Sticker'"
+      },
+      {
+         "index":125,
+         "soal":"Siapa yang memiliki suara rap tercepat di NCT?",
+         "tipe":"rap",
+         "jawaban":"Mark Lee"
+      },
+      {
+         "index":126,
+         "soal":"Lagu 'Jopping' dari SuperM (berisi anggota NCT)?",
+         "tipe":"supergroup",
+         "jawaban":"Ya, Taeyong, Mark, Ten, Lucas (ex) bersama Baekhyun, Kai, Taemin"
+      },
+      {
+         "index":127,
+         "soal":"Siapa saja anggota NCT di SuperM?",
+         "tipe":"superm",
+         "jawaban":"Taeyong, Mark, Ten"
+      },
+      {
+         "index":128,
+         "soal":"Siapa yang memiliki kemampuan beatbox?",
+         "tipe":"beatbox",
+         "jawaban":"Mark, Johnny"
+      },
+      {
+         "index":129,
+         "soal":"Siapa yang paling suka dengan kopi?",
+         "tipe":"kopi",
+         "jawaban":"Doyoung, Taeyong"
+      },
+      {
+         "index":130,
+         "soal":"Lagu 'Love Talk' (WayV) versi Inggris sangat populer, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":131,
+         "soal":"Lirik 'I can't live without you, you're my love talk' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Love Talk (WayV)"
+      },
+      {
+         "index":132,
+         "soal":"Siapa yang memiliki vokal 'soulful' khas?",
+         "tipe":"vocal",
+         "jawaban":"Jaehyun, Doyoung, Xiaojun"
+      },
+      {
+         "index":133,
+         "soal":"Siapa yang paling sering menjadi pusat (center) di dance break?",
+         "tipe":"center",
+         "jawaban":"Taeyong"
+      },
+      {
+         "index":134,
+         "soal":"Apa nama konser tur dunia NCT 127 'Neo City'?",
+         "tipe":"tur",
+         "jawaban":"Neo City - The Origin (2019), Neo City - The Link (2022)"
+      },
+      {
+         "index":135,
+         "soal":"NCT DREAM tur dunia 'The Dream Show' pertama tahun?",
+         "tipe":"tur",
+         "jawaban":"2022 (The Dream Show 2)"
+      },
+      {
+         "index":136,
+         "soal":"Siapa yang paling suka dengan game online?",
+         "tipe":"game",
+         "jawaban":"Jeno (suka game), Taeyong (main League of Legends)"
+      },
+      {
+         "index":137,
+         "soal":"Siapa yang memiliki stream di Twitch?",
+         "tipe":"twitch",
+         "jawaban":"Johnny (pernah stream)"
+      },
+      {
+         "index":138,
+         "soal":"Lagu 'Universe (Let's Play Ball)' dari NCT 2021, lineup?",
+         "tipe":"lineup",
+         "jawaban":"Doyoung, Jungwoo, Mark, Xiaojun, Jeno, Haechan, Jaemin, Yangyang, Shotaro, Sungchan"
+      },
+      {
+         "index":139,
+         "soal":"Siapa yang memiliki solo 'Rain Day' (NCT U)?",
+         "tipe":"unit song",
+         "jawaban":"Kun, Taeil, Yangyang (bukan solo)"
+      },
+      {
+         "index":140,
+         "soal":"Lagu 'Dreaming' dari NCT Dream adalah lagu?",
+         "tipe":"b-side",
+         "jawaban":"Dari album 'Glitch Mode'"
+      },
+      {
+         "index":141,
+         "soal":"Siapa yang paling suka dengan dessert?",
+         "tipe":"makanan",
+         "jawaban":"Haechan (suka manis)"
+      },
+      {
+         "index":142,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit' anggota lain?",
+         "tipe":"kebiasaan",
+         "jawaban":"Haechan (suka gigit Jeno)"
+      },
+      {
+         "index":143,
+         "soal":"Siapa yang paling sering dipanggil 'Puppy'?",
+         "tipe":"julukan",
+         "jawaban":"Jeno (mirip anjing), Mark (Mark puppy)"
+      },
+      {
+         "index":144,
+         "soal":"Lagu 'Yestoday' dari NCT U bercerita tentang masa lalu?",
+         "tipe":"tema",
+         "jawaban":"Benar (penyesalan dan kenangan)"
+      },
+      {
+         "index":145,
+         "soal":"Siapa yang menulis lirik 'Yestoday'?",
+         "tipe":"penulis",
+         "jawaban":"Taeyong, Mark"
+      },
+      {
+         "index":146,
+         "soal":"Siapa yang memiliki kemampuan akting di film 'The Battle of Jangsari'?",
+         "tipe":"film",
+         "jawaban":"Jaehyun (cameo)"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang memiliki OST 'Because It's First Love' (Doyoung)?",
+         "tipe":"ost",
+         "jawaban":"Doyoung (drama 'Itaewon Class'? bukan, itu 'Start Over')"
+      },
+      {
+         "index":148,
+         "soal":"Lagu 'A Little Bit' (NCT Dream) adalah b-side?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":149,
+         "soal":"Siapa yang paling suka dengan hujan?",
+         "tipe":"cuaca",
+         "jawaban":"Jaemin (suka suasana hujan)"
+      },
+      {
+         "index":150,
+         "soal":"Berapa total anggota yang pernah keluar dari NCT (permanen)?",
+         "tipe":"keluar",
+         "jawaban":"3 (Lucas, Shotaro, Sungchan - pindah ke RIIZE? Lucas hengkang, Shotaro & Sungchan keluar 2023, Taeil 2024)"
+      },
+      {
+         "index":151,
+         "soal":"Siapa yang memiliki tato '7' di lengan?",
+         "tipe":"tato",
+         "jawaban":"Taeyong (tato angka 7)"
+      },
+      {
+         "index":152,
+         "soal":"Siapa yang memiliki tato 'rose'?",
+         "tipe":"tato",
+         "jawaban":"Taeyong (tato mawar)"
+      },
+      {
+         "index":153,
+         "soal":"Lagu 'Sun & Moon' dari NCT 127 menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Pasangan seperti matahari dan bulan"
+      },
+      {
+         "index":154,
+         "soal":"Siapa yang paling suka dengan fashion vintage?",
+         "tipe":"fashion",
+         "jawaban":"Johnny, Jaehyun"
+      },
+      {
+         "index":155,
+         "soal":"Apa nama lagu NCT yang memiliki koreografi dengan payung?",
+         "tipe":"koreo",
+         "jawaban":"Gimme Gimme (NCT 127 Japanese)"
+      },
+      {
+         "index":156,
+         "soal":"Siapa yang suka dengan film horor?",
+         "tipe":"horor",
+         "jawaban":"Jaemin (suka horor), Haechan (takut)"
+      },
+      {
+         "index":157,
+         "soal":"Lagu 'Fireflies' (NCT DREAM) adalah lagu untuk?",
+         "tipe":"campaign",
+         "jawaban":"Earth Day 2020"
+      },
+      {
+         "index":158,
+         "soal":"Siapa yang memiliki kebiasaan 'mengumpulkan piring kertas'?",
+         "tipe":"unik",
+         "jawaban":"Jeno (pernah cerita)"
+      },
+      {
+         "index":159,
+         "soal":"Berapa total penghargaan 'Rookie of the Year' untuk NCT?",
+         "tipe":"rookie",
+         "jawaban":"NCT 127 menang 4, NCT Dream menang 3"
+      },
+      {
+         "index":160,
+         "soal":"Siapa yang memiliki solo 'Smile On My Face' (Doyoung)?",
+         "tipe":"solo",
+         "jawaban":"Doyoung (dari album 'Youth')"
+      },
+      {
+         "index":161,
+         "soal":"Lagu 'Faded In My Last Song' dari NCT 127 album 'Neo Zone'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":162,
+         "soal":"Siapa yang paling suka dengan binatang eksotis?",
+         "tipe":"binatang",
+         "jawaban":"Taeyong (punya kura-kura, dan banyak hewan)"
+      },
+      {
+         "index":163,
+         "soal":"Apa nama lagu NCT 127 yang menjadi viral di TikTok dengan challenge 'sticker'?",
+         "tipe":"viral",
+         "jawaban":"Sticker (gerakan ketuk kepala)"
+      },
+      {
+         "index":164,
+         "soal":"Siapa yang memiliki kemampuan main ukulele?",
+         "tipe":"ukulele",
+         "jawaban":"Jaehyun, Mark"
+      },
+      {
+         "index":165,
+         "soal":"Lagu 'My Everything' dari NCT U (Taeil, Xiaojun, Renjun) adalah ballad?",
+         "tipe":"genre",
+         "jawaban":"Ballad"
+      },
+      {
+         "index":166,
+         "soal":"Siapa yang paling suka dengan olahraga basket?",
+         "tipe":"basket",
+         "jawaban":"Johnny (tinggi dan suka basket)"
+      },
+      {
+         "index":167,
+         "soal":"Berapa total lagu NCT dalam album 'NCT 2020 Resonance'?",
+         "tipe":"jumlah",
+         "jawaban":"21 (Pt.1 dan Pt.2)"
+      },
+      {
+         "index":168,
+         "soal":"Siapa yang memiliki solo 'Evergreen' (Jaehyun)?",
+         "tipe":"solo",
+         "jawaban":"Jaehyun (single 2023)"
+      },
+      {
+         "index":169,
+         "soal":"Lagu 'Raise The Roof' dari NCT 2020 line-up siapa?",
+         "tipe":"lineup",
+         "jawaban":"Taeyong, Jaehyun, Yuta, Ten, Jeno, Hendery, Renjun, Yangyang, Chenle"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang paling suka dengan warna biru?",
+         "tipe":"warna",
+         "jawaban":"Doyoung"
+      },
+      {
+         "index":171,
+         "soal":"Siapa yang memiliki kebiasaan 'bicara cepat'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Mark (rap cepat, bicara cepat)"
+      },
+      {
+         "index":172,
+         "soal":"Apa nama lagu Jepang NCT 127 'Chain'?",
+         "tipe":"jpn",
+         "jawaban":"Chain (2018)"
+      },
+      {
+         "index":173,
+         "soal":"Siapa yang memiliki cover 'I Like Me Better' (Lauv) di YouTube?",
+         "tipe":"cover",
+         "jawaban":"Jaehyun"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang memiliki cover 'Havana' (Camila Cabello)?",
+         "tipe":"cover",
+         "jawaban":"Doyoung (dengan Johnny)"
+      },
+      {
+         "index":175,
+         "soal":"Lagu 'Dream Launch' adalah lagu untuk permainan?",
+         "tipe":"game",
+         "jawaban":"Superstar SMTOWN"
+      },
+      {
+         "index":176,
+         "soal":"Siapa yang paling sering menjadi 'ending fairy'?",
+         "tipe":"ending",
+         "jawaban":"Jaemin (sering senyum di ending), Jaehyun"
+      },
+      {
+         "index":177,
+         "soal":"Berapa total konser online NCT 'Beyond LIVE'?",
+         "tipe":"online",
+         "jawaban":"2 (NCT 127, NCT Dream)"
+      },
+      {
+         "index":178,
+         "soal":"Siapa yang memiliki solo 'Light Bulb' (NCT U)?",
+         "tipe":"unit",
+         "jawaban":"Taeyong, Doyoung, Kun, Sungchan (bukan solo)"
+      },
+      {
+         "index":179,
+         "soal":"Lagu 'Ok!' dari NCT 127 album 'Neo Zone'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":180,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"makanan",
+         "jawaban":"Haechan, Chenle"
+      },
+      {
+         "index":181,
+         "soal":"Siapa yang memiliki kemampuan sulap?",
+         "tipe":"sulap",
+         "jawaban":"Jungwoo (suka sulap sederhana)"
+      },
+      {
+         "index":182,
+         "soal":"Apa nama lagu NCT DREAM yang populer dengan lirik 'We go up, we go up'?",
+         "tipe":"lirik",
+         "jawaban":"We Go Up"
+      },
+      {
+         "index":183,
+         "soal":"Siapa yang memiliki OST 'Star Blossom' (Doyoung & Sejeong)?",
+         "tipe":"duet",
+         "jawaban":"Doyoung"
+      },
+      {
+         "index":184,
+         "soal":"Lagu 'King of Hearts' dari WayV adalah?",
+         "tipe":"lagu",
+         "jawaban":"B-side dari album 'Awaken the World'"
+      },
+      {
+         "index":185,
+         "soal":"Siapa yang paling suka dengan roller coaster?",
+         "tipe":"taman hiburan",
+         "jawaban":"Jaemin, Jeno"
+      },
+      {
+         "index":186,
+         "soal":"Berapa total subunit resmi NCT?",
+         "tipe":"subunit",
+         "jawaban":"5 (NCT U, NCT 127, NCT DREAM, WayV, NCT WISH)"
+      },
+      {
+         "index":187,
+         "soal":"Siapa yang memiliki suara tertinggi di NCT?",
+         "tipe":"vocal",
+         "jawaban":"Haechan (falsetto), Chenle (high pitch)"
+      },
+      {
+         "index":188,
+         "soal":"Lagu 'No Longer' (NCT 127) adalah ballad emosional, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":189,
+         "soal":"Siapa yang memiliki kemampuan akting di musikal 'Marie Antoinette'?",
+         "tipe":"musical",
+         "jawaban":"Taeyong (2023)"
+      },
+      {
+         "index":190,
+         "soal":"Siapa yang menjadi host di acara 'NCT Show'?",
+         "tipe":"show",
+         "jawaban":"Bergantian, sering Johnny dan Jaehyun"
+      },
+      {
+         "index":191,
+         "soal":"Lagu 'White Lie' dari NCT 127 album '2 Baddies'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":192,
+         "soal":"Siapa yang paling suka dengan fashion jalanan (streetwear)?",
+         "tipe":"streetwear",
+         "jawaban":"Taeyong, Johnny, Yangyang"
+      },
+      {
+         "index":193,
+         "soal":"Apa nama lagu NCT yang memiliki koreografi 'mengemudi'?",
+         "tipe":"koreo",
+         "jawaban":"2 Baddies (gerakan setir)"
+      },
+      {
+         "index":194,
+         "soal":"Siapa yang memiliki kebiasaan 'membaca buku'?",
+         "tipe":"buku",
+         "jawaban":"Doyoung, Jaehyun, Kun"
+      },
+      {
+         "index":195,
+         "soal":"Lagu 'Punch' (NCT 127) adalah lagu repackage dari 'Neo Zone'?",
+         "tipe":"repackage",
+         "jawaban":"Benar (Final Round)"
+      },
+      {
+         "index":196,
+         "soal":"Siapa yang memiliki solo 'Fuego' (Taeyong)?",
+         "tipe":"solo",
+         "jawaban":"Taeyong (dari album 'SHALALA')"
+      },
+      {
+         "index":197,
+         "soal":"Berapa total penjualan album 'Sticker' di minggu pertama?",
+         "tipe":"penjualan",
+         "jawaban":"2,15 juta (Gaon)"
+      },
+      {
+         "index":198,
+         "soal":"Siapa yang paling suka dengan hewan kura-kura?",
+         "tipe":"hewan",
+         "jawaban":"Taeyong (punya kura-kura bernama 'Geobuk')"
+      },
+      {
+         "index":199,
+         "soal":"Lagu 'Beautiful' dari NCT 2021 adalah lagu untuk?",
+         "tipe":"fan song",
+         "jawaban":"NCTzen"
+      },
+      {
+         "index":200,
+         "soal":"Siapa yang memiliki cover 'Stay' (Blackpink) di TikTok?",
+         "tipe":"cover",
+         "jawaban":"Jeno, Jaemin (tidak resmi)"
+      },
+      {
+         "index":201,
+         "soal":"Apa nama acara 'NCT Universe' (variety)?",
+         "tipe":"variety",
+         "jawaban":"NCT Universe: LASTART (2023)"
+      },
+      {
+         "index":202,
+         "soal":"Siapa yang paling sering tertawa terbahak-bahak?",
+         "tipe":"tertawa",
+         "jawaban":"Haechan (tertawa khas), Jungwoo"
+      },
+      {
+         "index":203,
+         "soal":"Lagu 'ANL' (NCT Dream) singkatan dari?",
+         "tipe":"singkatan",
+         "jawaban":"ANL adalah singkatan dari 'All Night Long'? Bukan, itu judul"
+      },
+      {
+         "index":204,
+         "soal":"Siapa yang memiliki kemampuan main biola?",
+         "tipe":"biola",
+         "jawaban":"Ten (pernah main biola di acara)"
+      },
+      {
+         "index":205,
+         "soal":"Berapa total lagu dalam album 'Fact Check' (NCT 127)?",
+         "tipe":"jumlah",
+         "jawaban":"9"
+      },
+      {
+         "index":206,
+         "soal":"Siapa yang paling suka dengan lilin wangi?",
+         "tipe":"aroma",
+         "jawaban":"Jaehyun (suka parfum dan lilin)"
+      },
+      {
+         "index":207,
+         "soal":"Lagu 'Dreams Come True' (NCT 127) adalah cover dari?",
+         "tipe":"cover",
+         "jawaban":"Bukan cover, lagu original dari album 'Sticker'"
+      },
+      {
+         "index":208,
+         "soal":"Siapa yang memiliki kebiasaan 'meniru' anggota lain?",
+         "tipe":"kebiasaan",
+         "jawaban":"Haechan (suka niru)"
+      },
+      {
+         "index":209,
+         "soal":"Apa nama lagu WayV yang paling terkenal di Tiongkok?",
+         "tipe":"populer",
+         "jawaban":"Love Talk, Kick Back"
+      },
+      {
+         "index":210,
+         "soal":"Siapa yang menjadi model untuk 'Tiffany & Co.'?",
+         "tipe":"brand",
+         "jawaban":"Jaehyun (2024)"
+      },
+      {
+         "index":211,
+         "soal":"Siapa yang memiliki solo 'Colorful' (NCT Dream)?",
+         "tipe":"solo",
+         "jawaban":"Bukan solo, lagu grup"
+      },
+      {
+         "index":212,
+         "soal":"Lagu 'Back 2 U (AM 01:27)' dari NCT 127 sangat emosional, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":213,
+         "soal":"Siapa yang paling suka dengan matahari terbenam?",
+         "tipe":"pemandangan",
+         "jawaban":"Jaemin"
+      },
+      {
+         "index":214,
+         "soal":"Berapa total lagu yang diproduseri oleh SM 'Kenzie' untuk NCT?",
+         "tipe":"produser",
+         "jawaban":"Banyak, seperti 'BOSS', 'Kick It', 'Sticker'"
+      },
+      {
+         "index":215,
+         "soal":"Siapa yang memiliki kemampuan main bass?",
+         "tipe":"bass",
+         "jawaban":"Johnny (pernah main bass)"
+      },
+      {
+         "index":216,
+         "soal":"Apa nama konser 'NCT Nation' (2023)?",
+         "tipe":"konser",
+         "jawaban":"NCT Nation: To The World (2023 di Incheon)"
+      },
+      {
+         "index":217,
+         "soal":"Siapa yang paling suka dengan tanaman?",
+         "tipe":"tanaman",
+         "jawaban":"Doyoung (punya tanaman di kamar)"
+      },
+      {
+         "index":218,
+         "soal":"Lagu 'The Bat' dari NCT U adalah lagu dark concept, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":219,
+         "soal":"Siapa yang memiliki kebiasaan 'mengucek mata'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Jeno"
+      },
+      {
+         "index":220,
+         "soal":"Apa nama lagu NCT DREAM yang dirilis untuk ulang tahun ke-5?",
+         "tipe":"anniversary",
+         "jawaban":"Hello Future (2021)"
+      },
+      {
+         "index":221,
+         "soal":"Siapa yang paling sering melakukan aegyo?",
+         "tipe":"aegyo",
+         "jawaban":"Jaemin, Haechan"
+      },
+      {
+         "index":222,
+         "soal":"Lagu 'Lipstick' (NCT 127) dari album '2 Baddies'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":223,
+         "soal":"Siapa yang memiliki solo 'Flower' (Taeyong)?",
+         "tipe":"solo",
+         "jawaban":"Taeyong (dari album 'SHALALA')"
+      },
+      {
+         "index":224,
+         "soal":"Berapa total anggota yang lahir di tahun 2000-an?",
+         "tipe":"generasi",
+         "jawaban":"Banyak: Haechan, Jaemin, Jeno, Renjun, Chenle, Jisung, Yangyang, Hendery, Xiaojun? Xiaojun 1999, plus NCT WISH semua 2000an"
+      },
+      {
+         "index":225,
+         "soal":"Siapa yang paling suka dengan fashion designer?",
+         "tipe":"designer",
+         "jawaban":"Johnny (suka fashion, kenal desainer)"
+      },
+      {
+         "index":226,
+         "soal":"Lagu 'Fire Alarm' (NCT 127) dari album 'Fact Check'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":227,
+         "soal":"Siapa yang memiliki kemampuan akting di web drama 'A-TEEN 2'?",
+         "tipe":"drama",
+         "jawaban":"Jaehyun (cameo), juga ada Doyoung"
+      },
+      {
+         "index":228,
+         "soal":"Apa nama lagu NCT U 'From Home' yang memiliki versi remix?",
+         "tipe":"remix",
+         "jawaban":"From Home (Rearranged version)"
+      },
+      {
+         "index":229,
+         "soal":"Siapa yang paling suka dengan bintang (astronomi)?",
+         "tipe":"astronomi",
+         "jawaban":"Taeyong (suka rasi bintang)"
+      },
+      {
+         "index":230,
+         "soal":"Lagu 'Tangerine Love' (NCT Dream) dari album 'ISTJ'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":231,
+         "soal":"Siapa yang memiliki kebiasaan 'bicara dengan tangan'?",
+         "tipe":"gestur",
+         "jawaban":"Johnny (suka gestur tangan besar)"
+      },
+      {
+         "index":232,
+         "soal":"Berapa total video musik NCT yang mencapai 100 juta views?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 10 (Cherry Bomb, Boss, Kick It, Sticker, Make A Wish, dsb)"
+      },
+      {
+         "index":233,
+         "soal":"Siapa yang memiliki solo 'Lost' (Doyoung)?",
+         "tipe":"solo",
+         "jawaban":"Doyoung (dari album 'Youth')"
+      },
+      {
+         "index":234,
+         "soal":"Apa nama lagu NCT 127 'gimme gimme' yang berbahasa Jepang?",
+         "tipe":"jpn",
+         "jawaban":"Gimme Gimme (2021)"
+      },
+      {
+         "index":235,
+         "soal":"Siapa yang paling suka dengan kopi Americano?",
+         "tipe":"kopi",
+         "jawaban":"Doyoung (americano), Jaehyun (cold brew)"
+      },
+      {
+         "index":236,
+         "soal":"Lagu 'Work It' dari NCT U line-up?",
+         "tipe":"lineup",
+         "jawaban":"Jungwoo, Johnny, Yuta, Ten, Jaemin, Hendery, Jisung"
+      },
+      {
+         "index":237,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit bibir'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Jaehyun (saat serius)"
+      },
+      {
+         "index":238,
+         "soal":"Berapa total album yang dirilis NCT 127 di Jepang?",
+         "tipe":"jpn album",
+         "jawaban":"3 (Awaken, Loveholic, The Link)"
+      },
+      {
+         "index":239,
+         "soal":"Siapa yang paling suka dengan binatang ular?",
+         "tipe":"ular",
+         "jawaban":"Tidak ada yang suka, Taeyong takut ular"
+      },
+      {
+         "index":240,
+         "soal":"Lagu 'Dreamer' (NCT 127) dari album 'Neo Zone'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":241,
+         "soal":"Siapa yang memiliki kemampuan melukis?",
+         "tipe":"melukis",
+         "jawaban":"Taeyong (suka melukis), Xiaojun"
+      },
+      {
+         "index":242,
+         "soal":"Apa nama lagu NCT yang liriknya 'I'm the biggest hit on this stage'?",
+         "tipe":"lirik",
+         "jawaban":"Kick It"
+      },
+      {
+         "index":243,
+         "soal":"Siapa yang paling sering menjadi MC di acara 'Show Champion'?",
+         "tipe":"mc",
+         "jawaban":"Jungwoo (pernah jadi special MC)"
+      },
+      {
+         "index":244,
+         "soal":"Lagu 'Teddy Bear' (NCT Dream) adalah b-side manis?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":245,
+         "soal":"Siapa yang memiliki kebiasaan 'makan cepat'?",
+         "tipe":"makan",
+         "jawaban":"Jeno (makan cepat habis)"
+      },
+      {
+         "index":246,
+         "soal":"Berapa total fans club berbayar NCT di Weverse (2025)?",
+         "tipe":"angka",
+         "jawaban":"Perkiraan 1,5 juta"
+      },
+      {
+         "index":247,
+         "soal":"Siapa yang memiliki solo 'On the way' (NCT Dream)?",
+         "tipe":"solo",
+         "jawaban":"Bukan solo, lagu unit Dream"
+      },
+      {
+         "index":248,
+         "soal":"Apa nama lagu WayV 'Miracle'?",
+         "tipe":"lagu",
+         "jawaban":"Miracle (dari album 'Phantom')"
+      },
+      {
+         "index":249,
+         "soal":"Siapa yang paling suka dengan pantai?",
+         "tipe":"pantai",
+         "jawaban":"Johnny (dari Chicago, tapi suka pantai)"
+      },
+      {
+         "index":250,
+         "soal":"Lagu 'Paradise' (NCT 127) dari album 'Fact Check'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":251,
+         "soal":"Siapa yang memiliki kebiasaan 'mengucap kalimat motivasi'?",
+         "tipe":"motivasi",
+         "jawaban":"Taeyong (sering bicara inspirasi)"
+      },
+      {
+         "index":252,
+         "soal":"Berapa total anggota NCT yang merilis solo album (resmi)?",
+         "tipe":"solo album",
+         "jawaban":"3 (Taeyong, Doyoung, Jaehyun), Ten belum full album"
+      },
+      {
+         "index":253,
+         "soal":"Siapa yang memiliki cover 'Fools' (Troye Sivan) di radio?",
+         "tipe":"cover",
+         "jawaban":"Jaehyun (di radio)"
+      },
+      {
+         "index":254,
+         "soal":"Apa nama lagu NCT U 'Round&Round'?",
+         "tipe":"lagu",
+         "jawaban":"Dari album 'NCT 2023 Golden Age'"
+      },
+      {
+         "index":255,
+         "soal":"Siapa yang paling suka dengan warna ungu?",
+         "tipe":"warna",
+         "jawaban":"Renjun"
+      },
+      {
+         "index":256,
+         "soal":"Lagu 'Broken Melodies' (NCT Dream) dari album 'ISTJ'?",
+         "tipe":"lagu",
+         "jawaban":"B-side yang populer"
+      },
+      {
+         "index":257,
+         "soal":"Siapa yang memiliki kemampuan akting di film 'Boy B'?",
+         "tipe":"film",
+         "jawaban":"Taeyong (peran pendukung)"
+      },
+      {
+         "index":258,
+         "soal":"Berapa total lagu dalam album 'NCT 2023 Golden Age'?",
+         "tipe":"jumlah",
+         "jawaban":"10"
+      },
+      {
+         "index":259,
+         "soal":"Siapa yang paling suka dengan salju?",
+         "tipe":"salju",
+         "jawaban":"Yuta (Jepang, suka salju)"
+      },
+      {
+         "index":260,
+         "soal":"Lagu 'Pado' (NCT U) dari album 'Golden Age'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":261,
+         "soal":"Siapa yang memiliki kebiasaan 'telat bangun'?",
+         "tipe":"tidur",
+         "jawaban":"Haechan (suka tidur)"
+      },
+      {
+         "index":262,
+         "soal":"Apa nama lagu NCT 127 '영웅 (Hero)'? Itu 'Kick It'?",
+         "tipe":"judul",
+         "jawaban":"Kick It judul Korea '영웅' (Hero)"
+      },
+      {
+         "index":263,
+         "soal":"Siapa yang paling suka dengan anime?",
+         "tipe":"anime",
+         "jawaban":"Yuta, Shotaro (ex), Yangyang"
+      },
+      {
+         "index":264,
+         "soal":"Lagu 'Space' (NCT 127) dari album 'Fact Check'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":265,
+         "soal":"Siapa yang memiliki solo 'When I'm Alone' (Jaehyun)?",
+         "tipe":"solo",
+         "jawaban":"Jaehyun (single 2024)"
+      },
+      {
+         "index":266,
+         "soal":"Berapa total lagu yang mencapai #1 di iTunes Top Album di 50 negara?",
+         "tipe":"prestasi",
+         "jawaban":"NCT 127 'Sticker' dan '2 Baddies' mencapai"
+      },
+      {
+         "index":267,
+         "soal":"Siapa yang paling suka dengan kue coklat?",
+         "tipe":"makanan",
+         "jawaban":"Haechan, Chenle"
+      },
+      {
+         "index":268,
+         "soal":"Lagu 'Vroom' (NCT Dream) dari album 'Dreamscape'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":269,
+         "soal":"Siapa yang memiliki kebiasaan 'berfoto selfie setiap hari'?",
+         "tipe":"selfie",
+         "jawaban":"Jaemin (sering posting selfie)"
+      },
+      {
+         "index":270,
+         "soal":"Apa nama lagu WayV 'Action Figure'?",
+         "tipe":"lagu",
+         "jawaban":"Dari album 'Kick Back' (2021)"
+      },
+      {
+         "index":271,
+         "soal":"Siapa yang memiliki kemampuan main harmonika?",
+         "tipe":"harmonika",
+         "jawaban":"Tidak ada yang resmi"
+      },
+      {
+         "index":272,
+         "soal":"Lagu 'Focus' (NCT 127) dari album 'Neo Zone'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":273,
+         "soal":"Siapa yang paling suka dengan olahraga baseball?",
+         "tipe":"baseball",
+         "jawaban":"Jaehyun (suka baseball, pernah lempar pertama)"
+      },
+      {
+         "index":274,
+         "soal":"Berapa total anggota yang pernah menjadi trainee SM Rookies?",
+         "tipe":"sm rookies",
+         "jawaban":"15+ (Taeyong, Johnny, Yuta, Ten, Jaehyun, Mark, Jeno, Jaemin, Haechan, Jisung, Doyoung, dll)"
+      },
+      {
+         "index":275,
+         "soal":"Siapa yang memiliki kebiasaan 'memotret anggota lain'?",
+         "tipe":"fotografi",
+         "jawaban":"Jaehyun (suka foto), Johnny"
+      },
+      {
+         "index":276,
+         "soal":"Apa nama lagu NCT Dream 'SOS'?",
+         "tipe":"lagu",
+         "jawaban":"Dari album 'ISTJ'"
+      },
+      {
+         "index":277,
+         "soal":"Siapa yang paling suka dengan fashion sneakers?",
+         "tipe":"sepatu",
+         "jawaban":"Johnny, Taeyong (kolektor sneakers)"
+      },
+      {
+         "index":278,
+         "soal":"Lagu 'Love Is A Beauty' (NCT 127) dari album 'Fact Check'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":279,
+         "soal":"Siapa yang memiliki solo 'Let's Shut Up & Dance' bersama?",
+         "tipe":"collab",
+         "jawaban":"Taeyong, Doyoung, Johnny, Mark (dengan Jason Derulo & Lay)"
+      },
+      {
+         "index":280,
+         "soal":"Berapa total video call fansign NCT selama pandemi?",
+         "tipe":"angka",
+         "jawaban":"Ratusan"
+      },
+      {
+         "index":281,
+         "soal":"Siapa yang paling suka dengan warna pastel?",
+         "tipe":"warna",
+         "jawaban":"Renjun"
+      },
+      {
+         "index":282,
+         "soal":"Apa nama lagu NCT 127 'Skyscraper'?",
+         "tipe":"lagu",
+         "jawaban":"Dari album '2 Baddies'"
+      },
+      {
+         "index":283,
+         "soal":"Siapa yang memiliki kebiasaan 'membaca komentar netizen'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Doyoung (suka baca komen)"
+      },
+      {
+         "index":284,
+         "soal":"Lagu 'Yogurt Shake' (NCT Dream) dari album 'We Go Up'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":285,
+         "soal":"Siapa yang paling suka dengan drama Korea?",
+         "tipe":"drakor",
+         "jawaban":"Doyoung (suka nonton drakor)"
+      },
+      {
+         "index":286,
+         "soal":"Berapa total lagu yang diproduksi oleh Moonshine untuk NCT?",
+         "tipe":"produser",
+         "jawaban":"Banyak, seperti 'Kick It', 'Favorite', 'Sticker'"
+      },
+      {
+         "index":287,
+         "soal":"Siapa yang memiliki kemampuan akting di musikal 'The Man Who Laughs'?",
+         "tipe":"musical",
+         "jawaban":"Jaehyun (bukan, itu Suho EXO). NCT: Taeyong belum musikal"
+      },
+      {
+         "index":288,
+         "soal":"Lagu 'Dancing In The Rain' (NCT U) dari album 'NCT 2020'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":289,
+         "soal":"Siapa yang paling suka dengan minuman boba?",
+         "tipe":"boba",
+         "jawaban":"Jaemin, Haechan"
+      },
+      {
+         "index":290,
+         "soal":"Apa nama lagu WayV 'Nectar'?",
+         "tipe":"lagu",
+         "jawaban":"Dari album 'Awaken the World'"
+      },
+      {
+         "index":291,
+         "soal":"Siapa yang memiliki kebiasaan 'menggelengkan kepala' saat rap?",
+         "tipe":"rap",
+         "jawaban":"Mark"
+      },
+      {
+         "index":292,
+         "soal":"Lagu 'Magic Carpet Ride' (NCT 127) dari album 'Sticker'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":293,
+         "soal":"Siapa yang paling suka dengan hewan beruang?",
+         "tipe":"beruang",
+         "jawaban":"Jeno (mirip beruang)"
+      },
+      {
+         "index":294,
+         "soal":"Berapa total anggota yang sudah wajib militer hingga 2026?",
+         "tipe":"militer",
+         "jawaban":"Taeil (2024), Taeyong (2024?), Doyoung (2025?), yang lain masih muda"
+      },
+      {
+         "index":295,
+         "soal":"Siapa yang memiliki solo 'Rose' (Doyoung)?",
+         "tipe":"solo",
+         "jawaban":"Doyoung (dari album 'Youth')"
+      },
+      {
+         "index":296,
+         "soal":"Apa nama lagu NCT 127 'Gold Dust'?",
+         "tipe":"lagu",
+         "jawaban":"Dari album '2 Baddies'"
+      },
+      {
+         "index":297,
+         "soal":"Siapa yang paling suka dengan olahraga fitness?",
+         "tipe":"fitness",
+         "jawaban":"Johnny (rajin gym), Jaehyun"
+      },
+      {
+         "index":298,
+         "soal":"Lagu 'Black Clouds' (NCT 127) dari album 'Neo Zone'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":299,
+         "soal":"Apa slogan NCT yang terkenal? 'To the world, we are Neo Culture Technology. NCT, we are one!'",
+         "tipe":"slogan",
+         "jawaban":"NCT, we are one! / Neo Culture Technology"
+      }
+   ]
 }
