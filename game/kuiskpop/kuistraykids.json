@@ -1,1 +1,1809 @@
-
+{
+   "status":true,
+   "game":"kuis straykids",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama leader Stray Kids?",
+         "tipe":"leader",
+         "jawaban":"Bang Chan"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal debut Stray Kids?",
+         "tipe":"debut date",
+         "jawaban":"25 Maret 2018"
+      },
+      {
+         "index":2,
+         "soal":"Lagu debut Stray Kids adalah?",
+         "tipe":"debut song",
+         "jawaban":"District 9"
+      },
+      {
+         "index":3,
+         "soal":"Siapa nama fandom resmi Stray Kids?",
+         "tipe":"fandom",
+         "jawaban":"STAY"
+      },
+      {
+         "index":4,
+         "soal":"Berapa jumlah anggota Stray Kids?",
+         "tipe":"jumlah anggota",
+         "jawaban":"8"
+      },
+      {
+         "index":5,
+         "soal":"Siapa anggota tertua Stray Kids?",
+         "tipe":"oldest",
+         "jawaban":"Bang Chan (1997)"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota termuda (maknae) Stray Kids?",
+         "tipe":"maknae",
+         "jawaban":"I.N (Yang Jeongin, 2001)"
+      },
+      {
+         "index":7,
+         "soal":"Siapa yang dikenal dengan panggilan 'Paboracha' (4 rapper utama)?",
+         "tipe":"julukan",
+         "jawaban":"Bang Chan, Changbin, Han, Hyunjin (3RACHA + Hyunjin? Yang benar 3RACHA: Bang Chan, Changbin, Han)"
+      },
+      {
+         "index":8,
+         "soal":"Unit produksi dalam Stray Kids disebut?",
+         "tipe":"unit",
+         "jawaban":"3RACHA (Bang Chan, Changbin, Han)"
+      },
+      {
+         "index":9,
+         "soal":"Siapa yang memiliki suara khas 'nada tinggi' dan rap cepat?",
+         "tipe":"vocal/rap",
+         "jawaban":"Han (Jisung)"
+      },
+      {
+         "index":10,
+         "soal":"Siapa main dancer Stray Kids?",
+         "tipe":"main dancer",
+         "jawaban":"Hyunjin, Lee Know, Felix"
+      },
+      {
+         "index":11,
+         "soal":"Siapa main vocal Stray Kids?",
+         "tipe":"main vocal",
+         "jawaban":"Seungmin, I.N, Han"
+      },
+      {
+         "index":12,
+         "soal":"Siapa main rapper Stray Kids?",
+         "tipe":"main rapper",
+         "jawaban":"Bang Chan, Changbin, Han, Hyunjin, Felix"
+      },
+      {
+         "index":13,
+         "soal":"Siapa yang memiliki suara bass berat khas?",
+         "tipe":"suara",
+         "jawaban":"Felix (deep voice)"
+      },
+      {
+         "index":14,
+         "soal":"Siapa yang dikenal dengan visual 'bermata satu'? (kelopak mata)",
+         "tipe":"visual",
+         "jawaban":"Hyunjin (monolid menarik), juga Lee Know"
+      },
+      {
+         "index":15,
+         "soal":"Siapa yang sering disebut 'Baby bread'?",
+         "tipe":"julukan",
+         "jawaban":"I.N (pipi tembem seperti roti)"
+      },
+      {
+         "index":16,
+         "soal":"Apa warna resmi Stray Kids?",
+         "tipe":"warna",
+         "jawaban":"Biru (Sky Blue) dan Merah? Resminya tidak ada, tapi lightstick berwarna biru"
+      },
+      {
+         "index":17,
+         "soal":"Apa nama lightstick Stray Kids?",
+         "tipe":"lightstick",
+         "jawaban":"STAY Light Stick (Nacht)"
+      },
+      {
+         "index":18,
+         "soal":"Siapa yang berasal dari Australia?",
+         "tipe":"asal",
+         "jawaban":"Bang Chan (Sydney), Felix (Sydney)"
+      },
+      {
+         "index":19,
+         "soal":"Siapa yang berasal dari Korea tetapi fasih bahasa Inggris?",
+         "tipe":"bahasa",
+         "jawaban":"Seungmin, Hyunjin, Han, Changbin (belajar)"
+      },
+      {
+         "index":20,
+         "soal":"Siapa yang memiliki kemampuan akting di drama 'The King of Pigs'?",
+         "tipe":"drama",
+         "jawaban":"Hyunjin (cameo), tidak, Hyunjin tidak. Seungmin? Tidak ada."
+      },
+      {
+         "index":21,
+         "soal":"Siapa yang menjadi MC di 'M Countdown'?",
+         "tipe":"mc",
+         "jawaban":"Hyunjin (2021-2022 bersama dengan Yeji dan lainnya)"
+      },
+      {
+         "index":22,
+         "soal":"Siapa yang memiliki solo 'HaPpY' (Han)?",
+         "tipe":"solo",
+         "jawaban":"Han (dari SKZ-REPLAY)"
+      },
+      {
+         "index":23,
+         "soal":"Siapa yang memiliki solo 'Miss You' (Hyunjin)?",
+         "tipe":"solo",
+         "jawaban":"Hyunjin (dari SKZ-REPLAY)"
+      },
+      {
+         "index":24,
+         "soal":"Siapa yang memiliki solo 'Deep End' (Felix)?",
+         "tipe":"solo",
+         "jawaban":"Felix (SKZ-REPLAY)"
+      },
+      {
+         "index":25,
+         "soal":"Siapa yang memiliki solo 'Zombie' (Bang Chan & Hyunjin?) bukan",
+         "tipe":"solo",
+         "jawaban":"Bang Chan solo 'I Hate to Admit' (SKZ-REPLAY)"
+      },
+      {
+         "index":26,
+         "soal":"Apa nama album mini pertama Stray Kids?",
+         "tipe":"mini album",
+         "jawaban":"Mixtape (2018)"
+      },
+      {
+         "index":27,
+         "soal":"Album full length pertama Stray Kids?",
+         "tipe":"full album",
+         "jawaban":"GO LIVE (2020) lalu repackage 'IN LIFE'"
+      },
+      {
+         "index":28,
+         "soal":"Lagu 'God's Menu' dari album?",
+         "tipe":"title",
+         "jawaban":"GO LIVE (2020)"
+      },
+      {
+         "index":29,
+         "soal":"Lirik 'Dududu dudududu' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"God's Menu"
+      },
+      {
+         "index":30,
+         "soal":"Koreografi 'God's Menu' terkenal dengan gerakan apa?",
+         "tipe":"koreo",
+         "jawaban":"Memanah (arrow), memasak (cooking)"
+      },
+      {
+         "index":31,
+         "soal":"Lagu 'Back Door' dari album?",
+         "tipe":"album",
+         "jawaban":"IN LIFE (repackage)"
+      },
+      {
+         "index":32,
+         "soal":"Lirik 'Knock knock, open the door' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Back Door"
+      },
+      {
+         "index":33,
+         "soal":"Album 'NOEASY' dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2021"
+      },
+      {
+         "index":34,
+         "soal":"Lagu utama 'NOEASY' adalah?",
+         "tipe":"title",
+         "jawaban":"Thunderous (소리꾼)"
+      },
+      {
+         "index":35,
+         "soal":"Lirik 'Uri eodiedo an jiltagora' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Thunderous"
+      },
+      {
+         "index":36,
+         "soal":"Album 'ODDINARY' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":37,
+         "soal":"Lagu utama 'ODDINARY' adalah?",
+         "tipe":"title",
+         "jawaban":"MANIAC"
+      },
+      {
+         "index":38,
+         "soal":"Lirik 'I'm a maniac, maniac' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"MANIAC"
+      },
+      {
+         "index":39,
+         "soal":"Album 'MAXIDENT' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":40,
+         "soal":"Lagu utama 'MAXIDENT' adalah?",
+         "tipe":"title",
+         "jawaban":"CASE 143"
+      },
+      {
+         "index":41,
+         "soal":"Angka 143 dalam 'CASE 143' artinya?",
+         "tipe":"arti",
+         "jawaban":"I Love You (1 huruf I, 4 kata Love, 3 kata You)"
+      },
+      {
+         "index":42,
+         "soal":"Album '5-STAR' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":43,
+         "soal":"Lagu utama '5-STAR' adalah?",
+         "tipe":"title",
+         "jawaban":"S-Class"
+      },
+      {
+         "index":44,
+         "soal":"Lirik 'I'm a star, star, star, I'm a S-class' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"S-Class"
+      },
+      {
+         "index":45,
+         "soal":"Album 'ROCK-STAR' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":46,
+         "soal":"Lagu utama 'ROCK-STAR' adalah?",
+         "tipe":"title",
+         "jawaban":"LALALALA"
+      },
+      {
+         "index":47,
+         "soal":"Lirik 'La la la la la, rock and roll baby' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"LALALALA"
+      },
+      {
+         "index":48,
+         "soal":"Album 'ATE' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2024"
+      },
+      {
+         "index":49,
+         "soal":"Lagu utama 'ATE' adalah?",
+         "tipe":"title",
+         "jawaban":"Chk Chk Boom"
+      },
+      {
+         "index":50,
+         "soal":"Lagu 'Chk Chk Boom' feat. siapa?",
+         "tipe":"feat",
+         "jawaban":"Tidak ada feat, versi remix dengan? Asli tanpa feat"
+      },
+      {
+         "index":51,
+         "soal":"Siapa yang memiliki tato di leher?",
+         "tipe":"tato",
+         "jawaban":"Hyunjin (tato kecil di leher belakang), Felix (tato di lengan)"
+      },
+      {
+         "index":52,
+         "soal":"Siapa yang paling suka dengan anime?",
+         "tipe":"anime",
+         "jawaban":"Bang Chan (suka anime), Hyunjin, Han"
+      },
+      {
+         "index":53,
+         "soal":"Siapa yang suka memasak?",
+         "tipe":"masak",
+         "jawaban":"Bang Chan (sering masak untuk anggota), Lee Know"
+      },
+      {
+         "index":54,
+         "soal":"Apa nama acara variety Stray Kids 'SKZ-TALKER'?",
+         "tipe":"variety",
+         "jawaban":"SKZ-TALKER, SKZ-CODE"
+      },
+      {
+         "index":55,
+         "soal":"Siapa yang memiliki kebiasaan 'ngomong sendiri' di live?",
+         "tipe":"kebiasaan",
+         "jawaban":"Bang Chan (di Chan's Room)"
+      },
+      {
+         "index":56,
+         "soal":"Apa nama live mingguan Bang Chan di YouTube?",
+         "tipe":"live",
+         "jawaban":"Chan's Room (Bang Chan's Live)"
+      },
+      {
+         "index":57,
+         "soal":"Siapa yang memiliki kemampuan beatbox?",
+         "tipe":"beatbox",
+         "jawaban":"Han (bisa beatbox)"
+      },
+      {
+         "index":58,
+         "soal":"Siapa yang paling suka dengan kopi?",
+         "tipe":"kopi",
+         "jawaban":"Lee Know, Bang Chan"
+      },
+      {
+         "index":59,
+         "soal":"Siapa yang memelihara banyak kucing?",
+         "tipe":"kucing",
+         "jawaban":"Lee Know (punya 3 kucing: Soonie, Doongie, Dori)"
+      },
+      {
+         "index":60,
+         "soal":"Siapa yang paling suka dengan anjing?",
+         "tipe":"anjing",
+         "jawaban":"Hyunjin (punya anjing Kkami)"
+      },
+      {
+         "index":61,
+         "soal":"Siapa yang memiliki kemampuan main piano?",
+         "tipe":"piano",
+         "jawaban":"Bang Chan, Seungmin, Han, I.N"
+      },
+      {
+         "index":62,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"warna",
+         "jawaban":"Hyunjin, Felix, Changbin"
+      },
+      {
+         "index":63,
+         "soal":"Siapa yang paling suka dengan warna pink?",
+         "tipe":"warna",
+         "jawaban":"Seungmin (suka pink)"
+      },
+      {
+         "index":64,
+         "soal":"Apa nama lagu yang dibuat untuk fans 'You Can STAY'?",
+         "tipe":"fan song",
+         "jawaban":"You Can STAY (SKZ-REPLAY)"
+      },
+      {
+         "index":65,
+         "soal":"Lagu 'Mixtape: OH' bercerita tentang?",
+         "tipe":"tema",
+         "jawaban":"Kerinduan dan perasaan campur aduk"
+      },
+      {
+         "index":66,
+         "soal":"Siapa yang memiliki suara tertinggi di Stray Kids?",
+         "tipe":"vocal",
+         "jawaban":"I.N (high pitch), Han"
+      },
+      {
+         "index":67,
+         "soal":"Siapa yang paling sering menjadi center di dance?",
+         "tipe":"center",
+         "jawaban":"Hyunjin, Lee Know"
+      },
+      {
+         "index":68,
+         "soal":"Berapa total album studio Korea Stray Kids hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"4 (GO LIVE, NOEASY, 5-STAR, ROCK-STAR? ROCK-STAR mini? 5-STAR full, ATE full? ATE mini, ROCK-STAR mini. Full album: GO LIVE (mini? GO LIVE dianggap full? biasanya GO LIVE sebagai full pertama, IN LIFE repackage, NOEASY full, 5-STAR full, lalu ROCK-STAR mini, ATE mini)"
+      },
+      {
+         "index":69,
+         "soal":"Lagu 'Hellevator' adalah lagu pra-debut dari survival show?",
+         "tipe":"pre-debut",
+         "jawaban":"Ya, dari acara survival Stray Kids (2017)"
+      },
+      {
+         "index":70,
+         "soal":"Siapa yang dulu merupakan trainee di SM dan YG? (hint: Bang Chan)",
+         "tipe":"trainee",
+         "jawaban":"Bang Chan (trainee JYP 7 tahun, juga pernah di SM? Tidak, hanya JYP)"
+      },
+      {
+         "index":71,
+         "soal":"Siapa anggota yang pernah menjadi model iklan untuk 'Lotte World'?",
+         "tipe":"iklan",
+         "jawaban":"Felix, Hyunjin (sebagai grup)"
+      },
+      {
+         "index":72,
+         "soal":"Lagu 'Miroh' dari album 'Clé 1: MIROH' (2019) memiliki koreografi apa?",
+         "tipe":"koreo",
+         "jawaban":"Gerakan kapak (axe) dan menendang"
+      },
+      {
+         "index":73,
+         "soal":"Lirik 'Stray Kids everywhere all around the world' adalah slogan?",
+         "tipe":"slogan",
+         "jawaban":"Step Out (slogan mereka)"
+      },
+      {
+         "index":74,
+         "soal":"Siapa yang memiliki kemampuan main gitar?",
+         "tipe":"gitar",
+         "jawaban":"Bang Chan, Seungmin, Hyunjin (dasar)"
+      },
+      {
+         "index":75,
+         "soal":"Siapa yang paling suka dengan olahraga angkat besi?",
+         "tipe":"fitness",
+         "jawaban":"Changbin (suka gym)"
+      },
+      {
+         "index":76,
+         "soal":"Siapa yang paling suka dengan fashion edgy?",
+         "tipe":"fashion",
+         "jawaban":"Hyunjin, Felix"
+      },
+      {
+         "index":77,
+         "soal":"Apa nama lagu yang merekam suara anggota bernapas? 'Taste' (Lee Know, Hyunjin, Felix)?",
+         "tipe":"lagu",
+         "jawaban":"Taste (unit dance line)"
+      },
+      {
+         "index":78,
+         "soal":"Siapa yang memiliki solo 'Ice.cream' (Hyunjin)?",
+         "tipe":"solo",
+         "jawaban":"Hyunjin (SKZ-RECORD)"
+      },
+      {
+         "index":79,
+         "soal":"Siapa yang memiliki solo 'Alien' (Han)?",
+         "tipe":"solo",
+         "jawaban":"Han (SKZ-RECORD)"
+      },
+      {
+         "index":80,
+         "soal":"Siapa yang memiliki solo 'Little Star' (Seungmin)?",
+         "tipe":"solo",
+         "jawaban":"Seungmin (SKZ-RECORD)"
+      },
+      {
+         "index":81,
+         "soal":"Apa nama lagu Jepang pertama Stray Kids?",
+         "tipe":"japanese debut",
+         "jawaban":"Scars (2021)"
+      },
+      {
+         "index":82,
+         "soal":"Album Jepang 'The Sound' rilis tahun?",
+         "tipe":"jpn album",
+         "jawaban":"2023"
+      },
+      {
+         "index":83,
+         "soal":"Lagu 'Circus' (Japanese) dari album?",
+         "tipe":"jpn",
+         "jawaban":"Circus (2022, single Jepang)"
+      },
+      {
+         "index":84,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Tommy Hilfiger'?",
+         "tipe":"brand",
+         "jawaban":"Hyunjin (2023)"
+      },
+      {
+         "index":85,
+         "soal":"Siapa yang menjadi model untuk 'Fendi'?",
+         "tipe":"brand",
+         "jawaban":"Felix (2024)"
+      },
+      {
+         "index":86,
+         "soal":"Berapa total penghargaan 'Best Dance' di MAMA untuk SKZ?",
+         "tipe":"penghargaan",
+         "jawaban":"2 (2021, 2022, 2023? cek: 2022, 2023)"
+      },
+      {
+         "index":87,
+         "soal":"Siapa yang paling sering menangis di konser?",
+         "tipe":"emosi",
+         "jawaban":"Bang Chan (sering terharu), Seungmin"
+      },
+      {
+         "index":88,
+         "soal":"Lagu 'Silent Cry' dari album 'NOEASY'?",
+         "tipe":"b-side",
+         "jawaban":"Ya, b-side populer"
+      },
+      {
+         "index":89,
+         "soal":"Siapa yang memiliki kebiasaan 'memotret anggota lain'?",
+         "tipe":"fotografi",
+         "jawaban":"Hyunjin (suka foto), Seungmin"
+      },
+      {
+         "index":90,
+         "soal":"Apa nama lagu 'Red Lights' (Bang Chan, Hyunjin) yang sensual?",
+         "tipe":"unit",
+         "jawaban":"Red Lights (dari album NOEASY)"
+      },
+      {
+         "index":91,
+         "soal":"Lirik 'I cannot breathe, I cannot breathe' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Silent Cry"
+      },
+      {
+         "index":92,
+         "soal":"Siapa yang memiliki kemampuan main drum?",
+         "tipe":"drum",
+         "jawaban":"Bang Chan (bisa drum)"
+      },
+      {
+         "index":93,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"es krim",
+         "jawaban":"I.N (suka es krim)"
+      },
+      {
+         "index":94,
+         "soal":"Berapa total anggota yang memiliki piercing?",
+         "tipe":"piercing",
+         "jawaban":"Hyunjin (telinga), Felix (telinga), Lee Know (telinga), Changbin (telinga)"
+      },
+      {
+         "index":95,
+         "soal":"Siapa yang paling suka dengan game online 'League of Legends'?",
+         "tipe":"game",
+         "jawaban":"Bang Chan, Han"
+      },
+      {
+         "index":96,
+         "soal":"Apa nama lagu 'Venom' dari album 'ODDINARY'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":97,
+         "soal":"Siapa yang memiliki vokal terbaik menurut anggota?",
+         "tipe":"vocal",
+         "jawaban":"Seungmin, I.N"
+      },
+      {
+         "index":98,
+         "soal":"Lagu 'Charmer' dari album 'ODDINARY' memiliki lirik?",
+         "tipe":"lirik",
+         "jawaban":"I'm a charmer, you're a charmer"
+      },
+      {
+         "index":99,
+         "soal":"Siapa yang paling suka dengan air putih?",
+         "tipe":"minuman",
+         "jawaban":"Lee Know (suka air)"
+      },
+      {
+         "index":100,
+         "soal":"Berapa total lagu yang diproduseri oleh 3RACHA untuk SKZ?",
+         "tipe":"angka",
+         "jawaban":"Hampir semua lagu (lebih dari 150)"
+      },
+      {
+         "index":101,
+         "soal":"Siapa yang memiliki solo 'Snain' (Bang Chan & Hyunjin)? bukan",
+         "tipe":"duet",
+         "jawaban":"Bang chan & Hyunjin punya 'Red Lights', 'Wow' (3RACHA)"
+      },
+      {
+         "index":102,
+         "soal":"Lagu 'Wow' (3RACHA) berbeda dengan 'Wow' (Dance line)?",
+         "tipe":"lagu",
+         "jawaban":"Ya, ada 'Wow' dari 3RACHA (Bang Chan, Changbin, Han) dan 'Wow' dari Lee Know, Hyunjin, Felix (dance line)"
+      },
+      {
+         "index":103,
+         "soal":"Siapa yang paling sering menjadi 'ending fairy'?",
+         "tipe":"ending",
+         "jawaban":"Hyunjin, Felix"
+      },
+      {
+         "index":104,
+         "soal":"Apa nama konser tur dunia 'District 9: Unlock' (2019-2020)?",
+         "tipe":"tur",
+         "jawaban":"Stray Kids World Tour 'District 9: Unlock' (2020) dibatalkan karena COVID"
+      },
+      {
+         "index":105,
+         "soal":"Tur 'MANIAC' (2022-2023) mengunjungi berapa negara?",
+         "tipe":"tur",
+         "jawaban":"20+ negara"
+      },
+      {
+         "index":106,
+         "soal":"Siapa yang paling suka dengan kopi matcha?",
+         "tipe":"matcha",
+         "jawaban":"Seungmin (suka matcha)"
+      },
+      {
+         "index":107,
+         "soal":"Lagu 'FNF' (Felix & Bang Chan? bukan) 'FNF' dari album '5-STAR'?",
+         "tipe":"lagu",
+         "jawaban":"'FNF' (Felix and Bang Chan? tidak, lagu grup 'FNF' di album '5-STAR' adalah b-side)"
+      },
+      {
+         "index":108,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit bibir'?",
+         "tipe":"gestur",
+         "jawaban":"Hyunjin"
+      },
+      {
+         "index":109,
+         "soal":"Berapa total video music SKZ yang mencapai 100 juta views?",
+         "tipe":"angka",
+         "jawaban":"7 (God's Menu, Back Door, Thunderous, MANIAC, S-Class, LALALALA, Chk Chk Boom)"
+      },
+      {
+         "index":110,
+         "soal":"Siapa yang paling suka dengan buah semangka?",
+         "tipe":"buah",
+         "jawaban":"Changbin"
+      },
+      {
+         "index":111,
+         "soal":"Apa nama lagu 'The View' dari album 'NOEASY'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (salah satu lagu terbaik)"
+      },
+      {
+         "index":112,
+         "soal":"Siapa yang memiliki kemampuan akting di web drama 'A-Teen 2'? (cameo)?",
+         "tipe":"drama",
+         "jawaban":"Hyunjin (cameo di 'The King of Pigs'? tidak, dia tidak. Seungmin? tidak ada."
+      },
+      {
+         "index":113,
+         "soal":"Lagu 'Winter Falls' dari album 'Christmas EveL' adalah lagu musiman?",
+         "tipe":"lagu",
+         "jawaban":"Ya (single Christmas 2021)"
+      },
+      {
+         "index":114,
+         "soal":"Siapa yang paling suka dengan salju?",
+         "tipe":"salju",
+         "jawaban":"Felix (karena Australia jarang salju)"
+      },
+      {
+         "index":115,
+         "soal":"Berapa total album fisik Stray Kids terjual hingga 2025?",
+         "tipe":"penjualan",
+         "jawaban":"Lebih dari 15 juta (cumulative)"
+      },
+      {
+         "index":116,
+         "soal":"Siapa yang paling sering melakukan aegyo?",
+         "tipe":"aegyo",
+         "jawaban":"I.N, Hyunjin (kadang), Seungmin (enggan)"
+      },
+      {
+         "index":117,
+         "soal":"Apa nama lagu 'Wolfgang' dari album 'NOEASY'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (sebelumnya dari Kingdom)"
+      },
+      {
+         "index":118,
+         "soal":"Siapa yang memiliki kebiasaan 'mengelus rambut'?",
+         "tipe":"gestur",
+         "jawaban":"Lee Know"
+      },
+      {
+         "index":119,
+         "soal":"Lagu 'Slump' (OST untuk anime 'Tower of God')?",
+         "tipe":"ost",
+         "jawaban":"Ya (2020, Jepang/Korea)"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang paling suka dengan fashion streetwear?",
+         "tipe":"fashion",
+         "jawaban":"Hyunjin, Felix"
+      },
+      {
+         "index":121,
+         "soal":"Berapa total anggota yang lahir di bulan September?",
+         "tipe":"bulan",
+         "jawaban":"2 (Seungmin 22 Sep, I.N 15 Feb? I.N Feb, jadi Seungmin saja? Bang Chan Okt, Changbin Agustus, Han Sep? Han 14 September, Seungmin 22 September. Jadi 2: Han & Seungmin)"
+      },
+      {
+         "index":122,
+         "soal":"Siapa yang memiliki solo 'Tomorrow' (Bang Chan)?",
+         "tipe":"solo",
+         "jawaban":"Bang Chan (SKZ-REPLAY 'I Hate to Admit') bukan 'Tomorrow'"
+      },
+      {
+         "index":123,
+         "soal":"Apa nama lagu 'Secret Secret' dari album 'NOEASY'?",
+         "tipe":"lagu",
+         "jawaban":"B-side, lagu sedih"
+      },
+      {
+         "index":124,
+         "soal":"Siapa yang paling suka dengan warna biru?",
+         "tipe":"warna",
+         "jawaban":"Seungmin, Bang Chan"
+      },
+      {
+         "index":125,
+         "soal":"Lagu 'Question' dari album 'I am WHO'?",
+         "tipe":"lagu",
+         "jawaban":"Ya (2018)"
+      },
+      {
+         "index":126,
+         "soal":"Siapa yang memiliki tato 'Stay' di pergelangan tangan?",
+         "tipe":"tato",
+         "jawaban":"Felix (tato 'Stay' di lengan)"
+      },
+      {
+         "index":127,
+         "soal":"Berapa total lagu dalam album 'ATE' (2024)?",
+         "tipe":"jumlah",
+         "jawaban":"8 (termasuk 'Chk Chk Boom', 'Jjam', 'I Like It', dll)"
+      },
+      {
+         "index":128,
+         "soal":"Siapa yang paling suka dengan mie pedas?",
+         "tipe":"pedas",
+         "jawaban":"Changbin, Han"
+      },
+      {
+         "index":129,
+         "soal":"Apa nama lagu 'Topline' feat. Tiger JK dari album '5-STAR'?",
+         "tipe":"feat",
+         "jawaban":"Topline (feat. Tiger JK)"
+      },
+      {
+         "index":130,
+         "soal":"Siapa yang memiliki kemampuan main bass?",
+         "tipe":"bass",
+         "jawaban":"Bang Chan (main bass)"
+      },
+      {
+         "index":131,
+         "soal":"Lagu 'Hall of Fame' dari album '5-STAR'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (lagu pembuka)"
+      },
+      {
+         "index":132,
+         "soal":"Siapa yang paling suka dengan film superhero?",
+         "tipe":"film",
+         "jawaban":"Hyunjin (Marvel), Felix"
+      },
+      {
+         "index":133,
+         "soal":"Berapa total kemenangan music show untuk lagu 'S-Class'?",
+         "tipe":"win",
+         "jawaban":"10 (termasuk Inkigayo, MCD, dll)"
+      },
+      {
+         "index":134,
+         "soal":"Siapa yang memiliki kebiasaan 'menggunakan tangan kiri' (left-handed)?",
+         "tipe":"lefty",
+         "jawaban":"Hyunjin (kidal), Changbin (kidal)"
+      },
+      {
+         "index":135,
+         "soal":"Apa nama lagu 'Blueprint' dari album 'GO LIVE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":136,
+         "soal":"Siapa yang paling suka dengan choco pie?",
+         "tipe":"snack",
+         "jawaban":"I.N (suka manis)"
+      },
+      {
+         "index":137,
+         "soal":"Lagu 'Super Board' dari album 'MAXIDENT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":138,
+         "soal":"Siapa yang memiliki cover 'Love Poem' (IU) oleh Seungmin?",
+         "tipe":"cover",
+         "jawaban":"Seungmin (dikenal dengan cover ini)"
+      },
+      {
+         "index":139,
+         "soal":"Berapa total lagu yang memiliki kredit penulisan dari anggota non-3RACHA?",
+         "tipe":"kredit",
+         "jawaban":"Hyunjin, Felix, Seungmin, I.N, Lee Know mulai ikut menulis lirik"
+      },
+      {
+         "index":140,
+         "soal":"Siapa yang paling suka dengan warna merah?",
+         "tipe":"warna",
+         "jawaban":"Changbin (suka merah)"
+      },
+      {
+         "index":141,
+         "soal":"Apa nama lagu 'Give Me Your TMI' dari album 'MAXIDENT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":142,
+         "soal":"Siapa yang paling sering menjadi sub- vocal di lagu?",
+         "tipe":"vocal",
+         "jawaban":"Seungmin, I.N"
+      },
+      {
+         "index":143,
+         "soal":"Lagu 'Stars and Raindrops' (Seungmin solo) dari SKZ-REPLAY?",
+         "tipe":"solo",
+         "jawaban":"Ya"
+      },
+      {
+         "index":144,
+         "soal":"Siapa yang memiliki kebiasaan 'mengucapkan 'yoh'?",
+         "tipe":"logat",
+         "jawaban":"Bang Chan (Australian slang)"
+      },
+      {
+         "index":145,
+         "soal":"Berapa total anggota yang ikut survival show 'Kingdom: Legendary War' (2021)?",
+         "tipe":"survival",
+         "jawaban":"Semua 8 anggota"
+      },
+      {
+         "index":146,
+         "soal":"Lagu 'Wolfgang' dipentaskan di Kingdom, konsepnya?",
+         "tipe":"konsep",
+         "jawaban":"Serigala (werewolf)"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang paling suka dengan teh hijau?",
+         "tipe":"teh",
+         "jawaban":"Lee Know"
+      },
+      {
+         "index":148,
+         "soal":"Apa nama lagu 'Easy' dari album 'GO LIVE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":149,
+         "soal":"Siapa yang memiliki solo 'Don't Say' (Bang Chan)?",
+         "tipe":"solo",
+         "jawaban":"Bang Chan (SKZ-RECORD 'I Hate to Admit' bukan 'Don't Say')"
+      },
+      {
+         "index":150,
+         "soal":"Lagu 'Call' dari album 'NOEASY'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":151,
+         "soal":"Siapa yang paling suka dengan olahraga lari?",
+         "tipe":"lari",
+         "jawaban":"Lee Know (suka lari)"
+      },
+      {
+         "index":152,
+         "soal":"Berapa total lagu dalam album 'ROCK-STAR' (2023)?",
+         "tipe":"jumlah",
+         "jawaban":"8 (termasuk 'LALALALA', 'Megaverse', 'Leave', 'Cover Me', dll)"
+      },
+      {
+         "index":153,
+         "soal":"Siapa yang memiliki kebiasaan 'memotret makanan' sebelum makan?",
+         "tipe":"foto",
+         "jawaban":"I.N, Hyunjin"
+      },
+      {
+         "index":154,
+         "soal":"Apa nama lagu 'Haven' dari album 'Clé: LEVANTER'?",
+         "tipe":"lagu",
+         "jawaban":"B-side yang populer di konser"
+      },
+      {
+         "index":155,
+         "soal":"Siapa yang paling suka dengan kopi susu?",
+         "tipe":"kopi",
+         "jawaban":"Hyunjin (suka latte)"
+      },
+      {
+         "index":156,
+         "soal":"Lagu 'Hellevator' memiliki lirik 'I'm not afraid, I'm not afraid'?",
+         "tipe":"lirik",
+         "jawaban":"Ya (bagian korus)"
+      },
+      {
+         "index":157,
+         "soal":"Siapa yang memiliki kemampuan main flute?",
+         "tipe":"flute",
+         "jawaban":"Seungmin (main recorder? tidak)"
+      },
+      {
+         "index":158,
+         "soal":"Berapa total fansign yang pernah diadakan SKZ (offline+online)?",
+         "tipe":"angka",
+         "jawaban":"Ratusan (setiap comeback minimal 5 sesi)"
+      },
+      {
+         "index":159,
+         "soal":"Siapa yang paling suka dengan bungeoppang (roti ikan)?",
+         "tipe":"makanan",
+         "jawaban":"I.N"
+      },
+      {
+         "index":160,
+         "soal":"Apa nama lagu 'Scars' (Japanese) versi Korea juga ada?",
+         "tipe":"lagu",
+         "jawaban":"Ya, versi Korea di album 'MAXIDENT'?"
+      },
+      {
+         "index":161,
+         "soal":"Siapa yang memiliki kebiasaan 'berkata 'oya'?",
+         "tipe":"kata",
+         "jawaban":"Lee Know (suka bilang 'oya')"
+      },
+      {
+         "index":162,
+         "soal":"Lagu 'Muddy Water' (unit rap) dari album 'ODDINARY'?",
+         "tipe":"unit",
+         "jawaban":"Ya (Changbin, Hyunjin, Han, Felix? tidak, itu 3RACHA? Muddy Water: Changbin, Hyunjin, Han, Felix? Sebenarnya 'Muddy Water' adalah unit rap: Changbin, Hyunjin, Han, Felix)"
+      },
+      {
+         "index":163,
+         "soal":"Siapa yang paling suka dengan makanan ringan 'pocky'?",
+         "tipe":"snack",
+         "jawaban":"Seungmin"
+      },
+      {
+         "index":164,
+         "soal":"Berapa total lagu yang di-cover oleh SKZ di acara 'SKZ-CODE'?",
+         "tipe":"cover",
+         "jawaban":"Banyak (seperti 'Dance Monkey', 'Daddy Yankee', dll)"
+      },
+      {
+         "index":165,
+         "soal":"Siapa yang memiliki tato 'SKZ' di tubuh?",
+         "tipe":"tato",
+         "jawaban":"Felix (tato SKZ di lengan), Hyunjin (tato small)"
+      },
+      {
+         "index":166,
+         "soal":"Apa nama lagu 'Fairytale' (Japanese) dari album 'The Sound'?",
+         "tipe":"jpn",
+         "jawaban":"B-side"
+      },
+      {
+         "index":167,
+         "soal":"Siapa yang paling suka dengan buah jeruk?",
+         "tipe":"jeruk",
+         "jawaban":"Bang Chan"
+      },
+      {
+         "index":168,
+         "soal":"Lagu 'Taste' (Lee Know, Hyunjin, Felix) dari album '5-STAR'?",
+         "tipe":"unit",
+         "jawaban":"Ya (dance line unit)"
+      },
+      {
+         "index":169,
+         "soal":"Siapa yang memiliki kebiasaan 'menyanyi di kamar mandi'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Seungmin"
+      },
+      {
+         "index":170,
+         "soal":"Berapa total album Jepang 'The Sound' terjual di Jepang?",
+         "tipe":"penjualan",
+         "jawaban":"200,000+"
+      },
+      {
+         "index":171,
+         "soal":"Siapa yang paling suka dengan karakter Hello Kitty?",
+         "tipe":"karakter",
+         "jawaban":"Felix (suka Hello Kitty)"
+      },
+      {
+         "index":172,
+         "soal":"Apa nama lagu 'Your Eyes' dari album 'ODDINARY'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":173,
+         "soal":"Siapa yang memiliki kemampuan akting di film 'TBA'?",
+         "tipe":"film",
+         "jawaban":"Hyunjin (belum debut akting)"
+      },
+      {
+         "index":174,
+         "soal":"Lagu 'Another Day' dari album 'Clé: LEVANTER'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":175,
+         "soal":"Siapa yang paling suka dengan warna ungu?",
+         "tipe":"warna",
+         "jawaban":"Seungmin (suka ungu)"
+      },
+      {
+         "index":176,
+         "soal":"Berapa total konser di Korea untuk tur 'MANIAC'?",
+         "tipe":"konser",
+         "jawaban":"3 (Seoul, Busan? sebenarnya Seoul 3 hari)"
+      },
+      {
+         "index":177,
+         "soal":"Siapa yang memiliki kebiasaan 'merapikan barang' (OCD)?",
+         "tipe":"kebiasaan",
+         "jawaban":"Lee Know (suka bersih)"
+      },
+      {
+         "index":178,
+         "soal":"Apa nama lagu 'Drive' (Bang Chan & Lee Know) dari SKZ-REPLAY?",
+         "tipe":"duet",
+         "jawaban":"Drive (2022)"
+      },
+      {
+         "index":179,
+         "soal":"Siapa yang paling suka dengan es kopi?",
+         "tipe":"iced coffee",
+         "jawaban":"Bang Chan, Felix"
+      },
+      {
+         "index":180,
+         "soal":"Lagu 'Lonely St.' dari album 'NOEASY'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":181,
+         "soal":"Siapa yang memiliki tato bintang di pergelangan tangan?",
+         "tipe":"tato",
+         "jawaban":"Hyunjin (tato bintang kecil)"
+      },
+      {
+         "index":182,
+         "soal":"Berapa total anggota yang menjadi model untuk 'Nacific' (skincare)?",
+         "tipe":"brand",
+         "jawaban":"Felix (2023), Hyunjin (2022) sebagai duo?"
+      },
+      {
+         "index":183,
+         "soal":"Siapa yang paling suka dengan anime 'One Piece'?",
+         "tipe":"anime",
+         "jawaban":"Bang Chan, Han"
+      },
+      {
+         "index":184,
+         "soal":"Apa nama lagu 'Astronaut' dari album 'ROCK-STAR'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":185,
+         "soal":"Siapa yang memiliki kebiasaan 'mengumpulkan action figure'?",
+         "tipe":"koleksi",
+         "jawaban":"Bang Chan (koleksi Gundam, figure anime)"
+      },
+      {
+         "index":186,
+         "soal":"Lagu 'FAM' (Japanese) adalah lagu untuk fans?",
+         "tipe":"jpn",
+         "jawaban":"Ya (lagu tentang STAY)"
+      },
+      {
+         "index":187,
+         "soal":"Siapa yang paling suka dengan olahraga basket?",
+         "tipe":"basket",
+         "jawaban":"Felix (suka basket)"
+      },
+      {
+         "index":188,
+         "soal":"Berapa total pemenang 'Best Male Group' di MAMA untuk SKZ?",
+         "tipe":"penghargaan",
+         "jawaban":"1 (2023?) belum, 2022? 2023 MAMA Best Male Group? 2023? Cek: 2023 MAMA Worldwide Fans Choice, tapi Best Male Group belum."
+      },
+      {
+         "index":189,
+         "soal":"Siapa yang memiliki solo 'HaPpY' (Han) lirik tentang?",
+         "tipe":"lirik",
+         "jawaban":"Kebahagiaan dan rasa syukur"
+      },
+      {
+         "index":190,
+         "soal":"Apa nama lagu 'The Sound' (Japanese title track) dari album 'The Sound'?",
+         "tipe":"jpn",
+         "jawaban":"The Sound"
+      },
+      {
+         "index":191,
+         "soal":"Siapa yang paling suka dengan kimchi?",
+         "tipe":"makanan",
+         "jawaban":"Changbin (suka kimchi)"
+      },
+      {
+         "index":192,
+         "soal":"Lagu 'Victory Song' dari album 'Clé 1: MIROH'?",
+         "tipe":"lagu",
+         "jawaban":"B-side yang populer"
+      },
+      {
+         "index":193,
+         "soal":"Siapa yang memiliki kebiasaan 'bicara cepat'?",
+         "tipe":"bicara",
+         "jawaban":"Han (rap cepat, bicara cepat)"
+      },
+      {
+         "index":194,
+         "soal":"Berapa total lagu dalam album 'IN LIFE' (repackage)?",
+         "tipe":"jumlah",
+         "jawaban":"17 (termasuk lagu baru Back Door, dll)"
+      },
+      {
+         "index":195,
+         "soal":"Siapa yang paling suka dengan minuman soda?",
+         "tipe":"soda",
+         "jawaban":"Hyunjin (suka Coke)"
+      },
+      {
+         "index":196,
+         "soal":"Apa nama lagu 'Stop' dari album 'MAXIDENT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":197,
+         "soal":"Siapa yang memiliki kemampuan main ukulele?",
+         "tipe":"ukulele",
+         "jawaban":"Bang Chan (pernah main ukulele)"
+      },
+      {
+         "index":198,
+         "soal":"Lagu 'Side Effects' (부작용) dari album 'Clé 2: Yellow Wood'?",
+         "tipe":"title",
+         "jawaban":"Ya (2019, lagu dengan psytrance)"
+      },
+      {
+         "index":199,
+         "soal":"Siapa yang paling suka dengan warna kuning?",
+         "tipe":"warna",
+         "jawaban":"Lee Know (suka kuning)"
+      },
+      {
+         "index":200,
+         "soal":"Berapa total anggota yang menjadi MC special di 'Show Champion'?",
+         "tipe":"mc",
+         "jawaban":"Hyunjin, Seungmin, I.N (pernah)"
+      },
+      {
+         "index":201,
+         "soal":"Siapa yang memiliki solo 'Love Untold' (Hyunjin)?",
+         "tipe":"solo",
+         "jawaban":"Hyunjin (SKZ-REPLAY 'Miss You' bukan 'Love Untold')"
+      },
+      {
+         "index":202,
+         "soal":"Apa nama lagu 'SSICK' dari album 'NOEASY'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (Sick)"
+      },
+      {
+         "index":203,
+         "soal":"Siapa yang paling suka dengan fashion edgy (rantai, kulit)?",
+         "tipe":"fashion",
+         "jawaban":"Hyunjin, Felix"
+      },
+      {
+         "index":204,
+         "soal":"Lagu 'TA' dari album 'IN LIFE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (energik)"
+      },
+      {
+         "index":205,
+         "soal":"Siapa yang memiliki kebiasaan 'meniru suara anggota lain'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Han (suka niru)"
+      },
+      {
+         "index":206,
+         "soal":"Berapa total lagu yang diproduksi oleh Versachoi untuk SKZ?",
+         "tipe":"produser",
+         "jawaban":"Banyak (seperti 'Thunderous', 'God's Menu')"
+      },
+      {
+         "index":207,
+         "soal":"Siapa yang paling suka dengan mie goreng?",
+         "tipe":"mie",
+         "jawaban":"Changbin"
+      },
+      {
+         "index":208,
+         "soal":"Apa nama lagu 'Blueprint' dari album 'GO LIVE' (lagu tentang mimpi)?",
+         "tipe":"tema",
+         "jawaban":"Ya, lagu inspiratif"
+      },
+      {
+         "index":209,
+         "soal":"Siapa yang memiliki kemampuan beatbox dan rap?",
+         "tipe":"beatbox",
+         "jawaban":"Han (bisa beatbox)"
+      },
+      {
+         "index":210,
+         "soal":"Lagu 'Maze of Memories' dari album 'Clé 1: MIROH'?",
+         "tipe":"lagu",
+         "jawaban":"B-side yang intens"
+      },
+      {
+         "index":211,
+         "soal":"Siapa yang paling suka dengan coklat?",
+         "tipe":"coklat",
+         "jawaban":"I.N (suka manis)"
+      },
+      {
+         "index":212,
+         "soal":"Berapa total penonton konser 'MANIAC' world tour di seluruh dunia?",
+         "tipe":"angka",
+         "jawaban":"500,000+"
+      },
+      {
+         "index":213,
+         "soal":"Siapa yang memiliki kebiasaan 'menggelengkan kepala' saat rap?",
+         "tipe":"rap",
+         "jawaban":"Changbin"
+      },
+      {
+         "index":214,
+         "soal":"Apa nama lagu 'Sorry, I Love You' dari album 'NOEASY'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":215,
+         "soal":"Siapa yang paling suka dengan teh lemon?",
+         "tipe":"teh",
+         "jawaban":"Seungmin"
+      },
+      {
+         "index":216,
+         "soal":"Lagu 'District 9' adalah debut dengan konsep?",
+         "tipe":"konsep",
+         "jawaban":"Melarikan diri dari distrik 9 (metafora)"
+      },
+      {
+         "index":217,
+         "soal":"Siapa yang memiliki solo 'My Universe' (Seungmin feat. I.N)?",
+         "tipe":"duet",
+         "jawaban":"Seungmin & I.N (SKZ-REPLAY 'My Universe')"
+      },
+      {
+         "index":218,
+         "soal":"Berapa total lagu dalam album 'Clé: LEVANTER' (2019)?",
+         "tipe":"jumlah",
+         "jawaban":"8"
+      },
+      {
+         "index":219,
+         "soal":"Siapa yang paling suka dengan warna putih?",
+         "tipe":"warna",
+         "jawaban":"Felix (suka putih)"
+      },
+      {
+         "index":220,
+         "soal":"Apa nama lagu 'Cover Me' dari album 'ROCK-STAR' (lagu sedih)?",
+         "tipe":"lagu",
+         "jawaban":"B-side (ballad rock)"
+      },
+      {
+         "index":221,
+         "soal":"Siapa yang memiliki kebiasaan 'memakai topi ke belakang'?",
+         "tipe":"aksesoris",
+         "jawaban":"Bang Chan, Hyunjin"
+      },
+      {
+         "index":222,
+         "soal":"Lagu '0325' dari album 'I am NOT' (2018) adalah lagu?",
+         "tipe":"lagu",
+         "jawaban":"B-side, angka tersebut tanggal debut SKZ? 0325 = 25 Maret"
+      },
+      {
+         "index":223,
+         "soal":"Siapa yang paling suka dengan boba tea?",
+         "tipe":"boba",
+         "jawaban":"Felix, Hyunjin"
+      },
+      {
+         "index":224,
+         "soal":"Berapa total anggota yang merilis solo di SKZ-REPLAY (2022)?",
+         "tipe":"angka",
+         "jawaban":"8 (semua anggota punya solo atau unit)"
+      },
+      {
+         "index":225,
+         "soal":"Siapa yang memiliki solo 'Because I Love You' (Lee Know)?",
+         "tipe":"solo",
+         "jawaban":"Lee Know (SKZ-REPLAY 'Limbo'? bukan, Lee Know solo 'Close'? Dia punya 'Rev It Up'? Sebenarnya Lee Know solo 'Love Untold'? Tidak. Lee Know dalam SKZ-REPLAY punya 'Zombie'? Aduh, yang benar: Lee Know tidak punya solo di SKZ-REPLAY, dia unit 'Drive' dengan Bang Chan. Jadi saya salah. Maaf. Yang punya solo: Bang Chan 'I Hate to Admit', Changbin 'Streetlight', Han 'HaPpY', Hyunjin 'Miss You', Felix 'Deep End', Seungmin 'Stars and Raindrops', I.N 'Just Breath'. Lee Know tidak solo."
+      },
+      {
+         "index":226,
+         "soal":"Apa nama lagu 'The Tortoise and the Hare' dari album 'IN LIFE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (versi alternatif dari 'GO LIVE')"
+      },
+      {
+         "index":227,
+         "soal":"Siapa yang paling suka dengan fashion vintage?",
+         "tipe":"fashion",
+         "jawaban":"Hyunjin, Felix"
+      },
+      {
+         "index":228,
+         "soal":"Lagu 'N/S' (N/S) dari album 'Mixtape'?",
+         "tipe":"lagu",
+         "jawaban":"Ya (dengan lirik 'N/S' north south)"
+      },
+      {
+         "index":229,
+         "soal":"Siapa yang memiliki kebiasaan 'membaca webtoon'?",
+         "tipe":"baca",
+         "jawaban":"Bang Chan, Han"
+      },
+      {
+         "index":230,
+         "soal":"Berapa total lagu yang di-remix oleh SKZ di konser?",
+         "tipe":"remix",
+         "jawaban":"Banyak, seperti 'God's Menu' rock version"
+      },
+      {
+         "index":231,
+         "soal":"Siapa yang paling suka dengan es serut (bingsoo)?",
+         "tipe":"dessert",
+         "jawaban":"I.N"
+      },
+      {
+         "index":232,
+         "soal":"Apa nama lagu 'For You' dari album 'Clé: LEVANTER'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":233,
+         "soal":"Siapa yang memiliki tato 'Sun' dan 'Moon'?",
+         "tipe":"tato",
+         "jawaban":"Felix (tato matahari dan bulan di lengan)"
+      },
+      {
+         "index":234,
+         "soal":"Lagu 'BEWARE' (Grrr) dari album 'Mixtape'?",
+         "tipe":"lagu",
+         "jawaban":"Ya (lagu awal mereka)"
+      },
+      {
+         "index":235,
+         "soal":"Siapa yang paling suka dengan olahraga renang?",
+         "tipe":"renang",
+         "jawaban":"Lee Know (suka renang)"
+      },
+      {
+         "index":236,
+         "soal":"Berapa total pemenang 'Artist of the Year' di MMA untuk SKZ?",
+         "tipe":"daesang",
+         "jawaban":"0 (belum pernah, tapi nominasi)"
+      },
+      {
+         "index":237,
+         "soal":"Siapa yang memiliki kebiasaan 'mengemut pipi'?",
+         "tipe":"ekspresi",
+         "jawaban":"I.N (sering tembem)"
+      },
+      {
+         "index":238,
+         "soal":"Apa nama lagu 'Hello Stranger' (OST untuk drama 'Pop Out Boy'?)",
+         "tipe":"ost",
+         "jawaban":"Hello Stranger (2020, OST web drama 'Pop Out Boy!')"
+      },
+      {
+         "index":239,
+         "soal":"Siapa yang paling suka dengan kentang goreng?",
+         "tipe":"makanan",
+         "jawaban":"Felix (suka french fries)"
+      },
+      {
+         "index":240,
+         "soal":"Lagu 'Levanter' (바람) adalah lagu utama dari album 'Clé: LEVANTER'?",
+         "tipe":"title",
+         "jawaban":"Ya (2019, versi Korea dan Inggris)"
+      },
+      {
+         "index":241,
+         "soal":"Siapa yang memiliki kemampuan main harmonika?",
+         "tipe":"harmonika",
+         "jawaban":"Bang Chan (pernah main harmonika)"
+      },
+      {
+         "index":242,
+         "soal":"Berapa total lagu dalam album 'SKZ-REPLAY' (2022)?",
+         "tipe":"jumlah",
+         "jawaban":"25 (termasuk solo, unit, mixtape)"
+      },
+      {
+         "index":243,
+         "soal":"Siapa yang paling suka dengan warna oranye?",
+         "tipe":"warna",
+         "jawaban":"Han"
+      },
+      {
+         "index":244,
+         "soal":"Apa nama lagu 'Piece of a Puzzle' (Changbin & Seungmin) dari SKZ-REPLAY?",
+         "tipe":"duet",
+         "jawaban":"Ya (Piece of a Puzzle)"
+      },
+      {
+         "index":245,
+         "soal":"Siapa yang memiliki kebiasaan 'menggunakan headphone besar'?",
+         "tipe":"aksesoris",
+         "jawaban":"Bang Chan (sering pakai headphone di studio)"
+      },
+      {
+         "index":246,
+         "soal":"Lagu 'Gone Days' dari album 'IN LIFE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (lagu tentang perubahan)"
+      },
+      {
+         "index":247,
+         "soal":"Siapa yang paling suka dengan jagung bakar?",
+         "tipe":"makanan",
+         "jawaban":"Changbin"
+      },
+      {
+         "index":248,
+         "soal":"Berapa total anggota yang berambut pirang pernah?",
+         "tipe":"rambut",
+         "jawaban":"Semua kecuali mungkin? Hyunjin (pirang), Felix (pirang), Bang Chan (pirang), Han (pirang), Lee Know (pirang), Changbin (pirang), Seungmin (pirang), I.N (pirang) - semua pernah"
+      },
+      {
+         "index":249,
+         "soal":"Siapa yang memiliki solo 'Zombie' (Bang Chan & Hyunjin? bukan, itu 'Red Lights')",
+         "tipe":"solo",
+         "jawaban":"SKZ-REPLAY tidak ada lagu 'Zombie' solo, tapi ada 'Zombie' oleh Bang Chan? Tidak. 'Zombie' adalah lagu grup di album 'SKZ-REPLAY'? Tidak."
+      },
+      {
+         "index":250,
+         "soal":"Apa nama lagu 'District 9' memiliki lirik 'Stray Kids, we gonna go forward'?",
+         "tipe":"lirik",
+         "jawaban":"Ya (bagian akhir)"
+      },
+      {
+         "index":251,
+         "soal":"Siapa yang paling suka dengan fashion sports wear?",
+         "tipe":"fashion",
+         "jawaban":"Felix (hoodie)",
+         "tipe":"sportswear",
+         "jawaban":"Bang Chan"
+      },
+      {
+         "index":252,
+         "soal":"Lagu 'Chronosaurus' dari album 'Clé 1: MIROH'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (tentang waktu)"
+      },
+      {
+         "index":253,
+         "soal":"Siapa yang memiliki kebiasaan 'menggaruk kepala'?",
+         "tipe":"gestur",
+         "jawaban":"Changbin"
+      },
+      {
+         "index":254,
+         "soal":"Berapa total lagu yang menjadi #1 di iTunes di 50 negara?",
+         "tipe":"prestasi",
+         "jawaban":"'God's Menu' dan 'MANIAC' dan 'S-Class' mencapai"
+      },
+      {
+         "index":255,
+         "soal":"Siapa yang paling suka dengan strawberry?",
+         "tipe":"buah",
+         "jawaban":"Seungmin"
+      },
+      {
+         "index":256,
+         "soal":"Apa nama lagu 'Mixtape: Time Out' (2022) adalah lagu spesial?",
+         "tipe":"single",
+         "jawaban":"Single digital untuk musim panas"
+      },
+      {
+         "index":257,
+         "soal":"Siapa yang memiliki tato 'Map' di lengan?",
+         "tipe":"tato",
+         "jawaban":"Felix (tato peta Australia?)"
+      },
+      {
+         "index":258,
+         "soal":"Lagu 'Awkward Silence' dari album 'I am WHO'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (lucu)"
+      },
+      {
+         "index":259,
+         "soal":"Siapa yang paling suka dengan mie kuah?",
+         "tipe":"mie",
+         "jawaban":"Seungmin"
+      },
+      {
+         "index":260,
+         "soal":"Berapa total anggota yang menjadi guest di acara 'Lee Mujin Service'?",
+         "tipe":"acara",
+         "jawaban":"Seungmin, Han, Bang Chan, I.N (seungmin 2x)"
+      },
+      {
+         "index":261,
+         "soal":"Siapa yang memiliki kemampuan main saxophone?",
+         "tipe":"sax",
+         "jawaban":"Bang Chan (pernah main sax?"
+      },
+      {
+         "index":262,
+         "soal":"Apa nama lagu 'YAYAYA' dari album 'Mixtape'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":263,
+         "soal":"Siapa yang paling suka dengan olahraga skateboard?",
+         "tipe":"skate",
+         "jawaban":"Hyunjin (suka skateboard)"
+      },
+      {
+         "index":264,
+         "soal":"Lagu 'Boxer' dari album 'Clé 2: Yellow Wood'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":265,
+         "soal":"Siapa yang memiliki kebiasaan 'membaca komentar haters'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Bang Chan (sering bahas di Chan's Room)"
+      },
+      {
+         "index":266,
+         "soal":"Berapa total lagu yang diproduksi oleh HotSauce (produser) untuk SKZ?",
+         "tipe":"produser",
+         "jawaban":"Beberapa (seperti 'Thunderous')"
+      },
+      {
+         "index":267,
+         "soal":"Siapa yang paling suka dengan warna abu-abu?",
+         "tipe":"warna",
+         "jawaban":"Lee Know"
+      },
+      {
+         "index":268,
+         "soal":"Apa nama lagu '0325' (angka debut) di album 'I am NOT'?",
+         "tipe":"lagu",
+         "jawaban":"Ya (sudah disebut)"
+      },
+      {
+         "index":269,
+         "soal":"Siapa yang memiliki solo 'Streetlight' (Changbin feat. Bang Chan)?",
+         "tipe":"solo",
+         "jawaban":"Changbin (SKZ-REPLAY)"
+      },
+      {
+         "index":270,
+         "soal":"Lagu 'The View' memiliki MV spesial di pantai?",
+         "tipe":"mv",
+         "jawaban":"Ya (MV dirilis 2021)"
+      },
+      {
+         "index":271,
+         "soal":"Siapa yang paling suka dengan puding?",
+         "tipe":"dessert",
+         "jawaban":"I.N"
+      },
+      {
+         "index":272,
+         "soal":"Berapa total lagu dalam album 'I am NOT' (2018)?",
+         "tipe":"jumlah",
+         "jawaban":"8"
+      },
+      {
+         "index":273,
+         "soal":"Siapa yang memiliki kebiasaan 'menyentuh tato' saat berbicara?",
+         "tipe":"kebiasaan",
+         "jawaban":"Hyunjin, Felix"
+      },
+      {
+         "index":274,
+         "soal":"Apa nama lagu 'Double Knot' dari album 'Clé: LEVANTER'?",
+         "tipe":"lagu",
+         "jawaban":"Title? Sebenarnya 'Double Knot' adalah pre-release (2019) dan masuk di album"
+      },
+      {
+         "index":275,
+         "soal":"Siapa yang paling suka dengan kue keju (cheesecake)?",
+         "tipe":"kue",
+         "jawaban":"Seungmin"
+      },
+      {
+         "index":276,
+         "soal":"Lagu 'Booster' dari album 'Clé: LEVANTER'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":277,
+         "soal":"Siapa yang memiliki kemampuan main biola?",
+         "tipe":"biola",
+         "jawaban":"Seungmin (belajar biola)"
+      },
+      {
+         "index":278,
+         "soal":"Berapa total anggota yang lahir di tahun 2000?",
+         "tipe":"tahun",
+         "jawaban":"Hyunjin (2000), Han (2000), Felix (2000), Seungmin (2000) - 4 orang"
+      },
+      {
+         "index":279,
+         "soal":"Siapa yang paling suka dengan ramen pedas?",
+         "tipe":"ramen",
+         "jawaban":"Changbin, Han"
+      },
+      {
+         "index":280,
+         "soal":"Apa nama lagu 'School Life' dari album 'Mixtape'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":281,
+         "soal":"Siapa yang memiliki kebiasaan 'mengucapkan 'SKZ!' sebagai teriakan?",
+         "tipe":"slogan",
+         "jawaban":"Bang Chan (memulai 'SKZ!' di live)"
+      },
+      {
+         "index":282,
+         "soal":"Lagu 'Hero's Soup' dari album 'I am WHO'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":283,
+         "soal":"Siapa yang paling suka dengan sushi?",
+         "tipe":"makanan",
+         "jawaban":"Felix (suka sushi)"
+      },
+      {
+         "index":284,
+         "soal":"Berapa total video 'SKZ-CODE' episodes hingga 2025?",
+         "tipe":"variety",
+         "jawaban":"Lebih dari 50 episode"
+      },
+      {
+         "index":285,
+         "soal":"Siapa yang memiliki solo 'Just Breath' (I.N)?",
+         "tipe":"solo",
+         "jawaban":"I.N (SKZ-REPLAY)"
+      },
+      {
+         "index":286,
+         "soal":"Apa nama lagu '3rd Eye' dari album 'I am NOT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (mata ketiga)"
+      },
+      {
+         "index":287,
+         "soal":"Siapa yang paling suka dengan olahraga panjat tebing?",
+         "tipe":"panjat",
+         "jawaban":"Lee Know (suka olahraga ekstrem)"
+      },
+      {
+         "index":288,
+         "soal":"Lagu 'We Go' (Bang Chan, Changbin, Han) dari SKZ-REPLAY?",
+         "tipe":"unit",
+         "jawaban":"Ya (lagu 3RACHA 'We Go')"
+      },
+      {
+         "index":289,
+         "soal":"Siapa yang memiliki kebiasaan 'menggosok tangan' saat gugup?",
+         "tipe":"gestur",
+         "jawaban":"Hyunjin"
+      },
+      {
+         "index":290,
+         "soal":"Berapa total album mini Stray Kids hingga 2026?",
+         "tipe":"mini album",
+         "jawaban":"11 (I am NOT, I am WHO, I am YOU, Clé 1, Clé 2, Clé: LEVANTER, GO LIVE (mini? dianggap full? bingung), ODDINARY, MAXIDENT, ROCK-STAR, ATE)"
+      },
+      {
+         "index":291,
+         "soal":"Siapa yang paling suka dengan jus jeruk?",
+         "tipe":"jus",
+         "jawaban":"Bang Chan"
+      },
+      {
+         "index":292,
+         "soal":"Apa nama lagu 'Placebo' dari album 'I am YOU'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":293,
+         "soal":"Siapa yang memiliki kemampuan main keyboard?",
+         "tipe":"keyboard",
+         "jawaban":"Bang Chan, Seungmin"
+      },
+      {
+         "index":294,
+         "soal":"Lagu 'Insomnia' dari album 'I am WHO'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (tentang susah tidur)"
+      },
+      {
+         "index":295,
+         "soal":"Siapa yang paling suka dengan telur rebus?",
+         "tipe":"telur",
+         "jawaban":"Changbin (suka protein)"
+      },
+      {
+         "index":296,
+         "soal":"Berapa total kolaborasi SKZ dengan artis barat? (Lil Durk, Charlie Puth, dll)",
+         "tipe":"collab",
+         "jawaban":"3 (Lil Durk, Charlie Puth, Tiger JK (Korea), dll)"
+      },
+      {
+         "index":297,
+         "soal":"Siapa yang memiliki kebiasaan 'memakai kacamata baca'?",
+         "tipe":"kacamata",
+         "jawaban":"Bang Chan, Seungmin (sering pakai kacamata)"
+      },
+      {
+         "index":298,
+         "soal":"Apa nama lagu 'Behind the Light' dari album 'I am NOT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (ballad)"
+      },
+      {
+         "index":299,
+         "soal":"Lagu 'My Pace' dari album 'I am WHO' adalah lagu tentang?",
+         "tipe":"tema",
+         "jawaban":"Melangkah dengan kecepatan sendiri"
+      }
+   ]
+}
