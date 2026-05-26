@@ -1,0 +1,1807 @@
+{
+   "status":true,
+   "game":"kuis bts",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama asli RM (leader BTS)?",
+         "tipe":"nama asli",
+         "jawaban":"Kim Namjoon"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal lahir Jin?",
+         "tipe":"tanggal lahir",
+         "jawaban":"4 Desember 1992"
+      },
+      {
+         "index":2,
+         "soal":"Suga lahir di kota mana?",
+         "tipe":"kota kelahiran",
+         "jawaban":"Daegu"
+      },
+      {
+         "index":3,
+         "soal":"Apa nama panggung dari Jung Hoseok?",
+         "tipe":"nama panggung",
+         "jawaban":"J-Hope"
+      },
+      {
+         "index":4,
+         "soal":"Jimin berasal dari kota?",
+         "tipe":"kota asal",
+         "jawaban":"Busan"
+      },
+      {
+         "index":5,
+         "soal":"V (Kim Taehyung) lahir pada?",
+         "tipe":"tanggal lahir",
+         "jawaban":"30 Desember 1995"
+      },
+      {
+         "index":6,
+         "soal":"Jungkook adalah anggota termuda, lahir tahun?",
+         "tipe":"tahun lahir",
+         "jawaban":"1997"
+      },
+      {
+         "index":7,
+         "soal":"Album debut BTS (2013) adalah?",
+         "tipe":"album debut",
+         "jawaban":"2 Cool 4 Skool"
+      },
+      {
+         "index":8,
+         "soal":"Lagu pertama BTS yang meraih #1 di Billboard Hot 100?",
+         "tipe":"lagu pertama #1",
+         "jawaban":"Dynamite"
+      },
+      {
+         "index":9,
+         "soal":"Siapa yang menulis sebagian besar lirik BTS?",
+         "tipe":"penulis lirik",
+         "jawaban":"RM"
+      },
+      {
+         "index":10,
+         "soal":"Apa nama fandom resmi BTS?",
+         "tipe":"fandom",
+         "jawaban":"ARMY"
+      },
+      {
+         "index":11,
+         "soal":"Tanggal debut BTS (hari dan bulan)?",
+         "tipe":"tanggal debut",
+         "jawaban":"13 Juni 2013"
+      },
+      {
+         "index":12,
+         "soal":"Lagu apa yang memiliki koreografi 'pemanasan' dengan lirik 'I wanna be a rapstar'?",
+         "tipe":"tebak lagu",
+         "jawaban":"No More Dream"
+      },
+      {
+         "index":13,
+         "soal":"Siapa anggota BTS yang merilis mixtape 'Hope World'?",
+         "tipe":"mixtape",
+         "jawaban":"J-Hope"
+      },
+      {
+         "index":14,
+         "soal":"Apa judul album Korea full album pertama BTS?",
+         "tipe":"album full pertama",
+         "jawaban":"Dark & Wild"
+      },
+      {
+         "index":15,
+         "soal":"Lirik 'Neomu areumdaun dan geoul soge neoui moseup' dari lagu?",
+         "tipe":"lirik lagu",
+         "jawaban":"Spring Day"
+      },
+      {
+         "index":16,
+         "soal":"Siapa yang menjadi center di 'Butter' music video?",
+         "tipe":"center MV",
+         "jawaban":"Jungkook"
+      },
+      {
+         "index":17,
+         "soal":"Berapa total anggota BTS?",
+         "tipe":"angka",
+         "jawaban":"7"
+      },
+      {
+         "index":18,
+         "soal":"Siapa sub-rap unit BTS?",
+         "tipe":"unit rap",
+         "jawaban":"RM, Suga, J-Hope"
+      },
+      {
+         "index":19,
+         "soal":"Apa warna resmi BTS?",
+         "tipe":"warna resmi",
+         "jawaban":"Ungu (Purple)"
+      },
+      {
+         "index":20,
+         "soal":"Lagu BTS yang berkolaborasi dengan Halsey?",
+         "tipe":"kolaborasi",
+         "jawaban":"Boy With Luv"
+      },
+      {
+         "index":21,
+         "soal":"Siapa yang merilis album solo 'Face' pada 2023?",
+         "tipe":"solo album",
+         "jawaban":"Jimin"
+      },
+      {
+         "index":22,
+         "soal":"Suga menggunakan nama alternatif Agust D, apa artinya?",
+         "tipe":"makna nama",
+         "jawaban":"Daegu Town (salah satu: D-Town, Agust D = DT Suga)"
+      },
+      {
+         "index":23,
+         "soal":"Di tahun 2025, anggota mana yang sudah menyelesaikan wajib militer?",
+         "tipe":"militer",
+         "jawaban":"Jin, J-Hope, Suga, RM, V, Jimin, Jungkook (semua)"
+      },
+      {
+         "index":24,
+         "soal":"Siapa visual BTS yang sering disebut 'Worldwide Handsome'?",
+         "tipe":"julukan",
+         "jawaban":"Jin"
+      },
+      {
+         "index":25,
+         "soal":"Lagu 'Fake Love' berasal dari album?",
+         "tipe":"album",
+         "jawaban":"Love Yourself: Tear"
+      },
+      {
+         "index":26,
+         "soal":"Apa nama konser tur dunia BTS di tahun 2019?",
+         "tipe":"nama tur",
+         "jawaban":"Love Yourself: Speak Yourself"
+      },
+      {
+         "index":27,
+         "soal":"Siapa yang pertama kali memperkenalkan 'I Purple You'?",
+         "tipe":"tokoh",
+         "jawaban":"V"
+      },
+      {
+         "index":28,
+         "soal":"Lirik 'Cause I-I-I'm in the stars tonight' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Dynamite"
+      },
+      {
+         "index":29,
+         "soal":"Apa nama drama yang dibintangi V (Kim Taehyung) tahun 2023?",
+         "tipe":"akting",
+         "jawaban":"Jirisan (cameo)"
+      },
+      {
+         "index":30,
+         "soal":"Jungkook merilis album solo 'Golden' pada tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":31,
+         "soal":"Siapa main dancer utama BTS?",
+         "tipe":"posisi",
+         "jawaban":"J-Hope (lead dancer, Jimin main dancer)"
+      },
+      {
+         "index":32,
+         "soal":"Apa nama lagu BTS yang berisi pesan tentang kesehatan mental 'I'm so sick of this fake love'?",
+         "tipe":"tebak lagu",
+         "jawaban":"Fake Love"
+      },
+      {
+         "index":33,
+         "soal":"Album 'BE' dirilis pada tahun?",
+         "tipe":"tahun rilis",
+         "jawaban":"2020"
+      },
+      {
+         "index":34,
+         "soal":"Siapa yang menjadi produser utama dalam lagu 'Spring Day'?",
+         "tipe":"produser",
+         "jawaban":"Pdogg (dan RM, Suga)"
+      },
+      {
+         "index":35,
+         "soal":"Lagu apa yang BTS bawakan di PBB tahun 2018?",
+         "tipe":"speech & lagu",
+         "jawaban":"The Truth Untold (dan Love Yourself)"
+      },
+      {
+         "index":36,
+         "soal":"Berapa jumlah album studio Korea BTS hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"4 (Dark&Wild, Wings, Love Yourself: Tear, Map of the Soul: 7)"
+      },
+      {
+         "index":37,
+         "soal":"Siapa yang memiliki line 'You know it all, you're my best friend' dalam 'Spring Day'?",
+         "tipe":"siapa",
+         "jawaban":"Jungkook"
+      },
+      {
+         "index":38,
+         "soal":"Apa nama webtoon BTS Universe?",
+         "tipe":"webtoon",
+         "jawaban":"Save Me"
+      },
+      {
+         "index":39,
+         "soal":"Lagu 'IDOL' menampilkan alat musik tradisional Korea apa?",
+         "tipe":"alat musik",
+         "jawaban":"Taepyeongso (suling tradisional)"
+      },
+      {
+         "index":40,
+         "soal":"Siapa anggota yang paling lama di posisi lead vocal?",
+         "tipe":"vocal",
+         "jawaban":"Jungkook (main vocal)"
+      },
+      {
+         "index":41,
+         "soal":"Apa nama lagu solo Jin yang dirilis tahun 2024?",
+         "tipe":"lagu solo",
+         "jawaban":"The Astronaut (2022), Happy (2024 album)"
+      },
+      {
+         "index":42,
+         "soal":"Pada tahun 2025, BTS dikabarkan comeback sebagai grup kapan?",
+         "tipe":"berita 2025",
+         "jawaban":"2025 atau 2026 pasca wajib militer selesai"
+      },
+      {
+         "index":43,
+         "soal":"Siapa yang memiliki tato 'ARMY' di jari?",
+         "tipe":"tato",
+         "jawaban":"Jungkook"
+      },
+      {
+         "index":44,
+         "soal":"Lirik 'You are my cause of euphoria' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Euphoria (Jungkook solo)"
+      },
+      {
+         "index":45,
+         "soal":"Apa nama acara variety BTS yang diproduksi sendiri?",
+         "tipe":"variety show",
+         "jawaban":"Run BTS"
+      },
+      {
+         "index":46,
+         "soal":"Siapa yang merilis lagu 'Christmas Tree' untuk OST?",
+         "tipe":"OST",
+         "jawaban":"V"
+      },
+      {
+         "index":47,
+         "soal":"Album 'Map of the Soul: 7' terjual berapa kopi di minggu pertama?",
+         "tipe":"penjualan",
+         "jawaban":"4,3 juta (sekitar)"
+      },
+      {
+         "index":48,
+         "soal":"Lagu apa yang menjadi simbol perpisahan sementara sebelum wajib militer?",
+         "tipe":"lagu perpisahan",
+         "jawaban":"Yet To Come"
+      },
+      {
+         "index":49,
+         "soal":"Siapa anggota yang fasih berbahasa Inggris?",
+         "tipe":"bahasa",
+         "jawaban":"RM, juga Jungkook, J-Hope cukup"
+      },
+      {
+         "index":50,
+         "soal":"Apa nama tur konser online BTS selama pandemi?",
+         "tipe":"konser online",
+         "jawaban":"Bang Bang Con The Live"
+      },
+      {
+         "index":51,
+         "soal":"Lirik 'I'll be your light, I'll be your hope' dari lagu apa?",
+         "tipe":"lirik lagu",
+         "jawaban":"Mikrokosmos"
+      },
+      {
+         "index":52,
+         "soal":"Berapa total penghargaan Daesang BTS hingga 2025?",
+         "tipe":"daesang",
+         "jawaban":"Lebih dari 50 (catatan tinggi)"
+      },
+      {
+         "index":53,
+         "soal":"Siapa yang membuat koreografi 'ON'?",
+         "tipe":"koreografer",
+         "jawaban":"The Lab, Sienna Lalau, J-Hope ikut"
+      },
+      {
+         "index":54,
+         "soal":"Lagu 'Black Swan' memiliki genre?",
+         "tipe":"genre",
+         "jawaban":"Emo hip hop/electropop"
+      },
+      {
+         "index":55,
+         "soal":"Apa nama film dokumenter BTS di Disney+?",
+         "tipe":"dokumenter",
+         "jawaban":"BTS: All The Way (namun yang ada BTS: Permission to Dance on Stage - LA)"
+      },
+      {
+         "index":56,
+         "soal":"Siapa yang memiliki solo lagu 'Filter' di album MOTS:7?",
+         "tipe":"solo lagu",
+         "jawaban":"Jimin"
+      },
+      {
+         "index":57,
+         "soal":"Tanggal berapa BTS memenangkan Artist of the Year di AMA 2021?",
+         "tipe":"tanggal",
+         "jawaban":"22 November 2021"
+      },
+      {
+         "index":58,
+         "soal":"Apa nama kolaborasi BTS dengan Ed Sheeran?",
+         "tipe":"kolaborasi",
+         "jawaban":"Make It Right (co-written)"
+      },
+      {
+         "index":59,
+         "soal":"Siapa yang paling sering meng-cover lagu di YouTube?",
+         "tipe":"cover",
+         "jawaban":"Jungkook"
+      },
+      {
+         "index":60,
+         "soal":"Lirik 'I'm diamond, you know I glow up' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Dope"
+      },
+      {
+         "index":61,
+         "soal":"Album 'Love Yourself: Answer' berisi lagu utama?",
+         "tipe":"title track",
+         "jawaban":"IDOL"
+      },
+      {
+         "index":62,
+         "soal":"Siapa yang menjadi model Louis Vuitton untuk BTS?",
+         "tipe":"brand ambassador",
+         "jawaban":"Semua anggota (LV) dan masing-masing merek seperti Jin untuk Alo, dll."
+      },
+      {
+         "index":63,
+         "soal":"Apa nama lagu Jepang BTS yang populer?",
+         "tipe":"lagu Jepang",
+         "jawaban":"Film out, Lights, Stay Gold"
+      },
+      {
+         "index":64,
+         "soal":"Siapa anggota yang punya kebiasaan 'makan es'?",
+         "tipe":"fakta",
+         "jawaban":"Jin (suka makan es batu)"
+      },
+      {
+         "index":65,
+         "soal":"Lagu 'Baepsae' (Silver Spoon) mengkritik tentang apa?",
+         "tipe":"tema",
+         "jawaban":"Ketidakadilan generasi dan hierarki sosial"
+      },
+      {
+         "index":66,
+         "soal":"Apa nama aplikasi di mana BTS sering berinteraksi dengan ARMY?",
+         "tipe":"aplikasi",
+         "jawaban":"Weverse"
+      },
+      {
+         "index":67,
+         "soal":"Siapa yang menjadi tamu di acara 'Suchwita' (Suga's show)?",
+         "tipe":"acara",
+         "jawaban":"Banyak: RM, Jimin, V, Jungkook, dll."
+      },
+      {
+         "index":68,
+         "soal":"Berapa total video klip BTS yang mencapai 1 miliar views (per 2026)?",
+         "tipe":"angka",
+         "jawaban":"6 (DNA, Boy With Luv, Dynamite, Butter, etc)"
+      },
+      {
+         "index":69,
+         "soal":"Lirik 'Smooth like butter, like a criminal undercover' adalah lagu?",
+         "tipe":"lirik",
+         "jawaban":"Butter"
+      },
+      {
+         "index":70,
+         "soal":"Siapa yang menulis lagu 'Whalien 52' tentang paus sendirian?",
+         "tipe":"penulis",
+         "jawaban":"RM dan Suga"
+      },
+      {
+         "index":71,
+         "soal":"Apa nama album solol RM 2024?",
+         "tipe":"album",
+         "jawaban":"Right Place, Wrong Person"
+      },
+      {
+         "index":72,
+         "soal":"Siapa anggota yang pernah jadi MC untuk acara 'Music Bank'?",
+         "tipe":"MC",
+         "jawaban":"Jin, J-Hope, Jimin pernah jadi spesial MC"
+      },
+      {
+         "index":73,
+         "soal":"Lagu 'Blood Sweat & Tears' berasal dari album?",
+         "tipe":"album",
+         "jawaban":"Wings"
+      },
+      {
+         "index":74,
+         "soal":"Apa nama lagu BTS yang menampilkan bagian spoken word oleh RM?",
+         "tipe":"lagu",
+         "jawaban":"Seoul (solo RM) atau Intro: Persona"
+      },
+      {
+         "index":75,
+         "soal":"Siapa yang memiliki 'manner hands' terkenal?",
+         "tipe":"sifat",
+         "jawaban":"Jin dan Jimin terkenal manner hand"
+      },
+      {
+         "index":76,
+         "soal":"Apa nama karakter BT21 yang dibuat oleh Jin?",
+         "tipe":"BT21",
+         "jawaban":"RJ"
+      },
+      {
+         "index":77,
+         "soal":"Tanggal konser 'BTS Yet to Come in Busan'?",
+         "tipe":"tanggal",
+         "jawaban":"15 Oktober 2022"
+      },
+      {
+         "index":78,
+         "soal":"Siapa yang memiliki solo 'Ego' di album MOTS:7?",
+         "tipe":"solo",
+         "jawaban":"J-Hope"
+      },
+      {
+         "index":79,
+         "soal":"Lirik 'Winter is here, but you're my spring day' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Spring Day"
+      },
+      {
+         "index":80,
+         "soal":"Berapa jumlah lagu di album 'Be' (Deluxe edition)?",
+         "tipe":"jumlah lagu",
+         "jawaban":"8"
+      },
+      {
+         "index":81,
+         "soal":"Apa nama proyek game BTS di Weverse?",
+         "tipe":"game",
+         "jawaban":"BTS Island: In the SOOM"
+      },
+      {
+         "index":82,
+         "soal":"Siapa yang paling suka memasak?",
+         "tipe":"hobi",
+         "jawaban":"Jin (suka masak)"
+      },
+      {
+         "index":83,
+         "soal":"Lagu 'Dynamite' adalah lagu berbahasa Inggris pertama BTS? (Benar/Salah)",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":84,
+         "soal":"Apa nama lagu unit vokal terbaru BTS?",
+         "tipe":"unit song",
+         "jawaban":"The Truth Untold (vocal line), Outro: Tear (rap line)"
+      },
+      {
+         "index":85,
+         "soal":"Siapa yang membuat lagu 'Blue Side'?",
+         "tipe":"pencipta",
+         "jawaban":"J-Hope"
+      },
+      {
+         "index":86,
+         "soal":"Apa nama acara dokumenter BTS di YouTube?",
+         "tipe":"dokumenter",
+         "jawaban":"Burn the Stage"
+      },
+      {
+         "index":87,
+         "soal":"Siapa anggota yang pernah menjadi stuntman di MV?",
+         "tipe":"stunt",
+         "jawaban":"Jungkook (banyak aksi)"
+      },
+      {
+         "index":88,
+         "soal":"Lirik 'Yeah, I'll be the one who's always there for you' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"2! 3!"
+      },
+      {
+         "index":89,
+         "soal":"Album 'The Most Beautiful Moment in Life: Young Forever' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2016"
+      },
+      {
+         "index":90,
+         "soal":"Siapa yang memiliki kemampuan sulap?",
+         "tipe":"bakat",
+         "jawaban":"Jin"
+      },
+      {
+         "index":91,
+         "soal":"Apa nama lagu BTS yang bertema anti-bullying?",
+         "tipe":"tema",
+         "jawaban":"No More Dream, Silver Spoon"
+      },
+      {
+         "index":92,
+         "soal":"Siapa yang punya tato kata 'ARMY' di belakang telinga?",
+         "tipe":"tato",
+         "jawaban":"Jungkook (sekarang sudah dihapus? faktanya)"
+      },
+      {
+         "index":93,
+         "soal":"Lagu 'Permission to Dance' ditulis oleh?",
+         "tipe":"penulis lagu",
+         "jawaban":"Ed Sheeran, Steve Mac, Johnny McDaid, Jenna Andrews"
+      },
+      {
+         "index":94,
+         "soal":"Siapa yang pertama kali memulai 'Vlive' solo?",
+         "tipe":"vlive",
+         "jawaban":"V atau RM"
+      },
+      {
+         "index":95,
+         "soal":"Berapa total fans ARMY di seluruh dunia (perkiraan 2025)?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 100 juta (digital fanbase)"
+      },
+      {
+         "index":96,
+         "soal":"Apa nama lagu yang digunakan untuk kampanye UNICEF?",
+         "tipe":"lagu",
+         "jawaban":"Love Myself (Answer: Love Yourself)"
+      },
+      {
+         "index":97,
+         "soal":"Siapa yang merilis lagu 'Wild Flower' feat. youjeen?",
+         "tipe":"kolaborasi",
+         "jawaban":"RM"
+      },
+      {
+         "index":98,
+         "soal":"Lirik 'I just wanna be your dog' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Pied Piper"
+      },
+      {
+         "index":99,
+         "soal":"Apa nama lagu BTS yang paling sering dipakai di TikTok?",
+         "tipe":"trend",
+         "jawaban":"Dynamite, Butter, Boy With Luv"
+      },
+      {
+         "index":100,
+         "soal":"Siapa yang menciptakan gerakan 'dab' di MV BTS?",
+         "tipe":"koreo",
+         "jawaban":"J-Hope (di 'No More Dream')"
+      },
+      {
+         "index":101,
+         "soal":"Album 'Wings' memiliki lagu solo untuk setiap anggota, berapa total lagu?",
+         "tipe":"jumlah lagu",
+         "jawaban":"15 (termasuk intro, solo, unit, outro)"
+      },
+      {
+         "index":102,
+         "soal":"Siapa yang menjadi model untuk brand Prada?",
+         "tipe":"brand endorsement",
+         "jawaban":"Jimin (2024-2025)"
+      },
+      {
+         "index":103,
+         "soal":"Apa nama lagu Jepang dengan lirik 'I promise you, I will be there'?",
+         "tipe":"lagu Jepang",
+         "jawaban":"Your eyes tell"
+      },
+      {
+         "index":104,
+         "soal":"Siapa yang paling sering memakai kacamata di atas panggung?",
+         "tipe":"aksesoris",
+         "jawaban":"RM"
+      },
+      {
+         "index":105,
+         "soal":"Lirik 'You can't stop me loving myself' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"IDOL"
+      },
+      {
+         "index":106,
+         "soal":"Apa nama konser ulang tahun debut ke-10 BTS?",
+         "tipe":"konser",
+         "jawaban":"BTS 10th Anniversary Festa (2023)"
+      },
+      {
+         "index":107,
+         "soal":"Siapa yang memiliki kemampuan akting paling banyak (drama/film)?",
+         "tipe":"akting",
+         "jawaban":"V (Hwarang, Jirisan) dan Jin (dll.)"
+      },
+      {
+         "index":108,
+         "soal":"Album 'Proof' adalah album antologi yang berisi lagu-lagu hits, berapa CD?",
+         "tipe":"fisik",
+         "jawaban":"3 CD"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang dikenal dengan 'Eat Jin' series?",
+         "tipe":"series",
+         "jawaban":"Jin"
+      },
+      {
+         "index":110,
+         "soal":"Lagu 'We Are Bulletproof : The Eternal' berhubungan dengan apa?",
+         "tipe":"tema",
+         "jawaban":"Perjalanan dan ketahanan BTS serta ARMY"
+      },
+      {
+         "index":111,
+         "soal":"Siapa yang membuat lagu 'Still Life' (dengan Anderson .Paak)?",
+         "tipe":"kolaborasi",
+         "jawaban":"RM"
+      },
+      {
+         "index":112,
+         "soal":"Apa nama lagu BTS yang liriknya 'You know it all, you're my best friend'?",
+         "tipe":"lirik",
+         "jawaban":"Spring Day (again confirm)"
+      },
+      {
+         "index":113,
+         "soal":"Berapa total penghargaan Billboard Music Awards yang BTS menangi hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"12 (plus)"
+      },
+      {
+         "index":114,
+         "soal":"Siapa yang pertama kali memperkenalkan 'Borahae'?",
+         "tipe":"frasa",
+         "jawaban":"V (Kim Taehyung)"
+      },
+      {
+         "index":115,
+         "soal":"Apa nama web drama BTS?",
+         "tipe":"drama",
+         "jawaban":"Love Yourself (Highlight Reels)"
+      },
+      {
+         "index":116,
+         "soal":"Lagu 'Fire' memiliki koreografi terkenal '3:33' dance break, siapa yang memulai?",
+         "tipe":"koreo",
+         "jawaban":"J-Hope, Jimin, Jungkook"
+      },
+      {
+         "index":117,
+         "soal":"Siapa yang memiliki suara bass terendah?",
+         "tipe":"vokal",
+         "jawaban":"V"
+      },
+      {
+         "index":118,
+         "soal":"Apa nama lagu dari album 'Dark & Wild' yang berkolaborasi dengan rapper Korea?",
+         "tipe":"kolaborasi",
+         "jawaban":"Intro: What am I to you? (tidak ada, lebih tepat 'Rain'?)"
+      },
+      {
+         "index":119,
+         "soal":"Lirik 'Every day every night latata' dari lagu apa?",
+         "tipe":"lirik",
+         "jawaban":"Idol (bukan latata, itu (G)I-DLE). Namun 'Idol' punya 'Eoriyeopda eoriyeopda'"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang biasa dipanggil 'Mochi' oleh ARMY?",
+         "tipe":"panggilan",
+         "jawaban":"Jimin"
+      },
+      {
+         "index":121,
+         "soal":"Apa nama lagu yang menampilkan Sam Smith?",
+         "tipe":"kolaborasi",
+         "jawaban":"Belum ada, tapi ada dengan Coldplay 'My Universe'"
+      },
+      {
+         "index":122,
+         "soal":"Siapa anggota yang memiliki kebiasaan menggambar?",
+         "tipe":"hobi",
+         "jawaban":"RM (suka gambar abstrak), V"
+      },
+      {
+         "index":123,
+         "soal":"Album 'Love Yourself: Her' rilis bulan?",
+         "tipe":"bulan",
+         "jawaban":"September 2017"
+      },
+      {
+         "index":124,
+         "soal":"Lagu apa yang menjadi OST untuk drama 'Itaewon Class'?",
+         "tipe":"OST",
+         "jawaban":"Sweet Night (V) dan Yours (Jin)"
+      },
+      {
+         "index":125,
+         "soal":"Siapa yang dikenal sebagai 'Golden Maknae'?",
+         "tipe":"julukan",
+         "jawaban":"Jungkook"
+      },
+      {
+         "index":126,
+         "soal":"Apa nama kipas resmi BTS?",
+         "tipe":"merch",
+         "jawaban":"ARMY Bomb"
+      },
+      {
+         "index":127,
+         "soal":"Lirik 'I don't know, nan molla' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Fire"
+      },
+      {
+         "index":128,
+         "soal":"Siapa yang memproduseri lagu 'Eight' oleh IU (feat. Suga)?",
+         "tipe":"produser",
+         "jawaban":"Suga"
+      },
+      {
+         "index":129,
+         "soal":"Berapa kali BTS tampil di Grammy Awards (hingga 2025)?",
+         "tipe":"angka",
+         "jawaban":"3 kali (2020, 2021, 2022)"
+      },
+      {
+         "index":130,
+         "soal":"Apa nama lagu yang dinyanyikan dalam 'The Tonight Show' dengan Jimmy Fallon?",
+         "tipe":"penampilan",
+         "jawaban":"IDOL, Black Swan, Dynamite"
+      },
+      {
+         "index":131,
+         "soal":"Siapa yang memiliki playlist 'RM's Playlist' di Spotify?",
+         "tipe":"playlist",
+         "jawaban":"RM"
+      },
+      {
+         "index":132,
+         "soal":"Lagu 'Mikrokosmos' menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Setiap orang adalah bintang kecil yang bersinar bersama"
+      },
+      {
+         "index":133,
+         "soal":"Apa nama film konser BTS di bioskop 2023?",
+         "tipe":"film",
+         "jawaban":"BTS: Yet to Come in Cinemas"
+      },
+      {
+         "index":134,
+         "soal":"Siapa yang memiliki tato '7' di lengannya?",
+         "tipe":"tato",
+         "jawaban":"Jungkook"
+      },
+      {
+         "index":135,
+         "soal":"Album 'Wings' lagu 'Stigma' adalah solo siapa?",
+         "tipe":"solo",
+         "jawaban":"V"
+      },
+      {
+         "index":136,
+         "soal":"Lirik 'Nice to meet you, where you been?' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Dynamite"
+      },
+      {
+         "index":137,
+         "soal":"Siapa anggota yang paling suka dengan sendal jepit?",
+         "tipe":"fashion",
+         "jawaban":"Jin"
+      },
+      {
+         "index":138,
+         "soal":"Apa nama lagu yang BTS nyanyikan di Closing Ceremony Olimpiade 2020 Tokyo?",
+         "tipe":"lagu",
+         "jawaban":"Dynamite"
+      },
+      {
+         "index":139,
+         "soal":"Siapa yang memiliki 'Hope on the Street' dance series?",
+         "tipe":"series",
+         "jawaban":"J-Hope"
+      },
+      {
+         "index":140,
+         "soal":"Album 'MOTS: Persona' memiliki lagu utama?",
+         "tipe":"title",
+         "jawaban":"Boy With Luv"
+      },
+      {
+         "index":141,
+         "soal":"Berapa umur Jungkook di tahun 2026?",
+         "tipe":"umur",
+         "jawaban":"29 tahun (lahir 1997)"
+      },
+      {
+         "index":142,
+         "soal":"Apa nama lagu yang berisi 'I wanna be a human, not a robot'?",
+         "tipe":"lirik",
+         "jawaban":"N.O"
+      },
+      {
+         "index":143,
+         "soal":"Siapa anggota yang paling sering memposting foto di Instagram?",
+         "tipe":"IG aktif",
+         "jawaban":"V, J-Hope, Jungkook cukup aktif"
+      },
+      {
+         "index":144,
+         "soal":"Lagu apa yang menjadi single terakhir sebelum hiatus grup?",
+         "tipe":"single",
+         "jawaban":"Yet To Come (2022)"
+      },
+      {
+         "index":145,
+         "soal":"Siapa yang merilis album 'D-DAY' sebagai Agust D?",
+         "tipe":"album",
+         "jawaban":"Suga"
+      },
+      {
+         "index":146,
+         "soal":"Apa nama kolaborasi BTS dengan Steve Aoki?",
+         "tipe":"kolaborasi",
+         "jawaban":"Mic Drop (Steve Aoki Remix), Waste It On Me"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang memiliki suara tertinggi di BTS?",
+         "tipe":"vocal range",
+         "jawaban":"Jimin"
+      },
+      {
+         "index":148,
+         "soal":"Lirik 'Neon naege salmyeosi dagaon bom' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Butterfly"
+      },
+      {
+         "index":149,
+         "soal":"Apa nama lagu yang liriknya tentang kerinduan pada teman lama?",
+         "tipe":"tema",
+         "jawaban":"Spring Day"
+      },
+      {
+         "index":150,
+         "soal":"Siapa yang memiliki mixtape 'RM' (2015)?",
+         "tipe":"mixtape",
+         "jawaban":"RM"
+      },
+      {
+         "index":151,
+         "soal":"Album 'Skool Luv Affair' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2014"
+      },
+      {
+         "index":152,
+         "soal":"Lagu 'I Need U' adalah bagian dari trilogi?",
+         "tipe":"seri",
+         "jawaban":"The Most Beautiful Moment in Life"
+      },
+      {
+         "index":153,
+         "soal":"Siapa yang menjadi duta besar untuk kampanye Love Myself?",
+         "tipe":"duta",
+         "jawaban":"Semua anggota BTS bersama UNICEF"
+      },
+      {
+         "index":154,
+         "soal":"Apa nama lagu yang menampilkan Charli XCX?",
+         "tipe":"kolaborasi",
+         "jawaban":"Dream Glow (dengan Charli XCX, Jimin, Jungkook, Jin)"
+      },
+      {
+         "index":155,
+         "soal":"Siapa yang biasanya membuka konser BTS dengan solo?",
+         "tipe":"pembuka",
+         "jawaban":"RM atau Jungkook"
+      },
+      {
+         "index":156,
+         "soal":"Lirik 'I'm the one I should love in this world' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Epiphany (Jin solo)"
+      },
+      {
+         "index":157,
+         "soal":"Apa nama game mobile resmi BTS yang rilis 2020?",
+         "tipe":"game",
+         "jawaban":"BTS Universe Story"
+      },
+      {
+         "index":158,
+         "soal":"Siapa yang memiliki tato kupu-kupu di punggung?",
+         "tipe":"tato",
+         "jawaban":"Jungkook (tato kupu-kupu di lengan belakang)"
+      },
+      {
+         "index":159,
+         "soal":"Album 'You Never Walk Alone' adalah repackage dari?",
+         "tipe":"album asli",
+         "jawaban":"Wings"
+      },
+      {
+         "index":160,
+         "soal":"Lagu 'Boy In Luv' memiliki lirik '...' (isi)",
+         "tipe":"judul",
+         "jawaban":"Boy In Luv"
+      },
+      {
+         "index":161,
+         "soal":"Siapa anggota yang paling pendek?",
+         "tipe":"tinggi",
+         "jawaban":"Suga (174 cm) atau Jimin (174 cm)"
+      },
+      {
+         "index":162,
+         "soal":"Apa nama lagu dari subunit rap line di album 'Proof'?",
+         "tipe":"lagu",
+         "jawaban":"Ugh!, BTS Cypher PT.3, dll."
+      },
+      {
+         "index":163,
+         "soal":"Siapa yang memiliki kontribusi dalam lagu 'Blue & Grey'?",
+         "tipe":"penulis",
+         "jawaban":"V (penulis utama)"
+      },
+      {
+         "index":164,
+         "soal":"Berapa jumlah lagu di album 'Love Yourself: Answer'?",
+         "tipe":"jumlah",
+         "jawaban":"16"
+      },
+      {
+         "index":165,
+         "soal":"Lirik 'I used to be afraid of the dark' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Mikrokosmos"
+      },
+      {
+         "index":166,
+         "soal":"Siapa yang memiliki julukan 'God of Destruction'?",
+         "tipe":"julukan",
+         "jawaban":"Jin (karena kecerobohannya)"
+      },
+      {
+         "index":167,
+         "soal":"Apa nama lagu pertama yang direkam oleh BTS?",
+         "tipe":"lagu pertama",
+         "jawaban":"No More Dream (debut single)"
+      },
+      {
+         "index":168,
+         "soal":"Siapa yang paling sering menjadi MC di acara musik Korea?",
+         "tipe":"MC",
+         "jawaban":"Jin dan J-Hope pernah menjadi MC tetap di Inkigayo?"
+      },
+      {
+         "index":169,
+         "soal":"Lagu 'Dis-ease' berasal dari album?",
+         "tipe":"album",
+         "jawaban":"BE"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang memiliki solo 'Lie' di Wings?",
+         "tipe":"solo",
+         "jawaban":"Jimin"
+      },
+      {
+         "index":171,
+         "soal":"Apa nama acara perjalanan BTS di New Zealand?",
+         "tipe":"variety",
+         "jawaban":"Bon Voyage Season 4"
+      },
+      {
+         "index":172,
+         "soal":"Siapa yang membuat lagu 'Chicken Noodle Soup' feat. Becky G?",
+         "tipe":"kolaborasi",
+         "jawaban":"J-Hope"
+      },
+      {
+         "index":173,
+         "soal":"Lirik 'Cuz when we jumping it's popping, we jopping' dari lagu? (bukan BTS tapi SuperM) - diganti: Lirik 'I'm so sorry but it's 뭐 어때?'",
+         "tipe":"lirik",
+         "jawaban":"Mic Drop"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang memiliki album solo 'Layover'?",
+         "tipe":"album solo",
+         "jawaban":"V"
+      },
+      {
+         "index":175,
+         "soal":"Berapa total konser BTS secara offline sepanjang karier?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 150 konser (hingga 2025)"
+      },
+      {
+         "index":176,
+         "soal":"Apa nama lagu yang berisi cuplikan pidato PBB?",
+         "tipe":"lagu",
+         "jawaban":"The Truth Untold (tidak, tapi 'Answer: Love Myself' berkaitan)"
+      },
+      {
+         "index":177,
+         "soal":"Siapa yang pertama kali mengungkapkan cintanya kepada ARMY dengan 'I purple you'?",
+         "tipe":"frasa",
+         "jawaban":"V"
+      },
+      {
+         "index":178,
+         "soal":"Lagu 'Paradise' tidak pernah dibawakan live, benar atau salah?",
+         "tipe":"true false",
+         "jawaban":"Benar (tidak pernah)"
+      },
+      {
+         "index":179,
+         "soal":"Siapa yang memiliki tato 'Forever'?",
+         "tipe":"tato",
+         "jawaban":"Jungkook"
+      },
+      {
+         "index":180,
+         "soal":"Album 'O!RUL8,2?' artinya?",
+         "tipe":"makna",
+         "jawaban":"You Are also Bulletproof (Oh! Are you late too?)"
+      },
+      {
+         "index":181,
+         "soal":"Siapa yang memulai gerakan 'fanchant' resmi?",
+         "tipe":"sejarah",
+         "jawaban":"ARMY, dimulai sejak debut"
+      },
+      {
+         "index":182,
+         "soal":"Lirik 'Don't forget that I was there for you' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"We Are Bulletproof Pt.2"
+      },
+      {
+         "index":183,
+         "soal":"Siapa anggota yang paling banyak menulis lagu di BTS?",
+         "tipe":"penulis lagu",
+         "jawaban":"RM (lebih dari 200 lagu kredit)"
+      },
+      {
+         "index":184,
+         "soal":"Apa nama lagu BTS yang menjadi anthem for UNICEF?",
+         "tipe":"lagu",
+         "jawaban":"Love Myself (Answer)"
+      },
+      {
+         "index":185,
+         "soal":"Siapa yang merilis lagu 'Closer' dengan RM?",
+         "tipe":"kolaborasi",
+         "jawaban":"Paul Blanco dan RM, judul Closer (2024)"
+      },
+      {
+         "index":186,
+         "soal":"Album 'Face Yourself' adalah album Jepang, lagu utamanya?",
+         "tipe":"title",
+         "jawaban":"Don't Leave Me"
+      },
+      {
+         "index":187,
+         "soal":"Siapa yang bisa bermain piano?",
+         "tipe":"musik",
+         "jawaban":"Jin, Suga, RM, Jungkook"
+      },
+      {
+         "index":188,
+         "soal":"Lirik 'You are the cause of my euphoria' dari lagu solo?",
+         "tipe":"lirik",
+         "jawaban":"Euphoria (Jungkook)"
+      },
+      {
+         "index":189,
+         "soal":"Apa nama lagu pertama BTS yang masuk di Billboard Hot 100?",
+         "tipe":"billboard",
+         "jawaban":"DNA (2017)"
+      },
+      {
+         "index":190,
+         "soal":"Siapa yang memiliki unit dance terkenal dengan Jimin?",
+         "tipe":"dance",
+         "jawaban":"J-Hope, Jimin, dan Jungkook sering dance line"
+      },
+      {
+         "index":191,
+         "soal":"Album 'Map of the Soul: 7' memiliki lagu 'Outro: Ego' dinyanyikan siapa?",
+         "tipe":"penyanyi",
+         "jawaban":"J-Hope"
+      },
+      {
+         "index":192,
+         "soal":"Berapa banyak anggota yang sudah merilis album solo full hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"7 (semua anggota)"
+      },
+      {
+         "index":193,
+         "soal":"Lagu 'So What' dari album Love Yourself: Tear, genre?",
+         "tipe":"genre",
+         "jawaban":"EDM/Rock"
+      },
+      {
+         "index":194,
+         "soal":"Siapa yang suka memakai topi beanie?",
+         "tipe":"fashion",
+         "jawaban":"Suga, RM"
+      },
+      {
+         "index":195,
+         "soal":"Apa nama lagu yang menginspirasi 'ARMY' untuk membuat 'Borahae'?",
+         "tipe":"inspirasi",
+         "jawaban":"Spring Day (ungu melambangkan kepercayaan)"
+      },
+      {
+         "index":196,
+         "soal":"Siapa yang pertama kali mengucapkan 'Borahae' di konser?",
+         "tipe":"sejarah",
+         "jawaban":"V (2016)"
+      },
+      {
+         "index":197,
+         "soal":"Lirik 'I wanna be your refrigerator' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"2! 3!"
+      },
+      {
+         "index":198,
+         "soal":"Siapa yang memiliki tato 'Rather be dead than cool'?",
+         "tipe":"tato",
+         "jawaban":"Jungkook (di lengan)"
+      },
+      {
+         "index":199,
+         "soal":"Apa nama film dokumenter di Apple TV+?",
+         "tipe":"dokumenter",
+         "jawaban":"BTS: Permission to Dance on Stage (LA) dan BTS: Yet to Come"
+      },
+      {
+         "index":200,
+         "soal":"Siapa yang menjadi brand ambassador untuk Calvin Klein?",
+         "tipe":"brand",
+         "jawaban":"Jungkook (2023-2025)"
+      },
+      {
+         "index":201,
+         "soal":"Lagu 'Anpanman' terinspirasi dari karakter superhero Jepang, apa kekuatannya?",
+         "tipe":"fakta",
+         "jawaban":"Memberi makan kepada yang lapar (kepala roti)"
+      },
+      {
+         "index":202,
+         "soal":"Siapa yang memiliki mixtape 'D-2'?",
+         "tipe":"mixtape",
+         "jawaban":"Agust D (Suga)"
+      },
+      {
+         "index":203,
+         "soal":"Album 'BE' didominasi oleh lagu dengan tema?",
+         "tipe":"tema",
+         "jawaban":"Penghiburan di masa pandemi dan harapan"
+      },
+      {
+         "index":204,
+         "soal":"Lirik 'My life is a beauty' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Life Goes On"
+      },
+      {
+         "index":205,
+         "soal":"Siapa yang memiliki karakter BT21 bernama Koya?",
+         "tipe":"BT21",
+         "jawaban":"RM"
+      },
+      {
+         "index":206,
+         "soal":"Apa nama lagu yang BTS tampil di Grand Central Terminal?",
+         "tipe":"lokasi",
+         "jawaban":"Dynamite (The Tonight Show)"
+      },
+      {
+         "index":207,
+         "soal":"Siapa yang paling sering melakukan 'live cooking' di Weverse?",
+         "tipe":"live",
+         "jawaban":"Jin"
+      },
+      {
+         "index":208,
+         "soal":"Berapa total lagu BTS yang disertifikasi RIAA Platinum?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 10 lagu (misal Dynamite, Butter, Boy With Luv)"
+      },
+      {
+         "index":209,
+         "soal":"Lagu 'Magic Shop' diciptakan untuk siapa?",
+         "tipe":"tujuan",
+         "jawaban":"ARMY (tempat penyembuhan)"
+      },
+      {
+         "index":210,
+         "soal":"Siapa yang menulis lagu 'Seesaw'?",
+         "tipe":"penulis",
+         "jawaban":"Suga (juga produser)"
+      },
+      {
+         "index":211,
+         "soal":"Apa nama lagu kolaborasi BTS dengan Nicki Minaj?",
+         "tipe":"kolaborasi",
+         "jawaban":"IDOL (versi Nicki Minaj remix)"
+      },
+      {
+         "index":212,
+         "soal":"Siapa yang menjadi sub-vocalist utama BTS?",
+         "tipe":"posisi",
+         "jawaban":"Jimin, V, Jin (sub), Jungkook main vocal"
+      },
+      {
+         "index":213,
+         "soal":"Lirik 'I'm living in the future, past, present' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Black Swan"
+      },
+      {
+         "index":214,
+         "soal":"Album 'Dark & Wild' memiliki lagu berjudul 'What Am I To You' siapa yang rap?",
+         "tipe":"rap",
+         "jawaban":"RM (intro)"
+      },
+      {
+         "index":215,
+         "soal":"Siapa yang memiliki hobi fotografi?",
+         "tipe":"hobi",
+         "jawaban":"V, Jungkook"
+      },
+      {
+         "index":216,
+         "soal":"Apa nama game papan BTS resmi?",
+         "tipe":"merchandise",
+         "jawaban":"BTS Board Game (BTS World, dll.)"
+      },
+      {
+         "index":217,
+         "soal":"Siapa yang paling sering menggunakan aksesori syal?",
+         "tipe":"fashion",
+         "jawaban":"J-Hope"
+      },
+      {
+         "index":218,
+         "soal":"Lagu 'Crystal Snow' adalah lagu Jepang yang dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2017"
+      },
+      {
+         "index":219,
+         "soal":"Berapa nilai kekayaan bersih BTS per 2025 (perkiraan)?",
+         "tipe":"ekonomi",
+         "jawaban":"Miliaran USD (setiap anggota > $30 juta)"
+      },
+      {
+         "index":220,
+         "soal":"Siapa yang memiliki panggilan 'Jwe Hope'?",
+         "tipe":"plesetan",
+         "jawaban":"J-Hope (dari fans)"
+      },
+      {
+         "index":221,
+         "soal":"Apa nama lagu yang paling banyak di-streaming di Spotify BTS?",
+         "tipe":"streaming",
+         "jawaban":"Dynamite (lebih dari 2 miliar)"
+      },
+      {
+         "index":222,
+         "soal":"Siapa yang merilis 'Like Crazy' sebagai title track solo?",
+         "tipe":"solo",
+         "jawaban":"Jimin"
+      },
+      {
+         "index":223,
+         "soal":"Lirik 'We goin' from zero to a hunnid real quick' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"IDOL (tapi lebih ke Ddaeng?)"
+      },
+      {
+         "index":224,
+         "soal":"Apa nama lagu yang dinyanyikan berlima (tanpa Jin, Suga) di Grammy?",
+         "tipe":"penampilan",
+         "jawaban":"Dynamite (2021)"
+      },
+      {
+         "index":225,
+         "soal":"Siapa yang memegang rekor 'most tweets' terkait BTS?",
+         "tipe":"sosmed",
+         "jawaban":"ARMY (fanbase)"
+      },
+      {
+         "index":226,
+         "soal":"Album 'Love Yourself: Tear' memenangkan Grammy? (Benar/Salah)",
+         "tipe":"true false",
+         "jawaban":"Salah (nominasi Best Recording Package)"
+      },
+      {
+         "index":227,
+         "soal":"Siapa anggota yang menjadi mentor di acara survival 'I-Land'?",
+         "tipe":"mentor",
+         "jawaban":"RM dan J-Hope (episode tertentu)"
+      },
+      {
+         "index":228,
+         "soal":"Lagu 'Jump' dari album Skool Luv Affair menampilkan siapa?",
+         "tipe":"feat",
+         "jawaban":"Tidak ada feat, hanya BTS"
+      },
+      {
+         "index":229,
+         "soal":"Apa nama lagu yang menceritakan tentang kekuatan anak muda melawan sistem?",
+         "tipe":"tema",
+         "jawaban":"N.O, No More Dream"
+      },
+      {
+         "index":230,
+         "soal":"Siapa yang memiliki karakter BT21 bernama Chimmy?",
+         "tipe":"BT21",
+         "jawaban":"Jimin"
+      },
+      {
+         "index":231,
+         "soal":"Berapa total lagu yang dirilis BTS (termasuk solo, kolaborasi, Jepang) hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 400 lagu"
+      },
+      {
+         "index":232,
+         "soal":"Siapa yang paling suka menonton anime?",
+         "tipe":"hobi",
+         "jawaban":"Jungkook, V, RM"
+      },
+      {
+         "index":233,
+         "soal":"Lirik 'I'm a whale, I'm a whale, I'm a whale' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Whalien 52"
+      },
+      {
+         "index":234,
+         "soal":"Apa nama turnamen game online BTS?",
+         "tipe":"event",
+         "jawaban":"BTS x Garena Free Fire"
+      },
+      {
+         "index":235,
+         "soal":"Siapa yang menjadi model untuk Face Shop?",
+         "tipe":"endorsement",
+         "jawaban":"BTS (2018-2020)"
+      },
+      {
+         "index":236,
+         "soal":"Album 'Wings' memiliki video pendek 'Wings short film' berapa episode?",
+         "tipe":"angka",
+         "jawaban":"7 short films (masing-masing member)"
+      },
+      {
+         "index":237,
+         "soal":"Siapa yang memiliki tato 'mata' di lengan?",
+         "tipe":"tato",
+         "jawaban":"Jungkook"
+      },
+      {
+         "index":238,
+         "soal":"Lagu 'Sea' (Hidden track) ada di album mana?",
+         "tipe":"album",
+         "jawaban":"Love Yourself: Her (versi fisik)"
+      },
+      {
+         "index":239,
+         "soal":"Siapa yang paling sering memberikan spoiler comeback?",
+         "tipe":"spoiler",
+         "jawaban":"RM atau Jin"
+      },
+      {
+         "index":240,
+         "soal":"Apa nama lagu yang menjadi soundtrack film 'The King: Eternal Monarch'?",
+         "tipe":"OST",
+         "jawaban":"Sweet Night (V), bukan, itu Itaewon Class. Yang tepat 'Rainy Days'?"
+      },
+      {
+         "index":241,
+         "soal":"Siapa yang memiliki range vokal tertinggi hingga melengking?",
+         "tipe":"vocal",
+         "jawaban":"Jungkook dan Jimin"
+      },
+      {
+         "index":242,
+         "soal":"Lirik 'You know how to ball, I know Aristotle' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Ddaeng (RM line)"
+      },
+      {
+         "index":243,
+         "soal":"Apa nama festival BTS tahunan untuk merayakan debut?",
+         "tipe":"festival",
+         "jawaban":"BTS Festa (setiap awal Juni)"
+      },
+      {
+         "index":244,
+         "soal":"Siapa yang merilis lagu 'Haegeum'?",
+         "tipe":"lagu",
+         "jawaban":"Agust D (Suga)"
+      },
+      {
+         "index":245,
+         "soal":"Album 'Proof' lagu baru 'Run BTS' adalah lagu bertema?",
+         "tipe":"tema",
+         "jawaban":"Semangat dan energi BTS"
+      },
+      {
+         "index":246,
+         "soal":"Siapa anggota yang paling tua?",
+         "tipe":"usia",
+         "jawaban":"Jin (lahir 1992)"
+      },
+      {
+         "index":247,
+         "soal":"Apa nama kolaborasi BTS dengan Juice WRLD?",
+         "tipe":"kolaborasi",
+         "jawaban":"All Night (feat. Juice WRLD dan Suga)"
+      },
+      {
+         "index":248,
+         "soal":"Berapa total follower Instagram BTS sebagai grup?",
+         "tipe":"sosmed",
+         "jawaban":"Sudah tidak aktif (akun grup non-aktif, member punya masing-masing)"
+      },
+      {
+         "index":249,
+         "soal":"Lagu 'Let Go' adalah lagu Jepang yang penuh makna tentang pelepasan, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":250,
+         "soal":"Siapa yang memiliki kebiasaan 'blowing kiss' ke kamera?",
+         "tipe":"gestur",
+         "jawaban":"Jin, Jungkook"
+      },
+      {
+         "index":251,
+         "soal":"Apa nama lagu yang mengajak untuk 'menari tanpa peduli'?",
+         "tipe":"judul",
+         "jawaban":"Permission to Dance"
+      },
+      {
+         "index":252,
+         "soal":"Siapa yang menjadi guest di 'Suchwita' pertama kali?",
+         "tipe":"guest",
+         "jawaban":"RM"
+      },
+      {
+         "index":253,
+         "soal":"Lirik 'I wanna big house, big cars and big rings' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"No More Dream"
+      },
+      {
+         "index":254,
+         "soal":"Apa nama drama yang dibintangi Jin?",
+         "tipe":"akting",
+         "jawaban":"Kim Seon Ho? Jin cameo di 'The Best Hit' (2017)"
+      },
+      {
+         "index":255,
+         "soal":"Siapa yang memiliki julukan 'Lachimolala'?",
+         "tipe":"meme",
+         "jawaban":"Jimin (dari Run BTS ep. 100)"
+      },
+      {
+         "index":256,
+         "soal":"Album 'Be' lagu 'Blue & Grey' awalnya adalah lagu solo siapa?",
+         "tipe":"awal",
+         "jawaban":"V (untuk mixtape tapi jadi grup)"
+      },
+      {
+         "index":257,
+         "soal":"Berapa kali BTS memenangkan Top Social Artist di Billboard Music Awards?",
+         "tipe":"angka",
+         "jawaban":"5 kali (2017-2021)"
+      },
+      {
+         "index":258,
+         "soal":"Siapa yang memiliki kebiasaan nge-vlog di YouTube pribadi?",
+         "tipe":"youtube",
+         "jawaban":"Jungkook (G.C.F), J-Hope (Hope TV)"
+      },
+      {
+         "index":259,
+         "soal":"Lagu 'Butter' menyalip rekornya sendiri di Hot 100 selama berapa minggu?",
+         "tipe":"angka",
+         "jawaban":"10 minggu (2021)"
+      },
+      {
+         "index":260,
+         "soal":"Siapa yang dikenal dengan 'little meow meow'?",
+         "tipe":"panggilan",
+         "jawaban":"Suga"
+      },
+      {
+         "index":261,
+         "soal":"Apa nama lagu pertama yang ditulis oleh V?",
+         "tipe":"lagu",
+         "jawaban":"Hold Me Tight (co-written), atau Scenery (solo)"
+      },
+      {
+         "index":262,
+         "soal":"Siapa yang memiliki tato 'ARMY' di telapak tangan?",
+         "tipe":"tato",
+         "jawaban":"Jungkook (dulu, sekarang sudah dihapus)"
+      },
+      {
+         "index":263,
+         "soal":"Album 'Love Yourself' trilogy dimulai dengan album?",
+         "tipe":"urutan",
+         "jawaban":"Love Yourself: Her"
+      },
+      {
+         "index":264,
+         "soal":"Lirik 'I want you to be your light baby' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Lights (lagu Jepang)"
+      },
+      {
+         "index":265,
+         "soal":"Siapa yang paling suka dengan mobil sport?",
+         "tipe":"hobi",
+         "jawaban":"Jungkook"
+      },
+      {
+         "index":266,
+         "soal":"Apa nama konser virtual BTS di game Fortnite?",
+         "tipe":"konser",
+         "jawaban":"BTS x Fortnite: Dynamite (2020)"
+      },
+      {
+         "index":267,
+         "soal":"Berapa total jam tayang konten BTS di YouTube?",
+         "tipe":"angka",
+         "jawaban":"Miliaran jam (tidak pasti, sangat besar)"
+      },
+      {
+         "index":268,
+         "soal":"Siapa yang merilis lagu 'Smoke Sprite' bersama So!YoON!",
+         "tipe":"kolaborasi",
+         "jawaban":"RM"
+      },
+      {
+         "index":269,
+         "soal":"Lagu 'Pied Piper' mengkritik tentang apa?",
+         "tipe":"tema",
+         "jawaban":"Kecanduan fans pada BTS (meta)"
+      },
+      {
+         "index":270,
+         "soal":"Siapa yang paling jarang membuka live streaming?",
+         "tipe":"live",
+         "jawaban":"Suga (jarang, tapi sering Suchwita)"
+      },
+      {
+         "index":271,
+         "soal":"Apa nama lagu yang memiliki dance break menggunakan pedang?",
+         "tipe":"koreo",
+         "jawaban":"ON (Kinetic Manifesto Film)"
+      },
+      {
+         "index":272,
+         "soal":"Siapa yang memiliki studio rekaman pribadi bernama 'Rkive'?",
+         "tipe":"studio",
+         "jawaban":"RM"
+      },
+      {
+         "index":273,
+         "soal":"Album 'HOPE ON THE STREET VOL.1' adalah album solo J-Hope tahun?",
+         "tipe":"tahun",
+         "jawaban":"2024"
+      },
+      {
+         "index":274,
+         "soal":"Lirik 'Neoui hyanggiwa geu misoro' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Spring Day (lagi)"
+      },
+      {
+         "index":275,
+         "soal":"Siapa yang menjadi cover untuk majalah TIME edisi 'Next Generation Leaders'?",
+         "tipe":"magazine",
+         "jawaban":"RM (2017)"
+      },
+      {
+         "index":276,
+         "soal":"Apa nama lagu yang BTS bawakan di pembukaan Olimpiade Seoul 2018?",
+         "tipe":"lagu",
+         "jawaban":"IDOL (PyeongChang 2018 closing ceremony)"
+      },
+      {
+         "index":277,
+         "soal":"Siapa yang memiliki karakter BT21 bernama Shooky?",
+         "tipe":"BT21",
+         "jawaban":"Suga"
+      },
+      {
+         "index":278,
+         "soal":"Berapa jumlah MV BTS yang sudah mencapai 1 miliar views di YouTube?",
+         "tipe":"angka",
+         "jawaban":"6 (hingga awal 2026)"
+      },
+      {
+         "index":279,
+         "soal":"Siapa yang paling suka menulis puisi?",
+         "tipe":"kegiatan",
+         "jawaban":"RM (banyak menulis lirik seperti puisi)"
+      },
+      {
+         "index":280,
+         "soal":"Lagu 'I'm Fine' adalah sambungan dari lagu?",
+         "tipe":"jawaban",
+         "jawaban":"Save Me"
+      },
+      {
+         "index":281,
+         "soal":"Apa nama acara BTS di Netflix?",
+         "tipe":"acara",
+         "jawaban":"BTS: Bon Voyage, In the Soop (mulai di Weverse/Disney+)"
+      },
+      {
+         "index":282,
+         "soal":"Siapa anggota yang paling sering berfoto dengan hewan?",
+         "tipe":"foto",
+         "jawaban":"V (suka dengan anjing Yeontan)"
+      },
+      {
+         "index":283,
+         "soal":"Album 'Dark & Wild' lagu 'Hip Hop Lover' menampilkan?",
+         "tipe":"fitur",
+         "jawaban":"Hanya BTS"
+      },
+      {
+         "index":284,
+         "soal":"Siapa yang membuat lagu 'Interlude: Shadow'?",
+         "tipe":"pencipta",
+         "jawaban":"Suga (produser, penulis)"
+      },
+      {
+         "index":285,
+         "soal":"Lirik 'Mianhae Billboard' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Ddaeng (RM line)"
+      },
+      {
+         "index":286,
+         "soal":"Apa nama game BTS di PC dan mobile yang bergenre rhythm?",
+         "tipe":"game",
+         "jawaban":"BTS World (puzzle/rhythm)"
+      },
+      {
+         "index":287,
+         "soal":"Siapa yang memiliki tato 'Love Yourself'?",
+         "tipe":"tato",
+         "jawaban":"Jungkook (di buku jari)"
+      },
+      {
+         "index":288,
+         "soal":"Berapa total fansign yang pernah dilakukan BTS?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 100 fansign (tidak pasti)"
+      },
+      {
+         "index":289,
+         "soal":"Siapa yang mempopulerkan gaya rambut 'bowl cut'?",
+         "tipe":"rambut",
+         "jawaban":"Jimin (periode 2015)"
+      },
+      {
+         "index":290,
+         "soal":"Lagu 'UGH!' adalah lagu tentang amarah terhadap apa?",
+         "tipe":"tema",
+         "jawaban":"Kebencian internet dan haters"
+      },
+      {
+         "index":291,
+         "soal":"Apa nama kolaborasi BTS dengan Coldplay?",
+         "tipe":"kolaborasi",
+         "jawaban":"My Universe (2021)"
+      },
+      {
+         "index":292,
+         "soal":"Siapa yang memiliki mixtape 'Mono.'?",
+         "tipe":"mixtape",
+         "jawaban":"RM"
+      },
+      {
+         "index":293,
+         "soal":"Album 'Face the Sun' bukan BTS, tapi Seventeen. Ganti: Lagu 'Life Goes On' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2020"
+      },
+      {
+         "index":294,
+         "soal":"Siapa yang selalu menjadi 'ending fairy' di music shows?",
+         "tipe":"ending fairy",
+         "jawaban":"Jungkook, Jimin, V sering"
+      },
+      {
+         "index":295,
+         "soal":"Lirik 'Eodumdeul ttaraseo gildeul irheodo' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Spring Day"
+      },
+      {
+         "index":296,
+         "soal":"Apa nama lagu yang menggunakan sampling 'Für Elise'?",
+         "tipe":"musik",
+         "jawaban":"Fake Love (sampling pada intro)"
+      },
+      {
+         "index":297,
+         "soal":"Siapa yang paling sering menangis di konser?",
+         "tipe":"emosi",
+         "jawaban":"Jin, Jimin, dan semua anggota sering"
+      },
+      {
+         "index":298,
+         "soal":"Apa nama lagu yang BTS tulis untuk para orang tua?",
+         "tipe":"tema",
+         "jawaban":"Spring Day (referensi Sewol Ferry), juga '2! 3!'"
+      },
+      {
+         "index":299,
+         "soal":"Siapa yang pertama kali memeluk semua anggota setelah hiatus announcement?",
+         "tipe":"momen",
+         "jawaban":"Jin (Fest Dinner 2022)"
+      }
+   ]
+}
