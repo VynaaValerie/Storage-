@@ -1,0 +1,1807 @@
+{
+   "status":true,
+   "game":"kuis exo",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama leader EXO?",
+         "tipe":"leader",
+         "jawaban":"Suho"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal debut EXO?",
+         "tipe":"debut date",
+         "jawaban":"8 April 2012"
+      },
+      {
+         "index":2,
+         "soal":"Lagu debut EXO adalah?",
+         "tipe":"debut song",
+         "jawaban":"MAMA"
+      },
+      {
+         "index":3,
+         "soal":"EXO dibagi menjadi dua subunit, apa saja?",
+         "tipe":"subunit",
+         "jawaban":"EXO-K dan EXO-M"
+      },
+      {
+         "index":4,
+         "soal":"Siapa nama fandom resmi EXO?",
+         "tipe":"fandom",
+         "jawaban":"EXO-L"
+      },
+      {
+         "index":5,
+         "soal":"Berapa jumlah anggota EXO saat ini (2026)?",
+         "tipe":"jumlah anggota",
+         "jawaban":"9"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota tertua EXO?",
+         "tipe":"oldest",
+         "jawaban":"Xiumin"
+      },
+      {
+         "index":7,
+         "soal":"Siapa anggota termuda (maknae) EXO?",
+         "tipe":"maknae",
+         "jawaban":"Sehun"
+      },
+      {
+         "index":8,
+         "soal":"Apa warna resmi EXO?",
+         "tipe":"warna resmi",
+         "jawaban":"Cosmic Latte (perak kebiruan) dan pearl"
+      },
+      {
+         "index":9,
+         "soal":"Siapa main vocal EXO?",
+         "tipe":"main vocal",
+         "jawaban":"Chen, Baekhyun, D.O."
+      },
+      {
+         "index":10,
+         "soal":"Siapa main dancer EXO?",
+         "tipe":"main dancer",
+         "jawaban":"Kai, Lay, Sehun"
+      },
+      {
+         "index":11,
+         "soal":"Siapa main rapper EXO?",
+         "tipe":"main rapper",
+         "jawaban":"Chanyeol, Sehun"
+      },
+      {
+         "index":12,
+         "soal":"Siapa yang dikenal dengan 'E-X-O' dance break?",
+         "tipe":"dance",
+         "jawaban":"Kai"
+      },
+      {
+         "index":13,
+         "soal":"Album full length pertama EXO?",
+         "tipe":"album pertama",
+         "jawaban":"XOXO (Kiss & Hug)"
+      },
+      {
+         "index":14,
+         "soal":"Lagu utama dari album 'XOXO'?",
+         "tipe":"title track",
+         "jawaban":"Wolf"
+      },
+      {
+         "index":15,
+         "soal":"Lagu 'Growl' dirilis tahun berapa?",
+         "tipe":"tahun rilis",
+         "jawaban":"2013"
+      },
+      {
+         "index":16,
+         "soal":"Album 'EXODUS' dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2015"
+      },
+      {
+         "index":17,
+         "soal":"Lagu utama 'EXODUS' adalah?",
+         "tipe":"title track",
+         "jawaban":"Call Me Baby"
+      },
+      {
+         "index":18,
+         "soal":"Siapa yang memiliki suara khas 'powerful high note'?",
+         "tipe":"vocal",
+         "jawaban":"Chen"
+      },
+      {
+         "index":19,
+         "soal":"Siapa anggota EXO yang berasal dari China?",
+         "tipe":"chinese member",
+         "jawaban":"Lay (Zhang Yixing)"
+      },
+      {
+         "index":20,
+         "soal":"Lay masih aktif di EXO?",
+         "tipe":"status",
+         "jawaban":"Tidak aktif sejak 2017, tapi resmi masih anggota"
+      },
+      {
+         "index":21,
+         "soal":"Siapa visual EXO yang sering disebut 'Face of the group'?",
+         "tipe":"visual",
+         "jawaban":"Sehun, Suho, Chanyeol"
+      },
+      {
+         "index":22,
+         "soal":"Album 'The War' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2017"
+      },
+      {
+         "index":23,
+         "soal":"Lagu utama 'The War' adalah?",
+         "tipe":"title",
+         "jawaban":"Ko Ko Bop"
+      },
+      {
+         "index":24,
+         "soal":"Lirik 'Shimmy shimmy ko ko bop' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Ko Ko Bop"
+      },
+      {
+         "index":25,
+         "soal":"Siapa yang merilis solo 'UN Village'?",
+         "tipe":"solo",
+         "jawaban":"Baekhyun"
+      },
+      {
+         "index":26,
+         "soal":"Album solo pertama Baekhyun?",
+         "tipe":"album solo",
+         "jawaban":"City Lights"
+      },
+      {
+         "index":27,
+         "soal":"Siapa yang memiliki solo 'That's Okay'?",
+         "tipe":"solo",
+         "jawaban":"D.O."
+      },
+      {
+         "index":28,
+         "soal":"Album 'Don't Mess Up My Tempo' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2018"
+      },
+      {
+         "index":29,
+         "soal":"Lagu utama 'Don't Mess Up My Tempo'?",
+         "tipe":"title",
+         "jawaban":"Tempo"
+      },
+      {
+         "index":30,
+         "soal":"Siapa yang menjadi pusat (center) di 'Tempo'?",
+         "tipe":"center",
+         "jawaban":"Kai"
+      },
+      {
+         "index":31,
+         "soal":"Album 'Obsession' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2019"
+      },
+      {
+         "index":32,
+         "soal":"Konsep 'Obsession' menggunakan alter ego X-EXO, siapa yang memerankan X-Suho?",
+         "tipe":"alter ego",
+         "jawaban":"Suho (Red Suho)"
+      },
+      {
+         "index":33,
+         "soal":"Siapa anggota yang memiliki kemampuan akting paling terkenal?",
+         "tipe":"akting",
+         "jawaban":"D.O. (film 'Swing Kids', 'Along with the Gods')"
+      },
+      {
+         "index":34,
+         "soal":"D.O. (Kyungsoo) merilis album solo '공감 (Empathy)' tahun?",
+         "tipe":"tahun solo",
+         "jawaban":"2021"
+      },
+      {
+         "index":35,
+         "soal":"Siapa yang memiliki solo 'Grey Suit'?",
+         "tipe":"solo",
+         "jawaban":"Suho"
+      },
+      {
+         "index":36,
+         "soal":"Album solo Suho 'Self-Portrait' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2020"
+      },
+      {
+         "index":37,
+         "soal":"Siapa yang memiliki solo 'Peaches'?",
+         "tipe":"solo",
+         "jawaban":"Kai"
+      },
+      {
+         "index":38,
+         "soal":"Album solo Kai pertama?",
+         "tipe":"album",
+         "jawaban":"KAI (2020)"
+      },
+      {
+         "index":39,
+         "soal":"Siapa yang memiliki solo 'Bambi'?",
+         "tipe":"solo",
+         "jawaban":"Baekhyun"
+      },
+      {
+         "index":40,
+         "soal":"Siapa anggota yang paling sering menulis lirik rap?",
+         "tipe":"penulis",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":41,
+         "soal":"Chanyeol memiliki subunit dengan siapa?",
+         "tipe":"subunit",
+         "jawaban":"EXO-SC (dengan Sehun)"
+      },
+      {
+         "index":42,
+         "soal":"Album pertama EXO-SC?",
+         "tipe":"album",
+         "jawaban":"What a Life (2019)"
+      },
+      {
+         "index":43,
+         "soal":"Lagu 'Telephone' dari EXO-SC feat. siapa?",
+         "tipe":"feat",
+         "jawaban":"10cm"
+      },
+      {
+         "index":44,
+         "soal":"Siapa yang memiliki kemampuan main gitar?",
+         "tipe":"gitar",
+         "jawaban":"Chanyeol, D.O."
+      },
+      {
+         "index":45,
+         "soal":"Siapa anggota yang paling suka memasak?",
+         "tipe":"masak",
+         "jawaban":"D.O. (sering masak untuk member)"
+      },
+      {
+         "index":46,
+         "soal":"Apa nama lightstick EXO?",
+         "tipe":"lightstick",
+         "jawaban":"EXO Light Stick (Eribong)"
+      },
+      {
+         "index":47,
+         "soal":"Siapa yang dikenal dengan panggilan 'Baby Don't Cry'?",
+         "tipe":"julukan",
+         "jawaban":"Baekhyun (dari lagu Baby Don't Cry)"
+      },
+      {
+         "index":48,
+         "soal":"Lagu 'Monster' berasal dari album?",
+         "tipe":"album",
+         "jawaban":"EX'ACT (2016)"
+      },
+      {
+         "index":49,
+         "soal":"Album 'EX'ACT' memiliki lagu 'Lucky One' dan 'Monster' sebagai double title, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":50,
+         "soal":"Siapa yang menjadi model untuk brand 'Burberry'?",
+         "tipe":"brand ambassador",
+         "jawaban":"Kai (2021-2022)"
+      },
+      {
+         "index":51,
+         "soal":"Siapa yang memiliki tato di tubuh?",
+         "tipe":"tato",
+         "jawaban":"Chanyeol (tato di lengan), Baekhyun (tato kecil)"
+      },
+      {
+         "index":52,
+         "soal":"Berapa total album studio Korea EXO hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"7 (XOXO, Exodus, EX'ACT, The War, Don't Mess Up My Tempo, Obsession, Exist)"
+      },
+      {
+         "index":53,
+         "soal":"Album 'Exist' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":54,
+         "soal":"Lagu utama 'Exist' adalah?",
+         "tipe":"title",
+         "jawaban":"Cream Soda"
+      },
+      {
+         "index":55,
+         "soal":"Lirik 'Cream soda, taste like a cream soda' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Cream Soda"
+      },
+      {
+         "index":56,
+         "soal":"Siapa anggota yang merilis solo 'Rover'?",
+         "tipe":"solo",
+         "jawaban":"Kai"
+      },
+      {
+         "index":57,
+         "soal":"Album solo Chen 'April, and a flower' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2019"
+      },
+      {
+         "index":58,
+         "soal":"Siapa yang memiliki solo 'Dear my dear'?",
+         "tipe":"solo",
+         "jawaban":"Chen (album kedua)"
+      },
+      {
+         "index":59,
+         "soal":"Lagu 'For Life' adalah lagu winter special EXO tahun?",
+         "tipe":"winter special",
+         "jawaban":"2016"
+      },
+      {
+         "index":60,
+         "soal":"Apa nama lagu winter special EXO pertama?",
+         "tipe":"winter",
+         "jawaban":"Miracles in December (2013)"
+      },
+      {
+         "index":61,
+         "soal":"Siapa yang menulis lagu 'Promise (EXO 2014)'?",
+         "tipe":"penulis",
+         "jawaban":"Lay, Chanyeol, Chen"
+      },
+      {
+         "index":62,
+         "soal":"Siapa anggota yang menjadi MC di 'Inkigayo'?",
+         "tipe":"MC",
+         "jawaban":"Chanyeol (2015-2016)"
+      },
+      {
+         "index":63,
+         "soal":"Siapa anggota yang memiliki YouTube channel pribadi?",
+         "tipe":"youtube",
+         "jawaban":"Sehun (없지만), Chanyeol (Studio NNG)"
+      },
+      {
+         "index":64,
+         "soal":"Apa nama tur konser dunia pertama EXO?",
+         "tipe":"tur",
+         "jawaban":"EXO From. EXO Planet #1 - The Lost Planet (2014)"
+      },
+      {
+         "index":65,
+         "soal":"EXO Planet #2 - The EXO'luXion dimulai tahun?",
+         "tipe":"tur",
+         "jawaban":"2015"
+      },
+      {
+         "index":66,
+         "soal":"Siapa yang memiliki kemampuan beatbox?",
+         "tipe":"beatbox",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":67,
+         "soal":"Lagu 'Love Shot' dari album?",
+         "tipe":"album",
+         "jawaban":"Love Shot (repackage dari Don't Mess Up My Tempo)"
+      },
+      {
+         "index":68,
+         "soal":"Koreografi 'Love Shot' terkenal dengan gerakan apa?",
+         "tipe":"koreo",
+         "jawaban":"Gerakan membuka jaket (Love shot)"
+      },
+      {
+         "index":69,
+         "soal":"Siapa yang paling sering menjadi center di 'Love Shot'?",
+         "tipe":"center",
+         "jawaban":"Kai"
+      },
+      {
+         "index":70,
+         "soal":"Album 'Overdose' adalah mini album tahun?",
+         "tipe":"tahun",
+         "jawaban":"2014"
+      },
+      {
+         "index":71,
+         "soal":"Siapa yang memiliki suara bass terendah di EXO?",
+         "tipe":"vocal",
+         "jawaban":"Chanyeol, Sehun"
+      },
+      {
+         "index":72,
+         "soal":"Lagu 'The Eve' dikenal dengan koreografi yang sensual, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":73,
+         "soal":"Siapa yang menjadi cameo di drama 'Moon Lovers: Scarlet Heart Ryeo'?",
+         "tipe":"akting",
+         "jawaban":"Baekhyun, Xiumin, Chen (suara OST)"
+      },
+      {
+         "index":74,
+         "soal":"Baekhyun berperan sebagai apa di drama 'Moon Lovers'?",
+         "tipe":"peran",
+         "jawaban":"Wang Eun (10th Prince)"
+      },
+      {
+         "index":75,
+         "soal":"Siapa yang merilis lagu 'Beautiful Goodbye'?",
+         "tipe":"solo",
+         "jawaban":"Chen (OST)"
+      },
+      {
+         "index":76,
+         "soal":"D.O. membintangi film 'Swing Kids' sebagai?",
+         "tipe":"film",
+         "jawaban":"Ro Gi-soo (penari tap)"
+      },
+      {
+         "index":77,
+         "soal":"Siapa yang menjadi duta besar untuk 'Louis Vuitton'?",
+         "tipe":"brand",
+         "jawaban":"Kai (2022-2023)"
+      },
+      {
+         "index":78,
+         "soal":"Apa nama lagu EXO yang dinyanyikan dalam bahasa Mandarin oleh EXO-M?",
+         "tipe":"mandarin",
+         "jawaban":"MAMA (Chinese ver), Wolf (Chinese ver)"
+      },
+      {
+         "index":79,
+         "soal":"Siapa yang paling suka dengan anjing?",
+         "tipe":"hewan",
+         "jawaban":"D.O. (punya anjing), Sehun (punya anjing Vivi)"
+      },
+      {
+         "index":80,
+         "soal":"Lagu 'Sing For You' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2015"
+      },
+      {
+         "index":81,
+         "soal":"Album 'Universe' adalah winter special album tahun?",
+         "tipe":"tahun",
+         "jawaban":"2017"
+      },
+      {
+         "index":82,
+         "soal":"Siapa yang memiliki solo 'Dinner' dengan Suho?",
+         "tipe":"duet",
+         "jawaban":"Suho dan Jane Jang (bukan anggota)"
+      },
+      {
+         "index":83,
+         "soal":"Berapa total penghargaan Daesang EXO hingga 2025?",
+         "tipe":"daesang",
+         "jawaban":"9 (MAMA, MMA, GDA, dll.)"
+      },
+      {
+         "index":84,
+         "soal":"EXO memenangkan Album of the Year di MAMA sebanyak?",
+         "tipe":"angka",
+         "jawaban":"5 kali (2013-2017)"
+      },
+      {
+         "index":85,
+         "soal":"Siapa anggota yang mengalami cedera saat latihan?",
+         "tipe":"cedera",
+         "jawaban":"Kai (sering cedera ankle), Xiumin"
+      },
+      {
+         "index":86,
+         "soal":"Lagu 'El Dorado' dikenal dengan high note siapa?",
+         "tipe":"high note",
+         "jawaban":"Chen"
+      },
+      {
+         "index":87,
+         "soal":"Siapa yang memiliki solo 'I'm Gonna Love You' (D.O. feat.)?",
+         "tipe":"duet",
+         "jawaban":"D.O. (dengan Wonstein)"
+      },
+      {
+         "index":88,
+         "soal":"Apa nama subunit EXO yang beranggotakan Chen, Baekhyun, Xiumin?",
+         "tipe":"subunit",
+         "jawaban":"EXO-CBX"
+      },
+      {
+         "index":89,
+         "soal":"Album debut EXO-CBX 'Hey Mama!' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2016"
+      },
+      {
+         "index":90,
+         "soal":"Lagu 'Blooming Day' dari EXO-CBX adalah lagu Jepang?",
+         "tipe":"japan",
+         "jawaban":"Ya (album 'Blooming Days' 2018)"
+      },
+      {
+         "index":91,
+         "soal":"Siapa yang memiliki solo 'Beautiful' (Baekhyun)?",
+         "tipe":"solo ost",
+         "jawaban":"Baekhyun (OST untuk EXO Next Door)"
+      },
+      {
+         "index":92,
+         "soal":"Apa nama drama web EXO 'EXO Next Door'?",
+         "tipe":"drama",
+         "jawaban":"EXO Next Door (2015)"
+      },
+      {
+         "index":93,
+         "soal":"Siapa yang berperan sebagai pemain utama di 'EXO Next Door'?",
+         "tipe":"aktor",
+         "jawaban":"Moon Ga-young, EXO cameo"
+      },
+      {
+         "index":94,
+         "soal":"Siapa anggota yang paling sering memposting di Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Sehun, Chanyeol, Baekhyun"
+      },
+      {
+         "index":95,
+         "soal":"Lagu 'Power' dari album 'The War: The Power of Music' (repackage)",
+         "tipe":"album",
+         "jawaban":"Benar"
+      },
+      {
+         "index":96,
+         "soal":"Koreografi 'Power' menggunakan gerakan tari robot?",
+         "tipe":"koreo",
+         "jawaban":"Benar"
+      },
+      {
+         "index":97,
+         "soal":"Siapa yang memiliki kemampuan bermain drum?",
+         "tipe":"drum",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":98,
+         "soal":"Album 'Countdown' adalah album Jepang pertama EXO, rilis tahun?",
+         "tipe":"jpn album",
+         "jawaban":"2018"
+      },
+      {
+         "index":99,
+         "soal":"Lagu Jepang 'Electric Kiss' berasal dari album?",
+         "tipe":"jpn",
+         "jawaban":"Countdown"
+      },
+      {
+         "index":100,
+         "soal":"Siapa yang paling suka dengan olahraga golf?",
+         "tipe":"golf",
+         "jawaban":"Suho, Xiumin"
+      },
+      {
+         "index":101,
+         "soal":"Lagu 'What U Do?' dari album 'The War'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":102,
+         "soal":"Siapa yang memiliki tato 'EXO' di tubuh?",
+         "tipe":"tato",
+         "jawaban":"Chanyeol (tato EXO di lengan)"
+      },
+      {
+         "index":103,
+         "soal":"Berapa total anggota EXO yang sudah merilis album solo full?",
+         "tipe":"angka",
+         "jawaban":"5 (Baekhyun, Chen, Suho, Kai, D.O., Lay)"
+      },
+      {
+         "index":104,
+         "soal":"Siapa yang merilis album 'LIT' (Lay)?",
+         "tipe":"solo",
+         "jawaban":"Lay (2020)"
+      },
+      {
+         "index":105,
+         "soal":"Lay memiliki studio pribadi bernama?",
+         "tipe":"studio",
+         "jawaban":"Zhang Yixing Studio"
+      },
+      {
+         "index":106,
+         "soal":"Siapa anggota EXO yang pertama kali wajib militer?",
+         "tipe":"militer",
+         "jawaban":"Xiumin (2019)"
+      },
+      {
+         "index":107,
+         "soal":"Semua anggota EXO sudah menyelesaikan wajib militer hingga 2025?",
+         "tipe":"militer",
+         "jawaban":"Ya (terakhir Sehun selesai 2024?)"
+      },
+      {
+         "index":108,
+         "soal":"Lagu 'Don't Go' dikenal dengan lirik 'Nae maeum neoege'?",
+         "tipe":"lirik",
+         "jawaban":"Ya, lagu 'Don't Go' (Butterfly)"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang memiliki suara tertinggi di EXO?",
+         "tipe":"vocal",
+         "jawaban":"Chen"
+      },
+      {
+         "index":110,
+         "soal":"Apa nama lagu yang menampilkan rap Chanyeol dan Sehun secara bergantian?",
+         "tipe":"rap",
+         "jawaban":"Growl, Call Me Baby"
+      },
+      {
+         "index":111,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"warna",
+         "jawaban":"Kai"
+      },
+      {
+         "index":112,
+         "soal":"Album 'Obsession' menggunakan konsep X-EXO, siapa X-Kai?",
+         "tipe":"concept",
+         "jawaban":"Kai (versi hitam)"
+      },
+      {
+         "index":113,
+         "soal":"Lagu 'Jekyll' dari album 'Obsession' bercerita tentang?",
+         "tipe":"tema",
+         "jawaban":"Dual personality (Dr. Jekyll dan Hyde)"
+      },
+      {
+         "index":114,
+         "soal":"Siapa yang memiliki kemampuan main piano?",
+         "tipe":"piano",
+         "jawaban":"Suho, Chanyeol, Chen, Baekhyun"
+      },
+      {
+         "index":115,
+         "soal":"Berapa total lagu dalam album 'Exist' (2023)?",
+         "tipe":"jumlah lagu",
+         "jawaban":"10"
+      },
+      {
+         "index":116,
+         "soal":"Lagu 'Hear Me Out' adalah pre-release dari album 'Exist'?",
+         "tipe":"pre-release",
+         "jawaban":"Benar"
+      },
+      {
+         "index":117,
+         "soal":"Siapa yang menulis lagu 'Let Me In' (EXO 2023)?",
+         "tipe":"penulis",
+         "jawaban":"Chanyeol, D.O. (co-write)"
+      },
+      {
+         "index":118,
+         "soal":"Lirik 'I'll be your sunshine, I'll be your moonlight' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Let Me In"
+      },
+      {
+         "index":119,
+         "soal":"Siapa yang memiliki solo 'Brand New' (Xiumin)?",
+         "tipe":"solo",
+         "jawaban":"Xiumin (2022 mini album)"
+      },
+      {
+         "index":120,
+         "soal":"Album solo Xiumin 'Brand New' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":121,
+         "soal":"Siapa yang memiliki solo 'On Me' (Sehun)?",
+         "tipe":"solo",
+         "jawaban":"Sehun (single 'On Me' 2021)"
+      },
+      {
+         "index":122,
+         "soal":"EXO memiliki lagu 'Two Moons' feat. Key (SHINee) dari album?",
+         "tipe":"feat",
+         "jawaban":"MAMA (2012)"
+      },
+      {
+         "index":123,
+         "soal":"Siapa yang paling sering menjadi 'ending fairy' di music shows?",
+         "tipe":"ending",
+         "jawaban":"Sehun, Kai"
+      },
+      {
+         "index":124,
+         "soal":"Apa nama acara variety EXO 'EXO's Showtime'?",
+         "tipe":"variety",
+         "jawaban":"EXO's Showtime (2013)"
+      },
+      {
+         "index":125,
+         "soal":"Siapa yang memiliki kebiasaan 'makan es'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Suho"
+      },
+      {
+         "index":126,
+         "soal":"Lagu 'Ya Ya Ya' dari album 'Obsession' menggunakan sampling lagu?",
+         "tipe":"sampling",
+         "jawaban":"Ya Ya Ya by SWV (90s R&B)"
+      },
+      {
+         "index":127,
+         "soal":"Siapa yang memiliki kemampuan main bass?",
+         "tipe":"bass",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":128,
+         "soal":"Berapa total anggota awal EXO (2012)?",
+         "tipe":"angka",
+         "jawaban":"12 (6 EXO-K, 6 EXO-M)"
+      },
+      {
+         "index":129,
+         "soal":"Siapa saja mantan anggota EXO yang keluar?",
+         "tipe":"ex member",
+         "jawaban":"Kris, Luhan, Tao"
+      },
+      {
+         "index":130,
+         "soal":"Tahun berapa Kris meninggalkan EXO?",
+         "tipe":"tahun",
+         "jawaban":"2014"
+      },
+      {
+         "index":131,
+         "soal":"Lagu 'Black Pearl' dari album 'XOXO'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":132,
+         "soal":"Siapa yang memiliki cover 'It's Still A Dark Night' (orig. Lee Moon Sae)?",
+         "tipe":"cover",
+         "jawaban":"D.O. (di radio)"
+      },
+      {
+         "index":133,
+         "soal":"Apa nama lagu EXO yang dipakai untuk kampanye Samsung?",
+         "tipe":"cf",
+         "jawaban":"Power (Samsung)"
+      },
+      {
+         "index":134,
+         "soal":"Siapa yang menjadi model untuk 'NATURE REPUBLIC'?",
+         "tipe":"brand",
+         "jawaban":"EXO (2013-2015)"
+      },
+      {
+         "index":135,
+         "soal":"Lagu 'Lucky' dari album 'XOXO' bercerita tentang?",
+         "tipe":"tema",
+         "jawaban":"Rasa beruntung memiliki penggemar"
+      },
+      {
+         "index":136,
+         "soal":"Siapa yang paling suka dengan film superhero?",
+         "tipe":"film",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":137,
+         "soal":"Album 'Miracles in December' adalah mini album winter dengan lagu utama?",
+         "tipe":"title",
+         "jawaban":"Miracles in December"
+      },
+      {
+         "index":138,
+         "soal":"Siapa yang menyanyikan high note di 'Miracles in December'?",
+         "tipe":"high note",
+         "jawaban":"Chen, Baekhyun"
+      },
+      {
+         "index":139,
+         "soal":"Berapa total OST yang dinyanyikan oleh anggota EXO?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 50 OST"
+      },
+      {
+         "index":140,
+         "soal":"Siapa yang memiliki OST paling banyak?",
+         "tipe":"ost",
+         "jawaban":"Chen (paling banyak), Baekhyun"
+      },
+      {
+         "index":141,
+         "soal":"Lagu 'Everytime' (Chen x Punch) adalah OST drama apa?",
+         "tipe":"ost drama",
+         "jawaban":"Descendants of the Sun (2016)"
+      },
+      {
+         "index":142,
+         "soal":"Siapa yang merilis 'Beautiful Goodbye' untuk drama 'It's Okay, That's Love'?",
+         "tipe":"ost",
+         "jawaban":"Chen"
+      },
+      {
+         "index":143,
+         "soal":"Apa nama album solo D.O. 'Empathy' memiliki lagu utama?",
+         "tipe":"title",
+         "jawaban":"Rose"
+      },
+      {
+         "index":144,
+         "soal":"Lagu 'Rose' (D.O.) versi akustik dan English, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":145,
+         "soal":"Siapa yang paling suka dengan binatang kucing?",
+         "tipe":"kucing",
+         "jawaban":"Suho (punya kucing bernama 'Tto')"
+      },
+      {
+         "index":146,
+         "soal":"Lagu 'Baby Don't Cry' dikenal dengan lirik sedih tentang patah hati?",
+         "tipe":"tema",
+         "jawaban":"Benar"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang memiliki solo 'My Answer' (dari album Exodus)?",
+         "tipe":"solo",
+         "jawaban":"Baekhyun, D.O., Suho (bukan solo tapi unit)"
+      },
+      {
+         "index":148,
+         "soal":"Apa nama lagu EXO yang liriknya 'I remember the day, the first day we met'?",
+         "tipe":"lirik",
+         "jawaban":"First Snow"
+      },
+      {
+         "index":149,
+         "soal":"Lagu 'First Snow' populer di musim dingin Korea, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":150,
+         "soal":"Siapa yang paling sering membuat lagu untuk fans?",
+         "tipe":"fan song",
+         "jawaban":"Chanyeol (buat 'SSFW')"
+      },
+      {
+         "index":151,
+         "soal":"Apa nama lagu spesial untuk ulang tahun debut ke-10 EXO?",
+         "tipe":"anniversary",
+         "jawaban":"Just as usual (2022)"
+      },
+      {
+         "index":152,
+         "soal":"Album 'Don't Fight the Feeling' adalah special album tahun?",
+         "tipe":"album",
+         "jawaban":"2021"
+      },
+      {
+         "index":153,
+         "soal":"Lagu 'Don't Fight the Feeling' menampilkan siapa di MV?",
+         "tipe":"mv",
+         "jawaban":"Lay (via green screen)"
+      },
+      {
+         "index":154,
+         "soal":"Siapa yang memiliki kebiasaan 'selfie' dengan filter aneh?",
+         "tipe":"selfie",
+         "jawaban":"Sehun"
+      },
+      {
+         "index":155,
+         "soal":"Lagu 'Wolf' memiliki koreografi 'pohon' di bagian intro?",
+         "tipe":"koreo",
+         "jawaban":"Benar (formasi pohon)"
+      },
+      {
+         "index":156,
+         "soal":"Siapa yang paling suka dengan musik jazz?",
+         "tipe":"genre",
+         "jawaban":"Suho"
+      },
+      {
+         "index":157,
+         "soal":"Apa nama lagu EXO yang menggunakan alat musik tradisional Korea?",
+         "tipe":"tradisional",
+         "jawaban":"Wolf (ada suara tradisional di remix)"
+      },
+      {
+         "index":158,
+         "soal":"Berapa total penjualan album EXO secara fisik hingga 2026?",
+         "tipe":"penjualan",
+         "jawaban":"Lebih dari 15 juta (Korea + China)"
+      },
+      {
+         "index":159,
+         "soal":"Siapa yang memiliki single 'Young' feat. Loco?",
+         "tipe":"collab",
+         "jawaban":"Baekhyun"
+      },
+      {
+         "index":160,
+         "soal":"Siapa anggota yang paling suka dengan fashion mewah?",
+         "tipe":"fashion",
+         "jawaban":"Kai, Sehun, Chanyeol"
+      },
+      {
+         "index":161,
+         "soal":"Lagu 'Forever' dari album 'The War'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":162,
+         "soal":"Siapa yang memiliki kemampuan akting dalam musikal?",
+         "tipe":"musical",
+         "jawaban":"Suho (musical 'The Man Who Laughs'), Xiumin ('Hadestown')"
+      },
+      {
+         "index":163,
+         "soal":"Apa nama konser online EXO 'EXO: The Stage'?",
+         "tipe":"online",
+         "jawaban":"EXO 'The Stage' (2021)"
+      },
+      {
+         "index":164,
+         "soal":"Siapa yang paling suka dengan teh?",
+         "tipe":"minuman",
+         "jawaban":"Suho"
+      },
+      {
+         "index":165,
+         "soal":"Lagu 'Ooh La La La' dari album 'Don't Mess Up My Tempo'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":166,
+         "soal":"Siapa yang memiliki tato di lengan 'Nirvana'?",
+         "tipe":"tato",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":167,
+         "soal":"Berapa total lagu Jepang orisinal EXO (bukan versi)?",
+         "tipe":"jpn",
+         "jawaban":"11 lagu"
+      },
+      {
+         "index":168,
+         "soal":"Siapa yang menjadi model untuk 'Bvlgari'?",
+         "tipe":"brand",
+         "jawaban":"Kai (2019-2020)"
+      },
+      {
+         "index":169,
+         "soal":"Lagu 'Heaven' dari album 'EX'ACT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang paling suka dengan olahraga renang?",
+         "tipe":"renang",
+         "jawaban":"Sehun"
+      },
+      {
+         "index":171,
+         "soal":"Apa nama lagu yang menjadi anthem EXO-L?",
+         "tipe":"fan song",
+         "jawaban":"Promise (EXO 2014), Don't Go"
+      },
+      {
+         "index":172,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit' anggota lain?",
+         "tipe":"kebiasaan",
+         "jawaban":"Baekhyun (suka gigit lengan Kai)"
+      },
+      {
+         "index":173,
+         "soal":"Lagu 'Artificial Love' dikenal dengan koreografi tongkat?",
+         "tipe":"koreo",
+         "jawaban":"Benar (dengan cane)"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang paling sering menjadi pusat di dance break?",
+         "tipe":"dance",
+         "jawaban":"Kai"
+      },
+      {
+         "index":175,
+         "soal":"Album 'Love Shot' lagu 'Trauma' adalah solo siapa?",
+         "tipe":"solo",
+         "jawaban":"Bukan solo, grup"
+      },
+      {
+         "index":176,
+         "soal":"Siapa yang memiliki suara paling serak?",
+         "tipe":"vocal",
+         "jawaban":"Chanyeol (rap)"
+      },
+      {
+         "index":177,
+         "soal":"Berapa total video musik EXO yang mencapai 100 juta views?",
+         "tipe":"angka",
+         "jawaban":"7 (Growl, Call Me Baby, Monster, Love Shot, Ko Ko Bop, Tempo, Obsession)"
+      },
+      {
+         "index":178,
+         "soal":"Siapa yang pertama kali merilis solo album dari EXO?",
+         "tipe":"solo debut",
+         "jawaban":"Baekhyun (2019 - City Lights)"
+      },
+      {
+         "index":179,
+         "soal":"Lagu 'Cream Soda' memiliki koreografi yang viral di TikTok?",
+         "tipe":"tiktok",
+         "jawaban":"Benar (challenge Cream Soda)"
+      },
+      {
+         "index":180,
+         "soal":"Siapa yang paling suka dengan bintang (astronomi)?",
+         "tipe":"hobi",
+         "jawaban":"Suho (suka bintang)"
+      },
+      {
+         "index":181,
+         "soal":"Apa nama lagu EXO yang diproduksi oleh Ryan S. Jhun?",
+         "tipe":"produser",
+         "jawaban":"Obsession, Tempo"
+      },
+      {
+         "index":182,
+         "soal":"Siapa yang memiliki kolaborasi 'Yours' dengan Chanyeol, Lee Hi, Raiden?",
+         "tipe":"collab",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":183,
+         "soal":"Lagu 'Stay' dari album 'Exist'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":184,
+         "soal":"Siapa yang paling sering membuat konten masak di YouTube?",
+         "tipe":"youtube",
+         "jawaban":"D.O. (pernah di 'Kyo's Kitchen')"
+      },
+      {
+         "index":185,
+         "soal":"Album 'XOXO' memiliki lagu 'Peter Pan' yang bercerita tentang?",
+         "tipe":"tema",
+         "jawaban":"Kenangan masa kecil dan janji tidak akan lupa"
+      },
+      {
+         "index":186,
+         "soal":"Siapa yang memiliki kemampuan melukis?",
+         "tipe":"melukis",
+         "jawaban":"Chanyeol, Suho"
+      },
+      {
+         "index":187,
+         "soal":"Berapa total anggota yang sudah menikah (per 2026)?",
+         "tipe":"menikah",
+         "jawaban":"Chen (menikah 2020), lainnya belum"
+      },
+      {
+         "index":188,
+         "soal":"Chen memiliki berapa anak?",
+         "tipe":"anak",
+         "jawaban":"2"
+      },
+      {
+         "index":189,
+         "soal":"Siapa yang memiliki solo 'Hurdle' (Suho)?",
+         "tipe":"solo",
+         "jawaban":"Suho (album 'Grey Suit')"
+      },
+      {
+         "index":190,
+         "soal":"Lagu 'Decanting' dari album solo Suho 'Self-Portrait'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":191,
+         "soal":"Siapa yang paling suka dengan jus jeruk?",
+         "tipe":"minuman",
+         "jawaban":"Xiumin"
+      },
+      {
+         "index":192,
+         "soal":"Apa nama lagu EXO yang memiliki MV dengan konsep gangster?",
+         "tipe":"mv",
+         "jawaban":"Growl (konsep sekolah dan geng)"
+      },
+      {
+         "index":193,
+         "soal":"Siapa yang memiliki kebiasaan 'tidur siang' setiap hari?",
+         "tipe":"kebiasaan",
+         "jawaban":"D.O. (suka tidur)"
+      },
+      {
+         "index":194,
+         "soal":"Lagu 'Bad Dream' dari album 'Don't Mess Up My Tempo'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":195,
+         "soal":"Siapa yang paling sering memakai topi baseball?",
+         "tipe":"fashion",
+         "jawaban":"Sehun, Chanyeol"
+      },
+      {
+         "index":196,
+         "soal":"Berapa total album repackage EXO?",
+         "tipe":"repackage",
+         "jawaban":"4 (Growl, Love Me Right, Lotto, Love Shot)"
+      },
+      {
+         "index":197,
+         "soal":"Siapa yang memiliki solo 'Cry For Love' (Baekhyun)?",
+         "tipe":"solo",
+         "jawaban":"Baekhyun (album 'Bambi')"
+      },
+      {
+         "index":198,
+         "soal":"Lagu 'Bambi' (Baekhyun) memiliki genre R&B, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":199,
+         "soal":"Siapa yang paling suka dengan mie instan?",
+         "tipe":"makanan",
+         "jawaban":"Sehun"
+      },
+      {
+         "index":200,
+         "soal":"Apa nama lagu EXO yang berisi pesan untuk mantan anggota?",
+         "tipe":"pesan",
+         "jawaban":"Promise (EXO 2014)"
+      },
+      {
+         "index":201,
+         "soal":"Siapa yang memiliki kemampuan dance popping?",
+         "tipe":"dance",
+         "jawaban":"Kai, Lay"
+      },
+      {
+         "index":202,
+         "soal":"Lagu 'Run This' dari album 'Exist'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":203,
+         "soal":"Siapa yang menjadi duta untuk 'Prada'?",
+         "tipe":"brand",
+         "jawaban":"Kai (2023)"
+      },
+      {
+         "index":204,
+         "soal":"Berapa total kemenangan music show untuk lagu 'Cream Soda'?",
+         "tipe":"win",
+         "jawaban":"7 (2023)"
+      },
+      {
+         "index":205,
+         "soal":"Siapa yang memiliki cover 'All of Me' (John Legend)?",
+         "tipe":"cover",
+         "jawaban":"Chen"
+      },
+      {
+         "index":206,
+         "soal":"Apa nama lagu EXO yang direkomendasikan oleh NASA?",
+         "tipe":"fakta",
+         "jawaban":"Gravity (dari album 'Don't Mess Up My Tempo')"
+      },
+      {
+         "index":207,
+         "soal":"Siapa yang paling suka dengan kaktus?",
+         "tipe":"tanaman",
+         "jawaban":"Suho (suka tanam kaktus)"
+      },
+      {
+         "index":208,
+         "soal":"Lagu 'Lotto' adalah lagu utama dari repackage 'Lotto' (2016)",
+         "tipe":"title",
+         "jawaban":"Benar"
+      },
+      {
+         "index":209,
+         "soal":"Siapa yang memiliki suara paling unik (nasal) di EXO?",
+         "tipe":"vocal",
+         "jawaban":"Baekhyun"
+      },
+      {
+         "index":210,
+         "soal":"Berapa total lagu yang ditulis oleh Chanyeol untuk EXO?",
+         "tipe":"penulis",
+         "jawaban":"Lebih dari 10 lagu"
+      },
+      {
+         "index":211,
+         "soal":"Siapa yang memiliki kebiasaan 'memeluk' anggota lain?",
+         "tipe":"kebiasaan",
+         "jawaban":"Suho"
+      },
+      {
+         "index":212,
+         "soal":"Apa nama lagu EXO yang menggunakan suara detak jantung?",
+         "tipe":"efek suara",
+         "jawaban":"Heart Attack (dari album 'XOXO')"
+      },
+      {
+         "index":213,
+         "soal":"Siapa yang paling sering menjadi bintang tamu di variety show?",
+         "tipe":"variety",
+         "jawaban":"Baekhyun, Sehun"
+      },
+      {
+         "index":214,
+         "soal":"Lagu 'Cloud 9' dari album 'EX'ACT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":215,
+         "soal":"Siapa yang memiliki kemampuan main biola?",
+         "tipe":"biola",
+         "jawaban":"Chanyeol (pernah main biola di konser)"
+      },
+      {
+         "index":216,
+         "soal":"Berapa total konser solo EXO (EXO Planet) hingga 2026?",
+         "tipe":"konser",
+         "jawaban":"6 (EXO Planet #1 sampai #6)"
+      },
+      {
+         "index":217,
+         "soal":"EXO Planet #5 - EXplOration dimulai tahun?",
+         "tipe":"tur",
+         "jawaban":"2019"
+      },
+      {
+         "index":218,
+         "soal":"Siapa yang paling suka dengan warna biru?",
+         "tipe":"warna",
+         "jawaban":"D.O."
+      },
+      {
+         "index":219,
+         "soal":"Lagu 'Going Crazy' dari album 'The War'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":220,
+         "soal":"Siapa yang memiliki kebiasaan 'berbicara dengan cepat'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Baekhyun"
+      },
+      {
+         "index":221,
+         "soal":"Apa nama lagu EXO yang dijadikan tema utama untuk film 'Underdog'?",
+         "tipe":"ost",
+         "jawaban":"Nobody Else (bukan), mungkin tidak ada"
+      },
+      {
+         "index":222,
+         "soal":"Siapa yang memiliki kemampuan akting di teater musikal 'Hadestown'?",
+         "tipe":"musical",
+         "jawaban":"Xiumin (2023)"
+      },
+      {
+         "index":223,
+         "soal":"Lagu 'No Makeup' dari album 'Exist'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":224,
+         "soal":"Siapa yang paling suka dengan olahraga basket?",
+         "tipe":"basket",
+         "jawaban":"Chanyeol, Sehun"
+      },
+      {
+         "index":225,
+         "soal":"Berapa total fans club EXO-L di Korea (2025)?",
+         "tipe":"angka",
+         "jawaban":"Tidak diumumkan, perkiraan 500.000+"
+      },
+      {
+         "index":226,
+         "soal":"Siapa yang memiliki solo 'All I Got' (Baekhyun)?",
+         "tipe":"solo",
+         "jawaban":"Baekhyun (album 'Bambi')"
+      },
+      {
+         "index":227,
+         "soal":"Apa nama lagu Jepang EXO 'Bird'?",
+         "tipe":"jpn",
+         "jawaban":"Bird (dari album 'Countdown')"
+      },
+      {
+         "index":228,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"makanan",
+         "jawaban":"Sehun, Baekhyun"
+      },
+      {
+         "index":229,
+         "soal":"Lagu 'Non Stop' dari album 'Obsession'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":230,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit kuku'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Kai (dulu)"
+      },
+      {
+         "index":231,
+         "soal":"Berapa total penghargaan Golden Disc Awards untuk EXO?",
+         "tipe":"gda",
+         "jawaban":"12"
+      },
+      {
+         "index":232,
+         "soal":"Siapa yang paling sering update Twitter?",
+         "tipe":"twitter",
+         "jawaban":"EXO tidak punya Twitter resmi grup, member punya Instagram"
+      },
+      {
+         "index":233,
+         "soal":"Lagu 'Wait' dari album 'Love Shot'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":234,
+         "soal":"Siapa yang memiliki kemampuan main drum di konser?",
+         "tipe":"drum",
+         "jawaban":"Chanyeol (drum solo di konser)"
+      },
+      {
+         "index":235,
+         "soal":"Apa nama lagu EXO yang liriknya 'I'm sorry, I'm sorry'?",
+         "tipe":"lirik",
+         "jawaban":"What is Love (bagian 'I'm sorry')"
+      },
+      {
+         "index":236,
+         "soal":"Siapa yang paling suka dengan manga Jepang?",
+         "tipe":"manga",
+         "jawaban":"Sehun, Kai"
+      },
+      {
+         "index":237,
+         "soal":"Album 'Don't Fight the Feeling' berapa total lagu?",
+         "tipe":"jumlah",
+         "jawaban":"5"
+      },
+      {
+         "index":238,
+         "soal":"Siapa yang memiliki solo 'Paradise' (dari album EXO)?",
+         "tipe":"solo",
+         "jawaban":"Bukan solo, lagu grup 'Paradise' dari album 'Exist'"
+      },
+      {
+         "index":239,
+         "soal":"Lagu 'Paradise' menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Cinta yang seperti surga"
+      },
+      {
+         "index":240,
+         "soal":"Siapa yang paling sering menjadi MC di konser?",
+         "tipe":"mc",
+         "jawaban":"Suho (leader)"
+      },
+      {
+         "index":241,
+         "soal":"Berapa total lagu yang memiliki koreografi oleh Kasper (dancer)?",
+         "tipe":"koreo",
+         "jawaban":"Banyak, seperti 'Growl', 'Overdose'"
+      },
+      {
+         "index":242,
+         "soal":"Siapa yang memiliki kebiasaan 'minum kopi setiap hari'?",
+         "tipe":"kopi",
+         "jawaban":"Suho, Sehun"
+      },
+      {
+         "index":243,
+         "soal":"Apa nama lagu EXO yang pertama kali ditampilkan di acara 'MAMA' 2012?",
+         "tipe":"debut stage",
+         "jawaban":"MAMA dan History"
+      },
+      {
+         "index":244,
+         "soal":"Siapa yang memiliki kemampuan bahasa Inggris paling fasih?",
+         "tipe":"bahasa",
+         "jawaban":"D.O. (bisa, tapi Chanyeol juga cukup), Suho"
+      },
+      {
+         "index":245,
+         "soal":"Lagu 'Playboy' ditulis oleh siapa untuk EXO?",
+         "tipe":"penulis",
+         "jawaban":"Jonghyun (SHINee) untuk album 'EXODUS'"
+      },
+      {
+         "index":246,
+         "soal":"Siapa yang paling suka dengan batu alam?",
+         "tipe":"hobi",
+         "jawaban":"Suho (koleksi batu)"
+      },
+      {
+         "index":247,
+         "soal":"Berapa total lagu di album 'EXODUS' (Korea versi)?",
+         "tipe":"jumlah",
+         "jawaban":"10"
+      },
+      {
+         "index":248,
+         "soal":"Siapa yang memiliki solo 'What I Want For Christmas' (Suho)?",
+         "tipe":"solo",
+         "jawaban":"Suho (single Christmas 2020)"
+      },
+      {
+         "index":249,
+         "soal":"Lagu 'Lightsaber' adalah kolaborasi EXO dengan?",
+         "tipe":"collab",
+         "jawaban":"Star Wars (Lightsaber, 2015)"
+      },
+      {
+         "index":250,
+         "soal":"Siapa yang paling suka dengan olahraga ski?",
+         "tipe":"ski",
+         "jawaban":"Xiumin"
+      },
+      {
+         "index":251,
+         "soal":"Apa nama lagu EXO yang memiliki lirik 'I'm gonna love you like a fool'?",
+         "tipe":"lirik",
+         "jawaban":"What is Love"
+      },
+      {
+         "index":252,
+         "soal":"Siapa yang memiliki suara paling emosional saat bernyanyi?",
+         "tipe":"vocal",
+         "jawaban":"D.O., Chen"
+      },
+      {
+         "index":253,
+         "soal":"Album 'Countdown' (Jepang) memiliki lagu 'Cosmic Railway'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":254,
+         "soal":"Siapa yang paling sering pamer otot di konser?",
+         "tipe":"fisik",
+         "jawaban":"Kai, Chanyeol"
+      },
+      {
+         "index":255,
+         "soal":"Berapa total lagu EXO yang dinyanyikan ulang oleh anggota di acara radio?",
+         "tipe":"cover",
+         "jawaban":"Banyak, tidak terhitung"
+      },
+      {
+         "index":256,
+         "soal":"Siapa yang memiliki kebiasaan 'menyentuh rambut' saat gugup?",
+         "tipe":"kebiasaan",
+         "jawaban":"Sehun"
+      },
+      {
+         "index":257,
+         "soal":"Lagu 'History' adalah lagu pra-debut EXO?",
+         "tipe":"lagu",
+         "jawaban":"Ya (dirilis sebelum debut)"
+      },
+      {
+         "index":258,
+         "soal":"Siapa yang paling suka dengan film horor?",
+         "tipe":"film",
+         "jawaban":"Baekhyun (takut tapi suka)"
+      },
+      {
+         "index":259,
+         "soal":"Apa nama lagu yang menjadi OST untuk drama 'Moon Lovers' oleh EXO?",
+         "tipe":"ost",
+         "jawaban":"For You (EXO-CBX)"
+      },
+      {
+         "index":260,
+         "soal":"Siapa yang memiliki kemampuan main saxophone?",
+         "tipe":"saxophone",
+         "jawaban":"Chanyeol (pernah main di konser)"
+      },
+      {
+         "index":261,
+         "soal":"Lagu 'Drop That' adalah lagu untuk konser?",
+         "tipe":"lagu",
+         "jawaban":"Ya, lagu hype di konser EXO"
+      },
+      {
+         "index":262,
+         "soal":"Siapa yang paling suka dengan warna putih?",
+         "tipe":"warna",
+         "jawaban":"Kai (suka warna putih)"
+      },
+      {
+         "index":263,
+         "soal":"Berapa total lagu yang diproduseri oleh LDN Noise untuk EXO?",
+         "tipe":"produser",
+         "jawaban":"Banyak, seperti 'Monster', 'Ko Ko Bop'"
+      },
+      {
+         "index":264,
+         "soal":"Siapa yang memiliki tato 'Love' di jari?",
+         "tipe":"tato",
+         "jawaban":"Chanyeol (tato LOVE di tangan)"
+      },
+      {
+         "index":265,
+         "soal":"Apa nama lagu EXO yang liriknya 'You're the only one I need'?",
+         "tipe":"lirik",
+         "jawaban":"Only One (lagu solo dari album 'Exist'?)"
+      },
+      {
+         "index":266,
+         "soal":"Siapa yang paling suka dengan olahraga tinju?",
+         "tipe":"tinju",
+         "jawaban":"Kai (suka latihan tinju)"
+      },
+      {
+         "index":267,
+         "soal":"Album 'Love Me Right' adalah repackage dari 'EXODUS'? benar",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":268,
+         "soal":"Siapa yang memiliki kebiasaan 'menggerakkan alis'?",
+         "tipe":"ekspresi",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":269,
+         "soal":"Lagu 'She's Dreaming' dari album 'EXODUS'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":270,
+         "soal":"Siapa yang paling sering menjadi cover majalah fashion?",
+         "tipe":"magazine",
+         "jawaban":"Sehun, Kai, Baekhyun"
+      },
+      {
+         "index":271,
+         "soal":"Berapa total lagu winter special EXO?",
+         "tipe":"winter",
+         "jawaban":"4 (Miracles in December, Sing For You, For Life, Universe)"
+      },
+      {
+         "index":272,
+         "soal":"Siapa yang memiliki kemampuan main harmonika?",
+         "tipe":"harmonika",
+         "jawaban":"Tidak ada yang resmi"
+      },
+      {
+         "index":273,
+         "soal":"Lagu 'Stronger' dari album 'EX'ACT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":274,
+         "soal":"Siapa yang paling suka dengan drama komedi?",
+         "tipe":"drama",
+         "jawaban":"D.O. (suka film komedi)"
+      },
+      {
+         "index":275,
+         "soal":"Apa nama lagu EXO yang mereferensikan nama fandom 'EXO-L'?",
+         "tipe":"fandom",
+         "jawaban":"EXO 2014 (Promise) tidak eksplisit, 'We Are One' slogan"
+      },
+      {
+         "index":276,
+         "soal":"Siapa yang memiliki solo 'Fly Away' (dari EXO-CBX)?",
+         "tipe":"solo",
+         "jawaban":"Bukan solo, lagu unit"
+      },
+      {
+         "index":277,
+         "soal":"Lagu 'Boomerang' dari album 'The War'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":278,
+         "soal":"Siapa yang paling sering menjadi 'pengganggu' anggota lain?",
+         "tipe":"nakal",
+         "jawaban":"Baekhyun"
+      },
+      {
+         "index":279,
+         "soal":"Berapa total streaming lagu EXO di Spotify hingga 2026?",
+         "tipe":"streaming",
+         "jawaban":"Lebih dari 5 miliar"
+      },
+      {
+         "index":280,
+         "soal":"Siapa yang memiliki kebiasaan 'ngomong sendiri' di live?",
+         "tipe":"live",
+         "jawaban":"Kai"
+      },
+      {
+         "index":281,
+         "soal":"Apa nama lagu EXO yang liriknya 'I remember the smell of you'?",
+         "tipe":"lirik",
+         "jawaban":"Moonlight (dari album 'Overdose')"
+      },
+      {
+         "index":282,
+         "soal":"Siapa yang paling suka dengan fashion streetwear?",
+         "tipe":"fashion",
+         "jawaban":"Sehun, Kai"
+      },
+      {
+         "index":283,
+         "soal":"Album 'Overdose' memiliki lagu 'Thunder' yang terkenal?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":284,
+         "soal":"Siapa yang memiliki kemampuan main biola listrik?",
+         "tipe":"biola",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":285,
+         "soal":"Lagu 'One and Only' dari album 'EX'ACT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":286,
+         "soal":"Siapa yang paling suka dengan olahraga yoga?",
+         "tipe":"yoga",
+         "jawaban":"Xiumin (suka olahraga ringan)"
+      },
+      {
+         "index":287,
+         "soal":"Berapa total fansign EXO yang pernah dilakukan?",
+         "tipe":"fansign",
+         "jawaban":"Lebih dari 100 fansign"
+      },
+      {
+         "index":288,
+         "soal":"Siapa yang memiliki kebiasaan 'mengucek hidung'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Sehun"
+      },
+      {
+         "index":289,
+         "soal":"Apa nama lagu EXO yang pertama kali dirilis dalam versi bahasa Mandarin?",
+         "tipe":"mandarin",
+         "jawaban":"MAMA (Chinese ver.)"
+      },
+      {
+         "index":290,
+         "soal":"Siapa yang paling suka dengan hewan anjing jenis poodle?",
+         "tipe":"anjing",
+         "jawaban":"Sehun (Vivi poodle)"
+      },
+      {
+         "index":291,
+         "soal":"Lagu 'What U Do?' (lagu EXO) berbeda dengan 'What U Do?' dari EXO-CBX?",
+         "tipe":"lagu",
+         "jawaban":"Sama, itu lagu EXO dari album 'The War'"
+      },
+      {
+         "index":292,
+         "soal":"Siapa yang memiliki kemampuan beatbox di EXO?",
+         "tipe":"beatbox",
+         "jawaban":"Chanyeol"
+      },
+      {
+         "index":293,
+         "soal":"Album 'Exist' memiliki lagu 'Regret It'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":294,
+         "soal":"Siapa yang paling suka dengan pantai dan laut?",
+         "tipe":"tempat",
+         "jawaban":"Kai"
+      },
+      {
+         "index":295,
+         "soal":"Lagu 'Bad Dream' menceritakan tentang mimpi buruk, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":296,
+         "soal":"Siapa yang memiliki solo 'Amusement Park' (Baekhyun)?",
+         "tipe":"solo",
+         "jawaban":"Baekhyun (single 2021)"
+      },
+      {
+         "index":297,
+         "soal":"Berapa total penonton konser EXO Planet #6 - The EℓyXiOn?",
+         "tipe":"konser",
+         "jawaban":"Lebih dari 400.000"
+      },
+      {
+         "index":298,
+         "soal":"Siapa yang paling suka dengan warna ungu?",
+         "tipe":"warna",
+         "jawaban":"D.O. (suka ungu)"
+      },
+      {
+         "index":299,
+         "soal":"Lagu 'Let Out The Beast' dari album 'XOXO'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      }
+   ]
+}
