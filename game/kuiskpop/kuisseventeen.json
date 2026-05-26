@@ -1,1 +1,1805 @@
-
+{
+   "status":true,
+   "game":"kuis seventeen",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama leader SEVENTEEN?",
+         "tipe":"leader",
+         "jawaban":"S.Coups (Choi Seungcheol)"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal debut SEVENTEEN?",
+         "tipe":"debut date",
+         "jawaban":"26 Mei 2015"
+      },
+      {
+         "index":2,
+         "soal":"Lagu debut SEVENTEEN adalah?",
+         "tipe":"debut song",
+         "jawaban":"Adore U (아낀다)"
+      },
+      {
+         "index":3,
+         "soal":"Siapa nama fandom resmi SEVENTEEN?",
+         "tipe":"fandom",
+         "jawaban":"CARAT (캐럿)"
+      },
+      {
+         "index":4,
+         "soal":"Berapa jumlah anggota SEVENTEEN?",
+         "tipe":"jumlah anggota",
+         "jawaban":"13"
+      },
+      {
+         "index":5,
+         "soal":"SEVENTEEN terbagi menjadi berapa unit? Sebutkan.",
+         "tipe":"unit",
+         "jawaban":"3 unit: Hip-hop Unit, Vocal Unit, Performance Unit"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota tertua SEVENTEEN?",
+         "tipe":"oldest",
+         "jawaban":"S.Coups (1995)"
+      },
+      {
+         "index":7,
+         "soal":"Siapa anggota termuda (maknae) SEVENTEEN?",
+         "tipe":"maknae",
+         "jawaban":"Dino (Lee Chan, 1999)"
+      },
+      {
+         "index":8,
+         "soal":"Siapa leader Hip-hop Unit?",
+         "tipe":"unit leader",
+         "jawaban":"S.Coups"
+      },
+      {
+         "index":9,
+         "soal":"Siapa leader Vocal Unit?",
+         "tipe":"unit leader",
+         "jawaban":"Woozi"
+      },
+      {
+         "index":10,
+         "soal":"Siapa leader Performance Unit?",
+         "tipe":"unit leader",
+         "jawaban":"Hoshi"
+      },
+      {
+         "index":11,
+         "soal":"Siapa yang dikenal dengan julukan 'Human Emotion Maker'?",
+         "tipe":"julukan",
+         "jawaban":"Seungkwan"
+      },
+      {
+         "index":12,
+         "soal":"Siapa yang dijuluki 'Frog' karena bentuk mulutnya?",
+         "tipe":"julukan",
+         "jawaban":"DK (Dokyeom)"
+      },
+      {
+         "index":13,
+         "soal":"Siapa yang memiliki julukan 'King of Aegyo'?",
+         "tipe":"julukan",
+         "jawaban":"Seungkwan, Hoshi, atau Jeonghan?"
+      },
+      {
+         "index":14,
+         "soal":"Woozi terkenal karena kemampuannya sebagai?",
+         "tipe":"skill",
+         "jawaban":"Produser musik (membuat lagu)"
+      },
+      {
+         "index":15,
+         "soal":"Hoshi terkenal dengan gerakan tarian apa yang viral?",
+         "tipe":"dance",
+         "jawaban":"Horanghae (gerakan harimau) - 'Spider' juga"
+      },
+      {
+         "index":16,
+         "soal":"Siapa yang memiliki suara khas 'honey vocal'?",
+         "tipe":"vocal",
+         "jawaban":"Jeonghan, Joshua, DK"
+      },
+      {
+         "index":17,
+         "soal":"Siapa main dancer SEVENTEEN?",
+         "tipe":"main dancer",
+         "jawaban":"Hoshi, Dino, The8, Jun"
+      },
+      {
+         "index":18,
+         "soal":"Siapa main vocal SEVENTEEN?",
+         "tipe":"main vocal",
+         "jawaban":"DK, Seungkwan, Woozi"
+      },
+      {
+         "index":19,
+         "soal":"Siapa main rapper SEVENTEEN?",
+         "tipe":"main rapper",
+         "jawaban":"S.Coups, Wonwoo, Mingyu, Vernon"
+      },
+      {
+         "index":20,
+         "soal":"Apa nama lightstick resmi SEVENTEEN?",
+         "tipe":"lightstick",
+         "jawaban":"CARAT Bong (versi 1, 2, dan versi 3 - Cang Bong)"
+      },
+      {
+         "index":21,
+         "soal":"Warna resmi SEVENTEEN?",
+         "tipe":"warna",
+         "jawaban":"Rose Quartz (Pink) dan Serenity (Sky Blue)"
+      },
+      {
+         "index":22,
+         "soal":"Apa arti 'SEVENTEEN' sebagai nama grup?",
+         "tipe":"arti nama",
+         "jawaban":"13 anggota + 3 unit + 1 grup = 17"
+      },
+      {
+         "index":23,
+         "soal":"Album full length pertama SEVENTEEN?",
+         "tipe":"album pertama",
+         "jawaban":"Love & Letter (2016)"
+      },
+      {
+         "index":24,
+         "soal":"Lagu utama 'Love & Letter' adalah?",
+         "tipe":"title track",
+         "jawaban":"Pretty U (예쁘다)"
+      },
+      {
+         "index":25,
+         "soal":"Lagu 'Very Nice' (아주 NICE) berasal dari album?",
+         "tipe":"album",
+         "jawaban":"Love & Letter Repackage (2016)"
+      },
+      {
+         "index":26,
+         "soal":"Koreografi 'Very Nice' dikenal dengan gerakan apa?",
+         "tipe":"koreo",
+         "jawaban":"Pintu (door dance)"
+      },
+      {
+         "index":27,
+         "soal":"Album 'Al1' dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2017"
+      },
+      {
+         "index":28,
+         "soal":"Lagu utama 'Al1' adalah?",
+         "tipe":"title",
+         "jawaban":"Don't Wanna Cry (울고 싶지 않아)"
+      },
+      {
+         "index":29,
+         "soal":"Lagu 'Don't Wanna Cry' terkenal dengan genre?",
+         "tipe":"genre",
+         "jawaban":"EDM (Future bass) dengan koreografi air"
+      },
+      {
+         "index":30,
+         "soal":"Album 'Teen, Age' dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2017"
+      },
+      {
+         "index":31,
+         "soal":"Lagu utama 'Teen, Age' adalah?",
+         "tipe":"title",
+         "jawaban":"Clap (박수)"
+      },
+      {
+         "index":32,
+         "soal":"Album 'You Make My Day' (2018) memiliki lagu utama?",
+         "tipe":"title",
+         "jawaban":"Oh My! (어쩌나)"
+      },
+      {
+         "index":33,
+         "soal":"Album 'You Made My Dawn' (2019) lagu utama?",
+         "tipe":"title",
+         "jawaban":"Home"
+      },
+      {
+         "index":34,
+         "soal":"Lirik 'I wanna be your home' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Home"
+      },
+      {
+         "index":35,
+         "soal":"Album 'An Ode' dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2019"
+      },
+      {
+         "index":36,
+         "soal":"Lagu utama 'An Ode' adalah?",
+         "tipe":"title",
+         "jawaban":"Fear (독: Fear)"
+      },
+      {
+         "index":37,
+         "soal":"Album 'Heng:garæ' dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2020"
+      },
+      {
+         "index":38,
+         "soal":"Lagu utama 'Heng:garæ' adalah?",
+         "tipe":"title",
+         "jawaban":"Left & Right"
+      },
+      {
+         "index":39,
+         "soal":"Lirik 'Left and right, left and right, I keep on moving' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Left & Right"
+      },
+      {
+         "index":40,
+         "soal":"Album 'Semicolon' (2020) lagu utama?",
+         "tipe":"title",
+         "jawaban":"HOME;RUN"
+      },
+      {
+         "index":41,
+         "soal":"Album 'Your Choice' (2021) lagu utama?",
+         "tipe":"title",
+         "jawaban":"Ready to love"
+      },
+      {
+         "index":42,
+         "soal":"Album 'Attacca' (2021) lagu utama?",
+         "tipe":"title",
+         "jawaban":"Rock with you"
+      },
+      {
+         "index":43,
+         "soal":"Lirik 'I wanna rock with you, rock with you' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Rock with you"
+      },
+      {
+         "index":44,
+         "soal":"Album 'Face the Sun' (2022) lagu utama?",
+         "tipe":"title",
+         "jawaban":"HOT"
+      },
+      {
+         "index":45,
+         "soal":"Koreografi 'HOT' terkenal dengan gerakan apa?",
+         "tipe":"koreo",
+         "jawaban":"Gerakan api dan memukul dada"
+      },
+      {
+         "index":46,
+         "soal":"Album 'Sector 17' (2022 repackage) lagu utama?",
+         "tipe":"title",
+         "jawaban":"_WORLD"
+      },
+      {
+         "index":47,
+         "soal":"Album 'FML' (2023) lagu double title?",
+         "tipe":"title",
+         "jawaban":"Super (손오공) dan F*ck My Life"
+      },
+      {
+         "index":48,
+         "soal":"Lagu 'Super' (손오공) terinspirasi dari tokoh?",
+         "tipe":"inspirasi",
+         "jawaban":"Sun Wukong (Dewa Kera) dari Journey to the West"
+      },
+      {
+         "index":49,
+         "soal":"Album 'Seventeenth Heaven' (2023) lagu utama?",
+         "tipe":"title",
+         "jawaban":"God of Music"
+      },
+      {
+         "index":50,
+         "soal":"Album 'Spill the Feels' (2024) lagu utama?",
+         "tipe":"title",
+         "jawaban":"Love, Money, Fame (feat. DJ Khaled)"
+      },
+      {
+         "index":51,
+         "soal":"Siapa saja anggota Hip-hop Unit?",
+         "tipe":"anggota",
+         "jawaban":"S.Coups, Wonwoo, Mingyu, Vernon"
+      },
+      {
+         "index":52,
+         "soal":"Siapa saja anggota Vocal Unit?",
+         "tipe":"anggota",
+         "jawaban":"Woozi, Jeonghan, Joshua, DK, Seungkwan"
+      },
+      {
+         "index":53,
+         "soal":"Siapa saja anggota Performance Unit?",
+         "tipe":"anggota",
+         "jawaban":"Hoshi, Jun, The8, Dino"
+      },
+      {
+         "index":54,
+         "soal":"Siapa yang berasal dari Amerika Serikat?",
+         "tipe":"asal",
+         "jawaban":"Joshua (Los Angeles)"
+      },
+      {
+         "index":55,
+         "soal":"Siapa yang berasal dari China?",
+         "tipe":"china",
+         "jawaban":"Jun (Shenzhen), The8 (Minghao)"
+      },
+      {
+         "index":56,
+         "soal":"Siapa yang berasal dari Australia?",
+         "tipe":"australia",
+         "jawaban":"Wonwoo? Tidak, Wonwoo Korea. D.K.? Tidak. Vernon (Korea). Yang benar: tidak ada. Hansol Vernon lahir di New York, tapi besar Korea. Joshua AS."
+      },
+      {
+         "index":57,
+         "soal":"Siapa yang memiliki kewarganegaraan ganda (Korea-Amerika)?",
+         "tipe":"dual",
+         "jawaban":"Joshua (Korea-AS), Vernon (Korea-AS)"
+      },
+      {
+         "index":58,
+         "soal":"Siapa yang dikenal dengan kemampuan membuat lagu dan lirik hampir semua lagu SVT?",
+         "tipe":"penulis lagu",
+         "jawaban":"Woozi (bersama Bumzu)"
+      },
+      {
+         "index":59,
+         "soal":"Siapa yang memiliki solo mixtape 'Spider'?",
+         "tipe":"solo",
+         "jawaban":"Hoshi (2021)"
+      },
+      {
+         "index":60,
+         "soal":"Siapa yang memiliki solo 'Limbo' (Jun)?",
+         "tipe":"solo",
+         "jawaban":"Jun (2022, Chinese solo)"
+      },
+      {
+         "index":61,
+         "soal":"Siapa yang memiliki solo 'Side By Side' (The8)?",
+         "tipe":"solo",
+         "jawaban":"The8 (2022)"
+      },
+      {
+         "index":62,
+         "soal":"Siapa yang memiliki solo 'Me' (Woozi)?",
+         "tipe":"solo",
+         "jawaban":"Woozi (2022, mixtape 'Ruby')"
+      },
+      {
+         "index":63,
+         "soal":"Siapa yang memiliki solo 'Wonwoo's Leftover'? Tidak, itu bukan lagu. 'Black Eye' (Wonwoo & Mingyu)?",
+         "tipe":"duet",
+         "jawaban":"Wonwoo dan Mingyu (Bittersweet feat. Lee Hi)"
+      },
+      {
+         "index":64,
+         "soal":"Siapa anggota yang paling suka memasak?",
+         "tipe":"masak",
+         "jawaban":"DK (suka masak), Mingyu (suka masak di acara)"
+      },
+      {
+         "index":65,
+         "soal":"Siapa yang suka dengan binatang kucing?",
+         "tipe":"kucing",
+         "jawaban":"Jeonghan (punya kucing bernama 'Tokyo'), S.Coups (punya kucing Kkuma)"
+      },
+      {
+         "index":66,
+         "soal":"Siapa yang memiliki anjing peliharaan?",
+         "tipe":"anjing",
+         "jawaban":"Mingyu (anjing Ddol-i), Wonwoo (anjing Doyou, Bamyi)"
+      },
+      {
+         "index":67,
+         "soal":"Apa nama lagu unit Hip-hop yang terkenal?",
+         "tipe":"lagu unit",
+         "jawaban":"Trauma, Fire, Un Haeng Il Chi (Mansae remix), Back it up"
+      },
+      {
+         "index":68,
+         "soal":"Lagu unit Vocal 'Habit' (입버릇) sangat populer, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar (dari album 'Al1')"
+      },
+      {
+         "index":69,
+         "soal":"Lagu unit Performance 'Swimming Fool' dari album?",
+         "tipe":"lagu",
+         "jawaban":"You Make My Day"
+      },
+      {
+         "index":70,
+         "soal":"Siapa yang memiliki suara terendah di SVT?",
+         "tipe":"bass",
+         "jawaban":"S.Coups, Wonwoo"
+      },
+      {
+         "index":71,
+         "soal":"Siapa yang memiliki suara tertinggi?",
+         "tipe":"high",
+         "jawaban":"DK, Seungkwan, Woozi"
+      },
+      {
+         "index":72,
+         "soal":"Siapa yang paling sering menjadi center di dance break?",
+         "tipe":"center",
+         "jawaban":"Hoshi, Dino"
+      },
+      {
+         "index":73,
+         "soal":"Siapa visual SEVENTEEN yang sering disebut?",
+         "tipe":"visual",
+         "jawaban":"Mingyu, Jeonghan, Wonwoo"
+      },
+      {
+         "index":74,
+         "soal":"Siapa yang dijuluki 'Lembu (Cow)' karena suka makan?",
+         "tipe":"julukan",
+         "jawaban":"Mingyu (dijuluki oleh fans)"
+      },
+      {
+         "index":75,
+         "soal":"Siapa yang memiliki kemampuan sulap?",
+         "tipe":"sulap",
+         "jawaban":"Dino (pernah show sulap di variety)"
+      },
+      {
+         "index":76,
+         "soal":"Siapa yang paling suka dengan game online?",
+         "tipe":"game",
+         "jawaban":"Wonwoo (suka main game), Vernon"
+      },
+      {
+         "index":77,
+         "soal":"Apa nama acara variety SEVENTEEN 'Going Seventeen'?",
+         "tipe":"variety",
+         "jawaban":"Going Seventeen (GoSe)"
+      },
+      {
+         "index":78,
+         "soal":"Episode 'Going Seventeen' yang paling terkenal?",
+         "tipe":"episode",
+         "jawaban":"Don't Lie (series), The8 and the 12 shadows, TTT (MT SVT Real)"
+      },
+      {
+         "index":79,
+         "soal":"Siapa yang sering menjadi 'penghasut' di Going Seventeen?",
+         "tipe":"variety",
+         "jawaban":"Jeonghan, Hoshi, Seungkwan"
+      },
+      {
+         "index":80,
+         "soal":"Siapa yang paling sering kalah dalam game di GoSe?",
+         "tipe":"variety",
+         "jawaban":"DK (sering kena tipu), Vernon (fakta)"
+      },
+      {
+         "index":81,
+         "soal":"Apa nama lagu yang menjadi OST drama 'Hospital Playlist' oleh SEVENTEEN?",
+         "tipe":"ost",
+         "jawaban":"Go! (dari album 'Semicolon')"
+      },
+      {
+         "index":82,
+         "soal":"Siapa yang memiliki kemampuan akting di drama 'The King of Pigs'?",
+         "tipe":"drama",
+         "jawaban":"Wonwoo (voice actor)"
+      },
+      {
+         "index":83,
+         "soal":"Siapa yang menjadi MC di 'M Countdown'?",
+         "tipe":"mc",
+         "jawaban":"Mingyu (2016-2017), juga Seungkwan pernah"
+      },
+      {
+         "index":84,
+         "soal":"Siapa yang menjadi guest di 'Knowing Bros' paling sering?",
+         "tipe":"variety",
+         "jawaban":"Seungkwan (banyak), Mingyu, DK"
+      },
+      {
+         "index":85,
+         "soal":"Siapa yang memiliki cover 'A Thousand Miles' (Vanessa Carlton)?",
+         "tipe":"cover",
+         "jawaban":"Joshua, DK, Seungkwan (di radio)"
+      },
+      {
+         "index":86,
+         "soal":"Siapa yang memiliki cover 'sookyeom'? 'Betelgeuse' (Yuuri)?",
+         "tipe":"cover",
+         "jawaban":"Seungkwan (Betelgeuse)"
+      },
+      {
+         "index":87,
+         "soal":"Lagu 'Snap Shoot' memiliki koreografi challenge yang viral?",
+         "tipe":"koreo",
+         "jawaban":"Ya, gerakan jepret kamera"
+      },
+      {
+         "index":88,
+         "soal":"Siapa yang membuat gerakan 'Horanghae'?",
+         "tipe":"dance",
+         "jawaban":"Hoshi (harimau cinta)"
+      },
+      {
+         "index":89,
+         "soal":"Apa arti 'Horanghae'?",
+         "tipe":"bahasa",
+         "jawaban":"Horang (harimau) + saranghae = I love you in tiger"
+      },
+      {
+         "index":90,
+         "soal":"Siapa yang memiliki kemampuan main piano?",
+         "tipe":"piano",
+         "jawaban":"Woozi, Joshua, DK, Wonwoo"
+      },
+      {
+         "index":91,
+         "soal":"Siapa yang memiliki kemampuan main gitar?",
+         "tipe":"gitar",
+         "jawaban":"Joshua (sering main gitar di live)"
+      },
+      {
+         "index":92,
+         "soal":"Siapa yang paling suka dengan fashion?",
+         "tipe":"fashion",
+         "jawaban":"Mingyu (suka fashion, brand ambassador), The8"
+      },
+      {
+         "index":93,
+         "soal":"Siapa anggota yang menjadi brand ambassador 'Bally'?",
+         "tipe":"brand",
+         "jawaban":"S.Coups"
+      },
+      {
+         "index":94,
+         "soal":"Siapa yang menjadi brand ambassador 'Lacoste'?",
+         "tipe":"brand",
+         "jawaban":"Mingyu"
+      },
+      {
+         "index":95,
+         "soal":"Siapa yang menjadi model untuk 'Miu Miu'?",
+         "tipe":"brand",
+         "jawaban":"The8 (Minghao)"
+      },
+      {
+         "index":96,
+         "soal":"Berapa total album yang terjual SEVENTEEN (cumulative) hingga 2025?",
+         "tipe":"penjualan",
+         "jawaban":"Lebih dari 20 juta"
+      },
+      {
+         "index":97,
+         "soal":"Album 'FML' terjual berapa kopi di minggu pertama?",
+         "tipe":"angka",
+         "jawaban":"4,5 juta (rekor tertinggi)"
+      },
+      {
+         "index":98,
+         "soal":"SEVENTEEN memenangkan Album of the Year di MAMA 2023 dengan album?",
+         "tipe":"daesang",
+         "jawaban":"FML (F*ck My Life)"
+      },
+      {
+         "index":99,
+         "soal":"Siapa yang memiliki solo 'Ruby' (Woozi)?",
+         "tipe":"solo",
+         "jawaban":"Woozi (2022)"
+      },
+      {
+         "index":100,
+         "soal":"Siapa yang memiliki solo 'Lore' (DK)?",
+         "tipe":"solo",
+         "jawaban":"DK (2022, single 'Lore' bukan, dia 'Missed Connections'? 'Lore' itu lagu band. Sebenarnya DK solo 'Go!'?"
+      },
+      {
+         "index":101,
+         "soal":"Siapa yang memiliki solo 'For Bebe' (Dino)?",
+         "tipe":"solo",
+         "jawaban":"Dino (song 'Dino's not a dino'? Dia punya 'I'm Dino'? 'Wait'?'"
+      },
+      {
+         "index":102,
+         "soal":"Siapa anggota yang paling suka dengan buah?",
+         "tipe":"buah",
+         "jawaban":"Vernon (suka strawberry)"
+      },
+      {
+         "index":103,
+         "soal":"Lagu 'Fearless' dari album 'An Ode' bercerita tentang?",
+         "tipe":"tema",
+         "jawaban":"Keberanian menghadapi rasa takut"
+      },
+      {
+         "index":104,
+         "soal":"Siapa yang memiliki koreografi 'Lilili Yabbay' (unit performance)?",
+         "tipe":"lagu",
+         "jawaban":"Performance unit (Hoshi, Jun, The8, Dino)"
+      },
+      {
+         "index":105,
+         "soal":"Apa nama lagu terbaru SEVENTEEN di 2025? 'Love, Money, Fame' (2024) dan 'Spill the Feels' 2024, lalu 2025 mungkin belum.",
+         "tipe":"terbaru",
+         "jawaban":"Candy (2024 winter), Love, Money, Fame (2024)"
+      },
+      {
+         "index":106,
+         "soal":"Siapa yang memiliki karakter 'Ppyong' di lampu? 'Bongbong'?",
+         "tipe":"merch",
+         "jawaban":"CARAT Bong memiliki karakter 'Bongbong'"
+      },
+      {
+         "index":107,
+         "soal":"Apa nama lagu yang menjadi anthem SVT 'Shining Diamond'?",
+         "tipe":"lagu",
+         "jawaban":"Shining Diamond (dari debut album)"
+      },
+      {
+         "index":108,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"warna",
+         "jawaban":"S.Coups, Wonwoo"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang paling suka dengan warna pink?",
+         "tipe":"warna",
+         "jawaban":"Jeonghan, DK"
+      },
+      {
+         "index":110,
+         "soal":"Siapa yang suka dengan film superhero?",
+         "tipe":"film",
+         "jawaban":"Vernon (Marvel), Mingyu"
+      },
+      {
+         "index":111,
+         "soal":"Apa nama lagu yang dibuat untuk fans (CARAT) 'Thanks'?",
+         "tipe":"fan song",
+         "jawaban":"Thanks (고맙다) dari album 'Director's Cut' (2018)"
+      },
+      {
+         "index":112,
+         "soal":"Lagu 'Smile Flower' adalah lagu pengharapan untuk fans, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar (dari album 'Going Seventeen' 2016)"
+      },
+      {
+         "index":113,
+         "soal":"Siapa yang paling sering dipanggil 'Boo' (Seungkwan)?",
+         "tipe":"panggilan",
+         "jawaban":"Seungkwan (nama panggilan Boo)"
+      },
+      {
+         "index":114,
+         "soal":"Siapa yang dikenal dengan 'Chaotic energy' di grup?",
+         "tipe":"kepribadian",
+         "jawaban":"Hoshi, DK, Seungkwan"
+      },
+      {
+         "index":115,
+         "soal":"Siapa yang paling pendiam?",
+         "tipe":"pendiam",
+         "jawaban":"Wonwoo, The8, Vernon"
+      },
+      {
+         "index":116,
+         "soal":"Berapa total konser tur dunia SEVENTEEN 'Be The Sun' (2022)?",
+         "tipe":"tur",
+         "jawaban":"21 kota"
+      },
+      {
+         "index":117,
+         "soal":"Tur 'Follow' (2023) melanjutkan 'Be The Sun'?",
+         "tipe":"tur",
+         "jawaban":"Ya, 'Follow' tour"
+      },
+      {
+         "index":118,
+         "soal":"Siapa yang memiliki kebiasaan 'mengelus-elus' rambut?",
+         "tipe":"kebiasaan",
+         "jawaban":"Jeonghan"
+      },
+      {
+         "index":119,
+         "soal":"Apa nama lagu 'Campfire' dari album 'You Make My Day'?",
+         "tipe":"lagu",
+         "jawaban":"Our Dawn Is Hotter Than Day (bukan Campfire, tapi ada lagu 'Campfire' di album 'Heng:garæ')"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang memiliki kemampuan beatbox?",
+         "tipe":"beatbox",
+         "jawaban":"Dino, Vernon (rap cepat)"
+      },
+      {
+         "index":121,
+         "soal":"Lagu 'Don't Listen in Secret' adalah lagu unit Vocal?",
+         "tipe":"unit",
+         "jawaban":"Ya, dari album 'Love & Letter'"
+      },
+      {
+         "index":122,
+         "soal":"Siapa yang paling suka dengan olahraga sepak bola?",
+         "tipe":"bola",
+         "jawaban":"S.Coups (suka), Mingyu"
+      },
+      {
+         "index":123,
+         "soal":"Siapa yang paling suka dengan renang?",
+         "tipe":"renang",
+         "jawaban":"Wonwoo (suka air)"
+      },
+      {
+         "index":124,
+         "soal":"Apa nama lagu 'Run to You' dari anime?",
+         "tipe":"anime",
+         "jawaban":"Run to You (OST untuk anime 'Black Clover'? Tidak, itu lagu SVT, tapi dipakai untuk 'The Tale of the Golden Arrow'?)"
+      },
+      {
+         "index":125,
+         "soal":"Siapa yang memiliki solo 'Beautiful' (The8 Chinese)?",
+         "tipe":"solo",
+         "jawaban":"The8 (2021)"
+      },
+      {
+         "index":126,
+         "soal":"Lagu 'Heaven' kolaborasi dengan Nu'est? 'Heaven' (SVT x Nu'est)?",
+         "tipe":"collab",
+         "jawaban":"Heaven (2016, SVT & Nu'est)"
+      },
+      {
+         "index":127,
+         "soal":"Siapa yang paling suka dengan mie ramen?",
+         "tipe":"makanan",
+         "jawaban":"Mingyu, DK"
+      },
+      {
+         "index":128,
+         "soal":"Berapa total anggota yang pernah menjadi MC 'Inkigayo'?",
+         "tipe":"mc",
+         "jawaban":"Mingyu, Seungkwan (tidak tetap)"
+      },
+      {
+         "index":129,
+         "soal":"Siapa yang memiliki kebiasaan 'membaca buku'?",
+         "tipe":"buku",
+         "jawaban":"Wonwoo (suka baca), The8"
+      },
+      {
+         "index":130,
+         "soal":"Lagu 'Mansae' (만세) dari album debut?",
+         "tipe":"lagu",
+         "jawaban":"Dari album 'Boys Be' (2015)"
+      },
+      {
+         "index":131,
+         "soal":"Siapa yang memiliki suara paling unik (nasal) di SVT?",
+         "tipe":"vocal",
+         "jawaban":"Seungkwan (hidung jelas)"
+      },
+      {
+         "index":132,
+         "soal":"Apa nama acara reality 'SVT Club' (In the Soop SVT)?",
+         "tipe":"reality",
+         "jawaban":"In the Soop SEVENTEEN (2021, 2022)"
+      },
+      {
+         "index":133,
+         "soal":"Siapa yang paling sering bawa kamera di acara?",
+         "tipe":"fotografi",
+         "jawaban":"Wonwoo (suka foto), Mingyu"
+      },
+      {
+         "index":134,
+         "soal":"Lagu 'Rock' (Performance unit) dari album 'You Make My Day'?",
+         "tipe":"lagu",
+         "jawaban":"Moonwalker (bukan Rock)"
+      },
+      {
+         "index":135,
+         "soal":"Siapa yang memiliki kemampuan main drum?",
+         "tipe":"drum",
+         "jawaban":"Mingyu (pernah main drum di konser)"
+      },
+      {
+         "index":136,
+         "soal":"Berapa total lagu dalam album 'Spill the Feels' (2024)?",
+         "tipe":"jumlah",
+         "jawaban":"6 (termasuk intro 'Spill the Feels' dan title 'Love, Money, Fame')"
+      },
+      {
+         "index":137,
+         "soal":"Siapa yang memiliki collab 'Bittersweet' dengan Lee Hi?",
+         "tipe":"duet",
+         "jawaban":"Wonwoo & Mingyu"
+      },
+      {
+         "index":138,
+         "soal":"Lagu 'April Shower' dari album 'FML' adalah?",
+         "tipe":"b-side",
+         "jawaban":"Lagu yang dinyanyikan bersamaan hujan"
+      },
+      {
+         "index":139,
+         "soal":"Siapa yang paling suka dengan kopi Americano?",
+         "tipe":"kopi",
+         "jawaban":"S.Coups, Vernon"
+      },
+      {
+         "index":140,
+         "soal":"Apa nama lagu 'Cheers' dari unit Leaders (S.Coups, Woozi, Hoshi)?",
+         "tipe":"unit",
+         "jawaban":"Cheers (dari album 'Sector 17')"
+      },
+      {
+         "index":141,
+         "soal":"Siapa yang memiliki kemampuan main base? - bass?",
+         "tipe":"bass",
+         "jawaban":"Wonwoo (belajar bass) atau tidak ada"
+      },
+      {
+         "index":142,
+         "soal":"Lagu 'Holiday' dari album 'Al1'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":143,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"es krim",
+         "jawaban":"DK, Seungkwan"
+      },
+      {
+         "index":144,
+         "soal":"Berapa total penjualan tiket konser 'Follow' tour di Asia?",
+         "tipe":"angka",
+         "jawaban":"1,5 juta"
+      },
+      {
+         "index":145,
+         "soal":"Siapa yang memiliki kebiasaan 'mengucapkan mentoz' (quote motivasi)?",
+         "tipe":"kebiasaan",
+         "jawaban":"S.Coups (leader talk)"
+      },
+      {
+         "index":146,
+         "soal":"Apa nama lagu '247' (Performance unit) dari album 'You Made My Dawn'?",
+         "tipe":"lagu",
+         "jawaban":"247 (b-side)"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang paling suka dengan fashion luxury?",
+         "tipe":"luxury",
+         "jawaban":"Mingyu, Jeonghan"
+      },
+      {
+         "index":148,
+         "soal":"Lagu 'I Don't Know' (Vocal unit) dari album 'Love & Letter'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":149,
+         "soal":"Siapa yang memiliki solo 'Zero' (Dino)?",
+         "tipe":"solo",
+         "jawaban":"Dino (2023, mixtape 'Dino's not a dino'? Dia punya 'Zero'? Sebenarnya 'I'm Dino'?"
+      },
+      {
+         "index":150,
+         "soal":"Siapa yang memiliki kemampuan akting di musikal? 'Les Misérables'?",
+         "tipe":"musical",
+         "jawaban":"DK (musical 'Xcalibur'), Jeonghan (belum)"
+      },
+      {
+         "index":151,
+         "soal":"Apa nama lagu yang menjadi viral TikTok karena challenge 'Super'?",
+         "tipe":"viral",
+         "jawaban":"Super (손오공) dengan gerakan kera"
+      },
+      {
+         "index":152,
+         "soal":"Siapa yang paling suka dengan hujan?",
+         "tipe":"hujan",
+         "jawaban":"Woozi (suka suasana hujan)"
+      },
+      {
+         "index":153,
+         "soal":"Lagu 'Dust' (먼지) dari album 'Sector 17'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":154,
+         "soal":"Siapa yang memiliki kebiasaan 'tidur telentang'?",
+         "tipe":"tidur",
+         "jawaban":"Tidak spesifik"
+      },
+      {
+         "index":155,
+         "soal":"Berapa total lagu yang ditulis oleh Woozi untuk SVT hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 150 lagu (credits)"
+      },
+      {
+         "index":156,
+         "soal":"Siapa yang paling suka dengan Starbucks?",
+         "tipe":"starbucks",
+         "jawaban":"Joshua (suka kopi), Vernon"
+      },
+      {
+         "index":157,
+         "soal":"Apa nama lagu 'Fire' (Hip-hop unit) dari album 'You Make My Day'?",
+         "tipe":"unit",
+         "jawaban":"Fire"
+      },
+      {
+         "index":158,
+         "soal":"Siapa yang memiliki tato di tubuh?",
+         "tipe":"tato",
+         "jawaban":"Wonwoo (tato kecil di lengan), The8 (tato), Mingyu (tato)"
+      },
+      {
+         "index":159,
+         "soal":"Lagu 'To You' (Vocal unit) dari album 'Attacca'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":160,
+         "soal":"Siapa yang paling suka dengan anime?",
+         "tipe":"anime",
+         "jawaban":"Hoshi (One Piece), Dino, The8"
+      },
+      {
+         "index":161,
+         "soal":"Berapa total anggota yang sudah menyelesaikan wajib militer (per 2026)?",
+         "tipe":"militer",
+         "jawaban":"S.Coups (2024?), Jeonghan (2025?), lainnya belum"
+      },
+      {
+         "index":162,
+         "soal":"Siapa yang pertama kali wajib militer dari SVT?",
+         "tipe":"militer",
+         "jawaban":"Jeonghan (2024 awal) atau S.Coups (2024)? Sebenarnya Jeonghan & S.Coups 2024, S.Coups masuk 2024? Ada yang 2023? Tidak."
+      },
+      {
+         "index":163,
+         "soal":"Lagu 'Darl+ing' adalah pra-rilis dari album 'Face the Sun'? benar.",
+         "tipe":"true false",
+         "jawaban":"Benar (lagu full English pertama)"
+      },
+      {
+         "index":164,
+         "soal":"Siapa yang menulis lirik 'Darl+ing'?",
+         "tipe":"penulis",
+         "jawaban":"Woozi, Bumzu, dll."
+      },
+      {
+         "index":165,
+         "soal":"Apa nama lagu 'Circles' dari album 'Face the Sun'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":166,
+         "soal":"Siapa yang paling suka dengan makanan pedas?",
+         "tipe":"pedas",
+         "jawaban":"S.Coups, Dino"
+      },
+      {
+         "index":167,
+         "soal":"Lagu 'If I' (Vocal unit) dari album 'Heng:garæ'?",
+         "tipe":"lagu",
+         "jawaban":"Ya (b-side)"
+      },
+      {
+         "index":168,
+         "soal":"Siapa yang memiliki kemampuan main saxophone?",
+         "tipe":"sax",
+         "jawaban":"Tidak ada (Mingyu main gitar)"
+      },
+      {
+         "index":169,
+         "soal":"Berapa total lagu di album 'FML' (standard)?",
+         "tipe":"jumlah",
+         "jawaban":"6 (termasuk intro dan dua title)"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang paling suka dengan warna biru?",
+         "tipe":"warna",
+         "jawaban":"Joshua, DK"
+      },
+      {
+         "index":171,
+         "soal":"Apa nama lagu 'March' dari album 'Sector 17'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":172,
+         "soal":"Siapa yang memiliki kebiasaan 'mengerucutkan bibir'?",
+         "tipe":"gestur",
+         "jawaban":"Seungkwan (sering)"
+      },
+      {
+         "index":173,
+         "soal":"Lagu 'Gam3 Bo1' (Hip-hop unit) dari album 'Semicolon'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang paling suka dengan olahraga basket?",
+         "tipe":"basket",
+         "jawaban":"Vernon, Mingyu"
+      },
+      {
+         "index":175,
+         "soal":"Berapa total pemenang 'Best Dance Performance' di MAMA untuk SVT?",
+         "tipe":"penghargaan",
+         "jawaban":"3 (2017, 2019, 2021)"
+      },
+      {
+         "index":176,
+         "soal":"Siapa yang memiliki solo 'Shadow' (The8)?",
+         "tipe":"solo",
+         "jawaban":"The8 (2024, 'Orbit')"
+      },
+      {
+         "index":177,
+         "soal":"Apa nama lagu 'Wave' (Performance unit) dari album 'An Ode'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":178,
+         "soal":"Siapa yang paling suka dengan binatang kelinci?",
+         "tipe":"kelinci",
+         "jawaban":"Wonwoo (mirip kelinci)"
+      },
+      {
+         "index":179,
+         "soal":"Lagu 'Let Me Hear You Say' dari album 'Spill the Feels'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":180,
+         "soal":"Siapa yang memiliki kemampuan main biola?",
+         "tipe":"biola",
+         "jawaban":"Joshua (pernah main biola)"
+      },
+      {
+         "index":181,
+         "soal":"Berapa total followers Instagram SEVENTEEN (grup) per 2026?",
+         "tipe":"ig",
+         "jawaban":"20 juta+"
+      },
+      {
+         "index":182,
+         "soal":"Siapa yang paling sering update TikTok?",
+         "tipe":"tiktok",
+         "jawaban":"Hoshi, Seungkwan, Dino"
+      },
+      {
+         "index":183,
+         "soal":"Lagu 'Same dream, same mind, same night' (Vocal unit) dari album 'Attacca'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":184,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit bibir bawah'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Vernon"
+      },
+      {
+         "index":185,
+         "soal":"Apa nama lagu 'Imperfect Love' dari album 'Heng:garæ'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":186,
+         "soal":"Siapa yang paling suka dengan kopi latte?",
+         "tipe":"minuman",
+         "jawaban":"Jeonghan (suka matcha?)"
+      },
+      {
+         "index":187,
+         "soal":"Lagu 'Healing' dari album 'Love & Letter'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":188,
+         "soal":"Siapa yang memiliki solo 'Orbit' (The8)?",
+         "tipe":"solo",
+         "jawaban":"The8 (2024)"
+      },
+      {
+         "index":189,
+         "soal":"Berapa total anggota yang pernah menjadi model untuk 'Eider' (brand outdoor)?",
+         "tipe":"model",
+         "jawaban":"Mingyu (eider)"
+      },
+      {
+         "index":190,
+         "soal":"Siapa yang paling suka dengan donat?",
+         "tipe":"makanan",
+         "jawaban":"DK (suka donat)"
+      },
+      {
+         "index":191,
+         "soal":"Apa nama lagu 'Space' (Rap unit) dari album 'You Make My Day'?",
+         "tipe":"lagu",
+         "jawaban":"Space (Hip-hop unit)"
+      },
+      {
+         "index":192,
+         "soal":"Siapa yang memiliki kemampuan membuat choreo?",
+         "tipe":"choreo",
+         "jawaban":"Hoshi, Dino, The8, Jun"
+      },
+      {
+         "index":193,
+         "soal":"Lagu 'All My Love' (Vocal unit) dari album 'Semicolon'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":194,
+         "soal":"Siapa yang paling suka dengan fashion streetwear?",
+         "tipe":"streetwear",
+         "jawaban":"Vernon, Hoshi"
+      },
+      {
+         "index":195,
+         "soal":"Berapa total daesang SEVENTEEN (MAMA, MMA, GDA, dll) hingga 2025?",
+         "tipe":"daesang",
+         "jawaban":"4 (Album of the Year 2023 MAMA, Artist of the Year 2022 MMA? Periksa: 2023 MAMA Album of the Year, 2024? Sebenarnya 2-3)"
+      },
+      {
+         "index":196,
+         "soal":"Siapa yang memiliki suara paling lembut?",
+         "tipe":"vocal",
+         "jawaban":"Jeonghan, Joshua"
+      },
+      {
+         "index":197,
+         "soal":"Apa nama lagu 'Back It Up' (Hip-hop unit) dari album 'An Ode'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":198,
+         "soal":"Siapa yang paling suka dengan es batu?",
+         "tipe":"es",
+         "jawaban":"Mingyu (suka makan es)"
+      },
+      {
+         "index":199,
+         "soal":"Lagu 'Hug' (Vocal unit) dari album 'You Made My Dawn'?",
+         "tipe":"lagu",
+         "jawaban":"Ya, lagu ballad yang sangat menyentuh"
+      },
+      {
+         "index":200,
+         "soal":"Siapa yang memiliki kebiasaan 'memainkan rambut'?",
+         "tipe":"gestur",
+         "jawaban":"Jeonghan"
+      },
+      {
+         "index":201,
+         "soal":"Berapa total video klaim 100 juta views untuk SVT?",
+         "tipe":"views",
+         "jawaban":"3 (Don't Wanna Cry, Very Nice, Rock with you, HOT, Super, etc - lebih dari 5)"
+      },
+      {
+         "index":202,
+         "soal":"Siapa yang paling suka dengan berry?",
+         "tipe":"buah",
+         "jawaban":"Vernon (strawberry)"
+      },
+      {
+         "index":203,
+         "soal":"Apa nama lagu 'Good To Me' dari album 'You Made My Dawn'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":204,
+         "soal":"Siapa yang memiliki kemampuan akting di teater?",
+         "tipe":"teater",
+         "jawaban":"DK (musical 'Xcalibur', 'The Three Musketeers')"
+      },
+      {
+         "index":205,
+         "soal":"Lagu 'I Wish' (Hip-hop unit) dari album 'Semicolon'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":206,
+         "soal":"Siapa yang paling suka dengan minuman teh?",
+         "tipe":"teh",
+         "jawaban":"Jeonghan (suka matcha tea)"
+      },
+      {
+         "index":207,
+         "soal":"Berapa total konser 'Follow' di Indonesia?",
+         "tipe":"konser",
+         "jawaban":"1 (Jakarta 2023)"
+      },
+      {
+         "index":208,
+         "soal":"Siapa yang memiliki solo 'Black Eye' (Wonwoo & Mingyu)?",
+         "tipe":"duet",
+         "jawaban":"Wonwoo dan Mingyu (Bittersweet)"
+      },
+      {
+         "index":209,
+         "soal":"Apa nama lagu '247' (Performance unit) menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Cinta 24/7"
+      },
+      {
+         "index":210,
+         "soal":"Siapa yang paling suka dengan karakter cartoon?",
+         "tipe":"cartoon",
+         "jawaban":"Seungkwan (suka SpongeBob)"
+      },
+      {
+         "index":211,
+         "soal":"Lagu 'My My' dari album 'Heng:garæ'?",
+         "tipe":"lagu",
+         "jawaban":"B-side yang populer"
+      },
+      {
+         "index":212,
+         "soal":"Siapa yang memiliki kebiasaan 'meniup sedotan'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Tidak spesifik"
+      },
+      {
+         "index":213,
+         "soal":"Berapa total lagu yang diproduksi oleh Bumzu untuk SVT?",
+         "tipe":"produser",
+         "jawaban":"Hampir semua lagu (co-producer)"
+      },
+      {
+         "index":214,
+         "soal":"Siapa yang paling suka dengan bintang film?",
+         "tipe":"aktor",
+         "jawaban":"Mingyu (suka film)"
+      },
+      {
+         "index":215,
+         "soal":"Apa nama lagu 'Chilli' (Hip-hop unit) dari album 'Face the Sun'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":216,
+         "soal":"Siapa yang memiliki solo 'Any Song' cover?",
+         "tipe":"cover",
+         "jawaban":"Seungkwan (cover Zico)"
+      },
+      {
+         "index":217,
+         "soal":"Lagu 'Lie Again' dari album 'An Ode'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":218,
+         "soal":"Siapa yang paling suka dengan fashion minimalist?",
+         "tipe":"fashion",
+         "jawaban":"Wonwoo (simple black)"
+      },
+      {
+         "index":219,
+         "sooal":"Berapa total anggota yang lahir di bulan Oktober?",
+         "tipe":"bulan",
+         "jawaban":"Seungkwan (16 Okt), S.Coups (8 Agustus)? Tidak, cek: Jun (10 Juni), DK (18 Feb), The8 (7 Nov), Hoshi (15 Jun), Wonwoo (17 Juli), dll. Sebenarnya Seungkwan saja Oktober? Chan (11 Feb). Jadi 1."
+      },
+      {
+         "index":220,
+         "soal":"Siapa yang paling suka dengan kopi tanpa gula?",
+         "tipe":"kopi",
+         "jawaban":"S.Coups (americano)"
+      },
+      {
+         "index":221,
+         "soal":"Apa nama lagu 'Fast Pace' dari album 'Love & Letter'?",
+         "tipe":"lagu",
+         "jawaban":"Ya (B-side)"
+      },
+      {
+         "index":222,
+         "soal":"Siapa yang memiliki kebiasaan 'mengunci pintu'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Tidak ada info"
+      },
+      {
+         "index":223,
+         "soal":"Lagu 'I Don't Know' (Vocal unit) yang lain?",
+         "tipe":"lagu",
+         "jawaban":"Sudah ada"
+      },
+      {
+         "index":224,
+         "soal":"Siapa yang paling sering menjadi 'intro' di album?",
+         "tipe":"intro",
+         "jawaban":"S.Coups, Woozi (narasi)"
+      },
+      {
+         "index":225,
+         "soal":"Berapa total album repackage SVT?",
+         "tipe":"repackage",
+         "jawaban":"2 (Love & Letter repackage, Sector 17)"
+      },
+      {
+         "index":226,
+         "soal":"Siapa yang memiliki kebiasaan 'menyanyikan lagu tanpa sadar'?",
+         "tipe":"kebiasaan",
+         "jawaban":"DK (suka bernyanyi)"
+      },
+      {
+         "index":227,
+         "soal":"Apa nama lagu 'Beautiful' (Vocal unit) dari album 'You Made My Dawn'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":228,
+         "soal":"Siapa yang paling suka dengan binatang burung?",
+         "tipe":"burung",
+         "jawaban":"Tidak ada spesifik"
+      },
+      {
+         "index":229,
+         "soal":"Lagu 'Domino' dari album 'Face the Sun'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":230,
+         "soal":"Siapa yang memiliki solo 'Silent Boarding Gate' (Jun Chinese)?",
+         "tipe":"solo",
+         "jawaban":"Jun (2022)"
+      },
+      {
+         "index":231,
+         "soal":"Berapa total lagu dalam album 'Seventeenth Heaven' (2023)?",
+         "tipe":"jumlah",
+         "jawaban":"8 (termasuk title 'God of Music')"
+      },
+      {
+         "index":232,
+         "soal":"Siapa yang paling suka dengan fashion sporty?",
+         "tipe":"sporty",
+         "jawaban":"Mingyu, S.Coups"
+      },
+      {
+         "index":233,
+         "soal":"Apa nama lagu 'SOS' dari album 'FML'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":234,
+         "soal":"Siapa yang memiliki kemampuan akting di web drama 'A-Teen' (Season 2)?",
+         "tipe":"drama",
+         "jawaban":"Seungkwan (cameo)"
+      },
+      {
+         "index":235,
+         "soal":"Lagu 'Fire' (Hip-hop unit) berbeda dengan 'Fire' lagu BTS?",
+         "tipe":"perbandingan",
+         "jawaban":"Ya, beda"
+      },
+      {
+         "index":236,
+         "soal":"Siapa yang paling suka dengan Pokemon?",
+         "tipe":"pokemon",
+         "jawaban":"Hoshi (suka)"
+      },
+      {
+         "index":237,
+         "soal":"Berapa total lagu yang di-cover oleh SVT di acara radio?",
+         "tipe":"cover",
+         "jawaban":"Banyak, tidak terhitung"
+      },
+      {
+         "index":238,
+         "soal":"Siapa yang memiliki kebiasaan 'mengangkat satu alis'?",
+         "tipe":"ekspresi",
+         "jawaban":"Vernon"
+      },
+      {
+         "index":239,
+         "soal":"Apa nama lagu 'Heaven's Cloud' dari album 'Your Choice'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":240,
+         "soal":"Siapa yang paling suka dengan mie instan?",
+         "tipe":"mie",
+         "jawaban":"Mingyu, S.Coups"
+      },
+      {
+         "index":241,
+         "soal":"Lagu 'GAM3 BO1' memiliki makna judul?",
+         "tipe":"judul",
+         "jawaban":"Game boy (penulisan gaya leet)"
+      },
+      {
+         "index":242,
+         "soal":"Siapa yang memiliki solo 'Dino's not a dino'? 'Dino's'?"
+      },
+      {
+         "index":243,
+         "soal":"Berapa total pemenang 'Best Male Group' di MAMA untuk SVT?",
+         "tipe":"penghargaan",
+         "jawaban":"1 (2021)"
+      },
+      {
+         "index":244,
+         "soal":"Siapa yang paling suka dengan es krim rasa vanilla?",
+         "tipe":"rasa",
+         "jawaban":"Seungkwan"
+      },
+      {
+         "index":245,
+         "soal":"Apa nama lagu 'Pang!' (Performance unit) dari album 'Attacca'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":246,
+         "soal":"Siapa yang memiliki kemampuan beatbox dan rap cepat?",
+         "tipe":"beatbox",
+         "jawaban":"Vernon (rap cepat)"
+      },
+      {
+         "index":247,
+         "soal":"Lagu 'Do Re Mi' (Hip-hop unit) dari album 'You Make My Day'?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":248,
+         "soal":"Siapa yang paling suka dengan warna pastel?",
+         "tipe":"warna",
+         "jawaban":"Joshua"
+      },
+      {
+         "index":249,
+         "soal":"Berapa total lagu dalam album 'Semicolon' (2020)?",
+         "tipe":"jumlah",
+         "jawaban":"6"
+      },
+      {
+         "index":250,
+         "soal":"Siapa yang memiliki kebiasaan 'mengelus dada' saat kaget?",
+         "tipe":"reaksi",
+         "jawaban":"DK"
+      },
+      {
+         "index":251,
+         "soal":"Apa nama lagu 'Let's Go' (Soundtrack untuk game?)",
+         "tipe":"lagu",
+         "jawaban":"Go! (untuk Hospital Playlist OST)"
+      },
+      {
+         "index":252,
+         "soal":"Siapa yang paling suka dengan manga One Piece?",
+         "tipe":"manga",
+         "jawaban":"Hoshi"
+      },
+      {
+         "index":253,
+         "soal":"Lagu 'Fallin' Flower' (Hana) adalah lagu Jepang SEVENTEEN, benar?",
+         "tipe":"jpn",
+         "jawaban":"Benar (2020)"
+      },
+      {
+         "index":254,
+         "soal":"Siapa yang memiliki solo 'Not Alone' (Japanese)?",
+         "tipe":"solo",
+         "jawaban":"Bukan solo, lagu grup Jepang"
+      },
+      {
+         "index":255,
+         "soal":"Berapa total album Jepang SEVENTEEN?",
+         "tipe":"jpn album",
+         "jawaban":"3 (We Make You, 24H, Dream, Always Yours?)"
+      },
+      {
+         "index":256,
+         "soal":"Siapa yang paling suka dengan buah anggur?",
+         "tipe":"buah",
+         "jawaban":"Jeonghan"
+      },
+      {
+         "index":257,
+         "soal":"Apa nama lagu 'Happy Ending' (Japanese) dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2019"
+      },
+      {
+         "index":258,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit ujung pensil'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Tidak ada"
+      },
+      {
+         "index":259,
+         "soal":"Lagu 'Call Call Call' (Japanese) memiliki koreografi energik, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":260,
+         "soal":"Siapa yang paling suka dengan popcorn?",
+         "tipe":"snack",
+         "jawaban":"Dino"
+      },
+      {
+         "index":261,
+         "soal":"Berapa total lagu yang memiliki lirik 'Carat' di dalamnya?",
+         "tipe":"lirik",
+         "jawaban":"Thanks, Smile Flower, dll."
+      },
+      {
+         "index":262,
+         "soal":"Siapa yang memiliki kemampuan main harmonika?",
+         "tipe":"harmonika",
+         "jawaban":"Vernon (pernah)"
+      },
+      {
+         "index":263,
+         "soal":"Apa nama lagu 'Snap Shoot' dari album 'An Ode'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":264,
+         "soal":"Siapa yang paling suka dengan burung hantu?",
+         "tipe":"burung",
+         "jawaban":"Tidak ada"
+      },
+      {
+         "index":265,
+         "soal":"Lagu 'Together' dari album 'Heng:garæ'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":266,
+         "soal":"Siapa yang memiliki kebiasaan 'menulis diary'?",
+         "tipe":"menulis",
+         "jawaban":"Wonwoo (suka menulis)"
+      },
+      {
+         "index":267,
+         "soal":"Berapa total lagu yang diaransemen ulang oleh SVT di konser?",
+         "tipe":"konser",
+         "jawaban":"Banyak, seperti 'Adore U' versi orchestra"
+      },
+      {
+         "index":268,
+         "soal":"Siapa yang paling suka dengan film dokumenter?",
+         "tipe":"dokumenter",
+         "jawaban":"The8"
+      },
+      {
+         "index":269,
+         "soal":"Apa nama lagu 'My I' (Jun & The8 duet) dari album 'Al1'?",
+         "tipe":"duet",
+         "jawaban":"Ya"
+      },
+      {
+         "index":270,
+         "soal":"Siapa yang memiliki solo 'Dream' (Chinese) oleh Jun?",
+         "tipe":"solo",
+         "jawaban":"Jun (2020, 'Dream')"
+      },
+      {
+         "index":271,
+         "soal":"Lagu 'Change Up' (Leaders unit) dari album 'Al1'?",
+         "tipe":"unit",
+         "jawaban":"Ya (S.Coups, Woozi, Hoshi)"
+      },
+      {
+         "index":272,
+         "soal":"Siapa yang paling suka dengan minuman soda?",
+         "tipe":"soda",
+         "jawaban":"Vernon (Cola)"
+      },
+      {
+         "index":273,
+         "soal":"Berapa total lagu dalam album 'Spill the Feels' (2024)?",
+         "tipe":"jumlah",
+         "jawaban":"6 (termasuk intro)"
+      },
+      {
+         "index":274,
+         "soal":"Siapa yang memiliki kebiasaan 'memakai kacamata hitam di dalam ruangan'?",
+         "tipe":"aksesoris",
+         "jawaban":"Wonwoo (sering)"
+      },
+      {
+         "index":275,
+         "soal":"Apa nama lagu 'I Can't Run Away' (Vocal unit) dari album 'An Ode'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":276,
+         "soal":"Siapa yang paling suka dengan sayuran?",
+         "tipe":"sayur",
+         "jawaban":"Woozi (suka brokoli)"
+      },
+      {
+         "index":277,
+         "soal":"Lagu 'Our Dawn Is Hotter Than Day' dari album 'You Make My Day'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (title? bukan, lagu di album 'You Make My Day' yang ke-5)"
+      },
+      {
+         "index":278,
+         "soal":"Siapa yang memiliki tato 'carat'?",
+         "tipe":"tato",
+         "jawaban":"Wonwoo (tato kecil 'carat'? Tidak, dia punya tato '17')"
+      },
+      {
+         "index":279,
+         "soal":"Berapa total konser 'Be The Sun' di Amerika?",
+         "tipe":"tur",
+         "jawaban":"10 kota"
+      },
+      {
+         "index":280,
+         "soal":"Siapa yang paling suka dengan air mineral?",
+         "tipe":"air",
+         "jawaban":"Seungkwan (suka minum air)"
+      },
+      {
+         "index":281,
+         "soal":"Apa nama lagu 'Rock with you' memiliki MV dengan konsep?",
+         "tipe":"mv",
+         "jawaban":"Balapan mobil dan romansa"
+      },
+      {
+         "index":282,
+         "soal":"Siapa yang memiliki kemampuan akting di film 'Idol: The Coup'?",
+         "tipe":"drama",
+         "jawaban":"Seungkwan (cameo)"
+      },
+      {
+         "index":283,
+         "soal":"Lagu 'Bittersweet' (Wonwoo & Mingyu) dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2021"
+      },
+      {
+         "index":284,
+         "soal":"Siapa yang paling suka dengan es serut?",
+         "tipe":"es",
+         "jawaban":"DK"
+      },
+      {
+         "index":285,
+         "soal":"Berapa total anggota yang memiliki sertifikat TOEIC/TOEFL tinggi?",
+         "tipe":"bahasa",
+         "jawaban":"Joshua (fasih), Vernon (fasih)"
+      },
+      {
+         "index":286,
+         "soal":"Siapa yang memiliki kebiasaan 'merangkai bunga'?",
+         "tipe":"hobi",
+         "jawaban":"Jeonghan (suka merangkai)"
+      },
+      {
+         "index":287,
+         "soal":"Apa nama lagu 'Highway to Heaven' (English version) dirilis?",
+         "tipe":"english",
+         "jawaban":"2020 (dari album 'An Ode')"
+      },
+      {
+         "index":288,
+         "soal":"Siapa yang paling suka dengan camilan asin?",
+         "tipe":"camilan",
+         "jawaban":"Mingyu (suka keripik)"
+      },
+      {
+         "index":289,
+         "soal":"Lagu 'Hit' (performed by SVT) dari album 'An Ode' adalah lagu dance intens?",
+         "tipe":"lagu",
+         "jawaban":"Ya, lagu energik dengan koreografi cepat"
+      },
+      {
+         "index":290,
+         "soal":"Siapa yang memiliki solo 'Fallin' (Dino)?",
+         "tipe":"solo",
+         "jawaban":"Dino (2023, 'Fallin'? belum. Dia punya 'Wait' di album 'Face the Sun' solo)"
+      },
+      {
+         "index":291,
+         "soal":"Berapa total lagu yang ditampilkan di 'Going Seventeen' episode karaoke?",
+         "tipe":"variety",
+         "jawaban":"Banyak"
+      },
+      {
+         "index":292,
+         "soal":"Siapa yang paling suka dengan bau parfum vanilla?",
+         "tipe":"parfum",
+         "jawaban":"Jeonghan"
+      },
+      {
+         "index":293,
+         "soal":"Apa nama lagu 'DON QUIXOTE' dari album 'Face the Sun'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":294,
+         "soal":"Siapa yang memiliki kebiasaan 'mengangkat bahu'?",
+         "tipe":"gestur",
+         "jawaban":"Vernon"
+      },
+      {
+         "index":295,
+         "soal":"Lagu 'CALL CALL CALL' (Japanese) adalah lagu tema untuk apa?",
+         "tipe":"tema",
+         "jawaban":"Game 'Battle of the Bands'? bukan, hanya single"
+      },
+      {
+         "index":296,
+         "soal":"Siapa yang paling suka dengan acara realitas survival?",
+         "tipe":"tv",
+         "jawaban":"Seungkwan (suka nonton survival)"
+      },
+      {
+         "index":297,
+         "soal":"Berapa total anggota yang memiliki nama panggilan 'Kwannie'?",
+         "tipe":"panggilan",
+         "jawaban":"Seungkwan (Boo Kwannie)"
+      },
+      {
+         "index":298,
+         "soal":"Siapa yang memiliki solo 'Si Fueras Mia' (cover Spanish)?",
+         "tipe":"cover",
+         "jawaban":"D.K. (Korean, tidak)"
+      },
+      {
+         "index":299,
+         "soal":"Apa lagu terakhir dari album 'Spill the Feels' yang bertema cinta uang ketenaran?",
+         "tipe":"lagu",
+         "jawaban":"Love, Money, Fame"
+      }
+   ]
+}
