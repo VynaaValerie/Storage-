@@ -1,1 +1,1807 @@
-
+{
+   "status":true,
+   "game":"kuis treasure",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama leader TREASURE?",
+         "tipe":"leader",
+         "jawaban":"Choi Hyunsuk"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal debut TREASURE?",
+         "tipe":"debut date",
+         "jawaban":"7 Agustus 2020"
+      },
+      {
+         "index":2,
+         "soal":"Lagu debut TREASURE adalah?",
+         "tipe":"debut song",
+         "jawaban":"BOY"
+      },
+      {
+         "index":3,
+         "soal":"Siapa nama fandom resmi TREASURE?",
+         "tipe":"fandom",
+         "jawaban":"TREASURE MAKER (Teume)"
+      },
+      {
+         "index":4,
+         "soal":"Berapa jumlah anggota TREASURE saat debut?",
+         "tipe":"jumlah anggota",
+         "jawaban":"12"
+      },
+      {
+         "index":5,
+         "soal":"Berapa jumlah anggota TREASURE saat ini (2026)?",
+         "tipe":"jumlah anggota",
+         "jawaban":"10"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota tertua TREASURE?",
+         "tipe":"oldest",
+         "jawaban":"Choi Hyunsuk (1999)"
+      },
+      {
+         "index":7,
+         "soal":"Siapa anggota termuda (maknae) TREASURE?",
+         "tipe":"maknae",
+         "jawaban":"So Junghwan (2005)"
+      },
+      {
+         "index":8,
+         "soal":"Siapa yang dikenal dengan 'Baby Dancer' karena dance kemampuannya?",
+         "tipe":"julukan",
+         "jawaban":"Park Jeongwoo (bukan, itu Doyoung? Mashiho)"
+      },
+      {
+         "index":9,
+         "soal":"Siapa main vocal TREASURE?",
+         "tipe":"main vocal",
+         "jawaban":"Bang Yedam (ex), Park Jeongwoo, Kim Junkyu"
+      },
+      {
+         "index":10,
+         "soal":"Siapa main dancer TREASURE?",
+         "tipe":"main dancer",
+         "jawaban":"Mashiho (ex), Doyoung, Yoshi, Hyunsuk, Haruto"
+      },
+      {
+         "index":11,
+         "soal":"Siapa main rapper TREASURE?",
+         "tipe":"main rapper",
+         "jawaban":"Choi Hyunsuk, Yoshi, Haruto"
+      },
+      {
+         "index":12,
+         "soal":"TREASURE terbentuk dari survival show?",
+         "tipe":"survival show",
+         "jawaban":"YG Treasure Box (2018-2019)"
+      },
+      {
+         "index":13,
+         "soal":"Apa nama lightstick resmi TREASURE?",
+         "tipe":"lightstick",
+         "jawaban":"Teu-light (Treasure Light Stick)"
+      },
+      {
+         "index":14,
+         "soal":"Warna resmi TREASURE?",
+         "tipe":"warna",
+         "jawaban":"Aqua Mint (resmi? Tidak ada warna resmi, tetapi lightstick biru) - sebenarnya tidak ada, tapi lightstick biru kehijauan"
+      },
+      {
+         "index":15,
+         "soal":"Siapa anggota yang berasal dari Jepang?",
+         "tipe":"japanese",
+         "jawaban":"Yoshi (Kanemoto Yoshinori), Mashiho (ex), Asahi (Hamada Asahi)"
+      },
+      {
+         "index":16,
+         "soal":"Siapa anggota yang berasal dari China?",
+         "tipe":"chinese",
+         "jawaban":"Tidak ada (semua Korea atau Jepang)"
+      },
+      {
+         "index":17,
+         "soal":"Siapa anggota yang paling tinggi?",
+         "tipe":"tinggi",
+         "jawaban":"Park Jeongwoo (183 cm), Haruto (181 cm)"
+      },
+      {
+         "index":18,
+         "soal":"Siapa anggota yang paling pendek?",
+         "tipe":"pendek",
+         "jawaban":"Choi Hyunsuk (168 cm)"
+      },
+      {
+         "index":19,
+         "soal":"Siapa visual TREASURE yang sering disebut?",
+         "tipe":"visual",
+         "jawaban":"Kim Junkyu, Haruto, Asahi, Bang Yedam (ex)"
+      },
+      {
+         "index":20,
+         "soal":"Siapa yang memiliki suara khas 'serak'?",
+         "tipe":"voice",
+         "jawaban":"Haruto (deep voice rapper)"
+      },
+      {
+         "index":21,
+         "soal":"Siapa yang dijuluki 'Little PD' karena kemampuan produksi?",
+         "tipe":"julukan",
+         "jawaban":"Asahi (suka bikin lagu)"
+      },
+      {
+         "index":22,
+         "soal":"Siapa yang dijuluki 'Kkotgaru' (tepung bunga)?",
+         "tipe":"julukan",
+         "jawaban":"Kim Junkyu (wajah mulus)"
+      },
+      {
+         "index":23,
+         "soal":"Siapa yang dijuluki 'Baby Dinosaur'?",
+         "tipe":"julukan",
+         "jawaban":"Park Jeongwoo"
+      },
+      {
+         "index":24,
+         "soal":"Siapa yang dijuluki 'Ssamja' (pembuat ssam)?",
+         "tipe":"julukan",
+         "jawaban":"Yoon Jaehyuk"
+      },
+      {
+         "index":25,
+         "soal":"Siapa yang paling suka memasak?",
+         "tipe":"hobi",
+         "jawaban":"Choi Hyunsuk, Park Jeongwoo"
+      },
+      {
+         "index":26,
+         "soal":"Siapa yang paling suka dengan kucing?",
+         "tipe":"hewan",
+         "jawaban":"Mashiho (ex, punya kucing), Asahi (suka kucing)"
+      },
+      {
+         "index":27,
+         "soal":"Siapa yang paling suka dengan anime?",
+         "tipe":"anime",
+         "jawaban":"Yoshi, Asahi, Haruto"
+      },
+      {
+         "index":28,
+         "soal":"Album mini pertama TREASURE?",
+         "tipe":"mini album",
+         "jawaban":"THE FIRST STEP: CHAPTER ONE (2020)"
+      },
+      {
+         "index":29,
+         "soal":"Lagu 'BOY' dari album apa?",
+         "tipe":"album",
+         "jawaban":"THE FIRST STEP: CHAPTER ONE"
+      },
+      {
+         "index":30,
+         "soal":"Lagu 'I LOVE YOU' dari album?",
+         "tipe":"album",
+         "jawaban":"THE FIRST STEP: CHAPTER TWO"
+      },
+      {
+         "index":31,
+         "soal":"Lagu 'MMM' (음) dari album?",
+         "tipe":"album",
+         "jawaban":"THE FIRST STEP: CHAPTER THREE"
+      },
+      {
+         "index":32,
+         "soal":"Album full length pertama TREASURE?",
+         "tipe":"full album",
+         "jawaban":"THE FIRST STEP: TREASURE EFFECT (2021)"
+      },
+      {
+         "index":33,
+         "soal":"Lagu 'MY TREASURE' adalah lagu utama dari album?",
+         "tipe":"title",
+         "jawaban":"THE FIRST STEP: TREASURE EFFECT"
+      },
+      {
+         "index":34,
+         "soal":"Lirik 'Neoneun naui treasure, I love you more than anyone' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"MY TREASURE"
+      },
+      {
+         "index":35,
+         "soal":"Album 'THE SECOND STEP: CHAPTER ONE' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":36,
+         "soal":"Lagu utama 'THE SECOND STEP: CHAPTER ONE'?",
+         "tipe":"title",
+         "jawaban":"JIKJIN"
+      },
+      {
+         "index":37,
+         "soal":"Lirik 'Jikjin jikjin jikjin, neoege jikjin' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"JIKJIN"
+      },
+      {
+         "index":38,
+         "soal":"Album 'THE SECOND STEP: CHAPTER TWO' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":39,
+         "soal":"Lagu utama 'THE SECOND STEP: CHAPTER TWO'?",
+         "tipe":"title",
+         "jawaban":"HELLO"
+      },
+      {
+         "index":40,
+         "soal":"Lirik 'Hello, hello, I'm calling you' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"HELLO"
+      },
+      {
+         "index":41,
+         "soal":"Album 'REBOOT' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":42,
+         "soal":"Lagu utama 'REBOOT' adalah?",
+         "tipe":"title",
+         "jawaban":"BONA BONA"
+      },
+      {
+         "index":43,
+         "soal":"Lirik 'Bona bona, I'm your bona bona' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"BONA BONA"
+      },
+      {
+         "index":44,
+         "soal":"Album 'REBOOT' berapa total lagu?",
+         "tipe":"jumlah",
+         "jawaban":"10"
+      },
+      {
+         "index":45,
+         "soal":"Album Jepang pertama TREASURE?",
+         "tipe":"japan album",
+         "jawaban":"THE FIRST STEP: TREASURE EFFECT (Japanese ver.) (2021)"
+      },
+      {
+         "index":46,
+         "soal":"Lagu 'Here I Stand' adalah OST untuk anime?",
+         "tipe":"ost anime",
+         "jawaban":"Black Clover (2023)"
+      },
+      {
+         "index":47,
+         "soal":"Lagu 'B.O.M.B' (Kaboom) dari album?",
+         "tipe":"lagu",
+         "jawaban":"REBOOT"
+      },
+      {
+         "index":48,
+         "soal":"Siapa yang menulis lagu 'ORANGE' (Asahi & Haruto)?",
+         "tipe":"penulis",
+         "jawaban":"Asahi, Haruto"
+      },
+      {
+         "index":49,
+         "soal":"Lagu 'DARARI' dari album 'THE SECOND STEP: CHAPTER ONE' viral di TikTok?",
+         "tipe":"viral",
+         "jawaban":"Ya (2022)"
+      },
+      {
+         "index":50,
+         "soal":"Lirik 'Darari darari da, I love you so' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"DARARI"
+      },
+      {
+         "index":51,
+         "soal":"Siapa yang memiliki solo 'G.O.A.T' (Hyunsuk)?",
+         "tipe":"solo",
+         "jawaban":"Choi Hyunsuk (2022, mixtape)"
+      },
+      {
+         "index":52,
+         "soal":"Siapa yang memiliki solo 'Yamai' (Asahi)?",
+         "tipe":"solo",
+         "jawaban":"Asahi (2022, lagu Jepang)"
+      },
+      {
+         "index":53,
+         "soal":"Siapa yang memiliki solo 'Come To Me' (Mashiho, ex)?",
+         "tipe":"solo",
+         "jawaban":"Mashiho (2021, cover?)"
+      },
+      {
+         "index":54,
+         "soal":"Siapa anggota yang fasih berbahasa Inggris?",
+         "tipe":"english",
+         "jawaban":"Haruto (lancar), Bang Yedam (ex), Park Jeongwoo (cukup)"
+      },
+      {
+         "index":55,
+         "soal":"Siapa yang memiliki kemampuan main gitar?",
+         "tipe":"gitar",
+         "jawaban":"Park Jeongwoo, Kim Junkyu, Asahi"
+      },
+      {
+         "index":56,
+         "soal":"Siapa yang memiliki kemampuan main piano?",
+         "tipe":"piano",
+         "jawaban":"Bang Yedam (ex), Asahi, Park Jeongwoo"
+      },
+      {
+         "index":57,
+         "soal":"Siapa yang paling suka dengan olahraga basket?",
+         "tipe":"basket",
+         "jawaban":"Yoon Jaehyuk (suka basket)"
+      },
+      {
+         "index":58,
+         "soal":"Siapa yang paling suka dengan game Overwatch?",
+         "tipe":"game",
+         "jawaban":"Haruto (suka game)"
+      },
+      {
+         "index":59,
+         "soal":"Apa nama acara variety TREASURE 'TREASURE MAP'?",
+         "tipe":"variety",
+         "jawaban":"TREASURE MAP (T-MAP)"
+      },
+      {
+         "index":60,
+         "soal":"Episode 'TREASURE MAP' yang paling terkenal?",
+         "tipe":"episode",
+         "jawaban":"Ep. 10 (T-MAP di sekolah), Ep. 20 (Mafia game)"
+      },
+      {
+         "index":61,
+         "soal":"Siapa yang paling sering kalah di game variety?",
+         "tipe":"variety",
+         "jawaban":"Park Jeongwoo (sering kena tipu)"
+      },
+      {
+         "index":62,
+         "soal":"Siapa yang paling sering menjadi MC di TREASURE MAP?",
+         "tipe":"mc",
+         "jawaban":"Choi Hyunsuk, Kim Junkyu"
+      },
+      {
+         "index":63,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit bibir'?",
+         "tipe":"gestur",
+         "jawaban":"Haruto"
+      },
+      {
+         "index":64,
+         "soal":"Siapa yang memiliki suara tertinggi di TREASURE?",
+         "tipe":"high voice",
+         "jawaban":"Park Jeongwoo, Kim Junkyu, Bang Yedam (ex)"
+      },
+      {
+         "index":65,
+         "soal":"Siapa yang memiliki suara terendah?",
+         "tipe":"low voice",
+         "jawaban":"Haruto (bass), Choi Hyunsuk"
+      },
+      {
+         "index":66,
+         "soal":"Apa nama lagu pra-debut TREASURE 'Going Crazy'?",
+         "tipe":"pre-debut",
+         "jawaban":"Going Crazy (dari YG Treasure Box)"
+      },
+      {
+         "index":67,
+         "soal":"Siapa yang menjadi center di 'JIKJIN'?",
+         "tipe":"center",
+         "jawaban":"Kim Junkyu, Bang Yedam (ex)"
+      },
+      {
+         "index":68,
+         "soal":"Siapa yang memiliki tato?",
+         "tipe":"tato",
+         "jawaban":"Choi Hyunsuk (tato di lengan), Yoshi (tato kecil)"
+      },
+      {
+         "index":69,
+         "soal":"Siapa yang paling suka dengan fashion streetwear?",
+         "tipe":"fashion",
+         "jawaban":"Choi Hyunsuk, Haruto, Yoshi"
+      },
+      {
+         "index":70,
+         "soal":"Berapa total anggota yang pernah hiatus/keluar?",
+         "tipe":"keluar",
+         "jawaban":"Bang Yedam & Mashiho (2022), jadi 2"
+      },
+      {
+         "index":71,
+         "soal":"Siapa anggota yang paling aktif di Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Choi Hyunsuk, Haruto, Asahi, Kim Junkyu"
+      },
+      {
+         "index":72,
+         "soal":"Siapa yang memiliki cover 'Ashes' (Celine Dion) di YouTube?",
+         "tipe":"cover",
+         "jawaban":"Park Jeongwoo (cover di channel resmi)"
+      },
+      {
+         "index":73,
+         "soal":"Siapa yang memiliki cover 'Beautiful' (Crush) oleh Bang Yedam?",
+         "tipe":"cover",
+         "jawaban":"Bang Yedam (ex, terkenal sejak trainee)"
+      },
+      {
+         "index":74,
+         "soal":"Lagu 'U' (unit rap) dari album 'REBOOT'?",
+         "tipe":"unit",
+         "jawaban":"U (Hyunsuk, Yoshi, Haruto)"
+      },
+      {
+         "index":75,
+         "soal":"Lagu 'VolKno' (unit rap) dari album 'THE SECOND STEP: CHAPTER TWO'?",
+         "tipe":"unit",
+         "jawaban":"VolKno (Hyunsuk, Yoshi, Haruto)"
+      },
+      {
+         "index":76,
+         "soal":"Lagu 'Thank You' dari album 'THE FIRST STEP: CHAPTER THREE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side lagu untuk fans"
+      },
+      {
+         "index":77,
+         "soal":"Siapa yang paling suka dengan kopi?",
+         "tipe":"kopi",
+         "jawaban":"Choi Hyunsuk (americano), Yoshi"
+      },
+      {
+         "index":78,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"es krim",
+         "jawaban":"Park Jeongwoo (suka manis)"
+      },
+      {
+         "index":79,
+         "soal":"Apa nama lagu 'I Love You' versi Jepang?",
+         "tipe":"jpn",
+         "jawaban":"I Love You (Japanese ver.)"
+      },
+      {
+         "index":80,
+         "soal":"Album 'THE SECOND STEP' terdiri dari dua chapter, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":81,
+         "soal":"Siapa yang paling sering menjadi 'ending fairy'?",
+         "tipe":"ending",
+         "jawaban":"Kim Junkyu, Park Jeongwoo, Haruto"
+      },
+      {
+         "index":82,
+         "soal":"Berapa total penghargaan 'Rookie of the Year' untuk TREASURE?",
+         "tipe":"rookie",
+         "jawaban":"5 (2020-2021: MAMA, MMA, GDA, dll)"
+      },
+      {
+         "index":83,
+         "soal":"Siapa yang menjadi model untuk 'Nike'?",
+         "tipe":"brand",
+         "jawaban":"Choi Hyunsuk (sebagai grup? tidak spesifik)"
+      },
+      {
+         "index":84,
+         "soal":"Siapa yang menjadi model untuk 'Adidas'?",
+         "tipe":"brand",
+         "jawaban":"TREASURE sebagai grup (2022)"
+      },
+      {
+         "index":85,
+         "soal":"Lagu 'BFF' dari album 'THE FIRST STEP: TREASURE EFFECT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":86,
+         "soal":"Siapa yang memiliki kebiasaan 'memakai topi bucket'?",
+         "tipe":"aksesoris",
+         "jawaban":"Choi Hyunsuk, Haruto"
+      },
+      {
+         "index":87,
+         "soal":"Apa nama lagu 'Slow Motion' dari album 'REBOOT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (ballad)"
+      },
+      {
+         "index":88,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"warna",
+         "jawaban":"Choi Hyunsuk, Haruto"
+      },
+      {
+         "index":89,
+         "soal":"Siapa yang paling suka dengan warna pink?",
+         "tipe":"warna",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":90,
+         "soal":"Berapa total lagu dalam album 'THE FIRST STEP: TREASURE EFFECT' (full)?",
+         "tipe":"jumlah",
+         "jawaban":"10 (termasuk lagu dari 3 chapter)"
+      },
+      {
+         "index":91,
+         "soal":"Siapa yang memiliki kemampuan main drum?",
+         "tipe":"drum",
+         "jawaban":"Choi Hyunsuk (pernah main drum)"
+      },
+      {
+         "index":92,
+         "soal":"Siapa yang paling suka dengan mie instan?",
+         "tipe":"mie",
+         "jawaban":"Park Jeongwoo, Doyoung"
+      },
+      {
+         "index":93,
+         "soal":"Lagu 'Orange' (Asahi & Haruto) dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022 (dalam album 'THE SECOND STEP: CHAPTER TWO')"
+      },
+      {
+         "index":94,
+         "soal":"Siapa yang memiliki solo 'Wayo' (Haruto)?",
+         "tipe":"solo",
+         "jawaban":"Haruto (2022, lagu self-composed)"
+      },
+      {
+         "index":95,
+         "soal":"Siapa yang memiliki solo 'Wait' (Yoshi)?",
+         "tipe":"solo",
+         "jawaban":"Yoshi (2022, di 'REBOOT'? belum ada, tapi single 'Yoshi'?)"
+      },
+      {
+         "index":96,
+         "soal":"Lagu 'Clap!' dari album 'THE SECOND STEP: CHAPTER ONE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":97,
+         "soal":"Siapa yang paling suka dengan olahraga sepak bola?",
+         "tipe":"sepak bola",
+         "jawaban":"Yoon Jaehyuk, Doyoung"
+      },
+      {
+         "index":98,
+         "soal":"Siapa yang memiliki kebiasaan 'memotret awan'?",
+         "tipe":"fotografi",
+         "jawaban":"Asahi (suka foto)"
+      },
+      {
+         "index":99,
+         "soal":"Apa nama lagu 'Wonderland' dari album 'THE FIRST STEP: CHAPTER TWO'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":100,
+         "soal":"Siapa yang paling suka dengan buah strawberry?",
+         "tipe":"buah",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":101,
+         "soal":"Berapa total konser tur dunia TREASURE '2023 TREASURE TOUR [HELLO]'?",
+         "tipe":"tur",
+         "jawaban":"12 kota"
+      },
+      {
+         "index":102,
+         "soal":"Tur 'REBOOT' (2023-2024) mencakup berapa negara?",
+         "tipe":"tur",
+         "jawaban":"11 negara (Asia)"
+      },
+      {
+         "index":103,
+         "soal":"Siapa yang paling sering menggunakan bahasa Jepang?",
+         "tipe":"jepang",
+         "jawaban":"Yoshi, Mashiho (ex), Asahi"
+      },
+      {
+         "index":104,
+         "soal":"Lagu 'Run' dari album 'REBOOT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (EDM)"
+      },
+      {
+         "index":105,
+         "soal":"Siapa yang memiliki kebiasaan 'mengumpulkan sneakers'?",
+         "tipe":"koleksi",
+         "jawaban":"Choi Hyunsuk (kolektor sepatu)"
+      },
+      {
+         "index":106,
+         "soal":"Apa nama lagu 'Beautiful' (bukan lagu Crush) dari album 'THE FIRST STEP: CHAPTER ONE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side 'Beautiful' (lagu TREASURE)"
+      },
+      {
+         "index":107,
+         "soal":"Siapa yang paling suka dengan fashion mewah (luxury)?",
+         "tipe":"fashion",
+         "jawaban":"Choi Hyunsuk, Haruto"
+      },
+      {
+         "index":108,
+         "soal":"Lagu 'MOVE' (T5 unit) dari album 'REBOOT'? (T5: Hyunsuk, Junkyu, Jaehyuk, Haruto, Jeongwoo)",
+         "tipe":"unit",
+         "jawaban":"MOVE (T5 pre-release)"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang memiliki solo 'Lovesick' (Bang Yedam ex)?",
+         "tipe":"solo",
+         "jawaban":"Bang Yedam (2021, single digital)"
+      },
+      {
+         "index":110,
+         "soal":"Berapa total anggota yang lahir di tahun 2000?",
+         "tipe":"tahun",
+         "jawaban":"Yoon Jaehyuk (2000), Asahi (2000), Doyoung (2000) - 3 orang (Mashiho 2001, Yoshi 2000 juga? Yoshi lahir 2000, benar. Jadi Yoshi, Jaehyuk, Asahi, Doyoung = 4)"
+      },
+      {
+         "index":111,
+         "soal":"Siapa yang paling suka dengan anime One Piece?",
+         "tipe":"anime",
+         "jawaban":"Yoshi, Haruto"
+      },
+      {
+         "index":112,
+         "soal":"Apa nama lagu 'King' (unit rap) dari album 'THE SECOND STEP: CHAPTER ONE'?",
+         "tipe":"unit",
+         "jawaban":"King (Hyunsuk, Yoshi, Haruto)"
+      },
+      {
+         "index":113,
+         "soal":"Siapa yang memiliki kebiasaan 'mengucek mata' saat lelah?",
+         "tipe":"kebiasaan",
+         "jawaban":"Park Jeongwoo"
+      },
+      {
+         "index":114,
+         "soal":"Lagu 'It's Okay' dari album 'THE FIRST STEP: TREASURE EFFECT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":115,
+         "soal":"Siapa yang paling suka dengan warna biru?",
+         "tipe":"warna",
+         "jawaban":"Asahi (suka biru)"
+      },
+      {
+         "index":116,
+         "soal":"Berapa total video musik TREASURE yang mencapai 100 juta views?",
+         "tipe":"angka",
+         "jawaban":"5 (BOY, I LOVE YOU, JIKJIN, DARARI, HELLO)"
+      },
+      {
+         "index":117,
+         "soal":"Siapa yang menjadi model untuk 'Banila Co'?",
+         "tipe":"brand",
+         "jawaban":"Kim Junkyu (2022)"
+      },
+      {
+         "index":118,
+         "soal":"Siapa yang paling suka dengan kopi latte?",
+         "tipe":"kopi",
+         "jawaban":"Park Jeongwoo (suka latte)"
+      },
+      {
+         "index":119,
+         "soal":"Lagu 'Proud' dari album 'THE SECOND STEP: CHAPTER TWO'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang memiliki kemampuan akting di web drama?",
+         "tipe":"drama",
+         "jawaban":"Doyoung (cameo), Yoon Jaehyuk (belum)"
+      },
+      {
+         "index":121,
+         "soal":"Apa nama konser online TREASURE 'TRACE'?",
+         "tipe":"online",
+         "jawaban":"2021 'TREASURE LIVE' bukan, 'TRACE' adalah album?"
+      },
+      {
+         "index":122,
+         "soal":"Siapa yang paling suka dengan makanan pedas?",
+         "tipe":"pedas",
+         "jawaban":"Choi Hyunsuk, Doyoung"
+      },
+      {
+         "index":123,
+         "soal":"Lagu 'BLT' (Bling Like This) dari album 'THE SECOND STEP: CHAPTER ONE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":124,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit kuku'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Haruto (dulu)"
+      },
+      {
+         "index":125,
+         "soal":"Berapa total lagu dalam album 'THE SECOND STEP: CHAPTER TWO' (2022)?",
+         "tipe":"jumlah",
+         "jawaban":"6"
+      },
+      {
+         "index":126,
+         "soal":"Siapa yang paling suka dengan teh?",
+         "tipe":"teh",
+         "jawaban":"Asahi (suka teh hijau)"
+      },
+      {
+         "index":127,
+         "soal":"Apa nama lagu 'HOLD IT IN' dari album 'REBOOT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":128,
+         "soal":"Siapa yang memiliki solo 'Honey' (Kim Junkyu)?",
+         "tipe":"solo",
+         "jawaban":"Kim Junkyu (2024, digital single? belum ada yang resmi)"
+      },
+      {
+         "index":129,
+         "soal":"Lagu 'Come to Me' (vocal unit) dari album 'THE FIRST STEP: CHAPTER THREE'?",
+         "tipe":"unit",
+         "jawaban":"Come to Me (vocal line: Yedam, Junkyu, Jeongwoo, Mashiho)"
+      },
+      {
+         "index":130,
+         "soal":"Siapa yang paling suka dengan es batu?",
+         "tipe":"makanan",
+         "jawaban":"Choi Hyunsuk (suka makan es)"
+      },
+      {
+         "index":131,
+         "soal":"Berapa total anggota yang lahir di tahun 2001?",
+         "tipe":"tahun",
+         "jawaban":"Kim Junkyu (2001), So Junghwan (2005), tidak ada 2001? Junkyu 2001, Mashiho 2001, Doyoung 2000, Yoshi 2000, Asahi 2000, Jaehyuk 2000. Jadi Junkyu dan Mashiho (ex) = 2"
+      },
+      {
+         "index":132,
+         "soal":"Siapa yang memiliki kebiasaan 'menari di depan cermin'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Doyoung (suka latihan dance)"
+      },
+      {
+         "index":133,
+         "soal":"Apa nama lagu 'U MAD' (unit rap) dari album 'REBOOT'?",
+         "tipe":"unit",
+         "jawaban":"U MAD (Hyunsuk, Yoshi, Haruto)"
+      },
+      {
+         "index":134,
+         "soal":"Siapa yang paling suka dengan warna putih?",
+         "tipe":"warna",
+         "jawaban":"Park Jeongwoo"
+      },
+      {
+         "index":135,
+         "soal":"Lagu 'Orange' (Asahi & Haruto) memiliki lirik 'You're my orange'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":136,
+         "soal":"Siapa yang paling sering membuat konten TikTok?",
+         "tipe":"tiktok",
+         "jawaban":"Choi Hyunsuk, Haruto, Asahi"
+      },
+      {
+         "index":137,
+         "soal":"Berapa total pemenang 'Best New Male Artist' di MAMA?",
+         "tipe":"penghargaan",
+         "jawaban":"1 (2020)"
+      },
+      {
+         "index":138,
+         "soal":"Siapa yang memiliki kemampuan beatbox?",
+         "tipe":"beatbox",
+         "jawaban":"Choi Hyunsuk (bisa beatbox)"
+      },
+      {
+         "index":139,
+         "soal":"Apa nama lagu 'Going Crazy' versi studio?",
+         "tipe":"lagu",
+         "jawaban":"Going Crazy (dirilis 2021 di album 'THE FIRST STEP: TREASURE EFFECT')"
+      },
+      {
+         "index":140,
+         "soal":"Siapa yang paling suka dengan fashion retro?",
+         "tipe":"fashion",
+         "jawaban":"Asahi (style vintage)"
+      },
+      {
+         "index":141,
+         "soal":"Lagu 'Gonna Be Fine' dari album 'THE SECOND STEP: CHAPTER ONE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":142,
+         "soal":"Siapa yang memiliki kebiasaan 'memotret makanan'?",
+         "tipe":"foto",
+         "jawaban":"Kim Junkyu (suka foto makanan)"
+      },
+      {
+         "index":143,
+         "soal":"Berapa total album studio Korea TREASURE hingga 2026?",
+         "tipe":"angka",
+         "jawaban":"2 (THE FIRST STEP: TREASURE EFFECT, REBOOT)"
+      },
+      {
+         "index":144,
+         "soal":"Siapa yang paling suka dengan jus mangga?",
+         "tipe":"jus",
+         "jawaban":"Haruto"
+      },
+      {
+         "index":145,
+         "soal":"Apa nama lagu 'I Want Your Love' dari album 'THE SECOND STEP: CHAPTER TWO'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":146,
+         "soal":"Siapa yang memiliki solo 'Thanks' (Choi Hyunsuk)?",
+         "tipe":"solo",
+         "jawaban":"Hyunsuk (2021, lagu untuk fans)"
+      },
+      {
+         "index":147,
+         "soal":"Lagu 'Da Ra Ri' versi remix (feat. Lee Youngji) dirilis?",
+         "tipe":"remix",
+         "jawaban":"Ya (2022)"
+      },
+      {
+         "index":148,
+         "soal":"Siapa yang paling suka dengan olahraga lari?",
+         "tipe":"lari",
+         "jawaban":"Yoon Jaehyuk (suka olahraga)"
+      },
+      {
+         "index":149,
+         "soal":"Berapa total anggota yang pernah menjadi MC di 'Inkigayo'?",
+         "tipe":"mc",
+         "jawaban":"Tidak ada (hanya spesial MC)"
+      },
+      {
+         "index":150,
+         "soal":"Siapa yang memiliki kebiasaan 'menggunakan bahasa gaul'?",
+         "tipe":"bicara",
+         "jawaban":"Choi Hyunsuk (suka slang)"
+      },
+      {
+         "index":151,
+         "soal":"Apa nama lagu 'Everyday' dari album 'THE FIRST STEP: CHAPTER TWO'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":152,
+         "soal":"Siapa yang paling suka dengan warna ungu?",
+         "tipe":"warna",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":153,
+         "soal":"Lagu 'Blink' dari album 'THE FIRST STEP: CHAPTER ONE'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":154,
+         "soal":"Siapa yang memiliki cover 'Stay' (Blackpink) di acara?",
+         "tipe":"cover",
+         "jawaban":"Park Jeongwoo (di radio)"
+      },
+      {
+         "index":155,
+         "soal":"Berapa total lagu yang ditulis oleh Asahi untuk TREASURE?",
+         "tipe":"penulis",
+         "jawaban":"4 (Orange, Thank You, dll)"
+      },
+      {
+         "index":156,
+         "soal":"Siapa yang paling suka dengan air mineral?",
+         "tipe":"minuman",
+         "jawaban":"Doyoung (suka minum air)"
+      },
+      {
+         "index":157,
+         "soal":"Apa nama lagu 'Be With Me' dari album 'REBOOT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":158,
+         "soal":"Siapa yang memiliki kebiasaan 'mengerucutkan bibir'?",
+         "tipe":"gestur",
+         "jawaban":"Park Jeongwoo"
+      },
+      {
+         "index":159,
+         "soal":"Lagu 'It's Okay' (dikenal sebagai lagu healing) dari album?",
+         "tipe":"lagu",
+         "jawaban":"THE FIRST STEP: TREASURE EFFECT"
+      },
+      {
+         "index":160,
+         "soal":"Siapa yang paling suka dengan donat?",
+         "tipe":"snack",
+         "jawaban":"Park Jeongwoo (suka manis)"
+      },
+      {
+         "index":161,
+         "soal":"Berapa total konser 'REBOOT' di Asia Tenggara?",
+         "tipe":"konser",
+         "jawaban":"8 kota (termasuk Jakarta, Bangkok, Manila, dll)"
+      },
+      {
+         "index":162,
+         "soal":"Siapa yang memiliki solo 'Freak' (Yoshi)?",
+         "tipe":"solo",
+         "jawaban":"Yoshi (2023, single digital)"
+      },
+      {
+         "index":163,
+         "soal":"Apa nama lagu 'B.O.M.B' versi remix dengan Rad Museum?",
+         "tipe":"remix",
+         "jawaban":"Ada (2023)"
+      },
+      {
+         "index":164,
+         "soal":"Siapa yang paling suka dengan coklat?",
+         "tipe":"coklat",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":165,
+         "soal":"Lagu 'JIKJIN' memiliki koreografi gerakan apa?",
+         "tipe":"koreo",
+         "jawaban":"Gerakan 'jikjin' (lurus ke depan) dan mengemudi"
+      },
+      {
+         "index":166,
+         "soal":"Siapa yang memiliki kebiasaan 'menyentuh rambut'?",
+         "tipe":"gestur",
+         "jawaban":"Yoon Jaehyuk"
+      },
+      {
+         "index":167,
+         "soal":"Berapa total lagu yang dirilis TREASURE di tahun 2020?",
+         "tipe":"angka",
+         "jawaban":"6 (BOY, COME TO ME, I LOVE YOU, B.L.T, MMM, ORANGE)"
+      },
+      {
+         "index":168,
+         "soal":"Siapa yang paling suka dengan olahraga fitness?",
+         "tipe":"fitness",
+         "jawaban":"Choi Hyunsuk (rajin gym)"
+      },
+      {
+         "index":169,
+         "soal":"Apa nama lagu 'Sweet Home' dari album 'REBOOT'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (bukan, itu ada? 'Sweet Home' tidak ada, yang ada 'I Want Your Love' dll)"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang memiliki cover 'Wildflower' (Park Hyo Shin)?",
+         "tipe":"cover",
+         "jawaban":"Park Jeongwoo (di acara radio)"
+      },
+      {
+         "index":171,
+         "soal":"Lagu 'Bling Like This' (BLT) memiliki lirik 'I'm gonna make you mine'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":172,
+         "soal":"Siapa yang paling suka dengan warna kuning?",
+         "tipe":"warna",
+         "jawaban":"Asahi (suka kuning?"
+      },
+      {
+         "index":173,
+         "soal":"Berapa total album Jepang 'THE SECOND STEP' (Japanese ver.)?",
+         "tipe":"jpn",
+         "jawaban":"1 (2022)"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang memiliki kebiasaan 'mengelus dagu'?",
+         "tipe":"gestur",
+         "jawaban":"Haruto"
+      },
+      {
+         "index":175,
+         "soal":"Apa nama lagu 'Darari' memiliki remix dance dengan lirik 'Fall in love'?",
+         "tipe":"remix",
+         "jawaban":"Ya"
+      },
+      {
+         "index":176,
+         "soal":"Siapa yang paling suka dengan sushi?",
+         "tipe":"makanan",
+         "jawaban":"Yoshi (Jepang)"
+      },
+      {
+         "index":177,
+         "soal":"Lagu 'Hello' memiliki koreografi gerakan 'melambai'?",
+         "tipe":"koreo",
+         "jawaban":"Ya"
+      },
+      {
+         "index":178,
+         "soal":"Siapa yang memiliki kemampuan main biola?",
+         "tipe":"biola",
+         "jawaban":"Park Jeongwoo (belajar biola)"
+      },
+      {
+         "index":179,
+         "soal":"Berapa total anggota yang lahir di bulan Juli?",
+         "tipe":"bulan",
+         "jawaban":"Choi Hyunsuk (21 Juli), Mashiho (25 Juli, ex) - 2"
+      },
+      {
+         "index":180,
+         "soal":"Siapa yang paling suka dengan ramen?",
+         "tipe":"ramen",
+         "jawaban":"Yoshi, Asahi"
+      },
+      {
+         "index":181,
+         "soal":"Apa nama lagu 'U' (unit rap) memiliki MV?",
+         "tipe":"mv",
+         "jawaban":"Ya (performance video)"
+      },
+      {
+         "index":182,
+         "soal":"Siapa yang memiliki kebiasaan 'mengangkat satu alis'?",
+         "tipe":"ekspresi",
+         "jawaban":"Haruto"
+      },
+      {
+         "index":183,
+         "soal":"Lagu 'BONA BONA' singkatan dari apa?",
+         "tipe":"arti",
+         "jawaban":"Bona (baik) dalam bahasa Latin, menggambarkan kebaikan"
+      },
+      {
+         "index":184,
+         "soal":"Siapa yang paling suka dengan tteokbokki?",
+         "tipe":"makanan",
+         "jawaban":"Doyoung (suka pedas)"
+      },
+      {
+         "index":185,
+         "soal":"Berapa total lagu dalam album 'THE SECOND STEP: CHAPTER ONE' (2022)?",
+         "tipe":"jumlah",
+         "jawaban":"6"
+      },
+      {
+         "index":186,
+         "soal":"Siapa yang memiliki solo 'Wayo' (Haruto) dirilis di platform apa?",
+         "tipe":"solo",
+         "jawaban":"YouTube (SKZ? bukan, Treasure's channel)"
+      },
+      {
+         "index":187,
+         "soal":"Apa nama lagu 'Gonna Be Fine' memiliki lirik 'It's gonna be fine'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":188,
+         "soal":"Siapa yang paling suka dengan fashion oversized?",
+         "tipe":"fashion",
+         "jawaban":"Choi Hyunsuk"
+      },
+      {
+         "index":189,
+         "soal":"Lagu 'MMM' (음) adalah lagu dengan konsep gelap?",
+         "tipe":"konsep",
+         "jawaban":"Ya (dark concept)"
+      },
+      {
+         "index":190,
+         "soal":"Siapa yang memiliki kebiasaan 'bicara dengan logat dialek'?",
+         "tipe":"logat",
+         "jawaban":"Park Jeongwoo (dialek Gyeongsang?)"
+      },
+      {
+         "index":191,
+         "soal":"Berapa total penjualan album 'REBOOT' di minggu pertama?",
+         "tipe":"angka",
+         "jawaban":"1,7 juta (Hanteo)"
+      },
+      {
+         "index":192,
+         "soal":"Siapa yang paling suka dengan jus jeruk?",
+         "tipe":"jus",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":193,
+         "soal":"Apa nama lagu 'I Love You' memiliki lirik 'I love you, I need you, I love you'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":194,
+         "soal":"Siapa yang paling sering menjadi thumbnail video TREASURE MAP?",
+         "tipe":"variety",
+         "jawaban":"Park Jeongwoo, Kim Junkyu"
+      },
+      {
+         "index":195,
+         "soal":"Lagu 'Clap!' memiliki koreografi tepuk tangan?",
+         "tipe":"koreo",
+         "jawaban":"Ya"
+      },
+      {
+         "index":196,
+         "soal":"Siapa yang memiliki kemampuan main harmonika?",
+         "tipe":"harmonika",
+         "jawaban":"Tidak ada"
+      },
+      {
+         "index":197,
+         "soal":"Berapa total anggota yang memiliki nama belakang Kim?",
+         "tipe":"nama",
+         "jawaban":"Kim Junkyu, Kim Doyoung (2)"
+      },
+      {
+         "index":198,
+         "soal":"Siapa yang paling suka dengan minuman soda?",
+         "tipe":"soda",
+         "jawaban":"Haruto (suka Coke)"
+      },
+      {
+         "index":199,
+         "soal":"Apa nama lagu 'Proud' adalah lagu untuk fans?",
+         "tipe":"fan song",
+         "jawaban":"Ya (lagu tentang kebanggaan menjadi Treasure Maker)"
+      },
+      {
+         "index":200,
+         "soal":"Siapa yang memiliki kebiasaan 'membaca buku'?",
+         "tipe":"buku",
+         "jawaban":"Asahi (suka baca manga)"
+      },
+      {
+         "index":201,
+         "soal":"Lagu 'Slow Motion' menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Cinta yang bergerak lambat dan romantis"
+      },
+      {
+         "index":202,
+         "soal":"Siapa yang paling suka dengan warna hijau?",
+         "tipe":"warna",
+         "jawaban":"Yoshi"
+      },
+      {
+         "index":203,
+         "soal":"Berapa total pemenang 'Best Band/Artist' di MTV EMA?",
+         "tipe":"penghargaan",
+         "jawaban":"0"
+      },
+      {
+         "index":204,
+         "soal":"Siapa yang memiliki solo 'Sarang' (Yoon Jaehyuk)?",
+         "tipe":"solo",
+         "jawaban":"Jaehyuk (2023, cover? belum solo original)"
+      },
+      {
+         "index":205,
+         "soal":"Apa nama lagu 'Here I Stand' (OST Black Clover) dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":206,
+         "soal":"Siapa yang paling suka dengan popcorn?",
+         "tipe":"snack",
+         "jawaban":"Doyoung"
+      },
+      {
+         "index":207,
+         "soal":"Lagu 'King' (unit rap) memiliki lirik 'I'm a king, I'm a king'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":208,
+         "soal":"Siapa yang memiliki kebiasaan 'menggunakan headphone'?",
+         "tipe":"aksesoris",
+         "jawaban":"Asahi (suka dengar musik)"
+      },
+      {
+         "index":209,
+         "soal":"Berapa total lagu yang diproduseri oleh Future Bounce untuk TREASURE?",
+         "tipe":"produser",
+         "jawaban":"Banyak (JIKJIN, DARARI, dll)"
+      },
+      {
+         "index":210,
+         "soal":"Siapa yang paling suka dengan es serut (patbingsu)?",
+         "tipe":"dessert",
+         "jawaban":"Park Jeongwoo"
+      },
+      {
+         "index":211,
+         "soal":"Apa nama lagu 'VolKno' singkatan dari?",
+         "tipe":"arti",
+         "jawaban":"Volcano (gunung berapi)"
+      },
+      {
+         "index":212,
+         "soal":"Siapa yang memiliki kemampuan akting di film 'Idolmaster'?",
+         "tipe":"drama",
+         "jawaban":"Tidak ada"
+      },
+      {
+         "index":213,
+         "soal":"Lagu 'Beautiful' (lagu TREASURE) adalah b-side yang populer?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":214,
+         "soal":"Siapa yang paling suka dengan ayam goreng?",
+         "tipe":"makanan",
+         "jawaban":"Choi Hyunsuk"
+      },
+      {
+         "index":215,
+         "soal":"Berapa total anggota yang lahir di tahun 1999?",
+         "tipe":"tahun",
+         "jawaban":"Choi Hyunsuk (1999), Park Jeongwoo? 2005. Jadi hanya Hyunsuk (1)"
+      },
+      {
+         "index":216,
+         "soal":"Siapa yang memiliki kebiasaan 'menggaruk pipi'?",
+         "tipe":"gestur",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":217,
+         "soal":"Apa nama lagu 'I Want Your Love' memiliki MV?",
+         "tipe":"mv",
+         "jawaban":"Tidak (hanya audio)"
+      },
+      {
+         "index":218,
+         "soal":"Siapa yang paling suka dengan teh boba?",
+         "tipe":"boba",
+         "jawaban":"Haruto"
+      },
+      {
+         "index":219,
+         "soal":"Lagu 'Come to Me' (vocal unit) memiliki lirik 'Come to me, come to me'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":220,
+         "soal":"Siapa yang memiliki solo 'HOLD IT IN' (Hyunsuk)?",
+         "tipe":"solo",
+         "jawaban":"Hyunsuk (2023, dalam album REBOOT? bukan, itu lagu grup)"
+      },
+      {
+         "index":221,
+         "soal":"Berapa total video 'T-MAP' episode hingga 2025?",
+         "tipe":"variety",
+         "jawaban":"Lebih dari 100 episode (season 1-3)"
+      },
+      {
+         "index":222,
+         "soal":"Siapa yang paling suka dengan warna pastel?",
+         "tipe":"warna",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":223,
+         "soal":"Apa nama lagu 'Thank You' (lagu untuk Teume) dari album?",
+         "tipe":"lagu",
+         "jawaban":"THE FIRST STEP: CHAPTER THREE"
+      },
+      {
+         "index":224,
+         "soal":"Siapa yang memiliki kebiasaan 'menulis lirik lagu'?",
+         "tipe":"penulis",
+         "jawaban":"Choi Hyunsuk, Asahi, Haruto, Yoshi"
+      },
+      {
+         "index":225,
+         "soal":"Lagu 'JIKJIN' memiliki bahasa Korea '직진' artinya?",
+         "tipe":"arti",
+         "jawaban":"Lurus ke depan (go straight)"
+      },
+      {
+         "index":226,
+         "soal":"Siapa yang paling suka dengan olahraga skateboard?",
+         "tipe":"skate",
+         "jawaban":"Yoshi"
+      },
+      {
+         "index":227,
+         "soal":"Berapa total lagu yang menjadi OST drama Korea?",
+         "tipe":"ost",
+         "jawaban":"2 (Here I Stand, I Love You? I Love You bukan OST)"
+      },
+      {
+         "index":228,
+         "soal":"Siapa yang memiliki solo 'Blame It On Me' (Yoshi)?",
+         "tipe":"solo",
+         "jawaban":"Yoshi (2024, single? belum)"
+      },
+      {
+         "index":229,
+         "soal":"Apa nama lagu 'Slow Motion' memiliki lirik 'I'm in slow motion'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":230,
+         "soal":"Siapa yang paling suka dengan keripik kentang?",
+         "tipe":"snack",
+         "jawaban":"Doyoung"
+      },
+      {
+         "index":231,
+         "soal":"Lagu 'Going Crazy' adalah lagu pertama yang diperkenalkan di YG Treasure Box, benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":232,
+         "soal":"Siapa yang memiliki kebiasaan 'memakai cincin di jari manis'?",
+         "tipe":"aksesoris",
+         "jawaban":"Choi Hyunsuk"
+      },
+      {
+         "index":233,
+         "soal":"Berapa total kemenangan music show untuk lagu 'JIKJIN'?",
+         "tipe":"win",
+         "jawaban":"3 (The Show, Show Champion, M Countdown)"
+      },
+      {
+         "index":234,
+         "soal":"Siapa yang paling suka dengan buah mangga?",
+         "tipe":"buah",
+         "jawaban":"Haruto"
+      },
+      {
+         "index":235,
+         "soal":"Apa nama lagu 'RUN' memiliki genre EDM?",
+         "tipe":"genre",
+         "jawaban":"Ya"
+      },
+      {
+         "index":236,
+         "soal":"Siapa yang memiliki kemampuan main bass?",
+         "tipe":"bass",
+         "jawaban":"Tidak ada"
+      },
+      {
+         "index":237,
+         "soal":"Lagu 'B.O.M.B' (Kaboom) memiliki lirik 'You're my bomb'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":238,
+         "soal":"Siapa yang paling suka dengan kopi hitam?",
+         "tipe":"kopi",
+         "jawaban":"Choi Hyunsuk"
+      },
+      {
+         "index":239,
+         "soal":"Berapa total anggota yang lahir di bulan Maret?",
+         "tipe":"bulan",
+         "jawaban":"Yoon Jaehyuk (23 Maret), Asahi (17 Maret), Doyoung (17 Maret? Doyoung 17 Maret? Asahi 17 Maret, Doyoung 4 Desember. Jadi Asahi 17 Maret, Yoshi 15 Maret? Yoshi 15 Maret 2000. Jadi Yoshi, Asahi, Jaehyuk (23 Maret) = 3"
+      },
+      {
+         "index":240,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit bibir bawah'?",
+         "tipe":"gestur",
+         "jawaban":"Park Jeongwoo"
+      },
+      {
+         "index":241,
+         "soal":"Apa nama lagu 'HOLD IT IN' memiliki genre R&B?",
+         "tipe":"genre",
+         "jawaban":"Ya"
+      },
+      {
+         "index":242,
+         "soal":"Siapa yang paling suka dengan pizza?",
+         "tipe":"makanan",
+         "jawaban":"Haruto"
+      },
+      {
+         "index":243,
+         "soal":"Lagu 'Hello' adalah lagu pertama dengan konsep cerah?",
+         "tipe":"konsep",
+         "jawaban":"Ya (setelah JIKJIN yang gelap)"
+      },
+      {
+         "index":244,
+         "soal":"Siapa yang memiliki cover 'You Were Beautiful' (Day6)?",
+         "tipe":"cover",
+         "jawaban":"Park Jeongwoo (di radio)"
+      },
+      {
+         "index":245,
+         "soal":"Berapa total lagu dalam album 'THE FIRST STEP: CHAPTER ONE' (mini)?",
+         "tipe":"jumlah",
+         "jawaban":"2 (BOY dan COME TO ME? sebenarnya 2 lagu? Chapter One: BOY, Come to Me? Tidak, Chapter One: BOY, Come to Me? Yang benar: Chapter One (2020) berisi 2 lagu: 'BOY' dan 'Come to Me'? Cek: Chapter One = BOY + Come to Me? Tapi di Spotify, Chapter One (single album) hanya 2 lagu: 'BOY' dan 'Come to Me'. Benar."
+      },
+      {
+         "index":246,
+         "soal":"Siapa yang paling suka dengan warna merah?",
+         "tipe":"warna",
+         "jawaban":"Yoshi"
+      },
+      {
+         "index":247,
+         "soal":"Apa nama lagu 'Blink' memiliki lirik 'Blink blink'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":248,
+         "soal":"Siapa yang memiliki kebiasaan 'meniup rambut'?",
+         "tipe":"gestur",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":249,
+         "soal":"Lagu 'BONA BONA' adalah lagu utama dari album 'REBOOT', benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      },
+      {
+         "index":250,
+         "soal":"Siapa yang paling suka dengan kue coklat?",
+         "tipe":"kue",
+         "jawaban":"Park Jeongwoo"
+      },
+      {
+         "index":251,
+         "soal":"Berapa total penonton konser 'REBOOT' di Seoul?",
+         "tipe":"konser",
+         "jawaban":"20,000 (2 hari di KSPO Dome)"
+      },
+      {
+         "index":252,
+         "soal":"Siapa yang memiliki solo 'Freak' (Yoshi) dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":253,
+         "soal":"Apa nama lagu 'Orange' memiliki MV animasi?",
+         "tipe":"mv",
+         "jawaban":"Ya (lyric video animasi)"
+      },
+      {
+         "index":254,
+         "soal":"Siapa yang paling suka dengan olahraga renang?",
+         "tipe":"renang",
+         "jawaban":"Yoon Jaehyuk"
+      },
+      {
+         "index":255,
+         "soal":"Lagu 'MOVE' (T5) menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Gerakan dan perubahan dalam cinta"
+      },
+      {
+         "index":256,
+         "soal":"Siapa yang memiliki kebiasaan 'menggunakan kalung'?",
+         "tipe":"aksesoris",
+         "jawaban":"Haruto (sering pakai kalung)"
+      },
+      {
+         "index":257,
+         "soal":"Berapa total fansign yang pernah dilakukan TREASURE?",
+         "tipe":"angka",
+         "jawaban":"Lebih dari 30"
+      },
+      {
+         "index":258,
+         "soal":"Siapa yang paling suka dengan bubur?",
+         "tipe":"makanan",
+         "jawaban":"Asahi"
+      },
+      {
+         "index":259,
+         "soal":"Apa nama lagu 'Thank You' memiliki lirik 'Thank you for being my treasure'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":260,
+         "soal":"Siapa yang memiliki cover 'All of Me' (John Legend)?",
+         "tipe":"cover",
+         "jawaban":"Bang Yedam (ex, terkenal)"
+      },
+      {
+         "index":261,
+         "soal":"Lagu 'DARARI' memiliki versi rock?",
+         "tipe":"remix",
+         "jawaban":"Ya (remix rock di konser)"
+      },
+      {
+         "index":262,
+         "soal":"Siapa yang paling suka dengan warna oranye?",
+         "tipe":"warna",
+         "jawaban":"Doyoung"
+      },
+      {
+         "index":263,
+         "soal":"Berapa total album yang mencapai #1 di Gaon Chart?",
+         "tipe":"chart",
+         "jawaban":"3 (THE FIRST STEP: CHAPTER THREE, THE SECOND STEP: CHAPTER ONE, REBOOT)"
+      },
+      {
+         "index":264,
+         "soal":"Siapa yang memiliki kebiasaan 'memotret pemandangan'?",
+         "tipe":"fotografi",
+         "jawaban":"Asahi"
+      },
+      {
+         "index":265,
+         "soal":"Apa nama lagu 'U MAD' memiliki lirik 'You mad, you mad?'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":266,
+         "soal":"Siapa yang paling suka dengan nasi goreng?",
+         "tipe":"makanan",
+         "jawaban":"Choi Hyunsuk"
+      },
+      {
+         "index":267,
+         "soal":"Lagu 'Everyday' adalah b-side yang ceria?",
+         "tipe":"lagu",
+         "jawaban":"Ya"
+      },
+      {
+         "index":268,
+         "soal":"Siapa yang memiliki kemampuan main keyboard?",
+         "tipe":"keyboard",
+         "jawaban":"Asahi, Bang Yedam (ex)"
+      },
+      {
+         "index":269,
+         "soal":"Berapa total anggota yang memiliki zodiak Pisces?",
+         "tipe":"zodiak",
+         "jawaban":"Yoshi (15 Maret), Asahi (17 Maret), Jaehyuk (23 Maret) = 3"
+      },
+      {
+         "index":270,
+         "soal":"Siapa yang paling suka dengan es kopi?",
+         "tipe":"iced coffee",
+         "jawaban":"Choi Hyunsuk"
+      },
+      {
+         "index":271,
+         "soal":"Apa nama lagu 'Gonna Be Fine' memiliki pesan motivasi?",
+         "tipe":"pesan",
+         "jawaban":"Ya"
+      },
+      {
+         "index":272,
+         "soal":"Siapa yang memiliki kebiasaan 'mengerjakan puzzle'?",
+         "tipe":"hobi",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":273,
+         "soal":"Lagu 'VolKno' memiliki koreografi gerakan gunung?",
+         "tipe":"koreo",
+         "jawaban":"Ya (gerakan letusan gunung)"
+      },
+      {
+         "index":274,
+         "soal":"Siapa yang paling suka dengan pudding?",
+         "tipe":"dessert",
+         "jawaban":"Park Jeongwoo"
+      },
+      {
+         "index":275,
+         "soal":"Berapa total lagu yang menjadi viral di TikTok selain DARARI?",
+         "tipe":"viral",
+         "jawaban":"JIKJIN, HELLO, BONA BONA"
+      },
+      {
+         "index":276,
+         "soal":"Siapa yang memiliki solo 'Thank You' (Choi Hyunsuk) sudah dirilis?",
+         "tipe":"solo",
+         "jawaban":"Ya (2021, di YouTube)"
+      },
+      {
+         "index":277,
+         "soal":"Apa nama lagu 'B.O.M.B' singkatan?",
+         "tipe":"arti",
+         "jawaban":"Bomb (bom, tidak ada singkatan)"
+      },
+      {
+         "index":278,
+         "soal":"Siapa yang paling suka dengan mie kuah?",
+         "tipe":"mie",
+         "jawaban":"Doyoung"
+      },
+      {
+         "index":279,
+         "soal":"Lagu 'Come to Me' adalah lagu dengan konsep manis?",
+         "tipe":"konsep",
+         "jawaban":"Ya"
+      },
+      {
+         "index":280,
+         "soal":"Siapa yang memiliki kebiasaan 'menggunakan topi baseball'?",
+         "tipe":"topi",
+         "jawaban":"Choi Hyunsuk"
+      },
+      {
+         "index":281,
+         "soal":"Berapa total anggota yang debut di YG Treasure Box (final line-up)?",
+         "tipe":"debut",
+         "jawaban":"12 (Hyunsuk, Jihoon, Yoshi, Junkyu, Mashiho, Jaehyuk, Asahi, Doyoung, Haruto, Jeongwoo, Junghwan, Yedam)"
+      },
+      {
+         "index":282,
+         "soal":"Siapa yang paling suka dengan ayam geprek?",
+         "tipe":"makanan",
+         "jawaban":"Haruto (suka pedas)"
+      },
+      {
+         "index":283,
+         "soal":"Apa nama lagu 'BLT' singkatan?",
+         "tipe":"singkatan",
+         "jawaban":"Bling Like This"
+      },
+      {
+         "index":284,
+         "soal":"Siapa yang memiliki cover 'Havana' (Camila Cabello) di acara?",
+         "tipe":"cover",
+         "jawaban":"Park Jeongwoo (dengan Hyunsuk?)"
+      },
+      {
+         "index":285,
+         "soal":"Lagu 'U' (unit rap) memiliki bahasa Inggris full?",
+         "tipe":"bahasa",
+         "jawaban":"Tidak, campuran"
+      },
+      {
+         "index":286,
+         "soal":"Siapa yang paling suka dengan warna coklat?",
+         "tipe":"warna",
+         "jawaban":"Yoon Jaehyuk"
+      },
+      {
+         "index":287,
+         "soal":"Berapa total lagu yang diproduseri oleh Rovin untuk TREASURE?",
+         "tipe":"produser",
+         "jawaban":"Beberapa (HELLO, DARARI)"
+      },
+      {
+         "index":288,
+         "soal":"Siapa yang memiliki kebiasaan 'menggigit jari'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Haruto (dulu)"
+      },
+      {
+         "index":289,
+         "soal":"Apa nama lagu 'I Want Your Love' memiliki lirik 'I want your love, I want your love'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":290,
+         "soal":"Siapa yang paling suka dengan kimchi?",
+         "tipe":"makanan",
+         "jawaban":"Choi Hyunsuk"
+      },
+      {
+         "index":291,
+         "soal":"Lagu 'Slow Motion' memiliki MV?",
+         "tipe":"mv",
+         "jawaban":"Tidak (audio only)"
+      },
+      {
+         "index":292,
+         "soal":"Siapa yang memiliki cover 'Eyes, Nose, Lips' (Taeyang)?",
+         "tipe":"cover",
+         "jawaban":"Bang Yedam (ex, di YG Treasure Box)"
+      },
+      {
+         "index":293,
+         "soal":"Berapa total anggota yang lahir di bulan Desember?",
+         "tipe":"bulan",
+         "jawaban":"Kim Doyoung (4 Desember), So Junghwan (25 Desember?) Junghwan 25 Desember 2005. Jadi Doyoung dan Junghwan = 2"
+      },
+      {
+         "index":294,
+         "soal":"Siapa yang paling suka dengan roti?",
+         "tipe":"roti",
+         "jawaban":"Park Jeongwoo (suka roti)"
+      },
+      {
+         "index":295,
+         "soal":"Apa nama lagu 'Darari' memiliki lirik 'Darari darari darada'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":296,
+         "soal":"Siapa yang memiliki kebiasaan 'memainkan rambut'?",
+         "tipe":"gestur",
+         "jawaban":"Kim Junkyu"
+      },
+      {
+         "index":297,
+         "soal":"Lagu 'JIKJIN' memenangkan berapa music show?",
+         "tipe":"win",
+         "jawaban":"3 (The Show, Show Champion, M Countdown)"
+      },
+      {
+         "index":298,
+         "soal":"Siapa yang paling suka dengan yoghurt?",
+         "tipe":"makanan",
+         "jawaban":"Asahi"
+      },
+      {
+         "index":299,
+         "soal":"Apa nama lagu 'Here I Stand' adalah OST untuk anime 'Black Clover', benar?",
+         "tipe":"true false",
+         "jawaban":"Benar"
+      }
+   ]
+}
