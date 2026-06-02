@@ -1,0 +1,1806 @@
+{
+   "status":true,
+   "game":"kuis aespa",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama leader aespa?",
+         "tipe":"leader",
+         "jawaban":"Karina (Yoo Jimin)"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal debut aespa?",
+         "tipe":"debut date",
+         "jawaban":"17 November 2020"
+      },
+      {
+         "index":2,
+         "soal":"Lagu debut aespa adalah?",
+         "tipe":"debut song",
+         "jawaban":"Black Mamba"
+      },
+      {
+         "index":3,
+         "soal":"Siapa nama fandom resmi aespa?",
+         "tipe":"fandom",
+         "jawaban":"MY (MY)"
+      },
+      {
+         "index":4,
+         "soal":"Berapa jumlah anggota aespa?",
+         "tipe":"jumlah anggota",
+         "jawaban":"4"
+      },
+      {
+         "index":5,
+         "soal":"Siapa anggota tertua aespa?",
+         "tipe":"oldest",
+         "jawaban":"Karina (2000)"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota termuda (maknae) aespa?",
+         "tipe":"maknae",
+         "jawaban":"Ningning (2002)"
+      },
+      {
+         "index":7,
+         "soal":"Siapa yang berasal dari Korea?",
+         "tipe":"asal",
+         "jawaban":"Karina, Winter"
+      },
+      {
+         "index":8,
+         "soal":"Siapa yang berasal dari China?",
+         "tipe":"asal",
+         "jawaban":"Ningning (Ning Yizhuo)"
+      },
+      {
+         "index":9,
+         "soal":"Siapa yang berasal dari Jepang?",
+         "tipe":"asal",
+         "jawaban":"Giselle (Uchinaga Aeri, lahir di Jepang, keturunan Korea-Jepang)"
+      },
+      {
+         "index":10,
+         "soal":"Siapa yang paling fasih berbahasa Inggris?",
+         "tipe":"english",
+         "jawaban":"Giselle (lancar, international school), Karina (cukup)"
+      },
+      {
+         "index":11,
+         "soal":"Siapa yang paling fasih berbahasa Korea?",
+         "tipe":"korea",
+         "jawaban":"Karina, Winter (native)"
+      },
+      {
+         "index":12,
+         "soal":"Siapa yang paling fasih berbahasa Jepang?",
+         "tipe":"jepang",
+         "jawaban":"Giselle (bisa Jepang)"
+      },
+      {
+         "index":13,
+         "soal":"Siapa yang paling fasih berbahasa Mandarin?",
+         "tipe":"mandarin",
+         "jawaban":"Ningning (native China)"
+      },
+      {
+         "index":14,
+         "soal":"Siapa main vocal aespa?",
+         "tipe":"main vocal",
+         "jawaban":"Ningning (power vocal), Winter (lead vocal)"
+      },
+      {
+         "index":15,
+         "soal":"Siapa main dancer aespa?",
+         "tipe":"main dancer",
+         "jawaban":"Karina, Winter"
+      },
+      {
+         "index":16,
+         "soal":"Siapa main rapper aespa?",
+         "tipe":"main rapper",
+         "jawaban":"Giselle, Karina (kadang)"
+      },
+      {
+         "index":17,
+         "soal":"Siapa yang memiliki julukan 'Kamal' (Kangaroo) karena tingginya?",
+         "tipe":"julukan",
+         "jawaban":"Karina (tinggi, kaki panjang)"
+      },
+      {
+         "index":18,
+         "soal":"Siapa yang dijuluki 'Winter Bear'?",
+         "tipe":"julukan",
+         "jawaban":"Winter (mirip beruang salju)"
+      },
+      {
+         "index":19,
+         "soal":"Siapa yang dijuluki 'Giselle the Boss'?",
+         "tipe":"julukan",
+         "jawaban":"Giselle (cool, rapper)"
+      },
+      {
+         "index":20,
+         "soal":"Siapa yang dijuluki 'Ningningie'?",
+         "tipe":"julukan",
+         "jawaban":"Ningning (maknae)"
+      },
+      {
+         "index":21,
+         "soal":"Siapa yang memiliki suara tertinggi di aespa?",
+         "tipe":"vocal",
+         "jawaban":"Ningning (high note dewa), Winter (high pitch)"
+      },
+      {
+         "index":22,
+         "soal":"Siapa yang memiliki suara terendah?",
+         "tipe":"vocal",
+         "jawaban":"Giselle (suara rendah di rap), Karina (suara stabil)"
+      },
+      {
+         "index":23,
+         "soal":"Apa nama lightstick resmi aespa?",
+         "tipe":"lightstick",
+         "jawaban":"MY Bong (Light Stick aespa)"
+      },
+      {
+         "index":24,
+         "soal":"Warna resmi aespa?",
+         "tipe":"warna",
+         "jawaban":"Lavender, Ungu, Aurora (resmi: ungu dan biru?)"
+      },
+      {
+         "index":25,
+         "soal":"Apa konsep AI aespa dengan ae anggota?",
+         "tipe":"konsep",
+         "jawaban":"ae-Karina, ae-Winter, ae-Giselle, ae-Ningning"
+      },
+      {
+         "index":26,
+         "soal":"Album mini pertama aespa?",
+         "tipe":"mini album",
+         "jawaban":"Savage (2021)"
+      },
+      {
+         "index":27,
+         "soal":"Lagu utama 'Savage' adalah?",
+         "tipe":"title",
+         "jawaban":"Savage"
+      },
+      {
+         "index":28,
+         "soal":"Lirik 'I'm a savage, I'm a savage' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Savage"
+      },
+      {
+         "index":29,
+         "soal":"Album 'Girls' (mini album) rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":30,
+         "soal":"Lagu utama 'Girls' adalah?",
+         "tipe":"title",
+         "jawaban":"Girls"
+      },
+      {
+         "index":31,
+         "soal":"Lirik 'Girls, girls, we gon' bring it on' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Girls"
+      },
+      {
+         "index":32,
+         "soal":"Album 'MY WORLD' (mini album) rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":33,
+         "soal":"Lagu utama 'MY WORLD' adalah?",
+         "tipe":"title",
+         "jawaban":"Spicy"
+      },
+      {
+         "index":34,
+         "soal":"Lirik 'I'm too spicy for your heart' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Spicy"
+      },
+      {
+         "index":35,
+         "soal":"Album 'Drama' (mini album) rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023 (November 2023)"
+      },
+      {
+         "index":36,
+         "soal":"Lagu utama 'Drama' adalah?",
+         "tipe":"title",
+         "jawaban":"Drama"
+      },
+      {
+         "index":37,
+         "soal":"Lirik 'I'm the drama, I'm the drama' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Drama"
+      },
+      {
+         "index":38,
+         "soal":"Album full length pertama aespa?",
+         "tipe":"full album",
+         "jawaban":"Armageddon (2024)"
+      },
+      {
+         "index":39,
+         "soal":"Lagu utama 'Armageddon' adalah?",
+         "tipe":"title",
+         "jawaban":"Armageddon, Supernova (double title)"
+      },
+      {
+         "index":40,
+         "soal":"Lirik 'I'm supernova, I'm supernova' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Supernova"
+      },
+      {
+         "index":41,
+         "soal":"Lirik 'Armageddon, armageddon' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Armageddon"
+      },
+      {
+         "index":42,
+         "soal":"Lagu 'Whiplash' dari album 'Armageddon' (2024)?",
+         "tipe":"lagu",
+         "jawaban":"Ya, b-side yang populer"
+      },
+      {
+         "index":43,
+         "soal":"Lagu 'Next Level' (single 2021) remake dari lagu?",
+         "tipe":"remake",
+         "jawaban":"Next Level (Fast & Furious OST)"
+      },
+      {
+         "index":44,
+         "soal":"Lirik 'I'm on the next level, I'm on the next level' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Next Level"
+      },
+      {
+         "index":45,
+         "soal":"Siapa yang paling sering menjadi center di dance?",
+         "tipe":"center",
+         "jawaban":"Karina, Winter"
+      },
+      {
+         "index":46,
+         "soal":"Siapa yang paling sering menjadi ending fairy?",
+         "tipe":"ending",
+         "jawaban":"Karina (sering senyum), Winter (sering wink), Ningning"
+      },
+      {
+         "index":47,
+         "soal":"Siapa yang paling tinggi di aespa?",
+         "tipe":"tinggi",
+         "jawaban":"Karina (167-168 cm), Winter (164-165 cm), Giselle (163 cm), Ningning (162 cm)"
+      },
+      {
+         "index":48,
+         "soal":"Siapa yang paling pendek?",
+         "tipe":"pendek",
+         "jawaban":"Ningning (161-162 cm)"
+      },
+      {
+         "index":49,
+         "soal":"Siapa yang paling suka dengan warna ungu?",
+         "tipe":"warna",
+         "jawaban":"Karina (suka ungu), Winter (suka ungu)"
+      },
+      {
+         "index":50,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"warna",
+         "jawaban":"Giselle (suka hitam), Ningning (suka hitam)"
+      },
+      {
+         "index":51,
+         "soal":"Siapa yang paling suka dengan warna putih?",
+         "tipe":"warna",
+         "jawaban":"Winter (suka putih)"
+      },
+      {
+         "index":52,
+         "soal":"Siapa yang paling suka dengan warna pink?",
+         "tipe":"warna",
+         "jawaban":"Ningning (suka pink)"
+      },
+      {
+         "index":53,
+         "soal":"Siapa yang paling suka dengan kopi?",
+         "tipe":"kopi",
+         "jawaban":"Karina (suka americano), Winter (suka latte)"
+      },
+      {
+         "index":54,
+         "soal":"Siapa yang paling suka dengan boba tea?",
+         "tipe":"boba",
+         "jawaban":"Ningning (suka bubble tea), Giselle"
+      },
+      {
+         "index":55,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"es krim",
+         "jawaban":"Winter (suka ice cream), Ningning"
+      },
+      {
+         "index":56,
+         "soal":"Siapa yang paling suka dengan mie instan?",
+         "tipe":"mie",
+         "jawaban":"Giselle (suka ramen), Ningning"
+      },
+      {
+         "index":57,
+         "soal":"Siapa yang paling suka dengan tteokbokki?",
+         "tipe":"makanan",
+         "jawaban":"Karina (suka pedas), Winter"
+      },
+      {
+         "index":58,
+         "soal":"Siapa yang paling suka dengan pizza?",
+         "tipe":"pizza",
+         "jawaban":"Ningning (suka pizza), Giselle"
+      },
+      {
+         "index":59,
+         "soal":"Siapa yang paling suka dengan ayam goreng?",
+         "tipe":"ayam",
+         "jawaban":"Winter (suka chicken), Karina"
+      },
+      {
+         "index":60,
+         "soal":"Siapa yang paling suka dengan sushi?",
+         "tipe":"sushi",
+         "jawaban":"Giselle (suka Jepang)"
+      },
+      {
+         "index":61,
+         "soal":"Siapa yang paling suka dengan ramen?",
+         "tipe":"ramen",
+         "jawaban":"Giselle, Ningning"
+      },
+      {
+         "index":62,
+         "soal":"Siapa yang memiliki hobi membaca?",
+         "tipe":"baca",
+         "jawaban":"Winter (suka baca buku), Karina"
+      },
+      {
+         "index":63,
+         "soal":"Siapa yang memiliki hobi fotografi?",
+         "tipe":"foto",
+         "jawaban":"Karina (suka foto), Giselle, Winter"
+      },
+      {
+         "index":64,
+         "soal":"Siapa yang memiliki hobi menggambar?",
+         "tipe":"gambar",
+         "jawaban":"Winter (suka gambar), Ningning"
+      },
+      {
+         "index":65,
+         "soal":"Siapa yang memiliki hobi menulis?",
+         "tipe":"menulis",
+         "jawaban":"Karina (suka nulis diary)"
+      },
+      {
+         "index":66,
+         "soal":"Siapa yang memiliki hobi memasak?",
+         "tipe":"masak",
+         "jawaban":"Giselle (suka masak), Karina"
+      },
+      {
+         "index":67,
+         "soal":"Siapa yang paling suka dengan hewan kucing?",
+         "tipe":"kucing",
+         "jawaban":"Karina (suka kucing, punya?), Giselle"
+      },
+      {
+         "index":68,
+         "soal":"Siapa yang paling suka dengan hewan anjing?",
+         "tipe":"anjing",
+         "jawaban":"Winter (suka puppy), Ningning (suka anjing)"
+      },
+      {
+         "index":69,
+         "soal":"Siapa yang paling suka dengan hewan hamster?",
+         "tipe":"hamster",
+         "jawaban":"Ningning (mirip hamster)"
+      },
+      {
+         "index":70,
+         "soal":"Siapa yang paling suka dengan hewan beruang?",
+         "tipe":"beruang",
+         "jawaban":"Winter (julukan winter bear)"
+      },
+      {
+         "index":71,
+         "soal":"Siapa yang paling suka dengan anime?",
+         "tipe":"anime",
+         "jawaban":"Giselle (suka anime Jepang), Winter"
+      },
+      {
+         "index":72,
+         "soal":"Siapa yang paling suka dengan film Disney?",
+         "tipe":"disney",
+         "jawaban":"Winter (suka Disney), Karina"
+      },
+      {
+         "index":73,
+         "soal":"Siapa yang paling suka dengan film horor?",
+         "tipe":"horor",
+         "jawaban":"Karina (suka horor), Giselle (takut)"
+      },
+      {
+         "index":74,
+         "soal":"Siapa yang paling suka dengan drama Korea?",
+         "tipe":"drama",
+         "jawaban":"Winter (suka drakor), Ningning"
+      },
+      {
+         "index":75,
+         "soal":"Siapa yang paling suka dengan game online?",
+         "tipe":"game",
+         "jawaban":"Karina (suka game), Giselle (suka game mobile)"
+      },
+      {
+         "index":76,
+         "soal":"Siapa yang paling suka dengan olahraga renang?",
+         "tipe":"renang",
+         "jawaban":"Winter (suka renang), Karina"
+      },
+      {
+         "index":77,
+         "soal":"Siapa yang paling suka dengan yoga?",
+         "tipe":"yoga",
+         "jawaban":"Ningning (suka yoga), Giselle"
+      },
+      {
+         "index":78,
+         "soal":"Siapa yang paling suka dengan workout?",
+         "tipe":"workout",
+         "jawaban":"Karina (rajin gym), Winter"
+      },
+      {
+         "index":79,
+         "soal":"Siapa yang paling sering melakukan aegyo?",
+         "tipe":"aegyo",
+         "jawaban":"Ningning (suka aegyo), Winter (kadang), Karina (jarang)"
+      },
+      {
+         "index":80,
+         "soal":"Siapa yang paling pemalu di grup?",
+         "tipe":"pemalu",
+         "jawaban":"Ningning (awalnya pemalu, sekarang lebih percaya diri), Giselle (tidak)"
+      },
+      {
+         "index":81,
+         "soal":"Siapa yang paling heboh (energik)?",
+         "tipe":"energi",
+         "jawaban":"Winter, Ningning (energik)"
+      },
+      {
+         "index":82,
+         "soal":"Siapa yang paling tenang?",
+         "tipe":"tenang",
+         "jawaban":"Karina (leader yang kalem), Giselle (cool)"
+      },
+      {
+         "index":83,
+         "soal":"Siapa yang paling sering menjadi 'mom' di grup?",
+         "tipe":"mom",
+         "jawaban":"Karina (leader, suka rawat member)"
+      },
+      {
+         "index":84,
+         "soal":"Siapa yang paling sering menjadi 'baby' di grup?",
+         "tipe":"baby",
+         "jawaban":"Ningning (maknae)"
+      },
+      {
+         "index":85,
+         "soal":"Siapa yang paling sering memberikan kata motivasi?",
+         "tipe":"motivasi",
+         "jawaban":"Karina (leader speech)"
+      },
+      {
+         "index":86,
+         "soal":"Apa nama acara reality aespa 'aespa's Synk Road'?",
+         "tipe":"variety",
+         "jawaban":"aespa's Synk Road (2021, YouTube)"
+      },
+      {
+         "index":87,
+         "soal":"Apa nama acara 'aespa's Meta Universe'?",
+         "tipe":"variety",
+         "jawaban":"aespa's Meta Universe (2022)"
+      },
+      {
+         "index":88,
+         "soal":"Siapa yang paling sering update di Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Karina (sering update), Winter, Ningning"
+      },
+      {
+         "index":89,
+         "soal":"Siapa yang paling jarang update di Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Giselle (jarang update)"
+      },
+      {
+         "index":90,
+         "soal":"Siapa yang memiliki tato?",
+         "tipe":"tato",
+         "jawaban":"Tidak ada (belum ada yang punya tato)"
+      },
+      {
+         "index":91,
+         "soal":"Siapa yang memiliki piercing?",
+         "tipe":"piercing",
+         "jawaban":"Karina (piercing telinga), Winter, Giselle, Ningning (semua punya piercing telinga)"
+      },
+      {
+         "index":92,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Givenchy'?",
+         "tipe":"brand",
+         "jawaban":"aespa (grup, 2021-2022)"
+      },
+      {
+         "index":93,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Clio'?",
+         "tipe":"brand",
+         "jawaban":"aespa (grup, 2022)"
+      },
+      {
+         "index":94,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Lotte'?",
+         "tipe":"brand",
+         "jawaban":"aespa (grup, 2022)"
+      },
+      {
+         "index":95,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Epique' (skincare)?",
+         "tipe":"brand",
+         "jawaban":"Giselle (2023)"
+      },
+      {
+         "index":96,
+         "soal":"Siapa yang paling suka dengan fashion mewah?",
+         "tipe":"fashion",
+         "jawaban":"Karina, Giselle (suka fashion luxury)"
+      },
+      {
+         "index":97,
+         "soal":"Siapa yang paling suka dengan fashion sporty?",
+         "tipe":"fashion",
+         "jawaban":"Winter (suka sporty), Karina"
+      },
+      {
+         "index":98,
+         "soal":"Siapa yang paling suka dengan fashion elegant?",
+         "tipe":"fashion",
+         "jawaban":"Ningning (suka dress elegant)"
+      },
+      {
+         "index":99,
+         "soal":"Siapa yang paling suka dengan fashion Y2K?",
+         "tipe":"fashion",
+         "jawaban":"Giselle (suka gaya 2000an), Winter"
+      },
+      {
+         "index":100,
+         "soal":"Siapa yang paling suka dengan makeup bold?",
+         "tipe":"makeup",
+         "jawaban":"Karina (eyeliner tajam), Giselle (bold lip)"
+      },
+      {
+         "index":101,
+         "soal":"Siapa yang paling suka dengan makeup natural?",
+         "tipe":"makeup",
+         "jawaban":"Winter (natural look), Ningning (soft look)"
+      },
+      {
+         "index":102,
+         "soal":"Siapa yang paling suka dengan skincare?",
+         "tipe":"skincare",
+         "jawaban":"Karina (suka perawatan), Winter"
+      },
+      {
+         "index":103,
+         "soal":"Siapa yang paling suka dengan parfum?",
+         "tipe":"parfum",
+         "jawaban":"Karina, Giselle"
+      },
+      {
+         "index":104,
+         "soal":"Siapa yang paling suka dengan sneakers?",
+         "tipe":"sepatu",
+         "jawaban":"Winter (suka sneakers), Karina"
+      },
+      {
+         "index":105,
+         "soal":"Siapa yang paling suka dengan high heels?",
+         "tipe":"sepatu",
+         "jawaban":"Ningning (suka heels di panggung), Karina"
+      },
+      {
+         "index":106,
+         "soal":"Siapa yang paling suka dengan tas branded?",
+         "tipe":"tas",
+         "jawaban":"Karina (suka tas mewah), Giselle"
+      },
+      {
+         "index":107,
+         "soal":"Siapa yang paling suka dengan perhiasan?",
+         "tipe":"perhiasan",
+         "jawaban":"Winter (suka jewelry simple)"
+      },
+      {
+         "index":108,
+         "soal":"Siapa yang paling suka dengan topi bucket?",
+         "tipe":"topi",
+         "jawaban":"Ningning (suka topi)"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang paling suka dengan kacamata hitam?",
+         "tipe":"kacamata",
+         "jawaban":"Karina (suka sunglasses)"
+      },
+      {
+         "index":110,
+         "soal":"Siapa yang paling sering ganti warna rambut?",
+         "tipe":"rambut",
+         "jawaban":"Winter (sering ganti warna, platinum, hitam, biru), Karina (sering ganti)"
+      },
+      {
+         "index":111,
+         "soal":"Siapa yang paling jarang ganti warna rambut?",
+         "tipe":"rambut",
+         "jawaban":"Ningning (hitam natural, kadang brown)"
+      },
+      {
+         "index":112,
+         "soal":"Siapa yang memiliki rambut paling panjang?",
+         "tipe":"rambut",
+         "jawaban":"Karina (rambut panjang), Ningning"
+      },
+      {
+         "index":113,
+         "soal":"Siapa yang paling suka dengan rambut pendek?",
+         "tipe":"rambut",
+         "jawaban":"Giselle (pernah bob pendek)"
+      },
+      {
+         "index":114,
+         "soal":"Siapa yang paling suka dengan musim panas?",
+         "tipe":"musim",
+         "jawaban":"Winter (ironis? winter suka summer? tidak, dia suka winter? biasanya Winter suka musim dingin, Ningning suka summer)"
+      },
+      {
+         "index":115,
+         "soal":"Siapa yang paling suka dengan musim dingin?",
+         "tipe":"musim",
+         "jawaban":"Winter (namanya winter, suka salju)"
+      },
+      {
+         "index":116,
+         "soal":"Siapa yang paling suka dengan musim semi?",
+         "tipe":"musim",
+         "jawaban":"Karina (suka spring)"
+      },
+      {
+         "index":117,
+         "soal":"Siapa yang paling suka dengan musim gugur?",
+         "tipe":"musim",
+         "jawaban":"Ningning (suka autumn)"
+      },
+      {
+         "index":118,
+         "soal":"Siapa yang paling suka dengan pantai?",
+         "tipe":"pantai",
+         "jawaban":"Karina (suka laut), Winter"
+      },
+      {
+         "index":119,
+         "soal":"Siapa yang paling suka dengan pegunungan?",
+         "tipe":"gunung",
+         "jawaban":"Giselle (suka hiking)"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang paling suka dengan traveling?",
+         "tipe":"travel",
+         "jawaban":"Karina (suka liburan), Giselle"
+      },
+      {
+         "index":121,
+         "soal":"Siapa yang paling suka dengan hotel mewah?",
+         "tipe":"hotel",
+         "jawaban":"Karina, Ningning"
+      },
+      {
+         "index":122,
+         "soal":"Siapa yang paling suka dengan camping?",
+         "tipe":"camping",
+         "jawaban":"Winter (suka outbond)"
+      },
+      {
+         "index":123,
+         "soal":"Siapa yang paling suka dengan tidur?",
+         "tipe":"tidur",
+         "jawaban":"Ningning (suka tidur), Winter (suka tidur)"
+      },
+      {
+         "index":124,
+         "soal":"Siapa yang paling pagi bangun?",
+         "tipe":"pagi",
+         "jawaban":"Karina (disiplin)"
+      },
+      {
+         "index":125,
+         "soal":"Siapa yang paling sering begadang?",
+         "tipe":"malam",
+         "jawaban":"Winter (suka begadang), Ningning"
+      },
+      {
+         "index":126,
+         "soal":"Siapa yang paling suka dengan musik pop?",
+         "tipe":"musik",
+         "jawaban":"Semua"
+      },
+      {
+         "index":127,
+         "soal":"Siapa yang paling suka dengan musik R&B?",
+         "tipe":"musik",
+         "jawaban":"Karina (suka R&B), Giselle"
+      },
+      {
+         "index":128,
+         "soal":"Siapa yang paling suka dengan musik hip-hop?",
+         "tipe":"musik",
+         "jawaban":"Giselle (suka hip-hop), Karina"
+      },
+      {
+         "index":129,
+         "soal":"Siapa yang paling suka dengan musik ballad?",
+         "tipe":"musik",
+         "jawaban":"Winter (suka ballad), Ningning"
+      },
+      {
+         "index":130,
+         "soal":"Siapa yang paling suka dengan artis Ariana Grande?",
+         "tipe":"artis",
+         "jawaban":"Ningning (suka Ariana), Winter"
+      },
+      {
+         "index":131,
+         "soal":"Siapa yang paling suka dengan artis Taylor Swift?",
+         "tipe":"artis",
+         "jawaban":"Karina (suka Taylor), Winter"
+      },
+      {
+         "index":132,
+         "soal":"Siapa yang paling suka dengan artis Olivia Rodrigo?",
+         "tipe":"artis",
+         "jawaban":"Winter (suka Olivia)"
+      },
+      {
+         "index":133,
+         "soal":"Siapa yang paling suka dengan artis Justin Bieber?",
+         "tipe":"artis",
+         "jawaban":"Giselle (suka JB), Karina"
+      },
+      {
+         "index":134,
+         "soal":"Siapa yang paling suka dengan BTS?",
+         "tipe":"artis",
+         "jawaban":"Karina (suka BTS), Winter"
+      },
+      {
+         "index":135,
+         "soal":"Siapa yang paling suka dengan BLACKPINK?",
+         "tipe":"artis",
+         "jawaban":"Giselle (suka BP), Ningning"
+      },
+      {
+         "index":136,
+         "soal":"Siapa yang paling suka dengan TWICE?",
+         "tipe":"artis",
+         "jawaban":"Winter (suka TWICE)"
+      },
+      {
+         "index":137,
+         "soal":"Siapa yang paling suka dengan Red Velvet?",
+         "tipe":"artis",
+         "jawaban":"Karina (suka Red Velvet)"
+      },
+      {
+         "index":138,
+         "soal":"Siapa yang paling sering menangis di konser?",
+         "tipe":"emosi",
+         "jawaban":"Winter (sering terharu), Karina (kadang)"
+      },
+      {
+         "index":139,
+         "soal":"Siapa yang paling jarang menangis?",
+         "tipe":"emosi",
+         "jawaban":"Giselle (cool, jarang show emotion)"
+      },
+      {
+         "index":140,
+         "soal":"Siapa yang paling sering memberikan fans service?",
+         "tipe":"fans",
+         "jawaban":"Karina (sering love sign), Winter (wink), Ningning (aegyo)"
+      },
+      {
+         "index":141,
+         "soal":"Siapa yang paling sering interaksi dengan MY di fan meeting?",
+         "tipe":"fans",
+         "jawaban":"Karina, Winter"
+      },
+      {
+         "index":142,
+         "soal":"Siapa yang paling suka dengan membaca komentar fans?",
+         "tipe":"fans",
+         "jawaban":"Karina (suka baca komen), Winter"
+      },
+      {
+         "index":143,
+         "soal":"Siapa yang paling sering live di Instagram?",
+         "tipe":"live",
+         "jawaban":"Karina (sering live), Winter"
+      },
+      {
+         "index":144,
+         "soal":"Siapa yang paling jarang live?",
+         "tipe":"live",
+         "jawaban":"Giselle (jarang live), Ningning (kadang)"
+      },
+      {
+         "index":145,
+         "soal":"Siapa yang paling sering membagikan foto makanan?",
+         "tipe":"foto",
+         "jawaban":"Winter (suka foto makanan), Ningning"
+      },
+      {
+         "index":146,
+         "soal":"Siapa yang paling sering membagikan foto OOTD?",
+         "tipe":"fashion",
+         "jawaban":"Karina (suka posting OOTD), Giselle"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang paling suka dengan beauty content?",
+         "tipe":"beauty",
+         "jawaban":"Karina, Winter"
+      },
+      {
+         "index":148,
+         "soal":"Siapa yang paling suka dengan makeup tutorial?",
+         "tipe":"makeup",
+         "jawaban":"Winter (suka tutorial), Karina"
+      },
+      {
+         "index":149,
+         "soal":"Siapa yang paling suka dengan lip tint?",
+         "tipe":"makeup",
+         "jawaban":"Ningning (suka lip tint)"
+      },
+      {
+         "index":150,
+         "soal":"Siapa yang paling suka dengan lip matte?",
+         "tipe":"makeup",
+         "jawaban":"Karina (suka red matte)"
+      },
+      {
+         "index":151,
+         "soal":"Siapa yang paling suka dengan skincare Korean?",
+         "tipe":"skincare",
+         "jawaban":"Winter (suka produk Korea), Karina"
+      },
+      {
+         "index":152,
+         "soal":"Siapa yang paling suka dengan sunscreen?",
+         "tipe":"skincare",
+         "jawaban":"Karina (suka sunblock), Ningning"
+      },
+      {
+         "index":153,
+         "soal":"Siapa yang paling suka dengan serum vitamin C?",
+         "tipe":"skincare",
+         "jawaban":"Giselle (suka brightening)"
+      },
+      {
+         "index":154,
+         "soal":"Siapa yang paling suka dengan parfum floral?",
+         "tipe":"parfum",
+         "jawaban":"Winter (suka wangi bunga)"
+      },
+      {
+         "index":155,
+         "soal":"Siapa yang paling suka dengan parfum fresh?",
+         "tipe":"parfum",
+         "jawaban":"Karina (suka citrus)"
+      },
+      {
+         "index":156,
+         "soal":"Siapa yang paling suka dengan parfum manis?",
+         "tipe":"parfum",
+         "jawaban":"Ningning (suka vanilla)"
+      },
+      {
+         "index":157,
+         "soal":"Siapa yang paling suka dengan parfum woody?",
+         "tipe":"parfum",
+         "jawaban":"Giselle (suka aroma maskulin)"
+      },
+      {
+         "index":158,
+         "soal":"Siapa yang paling suka dengan lilin aromaterapi?",
+         "tipe":"lilin",
+         "jawaban":"Karina (suka relaksasi)"
+      },
+      {
+         "index":159,
+         "soal":"Siapa yang paling suka dengan bunga mawar?",
+         "tipe":"bunga",
+         "jawaban":"Winter (suka rose)"
+      },
+      {
+         "index":160,
+         "soal":"Siapa yang paling suka dengan bunga sakura?",
+         "tipe":"bunga",
+         "jawaban":"Giselle (suka cherry blossom)"
+      },
+      {
+         "index":161,
+         "soal":"Siapa yang paling suka dengan bunga lavender?",
+         "tipe":"bunga",
+         "jawaban":"Ningning (suka lavender)"
+      },
+      {
+         "index":162,
+         "soal":"Siapa yang paling suka dengan bunga matahari?",
+         "tipe":"bunga",
+         "jawaban":"Karina (suka sunflower)"
+      },
+      {
+         "index":163,
+         "soal":"Siapa yang paling suka dengan tanaman indoor?",
+         "tipe":"tanaman",
+         "jawaban":"Winter (suka tanaman hias)"
+      },
+      {
+         "index":164,
+         "soal":"Siapa yang paling suka dengan kaktus?",
+         "tipe":"kaktus",
+         "jawaban":"Giselle (suka kaktus lucu)"
+      },
+      {
+         "index":165,
+         "soal":"Siapa yang paling suka dengan sunrise?",
+         "tipe":"sunrise",
+         "jawaban":"Karina (suka bangun pagi)"
+      },
+      {
+         "index":166,
+         "soal":"Siapa yang paling suka dengan sunset?",
+         "tipe":"sunset",
+         "jawaban":"Winter (suka sunset aesthetic)"
+      },
+      {
+         "index":167,
+         "soal":"Siapa yang paling suka dengan langit malam?",
+         "tipe":"langit",
+         "jawaban":"Ningning (suka bintang)"
+      },
+      {
+         "index":168,
+         "soal":"Siapa yang paling suka dengan hujan?",
+         "tipe":"hujan",
+         "jawaban":"Giselle (suka suasana hujan)"
+      },
+      {
+         "index":169,
+         "soal":"Siapa yang paling suka dengan salju?",
+         "tipe":"salju",
+         "jawaban":"Winter (suka snow)"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang paling suka dengan kopi americano?",
+         "tipe":"kopi",
+         "jawaban":"Karina (suka americano)"
+      },
+      {
+         "index":171,
+         "soal":"Siapa yang paling suka dengan kopi latte?",
+         "tipe":"kopi",
+         "jawaban":"Winter (suka latte)"
+      },
+      {
+         "index":172,
+         "soal":"Siapa yang paling suka dengan teh hijau?",
+         "tipe":"teh",
+         "jawaban":"Ningning (suka green tea)"
+      },
+      {
+         "index":173,
+         "soal":"Siapa yang paling suka dengan teh hitam?",
+         "tipe":"teh",
+         "jawaban":"Giselle (suka black tea)"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang paling suka dengan jus jeruk?",
+         "tipe":"jus",
+         "jawaban":"Winter (suka orange juice)"
+      },
+      {
+         "index":175,
+         "soal":"Siapa yang paling suka dengan air putih?",
+         "tipe":"air",
+         "jawaban":"Karina (suka minum air putih)"
+      },
+      {
+         "index":176,
+         "soal":"Siapa yang paling suka dengan minuman bersoda?",
+         "tipe":"soda",
+         "jawaban":"Ningning (suka coke)"
+      },
+      {
+         "index":177,
+         "soal":"Siapa yang paling suka dengan alkohol (soju)?",
+         "tipe":"alkohol",
+         "jawaban":"Karina (suka soju, sudah legal 2025 25 tahun), Giselle"
+      },
+      {
+         "index":178,
+         "soal":"Siapa yang paling suka dengan cocktail?",
+         "tipe":"cocktail",
+         "jawaban":"Winter (suka mocktail)"
+      },
+      {
+         "index":179,
+         "soal":"Siapa yang paling suka dengan night club?",
+         "tipe":"club",
+         "jawaban":"Giselle (suka dance), Karina"
+      },
+      {
+         "index":180,
+         "soal":"Siapa yang paling suka dengan karaoke?",
+         "tipe":"karaoke",
+         "jawaban":"Winter (suka nyanyi), Ningning"
+      },
+      {
+         "index":181,
+         "soal":"Siapa yang paling suka dengan stay at home?",
+         "tipe":"rumah",
+         "jawaban":"Ningning (homebody), Winter"
+      },
+      {
+         "index":182,
+         "soal":"Siapa yang paling suka dengan Netflix?",
+         "tipe":"netflix",
+         "jawaban":"Winter (suka nonton drakor), Karina"
+      },
+      {
+         "index":183,
+         "soal":"Siapa yang paling suka dengan game mobile?",
+         "tipe":"game",
+         "jawaban":"Ningning (suka game mobile), Giselle"
+      },
+      {
+         "index":184,
+         "soal":"Siapa yang paling suka dengan game PC?",
+         "tipe":"game",
+         "jawaban":"Karina (suka game PC)"
+      },
+      {
+         "index":185,
+         "soal":"Siapa yang paling suka dengan Nintendo Switch?",
+         "tipe":"game",
+         "jawaban":"Winter (suka Animal Crossing)"
+      },
+      {
+         "index":186,
+         "soal":"Siapa yang paling suka dengan film action?",
+         "tipe":"film",
+         "jawaban":"Karina, Giselle"
+      },
+      {
+         "index":187,
+         "soal":"Siapa yang paling suka dengan film romance?",
+         "tipe":"film",
+         "jawaban":"Winter (suka rom-com), Ningning"
+      },
+      {
+         "index":188,
+         "soal":"Siapa yang paling suka dengan film thriller?",
+         "tipe":"film",
+         "jawaban":"Giselle (suka thriller)"
+      },
+      {
+         "index":189,
+         "soal":"Siapa yang paling suka dengan film komedi?",
+         "tipe":"film",
+         "jawaban":"Ningning (suka komedi)"
+      },
+      {
+         "index":190,
+         "soal":"Siapa yang paling suka dengan buku novel?",
+         "tipe":"buku",
+         "jawaban":"Winter (suka novel), Karina"
+      },
+      {
+         "index":191,
+         "soal":"Siapa yang paling suka dengan komik?",
+         "tipe":"komik",
+         "jawaban":"Giselle (suka manga)"
+      },
+      {
+         "index":192,
+         "soal":"Siapa yang paling suka dengan webtoon?",
+         "tipe":"webtoon",
+         "jawaban":"Ningning (suka baca webtoon)"
+      },
+      {
+         "index":193,
+         "soal":"Siapa yang paling kreatif dalam menulis?",
+         "tipe":"menulis",
+         "jawaban":"Karina (suka nulis)"
+      },
+      {
+         "index":194,
+         "soal":"Siapa yang paling sering memberikan ide untuk koreografi?",
+         "tipe":"koreo",
+         "jawaban":"Karina, Winter"
+      },
+      {
+         "index":195,
+         "soal":"Siapa yang paling perfeksionis dalam penampilan?",
+         "tipe":"perfeksionis",
+         "jawaban":"Karina (detail oriented)"
+      },
+      {
+         "index":196,
+         "soal":"Siapa yang paling suka dengan fashion mewah?",
+         "tipe":"fashion",
+         "jawaban":"Karina, Giselle"
+      },
+      {
+         "index":197,
+         "soal":"Siapa yang paling sering menjadi model untuk majalah?",
+         "tipe":"model",
+         "jawaban":"Karina (banyak cover magazine), Winter"
+      },
+      {
+         "index":198,
+         "soal":"Siapa yang paling suka dengan diet sehat?",
+         "tipe":"diet",
+         "jawaban":"Karina (jaga berat badan), Winter"
+      },
+      {
+         "index":199,
+         "soal":"Siapa yang paling suka dengan makan banyak?",
+         "tipe":"makan",
+         "jawaban":"Ningning (suka makan), Winter"
+      },
+      {
+         "index":200,
+         "soal":"Siapa yang paling sering ngemil?",
+         "tipe":"snack",
+         "jawaban":"Ningning (suka snack), Winter"
+      },
+      {
+         "index":201,
+         "soal":"Siapa yang paling suka dengan coklat?",
+         "tipe":"coklat",
+         "jawaban":"Ningning (suka chocolate), Winter"
+      },
+      {
+         "index":202,
+         "soal":"Siapa yang paling suka dengan permen?",
+         "tipe":"permen",
+         "jawaban":"Giselle (suka candy)"
+      },
+      {
+         "index":203,
+         "soal":"Siapa yang paling suka dengan kue?",
+         "tipe":"kue",
+         "jawaban":"Karina (suka cake)"
+      },
+      {
+         "index":204,
+         "soal":"Siapa yang paling suka dengan donat?",
+         "tipe":"donat",
+         "jawaban":"Winter (suka donat)"
+      },
+      {
+         "index":205,
+         "soal":"Siapa yang paling suka dengan ice cream?",
+         "tipe":"ice cream",
+         "jawaban":"Ningning (suka ice cream)"
+      },
+      {
+         "index":206,
+         "soal":"Siapa yang paling suka dengan dessert?",
+         "tipe":"dessert",
+         "jawaban":"Ningning, Winter"
+      },
+      {
+         "index":207,
+         "soal":"Siapa yang paling suka dengan Korean BBQ?",
+         "tipe":"makanan",
+         "jawaban":"Karina (suka BBQ)"
+      },
+      {
+         "index":208,
+         "soal":"Siapa yang paling suka dengan hot pot?",
+         "tipe":"makanan",
+         "jawaban":"Ningning (suka hot pot China)"
+      },
+      {
+         "index":209,
+         "soal":"Siapa yang paling suka dengan Japanese food?",
+         "tipe":"makanan",
+         "jawaban":"Giselle (suka makanan Jepang)"
+      },
+      {
+         "index":210,
+         "soal":"Siapa yang paling suka dengan Chinese food?",
+         "tipe":"makanan",
+         "jawaban":"Ningning (suka Chinese food)"
+      },
+      {
+         "index":211,
+         "soal":"Siapa yang paling suka dengan Western food?",
+         "tipe":"makanan",
+         "jawaban":"Karina (suka pasta, steak)"
+      },
+      {
+         "index":212,
+         "soal":"Siapa yang paling suka dengan nasi goreng?",
+         "tipe":"makanan",
+         "jawaban":"Winter (suka nasi goreng)"
+      },
+      {
+         "index":213,
+         "soal":"Siapa yang paling suka dengan mie goreng?",
+         "tipe":"makanan",
+         "jawaban":"Giselle (suka mie goreng)"
+      },
+      {
+         "index":214,
+         "soal":"Siapa yang paling suka dengan pasta?",
+         "tipe":"pasta",
+         "jawaban":"Karina (suka carbonara)"
+      },
+      {
+         "index":215,
+         "soal":"Siapa yang paling suka dengan steak?",
+         "tipe":"steak",
+         "jawaban":"Karina (suka daging sapi)"
+      },
+      {
+         "index":216,
+         "soal":"Siapa yang paling suka dengan salad?",
+         "tipe":"salad",
+         "jawaban":"Winter (suka salad sehat)"
+      },
+      {
+         "index":217,
+         "soal":"Siapa yang paling suka dengan sayur?",
+         "tipe":"sayur",
+         "jawaban":"Karina (suka brokoli)"
+      },
+      {
+         "index":218,
+         "soal":"Siapa yang paling suka dengan buah?",
+         "tipe":"buah",
+         "jawaban":"Ningning (suka strawberry), Winter"
+      },
+      {
+         "index":219,
+         "soal":"Siapa yang paling suka dengan strawberry?",
+         "tipe":"buah",
+         "jawaban":"Ningning (suka strawberry), Karina"
+      },
+      {
+         "index":220,
+         "soal":"Siapa yang paling suka dengan jeruk?",
+         "tipe":"buah",
+         "jawaban":"Winter (suka orange)"
+      },
+      {
+         "index":221,
+         "soal":"Siapa yang paling suka dengan anggur?",
+         "tipe":"buah",
+         "jawaban":"Giselle (suka grape)"
+      },
+      {
+         "index":222,
+         "soal":"Siapa yang paling suka dengan kiwi?",
+         "tipe":"buah",
+         "jawaban":"Karina (suka kiwi)"
+      },
+      {
+         "index":223,
+         "soal":"Siapa yang paling suka dengan semangka?",
+         "tipe":"buah",
+         "jawaban":"Ningning (suka watermelon)"
+      },
+      {
+         "index":224,
+         "soal":"Siapa yang paling suka dengan melon?",
+         "tipe":"buah",
+         "jawaban":"Winter (suka melon)"
+      },
+      {
+         "index":225,
+         "soal":"Siapa yang paling suka dengan nanas?",
+         "tipe":"buah",
+         "jawaban":"Karina (suka pineapple)"
+      },
+      {
+         "index":226,
+         "soal":"Siapa yang paling suka dengan mangga?",
+         "tipe":"buah",
+         "jawaban":"Giselle (suka mango)"
+      },
+      {
+         "index":227,
+         "soal":"Siapa yang paling suka dengan alpukat?",
+         "tipe":"buah",
+         "jawaban":"Winter (suka avocado)"
+      },
+      {
+         "index":228,
+         "soal":"Siapa yang paling suka dengan pisang?",
+         "tipe":"buah",
+         "jawaban":"Ningning (suka banana)"
+      },
+      {
+         "index":229,
+         "soal":"Siapa yang paling sering sakit?",
+         "tipe":"kesehatan",
+         "jawaban":"Winter (kadang sakit flu), Karina (sehat)"
+      },
+      {
+         "index":230,
+         "soal":"Siapa yang paling jarang sakit?",
+         "tipe":"kesehatan",
+         "jawaban":"Karina (kuat)"
+      },
+      {
+         "index":231,
+         "soal":"Siapa yang paling suka dengan olahraga di gym?",
+         "tipe":"olahraga",
+         "jawaban":"Karina (rajin gym)"
+      },
+      {
+         "index":232,
+         "soal":"Siapa yang paling suka dengan lari pagi?",
+         "tipe":"lari",
+         "jawaban":"Karina, Winter"
+      },
+      {
+         "index":233,
+         "soal":"Siapa yang paling suka dengan pilates?",
+         "tipe":"pilates",
+         "jawaban":"Ningning (suka pilates)"
+      },
+      {
+         "index":234,
+         "soal":"Siapa yang paling suka dengan yoga?",
+         "tipe":"yoga",
+         "jawaban":"Giselle (suka yoga)"
+      },
+      {
+         "index":235,
+         "soal":"Siapa yang paling suka dengan bersepeda?",
+         "tipe":"sepeda",
+         "jawaban":"Winter (suka bike)"
+      },
+      {
+         "index":236,
+         "soal":"Siapa yang paling suka dengan hiking?",
+         "tipe":"hiking",
+         "jawaban":"Giselle (suka hiking)"
+      },
+      {
+         "index":237,
+         "soal":"Siapa yang paling suka dengan renang?",
+         "tipe":"renang",
+         "jawaban":"Karina (suka renang)"
+      },
+      {
+         "index":238,
+         "soal":"Siapa yang paling suka dengan basket?",
+         "tipe":"basket",
+         "jawaban":"Karina (tinggi, suka basket)"
+      },
+      {
+         "index":239,
+         "soal":"Siapa yang paling suka dengan voli?",
+         "tipe":"voli",
+         "jawaban":"Winter (suka voli)"
+      },
+      {
+         "index":240,
+         "soal":"Siapa yang paling suka dengan bowling?",
+         "tipe":"bowling",
+         "jawaban":"Giselle (suka bowling)"
+      },
+      {
+         "index":241,
+         "soal":"Siapa yang paling suka dengan billiard?",
+         "tipe":"billiard",
+         "jawaban":"Ningning (suka billiard)"
+      },
+      {
+         "index":242,
+         "soal":"Siapa yang paling suka dengan ski?",
+         "tipe":"ski",
+         "jawaban":"Winter (suka winter sport)"
+      },
+      {
+         "index":243,
+         "soal":"Siapa yang paling suka dengan skating?",
+         "tipe":"skating",
+         "jawaban":"Karina (suka ice skating)"
+      },
+      {
+         "index":244,
+         "soal":"Siapa yang paling suka dengan dance cover?",
+         "tipe":"dance",
+         "jawaban":"Karina (suka dance), Winter"
+      },
+      {
+         "index":245,
+         "soal":"Siapa yang paling suka dengan choreography challenge TikTok?",
+         "tipe":"tiktok",
+         "jawaban":"Winter, Ningning"
+      },
+      {
+         "index":246,
+         "soal":"Siapa yang paling suka dengan cover song di Instagram?",
+         "tipe":"cover",
+         "jawaban":"Ningning (suka nyanyi), Winter"
+      },
+      {
+         "index":247,
+         "soal":"Siapa yang paling suka dengan vlog?",
+         "tipe":"vlog",
+         "jawaban":"Karina (suka bikin vlog)"
+      },
+      {
+         "index":248,
+         "soal":"Siapa yang paling suka dengan travel vlog?",
+         "tipe":"travel",
+         "jawaban":"Karina, Giselle"
+      },
+      {
+         "index":249,
+         "soal":"Siapa yang paling suka dengan beauty vlog?",
+         "tipe":"beauty",
+         "jawaban":"Winter, Karina"
+      },
+      {
+         "index":250,
+         "soal":"Siapa yang paling suka dengan mukbang?",
+         "tipe":"makan",
+         "jawaban":"Ningning (suka makan)"
+      },
+      {
+         "index":251,
+         "soal":"Siapa yang paling suka dengan podcast?",
+         "tipe":"podcast",
+         "jawaban":"Karina (suka dengar podcast)"
+      },
+      {
+         "index":252,
+         "soal":"Siapa yang paling suka dengan puzzle?",
+         "tipe":"puzzle",
+         "jawaban":"Winter (suka puzzle)"
+      },
+      {
+         "index":253,
+         "soal":"Siapa yang paling suka dengan sudoku?",
+         "tipe":"sudoku",
+         "jawaban":"Giselle (suka asah otak)"
+      },
+      {
+         "index":254,
+         "soal":"Siapa yang paling suka dengan board game?",
+         "tipe":"board game",
+         "jawaban":"Karina (suka monopoly)"
+      },
+      {
+         "index":255,
+         "soal":"Siapa yang paling suka dengan kartu remi?",
+         "tipe":"kartu",
+         "jawaban":"Winter (suka main kartu)"
+      },
+      {
+         "index":256,
+         "soal":"Siapa yang paling suka dengan catur?",
+         "tipe":"catur",
+         "jawaban":"Ningning (suka catur)"
+      },
+      {
+         "index":257,
+         "soal":"Siapa yang paling suka dengan memasak?",
+         "tipe":"masak",
+         "jawaban":"Giselle (suka masak), Karina"
+      },
+      {
+         "index":258,
+         "soal":"Siapa yang paling suka dengan menanam tanaman?",
+         "tipe":"tanaman",
+         "jawaban":"Winter (suka tanaman hias)"
+      },
+      {
+         "index":259,
+         "soal":"Siapa yang paling suka dengan merawat hewan?",
+         "tipe":"hewan",
+         "jawaban":"Karina (suka hewan)"
+      },
+      {
+         "index":260,
+         "soal":"Siapa yang paling suka dengan volunteer?",
+         "tipe":"volunteer",
+         "jawaban":"Karina (suka kegiatan sosial)"
+      },
+      {
+         "index":261,
+         "soal":"Siapa yang paling suka dengan donasi?",
+         "tipe":"donasi",
+         "jawaban":"Karina (pernah donasi)"
+      },
+      {
+         "index":262,
+         "soal":"Siapa yang paling sering memenangkan award?",
+         "tipe":"penghargaan",
+         "jawaban":"aespa grup, Karina banyak award individual"
+      },
+      {
+         "index":263,
+         "soal":"Siapa yang paling sering menjadi nominasi?",
+         "tipe":"nominasi",
+         "jawaban":"Karina, Winter"
+      },
+      {
+         "index":264,
+         "soal":"Siapa yang paling suka dengan traveling ke Eropa?",
+         "tipe":"travel",
+         "jawaban":"Karina (suka Paris)"
+      },
+      {
+         "index":265,
+         "soal":"Siapa yang paling suka dengan traveling ke Jepang?",
+         "tipe":"travel",
+         "jawaban":"Giselle (home country feel), Winter"
+      },
+      {
+         "index":266,
+         "soal":"Siapa yang paling suka dengan traveling ke China?",
+         "tipe":"travel",
+         "jawaban":"Ningning (home country)"
+      },
+      {
+         "index":267,
+         "soal":"Siapa yang paling suka dengan traveling ke Korea?",
+         "tipe":"travel",
+         "jawaban":"Semua"
+      },
+      {
+         "index":268,
+         "soal":"Siapa yang paling suka dengan traveling ke Amerika?",
+         "tipe":"travel",
+         "jawaban":"Karina (suka LA)"
+      },
+      {
+         "index":269,
+         "soal":"Siapa yang paling suka dengan traveling ke Asia Tenggara?",
+         "tipe":"travel",
+         "jawaban":"Ningning (suka Bali)"
+      },
+      {
+         "index":270,
+         "soal":"Siapa yang paling suka dengan hotel dengan pemandangan laut?",
+         "tipe":"hotel",
+         "jawaban":"Karina (suka beach view)"
+      },
+      {
+         "index":271,
+         "soal":"Siapa yang paling suka dengan hotel dengan kolam renang?",
+         "tipe":"hotel",
+         "jawaban":"Winter (suka renang)"
+      },
+      {
+         "index":272,
+         "soal":"Siapa yang paling suka dengan spa hotel?",
+         "tipe":"spa",
+         "jawaban":"Ningning (suka relaksasi)"
+      },
+      {
+         "index":273,
+         "soal":"Siapa yang paling suka dengan private pool?",
+         "tipe":"pool",
+         "jawaban":"Karina (suka privasi)"
+      },
+      {
+         "index":274,
+         "soal":"Siapa yang paling suka dengan sunrise di pantai?",
+         "tipe":"sunrise",
+         "jawaban":"Karina (suka bangun pagi)"
+      },
+      {
+         "index":275,
+         "soal":"Siapa yang paling suka dengan sunset di gunung?",
+         "tipe":"sunset",
+         "jawaban":"Winter (suka pemandangan)"
+      },
+      {
+         "index":276,
+         "soal":"Siapa yang paling suka dengan bintang di malam hari?",
+         "tipe":"bintang",
+         "jawaban":"Ningning (suka langit malam)"
+      },
+      {
+         "index":277,
+         "soal":"Siapa yang paling suka dengan pelangi?",
+         "tipe":"pelangi",
+         "jawaban":"Giselle (suka warna-warni)"
+      },
+      {
+         "index":278,
+         "soal":"Siapa yang paling sering memberikan semangat ke member?",
+         "tipe":"semangat",
+         "jawaban":"Karina (leader)"
+      },
+      {
+         "index":279,
+         "soal":"Siapa yang paling sering mengingatkan member?",
+         "tipe":"pengingat",
+         "jawaban":"Karina (seperti ibu)"
+      },
+      {
+         "index":280,
+         "soal":"Siapa yang paling sering bercanda?",
+         "tipe":"lucu",
+         "jawaban":"Winter (suka bercanda), Ningning"
+      },
+      {
+         "index":281,
+         "soal":"Siapa yang paling sering kena prank?",
+         "tipe":"prank",
+         "jawaban":"Ningning (sering jadi target), Winter"
+      },
+      {
+         "index":282,
+         "soal":"Siapa yang paling suka dengan mainan?",
+         "tipe":"mainan",
+         "jawaban":"Ningning (suka boneka)"
+      },
+      {
+         "index":283,
+         "soal":"Siapa yang paling suka dengan koleksi action figure?",
+         "tipe":"koleksi",
+         "jawaban":"Giselle (suka figur anime)"
+      },
+      {
+         "index":284,
+         "soal":"Siapa yang paling suka dengan koleksi pop mart?",
+         "tipe":"koleksi",
+         "jawaban":"Winter (suka blind box)"
+      },
+      {
+         "index":285,
+         "soal":"Siapa yang paling suka dengan sneakers collection?",
+         "tipe":"koleksi",
+         "jawaban":"Karina (kolektor sneakers)"
+      },
+      {
+         "index":286,
+         "soal":"Siapa yang paling suka dengan tas collection?",
+         "tipe":"koleksi",
+         "jawaban":"Karina, Giselle"
+      },
+      {
+         "index":287,
+         "soal":"Siapa yang paling suka dengan beauty product?",
+         "tipe":"beauty",
+         "jawaban":"Winter, Karina"
+      },
+      {
+         "index":288,
+         "soal":"Siapa yang paling suka dengan skincare tools?",
+         "tipe":"skincare",
+         "jawaban":"Winter (suka pemanfaatan gadget skincare)"
+      },
+      {
+         "index":289,
+         "soal":"Siapa yang paling sering membaca komik online?",
+         "tipe":"komik",
+         "jawaban":"Giselle (suka manga online)"
+      },
+      {
+         "index":290,
+         "soal":"Siapa yang paling suka dengan K-drama romantis?",
+         "tipe":"drama",
+         "jawaban":"Winter (suka rom-com)"
+      },
+      {
+         "index":291,
+         "soal":"Siapa yang paling suka dengan K-drama thriller?",
+         "tipe":"drama",
+         "jawaban":"Karina (suka thriller)"
+      },
+      {
+         "index":292,
+         "soal":"Siapa yang paling suka dengan K-drama komedi?",
+         "tipe":"drama",
+         "jawaban":"Ningning (suka komedi)"
+      },
+      {
+         "index":293,
+         "soal":"Siapa yang paling suka dengan film superhero Marvel?",
+         "tipe":"film",
+         "jawaban":"Karina (suka Marvel)"
+      },
+      {
+         "index":294,
+         "soal":"Siapa yang paling suka dengan film DC?",
+         "tipe":"film",
+         "jawaban":"Winter (suka DC)"
+      },
+      {
+         "index":295,
+         "soal":"Siapa yang paling suka dengan film Harry Potter?",
+         "tipe":"film",
+         "jawaban":"Giselle (suka HP)"
+      },
+      {
+         "index":296,
+         "soal":"Siapa yang paling suka dengan film The Lord of the Rings?",
+         "tipe":"film",
+         "jawaban":"Karina (suka fantasy)"
+      },
+      {
+         "index":297,
+         "soal":"Siapa yang paling suka dengan drama China?",
+         "tipe":"drama",
+         "jawaban":"Ningning (suka drama China)"
+      },
+      {
+         "index":298,
+         "soal":"Siapa yang paling suka dengan variety show Korea?",
+         "tipe":"variety",
+         "jawaban":"Winter (suka Knowing Bros)"
+      },
+      {
+         "index":299,
+         "soal":"Lagu 'Supernova' memiliki dance challenge viral di TikTok 2024, benar?",
+         "tipe":"viral",
+         "jawaban":"Ya (2024, supernova challenge)"
+      }
+   ]
