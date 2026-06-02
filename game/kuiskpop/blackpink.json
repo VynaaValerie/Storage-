@@ -1,0 +1,1808 @@
+{
+   "status":true,
+   "game":"kuis blackpink",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama leader BLACKPINK?",
+         "tipe":"leader",
+         "jawaban":"Jisoo"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal debut BLACKPINK?",
+         "tipe":"debut date",
+         "jawaban":"8 Agustus 2016"
+      },
+      {
+         "index":2,
+         "soal":"Lagu debut BLACKPINK adalah?",
+         "tipe":"debut song",
+         "jawaban":"Boombayah (Korea) dan Whistle (double title)"
+      },
+      {
+         "index":3,
+         "soal":"Siapa nama fandom resmi BLACKPINK?",
+         "tipe":"fandom",
+         "jawaban":"BLINK"
+      },
+      {
+         "index":4,
+         "soal":"Berapa jumlah anggota BLACKPINK?",
+         "tipe":"jumlah anggota",
+         "jawaban":"4"
+      },
+      {
+         "index":5,
+         "soal":"Siapa anggota tertua BLACKPINK?",
+         "tipe":"oldest",
+         "jawaban":"Jisoo (1995)"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota termuda (maknae) BLACKPINK?",
+         "tipe":"maknae",
+         "jawaban":"Lisa (1997)"
+      },
+      {
+         "index":7,
+         "soal":"Siapa main rapper BLACKPINK?",
+         "tipe":"main rapper",
+         "jawaban":"Jennie, Lisa"
+      },
+      {
+         "index":8,
+         "soal":"Siapa main vocal BLACKPINK?",
+         "tipe":"main vocal",
+         "jawaban":"Jisoo, Rosé"
+      },
+      {
+         "index":9,
+         "soal":"Siapa main dancer BLACKPINK?",
+         "tipe":"main dancer",
+         "jawaban":"Lisa"
+      },
+      {
+         "index":10,
+         "soal":"Siapa yang memiliki julukan 'Human Gucci'?",
+         "tipe":"julukan",
+         "jawaban":"Jennie"
+      },
+      {
+         "index":11,
+         "soal":"Siapa yang memiliki julukan 'Thai Princess'?",
+         "tipe":"julukan",
+         "jawaban":"Lisa"
+      },
+      {
+         "index":12,
+         "soal":"Siapa yang memiliki julukan 'Wild Rose'?",
+         "tipe":"julukan",
+         "jawaban":"Rosé"
+      },
+      {
+         "index":13,
+         "soal":"Siapa yang memiliki julukan 'Turtle Rabbit'?",
+         "tipe":"julukan",
+         "jawaban":"Jisoo (karena bentuk wajah seperti kura-kura kelinci)"
+      },
+      {
+         "index":14,
+         "soal":"Siapa yang berasal dari Selandia Baru?",
+         "tipe":"asal",
+         "jawaban":"Rosé (lahir di Auckland)"
+      },
+      {
+         "index":15,
+         "soal":"Siapa yang berasal dari Thailand?",
+         "tipe":"asal",
+         "jawaban":"Lisa (Bangkok)"
+      },
+      {
+         "index":16,
+         "soal":"Siapa yang berasal dari Korea?",
+         "tipe":"asal",
+         "jawaban":"Jisoo, Jennie"
+      },
+      {
+         "index":17,
+         "soal":"Siapa yang paling fasih berbahasa Inggris?",
+         "tipe":"english",
+         "jawaban":"Jennie (lancar), Rosé (lancar)"
+      },
+      {
+         "index":18,
+         "soal":"Siapa yang paling fasih berbahasa Jepang?",
+         "tipe":"jepang",
+         "jawaban":"Jisoo (belajar), Lisa (cukup)"
+      },
+      {
+         "index":19,
+         "soal":"Siapa yang memiliki kemampuan main gitar?",
+         "tipe":"gitar",
+         "jawaban":"Rosé"
+      },
+      {
+         "index":20,
+         "soal":"Siapa yang memiliki kemampuan main piano?",
+         "tipe":"piano",
+         "jawaban":"Rosé, Jisoo (dasar)"
+      },
+      {
+         "index":21,
+         "soal":"Apa nama lightstick resmi BLACKPINK?",
+         "tipe":"lightstick",
+         "jawaban":"BLINK Light Stick (Bbongbong)"
+      },
+      {
+         "index":22,
+         "soal":"Warna resmi BLACKPINK?",
+         "tipe":"warna",
+         "jawaban":"Hitam dan Pink"
+      },
+      {
+         "index":23,
+         "soal":"Apa arti nama BLACKPINK?",
+         "tipe":"arti nama",
+         "jawaban":"Hitam melambangkan kecantikan yang kuat, pink melambungkan kelembutan"
+      },
+      {
+         "index":24,
+         "soal":"Album mini pertama BLACKPINK?",
+         "tipe":"mini album",
+         "jawaban":"Square One (2016, single album)"
+      },
+      {
+         "index":25,
+         "soal":"Album mini 'Square Up' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2018"
+      },
+      {
+         "index":26,
+         "soal":"Lagu utama 'Square Up' adalah?",
+         "tipe":"title track",
+         "jawaban":"Ddu-Du Ddu-Du"
+      },
+      {
+         "index":27,
+         "soal":"Lirik 'Hit you with that ddu-du ddu-du du' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Ddu-Du Ddu-Du"
+      },
+      {
+         "index":28,
+         "soal":"Album 'Kill This Love' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2019"
+      },
+      {
+         "index":29,
+         "soal":"Lagu utama 'Kill This Love' adalah?",
+         "tipe":"title",
+         "jawaban":"Kill This Love"
+      },
+      {
+         "index":30,
+         "soal":"Lirik 'Let's kill this love, yeah, yeah, yeah' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Kill This Love"
+      },
+      {
+         "index":31,
+         "soal":"Album full length pertama BLACKPINK?",
+         "tipe":"full album",
+         "jawaban":"THE ALBUM (2020)"
+      },
+      {
+         "index":32,
+         "soal":"Lagu utama 'THE ALBUM' adalah?",
+         "tipe":"title",
+         "jawaban":"How You Like That, Ice Cream, Lovesick Girls (multiple)"
+      },
+      {
+         "index":33,
+         "soal":"Lirik 'Look at you, now look at me' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"How You Like That"
+      },
+      {
+         "index":34,
+         "soal":"Lagu 'Lovesick Girls' menceritakan tentang?",
+         "tipe":"tema",
+         "jawaban":"Cinta yang menyakitkan namun tak bisa dihindari"
+      },
+      {
+         "index":35,
+         "soal":"Album 'BORN PINK' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":36,
+         "soal":"Lagu utama 'BORN PINK' adalah?",
+         "tipe":"title",
+         "jawaban":"Pink Venom, Shut Down"
+      },
+      {
+         "index":37,
+         "soal":"Lirik 'This that pink venom, this that pink venom' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Pink Venom"
+      },
+      {
+         "index":38,
+         "soal":"Lagu 'Shut Down' menggunakan sampel dari lagu?",
+         "tipe":"sampling",
+         "jawaban":"La Campanella oleh Niccolò Paganini"
+      },
+      {
+         "index":39,
+         "soal":"Siapa yang memiliki solo 'SOLO' (2018)?",
+         "tipe":"solo",
+         "jawaban":"Jennie"
+      },
+      {
+         "index":40,
+         "soal":"Siapa yang memiliki solo 'On The Ground'?",
+         "tipe":"solo",
+         "jawaban":"Rosé"
+      },
+      {
+         "index":41,
+         "soal":"Siapa yang memiliki solo 'Gone'?",
+         "tipe":"solo",
+         "jawaban":"Rosé (dari album R)"
+      },
+      {
+         "index":42,
+         "soal":"Siapa yang memiliki solo 'LALISA'?",
+         "tipe":"solo",
+         "jawaban":"Lisa"
+      },
+      {
+         "index":43,
+         "soal":"Siapa yang memiliki solo 'MONEY'?",
+         "tipe":"solo",
+         "jawaban":"Lisa (b-side dari album LALISA)"
+      },
+      {
+         "index":44,
+         "soal":"Siapa yang memiliki solo 'FLOWER'?",
+         "tipe":"solo",
+         "jawaban":"Jisoo (2023)"
+      },
+      {
+         "index":45,
+         "soal":"Lirik 'Flower, flower, flower, flower' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"FLOWER (Jisoo)"
+      },
+      {
+         "index":46,
+         "soal":"Siapa yang memiliki solo 'All Eyes On Me' (b-side Jisoo)?",
+         "tipe":"solo",
+         "jawaban":"Jisoo (dari album ME)"
+      },
+      {
+         "index":47,
+         "soal":"Lagu 'Ice Cream' feat. siapa?",
+         "tipe":"feat",
+         "jawaban":"Selena Gomez"
+      },
+      {
+         "index":48,
+         "soal":"Lagu 'Sour Candy' feat. siapa?",
+         "tipe":"feat",
+         "jawaban":"Lady Gaga"
+      },
+      {
+         "index":49,
+         "soal":"Lagu 'Kiss and Make Up' feat. siapa?",
+         "tipe":"feat",
+         "jawaban":"Dua Lipa"
+      },
+      {
+         "index":50,
+         "soal":"Lagu 'Bet You Wanna' feat. siapa?",
+         "tipe":"feat",
+         "jawaban":"Cardi B"
+      },
+      {
+         "index":51,
+         "soal":"Siapa yang dikenal dengan 'Human Chanel'?",
+         "tipe":"fashion",
+         "jawaban":"Jennie (brand ambassador Chanel)"
+      },
+      {
+         "index":52,
+         "soal":"Siapa yang menjadi brand ambassador Celine?",
+         "tipe":"brand",
+         "jawaban":"Lisa"
+      },
+      {
+         "index":53,
+         "soal":"Siapa yang menjadi brand ambassador Dior?",
+         "tipe":"brand",
+         "jawaban":"Jisoo"
+      },
+      {
+         "index":54,
+         "soal":"Siapa yang menjadi brand ambassador YSL Saint Laurent?",
+         "tipe":"brand",
+         "jawaban":"Rosé"
+      },
+      {
+         "index":55,
+         "soal":"Siapa yang menjadi brand ambassador Bvlgari?",
+         "tipe":"brand",
+         "jawaban":"Lisa"
+      },
+      {
+         "index":56,
+         "soal":"Siapa yang menjadi brand ambassador Cartier?",
+         "tipe":"brand",
+         "jawaban":"Jisoo"
+      },
+      {
+         "index":57,
+         "soal":"Siapa yang menjadi brand ambassador Tiffany & Co?",
+         "tipe":"brand",
+         "jawaban":"Rosé"
+      },
+      {
+         "index":58,
+         "soal":"Lagu 'Whistle' (휘파람) debut BLACKPINK, lirik 'Make 'em whistle like a missile'?",
+         "tipe":"lirik",
+         "jawaban":"Ya (bagian rap Jennie)"
+      },
+      {
+         "index":59,
+         "soal":"Siapa yang memiliki suara khas 'serak'?",
+         "tipe":"voice",
+         "jawaban":"Jennie (rap), Lisa (rap)"
+      },
+      {
+         "index":60,
+         "soal":"Siapa yang memiliki suara tertinggi?",
+         "tipe":"vocal",
+         "jawaban":"Rosé (high note)"
+      },
+      {
+         "index":61,
+         "soal":"Siapa yang paling suka dengan kucing?",
+         "tipe":"hewan",
+         "jawaban":"Jennie (punya kucing Kuma), Lisa (punya kucing Leo, Luca, Lily)"
+      },
+      {
+         "index":62,
+         "soal":"Siapa yang suka dengan anjing?",
+         "tipe":"anjing",
+         "jawaban":"Jisoo (punya anjing Dalgom), Rosé (punya anjing Hank)"
+      },
+      {
+         "index":63,
+         "soal":"Siapa yang memiliki kebiasaan 'makan es'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Jisoo (suka makan es batu)"
+      },
+      {
+         "index":64,
+         "soal":"Siapa yang paling suka dengan fashion edgy?",
+         "tipe":"fashion",
+         "jawaban":"Jennie, Lisa"
+      },
+      {
+         "index":65,
+         "soal":"Siapa yang paling sering menjadi center di dance?",
+         "tipe":"center",
+         "jawaban":"Lisa"
+      },
+      {
+         "index":66,
+         "soal":"Apa nama acara variety BLACKPINK 'BLACKPINK HOUSE'?",
+         "tipe":"variety",
+         "jawaban":"BLACKPINK HOUSE (2018, 12 episode)"
+      },
+      {
+         "index":67,
+         "soal":"Siapa yang menjadi MC di 'Inkigayo'?",
+         "tipe":"mc",
+         "jawaban":"Jisoo (2017-2018, bersama dengan NCT Doyoung dan Park Jinyoung?)"
+      },
+      {
+         "index":68,
+         "soal":"Siapa yang menjadi MC di 'Get It Beauty'?",
+         "tipe":"mc",
+         "jawaban":"Jisoo (2017, 1 episode)"
+      },
+      {
+         "index":69,
+         "soal":"Siapa yang memiliki akting di drama 'Arthdal Chronicles'?",
+         "tipe":"drama",
+         "jawaban":"Jisoo (2023, main role)"
+      },
+      {
+         "index":70,
+         "soal":"Jisoo berperan sebagai apa di drama 'Snowdrop'?",
+         "tipe":"drama",
+         "jawaban":"Eun Young-ro (peran utama, 2021)"
+      },
+      {
+         "index":71,
+         "soal":"Lisa menjadi mentor di survival show apa?",
+         "tipe":"mentor",
+         "jawaban":"Youth With You (Season 3, 2021, China)"
+      },
+      {
+         "index":72,
+         "soal":"Jennie memiliki channel YouTube apa?",
+         "tipe":"youtube",
+         "jawaban":"Jennierubyjane (2021)"
+      },
+      {
+         "index":73,
+         "soal":"Rosé memiliki channel YouTube apa?",
+         "tipe":"youtube",
+         "jawaban":"Roses_are_rosie (2021)"
+      },
+      {
+         "index":74,
+         "soal":"Lisa memiliki channel YouTube apa?",
+         "tipe":"youtube",
+         "jawaban":"Lilifilm (2021, dance & vlog)"
+      },
+      {
+         "index":75,
+         "soal":"Jisoo memiliki channel YouTube apa?",
+         "tipe":"youtube",
+         "jawaban":"Jichu (2021, hanya beberapa video)"
+      },
+      {
+         "index":76,
+         "soal":"Siapa yang paling sering update Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Lisa, Jennie, Jisoo, Rosé (semua aktif)"
+      },
+      {
+         "index":77,
+         "soal":"Berapa total followers Instagram BLACKPINK (grup) hingga 2025?",
+         "tipe":"angka",
+         "jawaban":"70 juta+ (akun resmi @blackpinkofficial)"
+      },
+      {
+         "index":78,
+         "soal":"Siapa anggota dengan followers Instagram tertinggi per 2025?",
+         "tipe":"ig followers",
+         "jawaban":"Lisa (90+ juta), Jennie (80+ juta), Jisoo (75+ juta), Rosé (70+ juta)"
+      },
+      {
+         "index":79,
+         "soal":"Lagu 'Playing With Fire' (불장난) dari album?",
+         "tipe":"album",
+         "jawaban":"Square Two (2016)"
+      },
+      {
+         "index":80,
+         "soal":"Lagu 'Stay' (2016) genre?",
+         "tipe":"genre",
+         "jawaban":"Akustik pop / ballad"
+      },
+      {
+         "index":81,
+         "soal":"Lagu 'As If It's Your Last' (마지막처럼) dirilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2017 (single)"
+      },
+      {
+         "index":82,
+         "soal":"Lirik 'You're gonna love me like it's my last' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"As If It's Your Last"
+      },
+      {
+         "index":83,
+         "soal":"Lagu 'Forever Young' dari album 'Square Up'?",
+         "tipe":"lagu",
+         "jawaban":"B-side yang sangat populer"
+      },
+      {
+         "index":84,
+         "soal":"Lagu 'Really' dari album 'Square Up'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":85,
+         "soal":"Lagu 'See U Later' dari album 'Square Up'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":86,
+         "soal":"Lagu 'Don't Know What To Do' dari album 'Kill This Love'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":87,
+         "soal":"Lagu 'Kick It' dari album 'THE ALBUM'?",
+         "tipe":"lagu",
+         "jawaban":"B-side (bukan lagu NCT)"
+      },
+      {
+         "index":88,
+         "soal":"Lagu 'Pretty Savage' dari album 'THE ALBUM'?",
+         "tipe":"lagu",
+         "jawaban":"B-side yang viral"
+      },
+      {
+         "index":89,
+         "soal":"Lirik 'Born skinny, bitch, no lipo' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Pretty Savage"
+      },
+      {
+         "index":90,
+         "soal":"Lagu 'You Never Know' dari album 'THE ALBUM' bercerita tentang?",
+         "tipe":"tema",
+         "jawaban":"Penderitaan di balik ketenaran"
+      },
+      {
+         "index":91,
+         "soal":"Lagu 'Love To Hate Me' dari album 'THE ALBUM'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":92,
+         "soal":"Lagu 'Crazy Over You' dari album 'BORN PINK'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":93,
+         "soal":"Lagu 'Tally' dari album 'BORN PINK'?",
+         "tipe":"lagu",
+         "jawaban":"B-side dengan lirik pemberontakan"
+      },
+      {
+         "index":94,
+         "soal":"Lagu 'Typa Girl' dari album 'BORN PINK'?",
+         "tipe":"lagu",
+         "jawaban":"B-side"
+      },
+      {
+         "index":95,
+         "soal":"Lagu 'The Happiest Girl' dari album 'BORN PINK'?",
+         "tipe":"lagu",
+         "jawaban":"B-side ballad"
+      },
+      {
+         "index":96,
+         "soal":"Lagu 'Ready For Love' dirilis sebagai?",
+         "tipe":"lagu",
+         "jawaban":"Untuk game PUBG Mobile (2022)"
+      },
+      {
+         "index":97,
+         "soal":"Konser online BLACKPINK 'THE SHOW' (2021) disiarkan di mana?",
+         "tipe":"konser",
+         "jawaban":"YouTube (BLACKPINK channel)"
+      },
+      {
+         "index":98,
+         "soal":"Tur dunia 'BORN PINK' (2022-2023) mengunjungi berapa kota?",
+         "tipe":"tur",
+         "jawaban":"22 kota di Asia, Amerika Utara, Eropa"
+      },
+      {
+         "index":99,
+         "soal":"Siapa yang memiliki cover 'Only Look At Me' (Taeyang)?",
+         "tipe":"cover",
+         "jawaban":"Rosé (di radio, 2021)"
+      },
+      {
+         "index":100,
+         "soal":"Siapa yang memiliki cover 'Slow Dancing in the Dark' (Joji)?",
+         "tipe":"cover",
+         "jawaban":"Rosé (di Instagram live)"
+      },
+      {
+         "index":101,
+         "soal":"Siapa yang memiliki cover 'Say You Love Me' (Fleetwood Mac)?",
+         "tipe":"cover",
+         "jawaban":"Rosé (di The Sea of Hope)"
+      },
+      {
+         "index":102,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"warna",
+         "jawaban":"Jennie (suka fashion all-black), Lisa"
+      },
+      {
+         "index":103,
+         "soal":"Siapa yang paling suka dengan warna pink?",
+         "tipe":"warna",
+         "jawaban":"Jisoo, Rosé"
+      },
+      {
+         "index":104,
+         "soal":"Siapa yang paling suka dengan warna putih?",
+         "tipe":"warna",
+         "jawaban":"Rosé (suka putih)"
+      },
+      {
+         "index":105,
+         "soal":"Siapa yang paling suka dengan kopi?",
+         "tipe":"kopi",
+         "jawaban":"Jisoo (suka americano), Rosé (suka kopi)"
+      },
+      {
+         "index":106,
+         "soal":"Siapa yang paling suka dengan teh?",
+         "tipe":"teh",
+         "jawaban":"Lisa (suka teh hijau)"
+      },
+      {
+         "index":107,
+         "soal":"Siapa yang paling suka dengan mie instan?",
+         "tipe":"mie",
+         "jawaban":"Jisoo (suka ramyeon)"
+      },
+      {
+         "index":108,
+         "soal":"Siapa yang paling suka dengan tteokbokki?",
+         "tipe":"makanan",
+         "jawaban":"Jennie (suka pedas)"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang paling suka dengan pizza?",
+         "tipe":"pizza",
+         "jawaban":"Lisa (suka cheese pizza)"
+      },
+      {
+         "index":110,
+         "soal":"Siapa yang paling suka dengan ayam goreng?",
+         "tipe":"ayam",
+         "jawaban":"Jisoo (suka chicken)"
+      },
+      {
+         "index":111,
+         "soal":"Berapa total lagu Korea BLACKPINK hingga 2025?",
+         "tipe":"angka",
+         "jawaban":"23 (termasuk solo dan kolaborasi)"
+      },
+      {
+         "index":112,
+         "soal":"Berapa total video musik BLACKPINK yang mencapai 1 miliar views di YouTube?",
+         "tipe":"views",
+         "jawaban":"4 (Ddu-Du Ddu-Du, Kill This Love, Boombayah, How You Like That) dan beberapa lain di 500 juta+"
+      },
+      {
+         "index":113,
+         "soal":"MV 'Ddu-Du Ddu-Du' mencapai 1 miliar dalam waktu?",
+         "tipe":"rekor",
+         "jawaban":"1 tahun 1 bulan (2018-2019)"
+      },
+      {
+         "index":114,
+         "soal":"Siapa yang paling sering menjadi 'ending fairy' di music shows?",
+         "tipe":"ending",
+         "jawaban":"Jisoo (sering senyum manis), Rosé"
+      },
+      {
+         "index":115,
+         "soal":"Siapa yang paling sering menjadi 'center' di MV?",
+         "tipe":"center",
+         "jawaban":"Jennie (sering di tengah), Lisa"
+      },
+      {
+         "index":116,
+         "soal":"Siapa yang pertama kali merilis solo album (resmi)?",
+         "tipe":"solo debut",
+         "jawaban":"Jennie (2018, 'SOLO')"
+      },
+      {
+         "index":117,
+         "soal":"Album solo Rosé 'R' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2021"
+      },
+      {
+         "index":118,
+         "soal":"Album solo Lisa 'LALISA' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2021"
+      },
+      {
+         "index":119,
+         "soal":"Album solo Jisoo 'ME' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang memiliki tato di tubuh?",
+         "tipe":"tato",
+         "jawaban":"Rosé (tato kecil di jari, belakang telinga), Lisa (tato di lengan? Lisa tidak punya tato permanen), Jennie (tato kecil)"
+      },
+      {
+         "index":121,
+         "soal":"Siapa yang memiliki tato 'LOVE' di jari?",
+         "tipe":"tato",
+         "jawaban":"Rosé (tato LOVE di jari manis)"
+      },
+      {
+         "index":122,
+         "soal":"Siapa yang memiliki tato 'H' di pergelangan?",
+         "tipe":"tato",
+         "jawaban":"Rosé (untuk Hank, anjingnya)"
+      },
+      {
+         "index":123,
+         "soal":"Siapa yang memiliki piercing di telinga paling banyak?",
+         "tipe":"piercing",
+         "jawaban":"Lisa (banyak piercing di telinga)"
+      },
+      {
+         "index":124,
+         "soal":"Siapa yang paling suka dengan film horor?",
+         "tipe":"film",
+         "jawaban":"Jisoo (takut tapi suka), Rosé (takut)"
+      },
+      {
+         "index":125,
+         "soal":"Siapa yang paling suka dengan anime?",
+         "tipe":"anime",
+         "jawaban":"Lisa (suka anime), Jennie"
+      },
+      {
+         "index":126,
+         "soal":"Siapa yang paling suka dengan game online?",
+         "tipe":"game",
+         "jawaban":"Jennie (suka Animal Crossing), Jisoo (suka game)"
+      },
+      {
+         "index":127,
+         "soal":"Apa nama lagu 'Whistle' (휘파람) lirik 'Make 'em whistle like a missile, bomb bomb'?",
+         "tipe":"lirik",
+         "jawaban":"Ya (rap Jennie dan Lisa)"
+      },
+      {
+         "index":128,
+         "soal":"Siapa yang menulis lagu 'Lovesick Girls' bersama?",
+         "tipe":"penulis",
+         "jawaban":"Jennie, Jisoo (co-write dengan Teddy, dll)"
+      },
+      {
+         "index":129,
+         "soal":"Siapa yang menulis lagu 'SOLO'? (Jennie)",
+         "tipe":"penulis",
+         "jawaban":"Teddy (24), Jennie ikut menulis? Ya, Jennie co-write"
+      },
+      {
+         "index":130,
+         "soal":"Siapa yang menulis lagu 'On The Ground' (Rosé)?",
+         "tipe":"penulis",
+         "jawaban":"Rosé, Amy Allen, Jon Bellion, Teddy, dll."
+      },
+      {
+         "index":131,
+         "soal":"Siapa yang menulis lagu 'LALISA' (Lisa)?",
+         "tipe":"penulis",
+         "jawaban":"Teddy, Bekuh Boom, 24, dll. Lisa tidak ikut menulis?"
+      },
+      {
+         "index":132,
+         "soal":"Siapa yang menulis lagu 'FLOWER' (Jisoo)?",
+         "tipe":"penulis",
+         "jawaban":"Jisoo (co-write dengan Kush, VVN, dll)"
+      },
+      {
+         "index":133,
+         "soal":"Lagu 'Boombayah' lirik 'Oppa ya, Oppa ya, jeomjeom eum...'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":134,
+         "soal":"Koreografi 'Boombayah' terkenal dengan gerakan apa?",
+         "tipe":"koreo",
+         "jawaban":"Gerakan 'twist' dan 'kuda' (pony dance)"
+      },
+      {
+         "index":135,
+         "soal":"Siapa yang paling sering kena 'prank' di variety?",
+         "tipe":"variety",
+         "jawaban":"Jisoo (sering ditipu member lain)"
+      },
+      {
+         "index":136,
+         "soal":"Siapa yang paling 'calm' (tenang) di grup?",
+         "tipe":"kepribadian",
+         "jawaban":"Rosé (tapi juga bisa heboh), Jisoo (santai)"
+      },
+      {
+         "index":137,
+         "soal":"Siapa yang paling 'heboh' (energik) di grup?",
+         "tipe":"kepribadian",
+         "jawaban":"Lisa (hyper), Jennie (kadang-kadang), Jisoo (lucu)"
+      },
+      {
+         "index":138,
+         "soal":"Siapa yang paling sering melakukan aegyo?",
+         "tipe":"aegyo",
+         "jawaban":"Jisoo (sering aegyo alami), Lisa"
+      },
+      {
+         "index":139,
+         "soal":"Siapa yang paling pemalu di grup?",
+         "tipe":"pemalu",
+         "jawaban":"Rosé (awalnya pemalu, sekarang lebih percaya diri), Jisoo (tidak)"
+      },
+      {
+         "index":140,
+         "soal":"Siapa yang paling 'misterius'?",
+         "tipe":"kepribadian",
+         "jawaban":"Jennie (aura cool, sering disebut 'lonely')"
+      },
+      {
+         "index":141,
+         "soal":"Apa nama konser tur dunia pertama BLACKPINK?",
+         "tipe":"tur",
+         "jawaban":"BLACKPINK 2018 Tour [In Your Area] (2018-2019, 36 pertunjukan)"
+      },
+      {
+         "index":142,
+         "soal":"BLACKPINK tampil di Coachella tahun berapa?",
+         "tipe":"festival",
+         "jawaban":"2019 (sebagai artis pertama K-pop girl group)"
+      },
+      {
+         "index":143,
+         "soal":"BLACKPINK tampil di Coachella 2023 sebagai headliner?",
+         "tipe":"festival",
+         "jawaban":"Ya (Sabtu, 15 April 2023)"
+      },
+      {
+         "index":144,
+         "soal":"Siapa yang paling suka dengan olahraga lari?",
+         "tipe":"olahraga",
+         "jawaban":"Rosé (suka jogging), Lisa (suka dance kardio)"
+      },
+      {
+         "index":145,
+         "soal":"Siapa yang paling suka dengan yoga?",
+         "tipe":"yoga",
+         "jawaban":"Lisa (suka yoga), Jennie (suka)"
+      },
+      {
+         "index":146,
+         "soal":"Siapa yang paling suka dengan pilates?",
+         "tipe":"pilates",
+         "jawaban":"Rosé, Jisoo"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang paling suka dengan renang?",
+         "tipe":"renang",
+         "jawaban":"Jisoo (suka berenang)"
+      },
+      {
+         "index":148,
+         "soal":"Siapa yang paling suka dengan skincare?",
+         "tipe":"skincare",
+         "jawaban":"Jisoo (brand ambassador Kiss Me), Rosé (suka perawatan)"
+      },
+      {
+         "index":149,
+         "soal":"Siapa yang paling suka dengan makeup tebal?",
+         "tipe":"makeup",
+         "jawaban":"Jennie (bold eye makeup), Lisa (glam)"
+      },
+      {
+         "index":150,
+         "soal":"Siapa yang paling suka dengan natural look?",
+         "tipe":"makeup",
+         "jawaban":"Rosé (light makeup), Jisoo (fresh look)"
+      },
+      {
+         "index":151,
+         "soal":"Lagu 'Ready For Love' dirilis sebagai soundtrack untuk?",
+         "tipe":"game",
+         "jawaban":"PUBG Mobile (2022)"
+      },
+      {
+         "index":152,
+         "soal":"BLACKPINK berkolaborasi dengan game 'PUBG Mobile' dengan lagu?",
+         "tipe":"collab",
+         "jawaban":"Ready For Love (2022)"
+      },
+      {
+         "index":153,
+         "soal":"Siapa yang memiliki vlog series '3 Meals a Day'? (tidak), 'Jisoo's Vlog'?",
+         "tipe":"vlog",
+         "jawaban":"Jisoo (Jisoo's Vlog di YouTube)"
+      },
+      {
+         "index":154,
+         "soal":"Siapa yang memiliki series 'Lilifilm' (dance covers)?",
+         "tipe":"series",
+         "jawaban":"Lisa"
+      },
+      {
+         "index":155,
+         "soal":"Siapa yang memiliki series 'R's Room' (cover lagu)?",
+         "tipe":"series",
+         "jawaban":"Rosé (di YouTube, 2016-2017)"
+      },
+      {
+         "index":156,
+         "soal":"Siapa yang pernah menjadi model untuk 'Adidas'?",
+         "tipe":"brand",
+         "jawaban":"BLACKPINK sebagai grup (2019-2022)"
+      },
+      {
+         "index":157,
+         "soal":"Siapa yang menjadi model untuk 'Samsung Galaxy'?",
+         "tipe":"brand",
+         "jawaban":"BLACKPINK (2020, Samsung Galaxy S20+ BTS edition? tidak, BTS. BLACKPINK untuk Samsung? Ada untuk Samsung A series? tidak jelas)"
+      },
+      {
+         "index":158,
+         "soal":"Siapa yang menjadi brand ambassador 'Dior Beauty'?",
+         "tipe":"beauty",
+         "jawaban":"Jisoo (2023)"
+      },
+      {
+         "index":159,
+         "soal":"Siapa yang menjadi brand ambassador 'YSL Beauty'?",
+         "tipe":"beauty",
+         "jawaban":"Rosé (2021)"
+      },
+      {
+         "index":160,
+         "soal":"Siapa yang menjadi brand ambassador 'MAC Cosmetics'?",
+         "tipe":"beauty",
+         "jawaban":"Lisa (2021)"
+      },
+      {
+         "index":161,
+         "soal":"Siapa yang menjadi brand ambassador 'Hera' (skincare)?",
+         "tipe":"beauty",
+         "jawaban":"Jennie (2019-2022)"
+      },
+      {
+         "index":162,
+         "soal":"Siapa yang menjadi brand ambassador 'Kiss Me' (skincare)?",
+         "tipe":"beauty",
+         "jawaban":"Jisoo (2022)"
+      },
+      {
+         "index":163,
+         "soal":"Siapa yang menjadi brand ambassador 'L'Oreal Paris'?",
+         "tipe":"beauty",
+         "jawaban":"Rosé (2023)"
+      },
+      {
+         "index":164,
+         "soal":"Siapa yang menjadi brand ambassador 'Calvin Klein'?",
+         "tipe":"fashion",
+         "jawaban":"Jennie (2021-2022)"
+      },
+      {
+         "index":165,
+         "soal":"Siapa yang menjadi brand ambassador 'Adidas Originals'?",
+         "tipe":"fashion",
+         "jawaban":"Jennie (2023)"
+      },
+      {
+         "index":166,
+         "soal":"Siapa yang menjadi brand ambassador 'Penshoppe'? (Filipina)",
+         "tipe":"fashion",
+         "jawaban":"Lisa (2019-2020)"
+      },
+      {
+         "index":167,
+         "soal":"Siapa yang memiliki kemampuan akting di film 'Snowdrop' (Jisoo)?",
+         "tipe":"akting",
+         "jawaban":"Jisoo (2021)"
+      },
+      {
+         "index":168,
+         "soal":"Jisoo menerima penghargaan 'Best New Actress' untuk Snowdrop?",
+         "tipe":"penghargaan",
+         "jawaban":"Ya (Baeksang Arts Awards 2022, nominasi)"
+      },
+      {
+         "index":169,
+         "soal":"Siapa yang pernah menjadi cameo di drama 'The King: Eternal Monarch'?",
+         "tipe":"cameo",
+         "jawaban":"Jennie (cameo singkat di episode 4? tidak, itu ada? tidak ada)"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang pernah menjadi cameo di drama 'Vincenzo'? (Jisoo cameo)",
+         "tipe":"cameo",
+         "jawaban":"Jisoo? tidak, itu tidak. Rosé? tidak."
+      },
+      {
+         "index":171,
+         "soal":"Siapa yang paling sering menjadi tamu di acara 'Knowing Bros'?",
+         "tipe":"variety",
+         "jawaban":"BLACKPINK sebagai grup (2x, 2016, 2020)"
+      },
+      {
+         "index":172,
+         "soal":"Siapa yang memiliki kebiasaan 'menyanyi sambil mandi'?",
+         "tipe":"kebiasaan",
+         "jawaban":"Rosé (pernah cerita)"
+      },
+      {
+         "index":173,
+         "soal":"Siapa yang paling suka dengan tidur siang?",
+         "tipe":"tidur",
+         "jawaban":"Jisoo (suka tidur), Jennie (suka tidur)"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang paling suka dengan bangun pagi?",
+         "tipe":"pagi",
+         "jawaban":"Lisa (energik di pagi hari)"
+      },
+      {
+         "index":175,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"makanan",
+         "jawaban":"Jisoo, Lisa"
+      },
+      {
+         "index":176,
+         "soal":"Siapa yang paling suka dengan coklat?",
+         "tipe":"coklat",
+         "jawaban":"Rosé (suka manis)"
+      },
+      {
+         "index":177,
+         "soal":"Siapa yang paling suka dengan kue keju?",
+         "tipe":"kue",
+         "jawaban":"Jisoo (suka cheesecake)"
+      },
+      {
+         "index":178,
+         "soal":"Siapa yang paling suka dengan boba tea?",
+         "tipe":"boba",
+         "jawaban":"Lisa (suka milk tea)"
+      },
+      {
+         "index":179,
+         "soal":"Siapa yang paling suka dengan alkohol? (soju)",
+         "tipe":"minuman",
+         "jawaban":"Jisoo (suka soju), Jennie"
+      },
+      {
+         "index":180,
+         "soal":"Siapa yang tidak bisa minum alkohol?",
+         "tipe":"minuman",
+         "jawaban":"Rosé (allergic? sensitif)"
+      },
+      {
+         "index":181,
+         "soal":"Siapa yang paling suka dengan pantai?",
+         "tipe":"tempat",
+         "jawaban":"Rosé (suka laut), Lisa (suka pantai)"
+      },
+      {
+         "index":182,
+         "soal":"Siapa yang paling suka dengan pegunungan?",
+         "tipe":"tempat",
+         "jawaban":"Jisoo (suka suasana alam)"
+      },
+      {
+         "index":183,
+         "soal":"Siapa yang paling suka dengan salju?",
+         "tipe":"salju",
+         "jawaban":"Jennie (suka ski), Rosé (suka winter)"
+      },
+      {
+         "index":184,
+         "soal":"Siapa yang paling suka dengan musim panas?",
+         "tipe":"musim",
+         "jawaban":"Lisa (suka summer)"
+      },
+      {
+         "index":185,
+         "soal":"Siapa yang paling suka dengan musim gugur?",
+         "tipe":"musim",
+         "jawaban":"Jisoo (suka autumn aesthetic)"
+      },
+      {
+         "index":186,
+         "soal":"Siapa yang memiliki hobi fotografi?",
+         "tipe":"foto",
+         "jawaban":"Jisoo (suka foto alam), Rosé (suka foto)"
+      },
+      {
+         "index":187,
+         "soal":"Siapa yang memiliki hobi melukis?",
+         "tipe":"melukis",
+         "jawaban":"Jennie (suka seni, pernah pameran), Jisoo (suka)"
+      },
+      {
+         "index":188,
+         "soal":"Siapa yang memiliki hobi merangkai bunga?",
+         "tipe":"merangkai",
+         "jawaban":"Jisoo (suka florist)"
+      },
+      {
+         "index":189,
+         "soal":"Siapa yang memiliki hobi memasak?",
+         "tipe":"masak",
+         "jawaban":"Jisoo (suka masak), Rosé (suka baking)"
+      },
+      {
+         "index":190,
+         "soal":"Siapa yang paling sering memasak untuk member lain?",
+         "tipe":"masak",
+         "jawaban":"Jisoo (sering masak untuk Lisa, Jennie, Rosé)"
+      },
+      {
+         "index":191,
+         "soal":"Siapa yang paling suka dengan order makanan delivery?",
+         "tipe":"makan",
+         "jawaban":"Lisa (suka chicken delivery), Jennie (suka pizza)"
+      },
+      {
+         "index":192,
+         "soal":"Siapa yang paling sering lupa kunci rumah?",
+         "tipe":"kebiasaan",
+         "jawaban":"Jisoo (pernah cerita)"
+      },
+      {
+         "index":193,
+         "soal":"Siapa yang paling sering ketinggalan pesawat?",
+         "tipe":"kebiasaan",
+         "jawaban":"Rosé (pernah cerita)"
+      },
+      {
+         "index":194,
+         "soal":"Siapa yang paling sering menangis di konser?",
+         "tipe":"emosi",
+         "jawaban":"Jisoo (sering terharu), Rosé (emotional)"
+      },
+      {
+         "index":195,
+         "soal":"Siapa yang paling jarang menangis di depan umum?",
+         "tipe":"emosi",
+         "jawaban":"Jennie (kuat, jarang show emotion)"
+      },
+      {
+         "index":196,
+         "soal":"Siapa yang paling sering memberikan kata-kata motivasi?",
+         "tipe":"motivasi",
+         "jawaban":"Jisoo (leader vibes), Rosé"
+      },
+      {
+         "index":197,
+         "soal":"Siapa yang paling suka dengan quotes positif?",
+         "tipe":"quotes",
+         "jawaban":"Rosé (suka ungkap perasaan)"
+      },
+      {
+         "index":198,
+         "soal":"Siapa yang paling suka dengan buku self-help?",
+         "tipe":"buku",
+         "jawaban":"Lisa (baca buku motivasi)"
+      },
+      {
+         "index":199,
+         "soal":"Siapa yang paling suka dengan novel romance?",
+         "tipe":"buku",
+         "jawaban":"Jisoo (suka baca novel)"
+      },
+      {
+         "index":200,
+         "soal":"Siapa yang paling suka dengan komik/manga?",
+         "tipe":"komik",
+         "jawaban":"Jennie (suka manga), Lisa (suka komik)"
+      },
+      {
+         "index":201,
+         "soal":"Siapa yang paling suka dengan film drama?",
+         "tipe":"film",
+         "jawaban":"Jisoo (suka melodrama), Rosé"
+      },
+      {
+         "index":202,
+         "soal":"Siapa yang paling suka dengan film action?",
+         "tipe":"film",
+         "jawaban":"Jennie (suka action), Lisa (suka Marvel)"
+      },
+      {
+         "index":203,
+         "soal":"Siapa yang paling suka dengan film komedi?",
+         "tipe":"film",
+         "jawaban":"Jisoo (suka komedi romantis)"
+      },
+      {
+         "index":204,
+         "soal":"Siapa yang paling suka dengan film thriller?",
+         "tipe":"film",
+         "jawaban":"Jennie (suka psychological thriller)"
+      },
+      {
+         "index":205,
+         "soal":"Siapa yang paling suka dengan musik pop barat?",
+         "tipe":"musik",
+         "jawaban":"Rosé (suka Taylor Swift, Ariana Grande)"
+      },
+      {
+         "index":206,
+         "soal":"Siapa yang paling suka dengan musik rock?",
+         "tipe":"musik",
+         "jawaban":"Rosé (suka rock band)"
+      },
+      {
+         "index":207,
+         "soal":"Siapa yang paling suka dengan musik hip-hop?",
+         "tipe":"musik",
+         "jawaban":"Jennie, Lisa (suka rap)"
+      },
+      {
+         "index":208,
+         "soal":"Siapa yang paling suka dengan musik ballad?",
+         "tipe":"musik",
+         "jawaban":"Jisoo, Rosé"
+      },
+      {
+         "index":209,
+         "soal":"Siapa yang paling suka dengan musik R&B?",
+         "tipe":"musik",
+         "jawaban":"Jennie, Rosé"
+      },
+      {
+         "index":210,
+         "soal":"Siapa yang paling suka dengan musik EDM?",
+         "tipe":"musik",
+         "jawaban":"Lisa (suka club music)"
+      },
+      {
+         "index":211,
+         "soal":"Siapa yang paling suka dengan artis Coldplay?",
+         "tipe":"artis",
+         "jawaban":"Rosé (penggemar Coldplay, cover 'Viva La Vida')"
+      },
+      {
+         "index":212,
+         "soal":"Siapa yang paling suka dengan artis Ariana Grande?",
+         "tipe":"artis",
+         "jawaban":"Rosé (suka), Jisoo (suka)"
+      },
+      {
+         "index":213,
+         "soal":"Siapa yang paling suka dengan artis Taylor Swift?",
+         "tipe":"artis",
+         "jawaban":"Rosé (penggemar Taylor, cover lagu)"
+      },
+      {
+         "index":214,
+         "soal":"Siapa yang paling suka dengan artis Rihanna?",
+         "tipe":"artis",
+         "jawaban":"Jennie, Lisa"
+      },
+      {
+         "index":215,
+         "soal":"Siapa yang paling suka dengan artis Beyoncé?",
+         "tipe":"artis",
+         "jawaban":"Lisa, Jennie"
+      },
+      {
+         "index":216,
+         "soal":"Siapa yang paling suka dengan artis Justin Bieber?",
+         "tipe":"artis",
+         "jawaban":"Rosé (suka)"
+      },
+      {
+         "index":217,
+         "soal":"Siapa yang paling suka dengan artis Billie Eilish?",
+         "tipe":"artis",
+         "jawaban":"Rosé (cover 'when the party's over')"
+      },
+      {
+         "index":218,
+         "soal":"Siapa yang paling suka dengan artis Kendrick Lamar?",
+         "tipe":"artis",
+         "jawaban":"Jennie"
+      },
+      {
+         "index":219,
+         "soal":"Siapa yang paling suka dengan artis Travis Scott?",
+         "tipe":"artis",
+         "jawaban":"Lisa, Jennie"
+      },
+      {
+         "index":220,
+         "soal":"Siapa yang paling suka dengan artis Post Malone?",
+         "tipe":"artis",
+         "jawaban":"Rosé (cover 'Circles'?) tidak, 'Better Now'? tidak"
+      },
+      {
+         "index":221,
+         "soal":"Siapa yang paling suka dengan artis BTS?",
+         "tipe":"artis",
+         "jawaban":"Jisoo (pernah cover 'Spring Day'? tidak)"
+      },
+      {
+         "index":222,
+         "soal":"Siapa yang paling suka dengan artis EXO?",
+         "tipe":"artis",
+         "jawaban":"Jennie (pernah sebut suka Baekhyun)"
+      },
+      {
+         "index":223,
+         "soal":"Siapa yang paling suka dengan artis BIGBANG?",
+         "tipe":"artis",
+         "jawaban":"Jennie (YG sunbae), Lisa, Rosé"
+      },
+      {
+         "index":224,
+         "soal":"Siapa yang paling suka dengan artis 2NE1?",
+         "tipe":"artis",
+         "jawaban":"BLACKPINK semua (senior YG)"
+      },
+      {
+         "index":225,
+         "soal":"Siapa yang paling suka dengan fashion streetwear?",
+         "tipe":"fashion",
+         "jawaban":"Lisa, Jennie"
+      },
+      {
+         "index":226,
+         "soal":"Siapa yang paling suka dengan fashion elegant?",
+         "tipe":"fashion",
+         "jawaban":"Jisoo (dress elegant), Rosé (chic)"
+      },
+      {
+         "index":227,
+         "soal":"Siapa yang paling suka dengan fashion sporty?",
+         "tipe":"fashion",
+         "jawaban":"Lisa (athleisure), Jennie (sporty chic)"
+      },
+      {
+         "index":228,
+         "soal":"Siapa yang paling suka dengan aksesoris mewah?",
+         "tipe":"aksesoris",
+         "jawaban":"Jennie (Chanel jewelry), Jisoo (Dior jewelry)"
+      },
+      {
+         "index":229,
+         "soal":"Siapa yang paling suka dengan jam tangan mewah?",
+         "tipe":"jam",
+         "jawaban":"Lisa (Patek Philippe, Audemars Piguet), Jennie (Rolex)"
+      },
+      {
+         "index":230,
+         "soal":"Siapa yang paling suka dengan sneakers?",
+         "tipe":"sepatu",
+         "jawaban":"Lisa (kolektor sneakers), Jennie, Rosé (suka)"
+      },
+      {
+         "index":231,
+         "soal":"Siapa yang paling suka dengan high heels?",
+         "tipe":"sepatu",
+         "jawaban":"Jisoo (suka heels), Rosé (suka heels)"
+      },
+      {
+         "index":232,
+         "soal":"Siapa yang paling suka dengan tas branded?",
+         "tipe":"tas",
+         "jawaban":"Jennie (Chanel), Jisoo (Dior), Lisa (Celine), Rosé (YSL)"
+      },
+      {
+         "index":233,
+         "soal":"Siapa yang paling suka dengan makeup bold lip?",
+         "tipe":"makeup",
+         "jawaban":"Jennie (red lip), Lisa (pink/bright)"
+      },
+      {
+         "index":234,
+         "soal":"Siapa yang paling suka dengan makeup natural?",
+         "tipe":"makeup",
+         "jawaban":"Rosé (glowy look), Jisoo (soft look)"
+      },
+      {
+         "index":235,
+         "soal":"Siapa yang paling suka dengan skincare routine 10 steps?",
+         "tipe":"skincare",
+         "jawaban":"Jisoo (suka perawatan intensif)"
+      },
+      {
+         "index":236,
+         "soal":"Siapa yang paling suka dengan sunscreen?",
+         "tipe":"skincare",
+         "jawaban":"Lisa (suka sunscreen), Rosé"
+      },
+      {
+         "index":237,
+         "soal":"Siapa yang paling suka dengan masker wajah?",
+         "tipe":"skincare",
+         "jawaban":"Jennie (suka sheet mask)"
+      },
+      {
+         "index":238,
+         "soal":"Siapa yang paling suka dengan perawatan rambut?",
+         "tipe":"rambut",
+         "jawaban":"Rosé (rambut platinum sering dirawat)"
+      },
+      {
+         "index":239,
+         "soal":"Siapa yang paling sering ganti warna rambut?",
+         "tipe":"rambut",
+         "jawaban":"Rosé (pirang, hitam, abu-abu), Lisa (rambut sering ganti warna)"
+      },
+      {
+         "index":240,
+         "soal":"Siapa yang paling jarang ganti warna rambut?",
+         "tipe":"rambut",
+         "jawaban":"Jisoo (hitam natural, kadang brown), Jennie (hitam atau brown)"
+      },
+      {
+         "index":241,
+         "soal":"Siapa yang paling suka dengan rambut panjang?",
+         "tipe":"rambut",
+         "jawaban":"Rosé (rambut panjang khas), Jisoo"
+      },
+      {
+         "index":242,
+         "soal":"Siapa yang paling suka dengan rambut pendek?",
+         "tipe":"rambut",
+         "jawaban":"Lisa (pernah potong pendek, tapi sekarang panjang), Jennie (pernah bob)"
+      },
+      {
+         "index":243,
+         "soal":"Siapa yang paling suka dengan ponytail?",
+         "tipe":"gaya rambut",
+         "jawaban":"Jisoo (sering ponytail), Lisa (high ponytail)"
+      },
+      {
+         "index":244,
+         "soal":"Siapa yang paling suka dengan hairband?",
+         "tipe":"aksesoris",
+         "jawaban":"Rosé (suka hairband)"
+      },
+      {
+         "index":245,
+         "soal":"Siapa yang paling suka dengan gaya rambut curly?",
+         "tipe":"gaya rambut",
+         "jawaban":"Rosé (rambut bergelombang), Lisa (pernah curly)"
+      },
+      {
+         "index":246,
+         "soal":"Siapa yang paling suka dengan gaya rambut straight?",
+         "tipe":"gaya rambut",
+         "jawaban":"Jisoo (suka rambut lurus)"
+      },
+      {
+         "index":247,
+         "soal":"Siapa yang paling suka dengan perfume mewah?",
+         "tipe":"parfum",
+         "jawaban":"Jennie (Chanel No.5), Jisoo (Dior Jadore), Rosé (YSL Black Opium), Lisa (Celine)"
+      },
+      {
+         "index":248,
+         "soal":"Siapa yang paling suka dengan aroma floral?",
+         "tipe":"parfum",
+         "jawaban":"Jisoo (suka bunga)"
+      },
+      {
+         "index":249,
+         "soal":"Siapa yang paling suka dengan aroma woody?",
+         "tipe":"parfum",
+         "jawaban":"Jennie (suka aroma maskulin)"
+      },
+      {
+         "index":250,
+         "soal":"Siapa yang paling suka dengan aroma fresh?",
+         "tipe":"parfum",
+         "jawaban":"Rosé (suka citrus)"
+      },
+      {
+         "index":251,
+         "soal":"Siapa yang paling suka dengan aroma sweet?",
+         "tipe":"parfum",
+         "jawaban":"Lisa (suka vanilla)"
+      },
+      {
+         "index":252,
+         "soal":"Siapa yang paling suka dengan lilin aromaterapi?",
+         "tipe":"lilin",
+         "jawaban":"Jisoo (suka lilin), Jennie (suka)"
+      },
+      {
+         "index":253,
+         "soal":"Siapa yang paling suka dengan meditasi?",
+         "tipe":"meditasi",
+         "jawaban":"Rosé (suka meditasi), Jennie (suka)"
+      },
+      {
+         "index":254,
+         "soal":"Siapa yang paling suka dengan journaling?",
+         "tipe":"journal",
+         "jawaban":"Rosé (suka nulis diary), Jisoo"
+      },
+      {
+         "index":255,
+         "soal":"Siapa yang paling suka dengan melukis?",
+         "tipe":"seni",
+         "jawaban":"Jennie (suka seni), Jisoo"
+      },
+      {
+         "index":256,
+         "soal":"Siapa yang paling suka dengan fotografi?",
+         "tipe":"foto",
+         "jawaban":"Jisoo, Rosé, Lisa (suka foto aesthetic)"
+      },
+      {
+         "index":257,
+         "soal":"Siapa yang paling suka dengan video editing?",
+         "tipe":"editing",
+         "jawaban":"Lisa (suka edit video untuk Lilifilm)"
+      },
+      {
+         "index":258,
+         "soal":"Siapa yang paling suka dengan graphic design?",
+         "tipe":"design",
+         "jawaban":"Jennie (suka desain, punya brand 'Nini')"
+      },
+      {
+         "index":259,
+         "soal":"Siapa yang paling suka dengan fashion design?",
+         "tipe":"design",
+         "jawaban":"Rosé, Jennie"
+      },
+      {
+         "index":260,
+         "soal":"Siapa yang paling suka dengan interior design?",
+         "tipe":"design",
+         "jawaban":"Jisoo (suka dekorasi)"
+      },
+      {
+         "index":261,
+         "soal":"Siapa yang paling suka dengan tanaman hias?",
+         "tipe":"tanaman",
+         "jawaban":"Jisoo (suka bonsai? tidak, punya tanaman indoor)"
+      },
+      {
+         "index":262,
+         "soal":"Siapa yang paling suka dengan bunga?",
+         "tipe":"bunga",
+         "jawaban":"Jisoo (suka flower arrangement)"
+      },
+      {
+         "index":263,
+         "soal":"Siapa yang paling suka dengan kaktus?",
+         "tipe":"tanaman",
+         "jawaban":"Lisa (punya kaktus di rumah)"
+      },
+      {
+         "index":264,
+         "soal":"Siapa yang paling suka dengan hewan kucing (selain peliharaan)?",
+         "tipe":"hewan",
+         "jawaban":"Jennie, Lisa"
+      },
+      {
+         "index":265,
+         "soal":"Siapa yang paling suka dengan hewan anjing?",
+         "tipe":"hewan",
+         "jawaban":"Jisoo (suka Dalgom), Rosé (suka Hank)"
+      },
+      {
+         "index":266,
+         "soal":"Siapa yang paling suka dengan hewan kelinci?",
+         "tipe":"hewan",
+         "jawaban":"Jisoo (wajah mirip kelinci)"
+      },
+      {
+         "index":267,
+         "soal":"Siapa yang paling suka dengan hewan kura-kura?",
+         "tipe":"hewan",
+         "jawaban":"Lisa (pernah punya)"
+      },
+      {
+         "index":268,
+         "soal":"Siapa yang paling suka dengan hewan burung?",
+         "tipe":"hewan",
+         "jawaban":"Rosé (suka burung)"
+      },
+      {
+         "index":269,
+         "soal":"Siapa yang paling suka dengan hewan ikan?",
+         "tipe":"hewan",
+         "jawaban":"Jisoo (suka akuarium)"
+      },
+      {
+         "index":270,
+         "soal":"Siapa yang paling suka dengan zoo?",
+         "tipe":"tempat",
+         "jawaban":"Lisa (suka binatang)"
+      },
+      {
+         "index":271,
+         "soal":"Siapa yang paling suka dengan aquarium?",
+         "tipe":"tempat",
+         "jawaban":"Jisoo (suka suasana tenang)"
+      },
+      {
+         "index":272,
+         "soal":"Siapa yang paling suka dengan taman bermain?",
+         "tipe":"tempat",
+         "jawaban":"Lisa (suka theme park)"
+      },
+      {
+         "index":273,
+         "soal":"Siapa yang paling suka dengan karaoke?",
+         "tipe":"karaoke",
+         "jawaban":"Jisoo (suka nyanyi), Rosé (suka)"
+      },
+      {
+         "index":274,
+         "soal":"Siapa yang paling suka dengan club malam?",
+         "tipe":"club",
+         "jawaban":"Jennie (suka party?), Lisa (suka dance)"
+      },
+      {
+         "index":275,
+         "soal":"Siapa yang paling suka dengan hotel mewah?",
+         "tipe":"hotel",
+         "jawaban":"Semua (mewah)"
+      },
+      {
+         "index":276,
+         "soal":"Siapa yang paling suka dengan traveling?",
+         "tipe":"travel",
+         "jawaban":"Lisa (suka explore), Rosé (suka jalan-jalan)"
+      },
+      {
+         "index":277,
+         "soal":"Siapa yang paling suka dengan pantai Thailand?",
+         "tipe":"travel",
+         "jawaban":"Lisa (pantai di Thailand)"
+      },
+      {
+         "index":278,
+         "soal":"Siapa yang paling suka dengan Paris?",
+         "tipe":"kota",
+         "jawaban":"Rosé (suka Paris), Jisoo (Dior)",
+         "ji":"jawaban"
+      },
+      {
+         "index":279,
+         "soal":"Siapa yang paling suka dengan New York?",
+         "tipe":"kota",
+         "jawaban":"Jennie (suka New York style)"
+      },
+      {
+         "index":280,
+         "soal":"Siapa yang paling suka dengan Seoul?",
+         "tipe":"kota",
+         "jawaban":"Jisoo (tinggal di Seoul)"
+      },
+      {
+         "index":281,
+         "soal":"Siapa yang paling suka dengan rumah di pedesaan?",
+         "tipe":"rumah",
+         "jawaban":"Rosé (suka suasana tenang), Jisoo"
+      },
+      {
+         "index":282,
+         "soal":"Siapa yang paling suka dengan interior mewah?",
+         "tipe":"rumah",
+         "jawaban":"Jennie (rumah mewah, full furniture mahal)"
+      },
+      {
+         "index":283,
+         "soal":"Siapa yang paling suka dengan closet besar?",
+         "tipe":"fashion",
+         "jawaban":"Jennie (pakaian branded), Lisa (koleksi sepatu)"
+      },
+      {
+         "index":284,
+         "soal":"Siapa yang paling suka dengan mirror selfie?",
+         "tipe":"selfie",
+         "jawaban":"Jisoo (sering mirror selfie)"
+      },
+      {
+         "index":285,
+         "soal":"Siapa yang paling suka dengan candid photo?",
+         "tipe":"foto",
+         "jawaban":"Rosé (suka foto candid aesthetic)"
+      },
+      {
+         "index":286,
+         "soal":"Siapa yang paling suka dengan photo dump di Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Lisa (sering posting foto dump)"
+      },
+      {
+         "index":287,
+         "soal":"Siapa yang paling jarang posting di Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Jennie (dulu jarang, sekarang lebih aktif), Jisoo (cukup aktif)"
+      },
+      {
+         "index":288,
+         "soal":"Siapa yang paling sering live di Instagram?",
+         "tipe":"live",
+         "jawaban":"Rosé (sering live), Jisoo (sering)"
+      },
+      {
+         "index":289,
+         "soal":"Siapa yang paling sering interaksi dengan BLINK di Weverse?",
+         "tipe":"weverse",
+         "jawaban":"Jisoo (aktif di Weverse)"
+      },
+      {
+         "index":290,
+         "soal":"Siapa yang paling sering memberikan spoiler comeback?",
+         "tipe":"spoiler",
+         "jawaban":"Jisoo (suka bocorin lagu), Jennie (kadang)"
+      },
+      {
+         "index":291,
+         "soal":"Siapa yang paling suka dengan 'teaser' konsep?",
+         "tipe":"spoiler",
+         "jawaban":"Rosé (suka kasih hints di Instagram)"
+      },
+      {
+         "index":292,
+         "soal":"Siapa yang paling kreatif dalam ide konten?",
+         "tipe":"kreatif",
+         "jawaban":"Lisa (ide dance cover), Jennie (ide fashion)"
+      },
+      {
+         "index":293,
+         "soal":"Siapa yang paling perfeksionis?",
+         "tipe":"kepribadian",
+         "jawaban":"Jennie (detail oriented), Rosé (perfeksionis dalam musik)"
+      },
+      {
+         "index":294,
+         "soal":"Siapa yang paling santai?",
+         "tipe":"kepribadian",
+         "jawaban":"Jisoo (easy going), Lisa (fun)"
+      },
+      {
+         "index":295,
+         "soal":"Siapa yang paling 'mom' of the group?",
+         "tipe":"kepribadian",
+         "jawaban":"Jisoo (sering jaga member, masak untuk mereka)"
+      },
+      {
+         "index":296,
+         "soal":"Siapa yang paling 'baby' of the group?",
+         "tipe":"kepribadian",
+         "jawaban":"Lisa (maknae, sering dimanja), Rosé (sering disebut 'baby' juga)"
+      },
+      {
+         "index":297,
+         "soal":"Siapa yang paling 'cool' di antara member?",
+         "tipe":"kepribadian",
+         "jawaban":"Jennie (image cool, chic), Lisa (cool dance)"
+      },
+      {
+         "index":298,
+         "soal":"Siapa yang paling 'caring'?",
+         "tipe":"kepribadian",
+         "jawaban":"Jisoo (peduli member), Rosé (sensitif terhadap member)"
+      },
+      {
+         "index":299,
+         "soal":"Apa nama lagu yang menjadi penutup konser BLACKPINK? Biasanya 'Stay' atau 'As If It's Your Last'",
+         "tipe":"lagu",
+         "jawaban":"As If It's Your Last (sering untuk encore)"
+      }
+   ]
+}
