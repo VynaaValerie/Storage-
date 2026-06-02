@@ -1,0 +1,1807 @@
+{
+   "status":true,
+   "game":"kuis twice",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama leader TWICE?",
+         "tipe":"leader",
+         "jawaban":"Jihyo"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal debut TWICE?",
+         "tipe":"debut date",
+         "jawaban":"20 Oktober 2015"
+      },
+      {
+         "index":2,
+         "soal":"Lagu debut TWICE adalah?",
+         "tipe":"debut song",
+         "jawaban":"Like OOH-AHH (OOH-AHH하게)"
+      },
+      {
+         "index":3,
+         "soal":"Siapa nama fandom resmi TWICE?",
+         "tipe":"fandom",
+         "jawaban":"ONCE"
+      },
+      {
+         "index":4,
+         "soal":"Berapa jumlah anggota TWICE?",
+         "tipe":"jumlah anggota",
+         "jawaban":"9"
+      },
+      {
+         "index":5,
+         "soal":"Dari survival show mana TWICE dibentuk?",
+         "tipe":"survival show",
+         "jawaban":"SIXTEEN (2015, Mnet)"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota tertua TWICE?",
+         "tipe":"oldest",
+         "jawaban":"Nayeon (1995)"
+      },
+      {
+         "index":7,
+         "soal":"Siapa anggota termuda (maknae) TWICE?",
+         "tipe":"maknae",
+         "jawaban":"Tzuyu (1999)"
+      },
+      {
+         "index":8,
+         "soal":"Siapa main vocal TWICE?",
+         "tipe":"main vocal",
+         "jawaban":"Jihyo, Nayeon, Jeongyeon"
+      },
+      {
+         "index":9,
+         "soal":"Siapa main dancer TWICE?",
+         "tipe":"main dancer",
+         "jawaban":"Momo, Mina, Tzuyu"
+      },
+      {
+         "index":10,
+         "soal":"Siapa main rapper TWICE?",
+         "tipe":"main rapper",
+         "jawaban":"Dahyun, Chaeyoung"
+      },
+      {
+         "index":11,
+         "soal":"Siapa yang memiliki julukan 'Easter Bunny'?",
+         "tipe":"julukan",
+         "jawaban":"Nayeon (gigi kelinci)"
+      },
+      {
+         "index":12,
+         "soal":"Siapa yang dijuluki 'Jelly'?",
+         "tipe":"julukan",
+         "jawaban":"Momo (wajah seperti jelly)"
+      },
+      {
+         "index":13,
+         "soal":"Siapa yang dijuluki 'Marshmallow'?",
+         "tipe":"julukan",
+         "jawaban":"Dahyun (kulit putih)"
+      },
+      {
+         "index":14,
+         "soal":"Siapa yang dijuluki 'Baby Tiger'?",
+         "tipe":"julukan",
+         "jawaban":"Chaeyoung"
+      },
+      {
+         "index":15,
+         "soal":"Siapa yang dijuluki 'Black Swan'?",
+         "tipe":"julukan",
+         "jawaban":"Mina (balet, elegance)"
+      },
+      {
+         "index":16,
+         "soal":"Siapa yang dijuluki 'Shy Shy'?",
+         "tipe":"julukan",
+         "jawaban":"Sana (dari 'Shy Shy Shy' di Cheer Up)"
+      },
+      {
+         "index":17,
+         "soal":"Siapa yang dijuluki 'God Jihyo'?",
+         "tipe":"julukan",
+         "jawaban":"Jihyo (karena kemampuan vokal dan leadership)"
+      },
+      {
+         "index":18,
+         "soal":"Siapa yang dijuluki 'No Jam' (no fun)?",
+         "tipe":"julukan",
+         "jawaban":"Mina (suka tidur, tenang)"
+      },
+      {
+         "index":19,
+         "soal":"Siapa yang berasal dari Jepang?",
+         "tipe":"asal",
+         "jawaban":"Momo, Sana, Mina"
+      },
+      {
+         "index":20,
+         "soal":"Siapa yang berasal dari Taiwan?",
+         "tipe":"asal",
+         "jawaban":"Tzuyu (Chou Tzuyu)"
+      },
+      {
+         "index":21,
+         "soal":"Siapa yang berasal dari Korea?",
+         "tipe":"asal",
+         "jawaban":"Nayeon, Jeongyeon, Jihyo, Dahyun, Chaeyoung"
+      },
+      {
+         "index":22,
+         "soal":"Siapa yang paling fasih berbahasa Inggris?",
+         "tipe":"english",
+         "jawaban":"Tzuyu (cukup), Dahyun (cukup), Jihyo (cukup)"
+      },
+      {
+         "index":23,
+         "soal":"Siapa yang paling fasih berbahasa Jepang?",
+         "tipe":"jepang",
+         "jawaban":"Momo, Sana, Mina (native)"
+      },
+      {
+         "index":24,
+         "soal":"Siapa yang memiliki kemampuan main piano?",
+         "tipe":"piano",
+         "jawaban":"Dahyun, Tzuyu"
+      },
+      {
+         "index":25,
+         "soal":"Siapa yang memiliki kemampuan main gitar?",
+         "tipe":"gitar",
+         "jawaban":"Jihyo (belajar), Chaeyoung (pernah main)"
+      },
+      {
+         "index":26,
+         "soal":"Apa nama lightstick resmi TWICE?",
+         "tipe":"lightstick",
+         "jawaban":"Candy Bong (Candy Bong Z, Candy Bong Infinity)"
+      },
+      {
+         "index":27,
+         "soal":"Warna resmi TWICE?",
+         "tipe":"warna",
+         "jawaban":"Neon Magenta (Apricot? sebenarnya Pink neon dan biru neon? Resmi: Apricot dan Neon Magenta?)"
+      },
+      {
+         "index":28,
+         "soal":"Album mini pertama TWICE?",
+         "tipe":"mini album",
+         "jawaban":"The Story Begins (2015)"
+      },
+      {
+         "index":29,
+         "soal":"Album 'PAGE TWO' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2016"
+      },
+      {
+         "index":30,
+         "soal":"Lagu utama 'PAGE TWO' adalah?",
+         "tipe":"title",
+         "jawaban":"Cheer Up"
+      },
+      {
+         "index":31,
+         "soal":"Lirik 'Shy shy shy' yang viral, siapa yang mengucap?",
+         "tipe":"lirik",
+         "jawaban":"Sana (di 'Cheer Up')"
+      },
+      {
+         "index":32,
+         "soal":"Album 'TWICEcoaster: LANE 1' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2016"
+      },
+      {
+         "index":33,
+         "soal":"Lagu utama 'TWICEcoaster: LANE 1' adalah?",
+         "tipe":"title",
+         "jawaban":"TT"
+      },
+      {
+         "index":34,
+         "soal":"Lirik 'TT, just like TT' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"TT"
+      },
+      {
+         "index":35,
+         "soal":"Album 'SIGNAL' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2017"
+      },
+      {
+         "index":36,
+         "soal":"Lagu utama 'SIGNAL' adalah?",
+         "tipe":"title",
+         "jawaban":"Signal"
+      },
+      {
+         "index":37,
+         "soal":"Album 'twicetagram' (full length pertama) rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2017"
+      },
+      {
+         "index":38,
+         "soal":"Lagu utama 'twicetagram' adalah?",
+         "tipe":"title",
+         "jawaban":"Likey"
+      },
+      {
+         "index":39,
+         "soal":"Lirik 'I likey, I likey, likey likey' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Likey"
+      },
+      {
+         "index":40,
+         "soal":"Album 'What is Love?' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2018"
+      },
+      {
+         "index":41,
+         "soal":"Lagu utama 'What is Love?' adalah?",
+         "tipe":"title",
+         "jawaban":"What is Love?"
+      },
+      {
+         "index":42,
+         "soal":"Album 'YES or YES' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2018"
+      },
+      {
+         "index":43,
+         "soal":"Lagu utama 'YES or YES' adalah?",
+         "tipe":"title",
+         "jawaban":"Yes or Yes"
+      },
+      {
+         "index":44,
+         "soal":"Lirik 'Say yes or yes, yes or yes' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Yes or Yes"
+      },
+      {
+         "index":45,
+         "soal":"Album 'FANCY YOU' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2019"
+      },
+      {
+         "index":46,
+         "soal":"Lagu utama 'FANCY YOU' adalah?",
+         "tipe":"title",
+         "jawaban":"Fancy"
+      },
+      {
+         "index":47,
+         "soal":"Lirik 'Fancy you, ooh' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Fancy"
+      },
+      {
+         "index":48,
+         "soal":"Album 'Feel Special' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2019"
+      },
+      {
+         "index":49,
+         "soal":"Lagu utama 'Feel Special' adalah?",
+         "tipe":"title",
+         "jawaban":"Feel Special"
+      },
+      {
+         "index":50,
+         "soal":"Album 'MORE & MORE' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2020"
+      },
+      {
+         "index":51,
+         "soal":"Lagu utama 'MORE & MORE' adalah?",
+         "tipe":"title",
+         "jawaban":"More & More"
+      },
+      {
+         "index":52,
+         "soal":"Album 'Eyes Wide Open' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2020"
+      },
+      {
+         "index":53,
+         "soal":"Lagu utama 'Eyes Wide Open' adalah?",
+         "tipe":"title",
+         "jawaban":"I Can't Stop Me"
+      },
+      {
+         "index":54,
+         "soal":"Lirik 'I can't stop me, can't stop me' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"I Can't Stop Me"
+      },
+      {
+         "index":55,
+         "soal":"Album 'Taste of Love' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2021"
+      },
+      {
+         "index":56,
+         "soal":"Lagu utama 'Taste of Love' adalah?",
+         "tipe":"title",
+         "jawaban":"Alcohol-Free"
+      },
+      {
+         "index":57,
+         "soal":"Lirik 'Like a like a like a alcohol-free' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Alcohol-Free"
+      },
+      {
+         "index":58,
+         "soal":"Album 'Formula of Love: O+T=<3' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2021"
+      },
+      {
+         "index":59,
+         "soal":"Lagu utama 'Formula of Love' adalah?",
+         "tipe":"title",
+         "jawaban":"Scientist"
+      },
+      {
+         "index":60,
+         "soal":"Album 'BETWEEN 1&2' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2022"
+      },
+      {
+         "index":61,
+         "soal":"Lagu utama 'BETWEEN 1&2' adalah?",
+         "tipe":"title",
+         "jawaban":"Talk that Talk"
+      },
+      {
+         "index":62,
+         "soal":"Album 'READY TO BE' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023"
+      },
+      {
+         "index":63,
+         "soal":"Lagu utama 'READY TO BE' adalah?",
+         "tipe":"title",
+         "jawaban":"Set Me Free"
+      },
+      {
+         "index":64,
+         "soal":"Album 'With YOU-th' rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2024"
+      },
+      {
+         "index":65,
+         "soal":"Lagu utama 'With YOU-th' adalah?",
+         "tipe":"title",
+         "jawaban":"One Spark"
+      },
+      {
+         "index":66,
+         "soal":"Siapa yang memiliki solo 'POP!' (Nayeon)?",
+         "tipe":"solo",
+         "jawaban":"Nayeon (2022, mini album 'IM NAYEON')"
+      },
+      {
+         "index":67,
+         "soal":"Siapa yang memiliki solo 'ZONE' (Jihyo)?",
+         "tipe":"solo",
+         "jawaban":"Jihyo (2023, mini album 'ZONE')"
+      },
+      {
+         "index":68,
+         "soal":"Siapa yang memiliki solo 'ABOUTZU' (Tzuyu)?",
+         "tipe":"solo",
+         "jawaban":"Tzuyu (2024, mini album 'abouTZU')"
+      },
+      {
+         "index":69,
+         "soal":"Siapa yang belum merilis solo resmi (per 2025)?",
+         "tipe":"solo",
+         "jawaban":"Jeongyeon, Momo, Sana, Mina, Dahyun, Chaeyoung (belum debut solo Korea)"
+      },
+      {
+         "index":70,
+         "soal":"Siapa yang memiliki lagu solo 'Killin' Me Good' (Jihyo)?",
+         "tipe":"solo",
+         "jawaban":"Jihyo (dari album 'ZONE')"
+      },
+      {
+         "index":71,
+         "soal":"Siapa yang memiliki lagu solo 'Closer' (Tzuyu)?",
+         "tipe":"solo",
+         "jawaban":"Tzuyu (dari album 'abouTZU')"
+      },
+      {
+         "index":72,
+         "soal":"Siapa yang memiliki lagu unit 'Push & Pull' (Jihyo, Sana, Dahyun)?",
+         "tipe":"unit",
+         "jawaban":"Jihyo, Sana, Dahyun (dari 'Formula of Love')"
+      },
+      {
+         "index":73,
+         "soal":"Siapa yang memiliki lagu unit 'Hello' (Nayeon, Momo, Chaeyoung)?",
+         "tipe":"unit",
+         "jawaban":"Nayeon, Momo, Chaeyoung (dari 'Formula of Love')"
+      },
+      {
+         "index":74,
+         "soal":"Siapa yang memiliki lagu unit '1,3,2' (Jeongyeon, Mina, Tzuyu)?",
+         "tipe":"unit",
+         "jawaban":"Jeongyeon, Mina, Tzuyu (dari 'Formula of Love')"
+      },
+      {
+         "index":75,
+         "soal":"Siapa yang paling suka dengan makanan pedas?",
+         "tipe":"makanan",
+         "jawaban":"Jihyo, Chaeyoung"
+      },
+      {
+         "index":76,
+         "soal":"Siapa yang paling suka dengan coklat?",
+         "tipe":"coklat",
+         "jawaban":"Dahyun (suka coklat), Tzuyu"
+      },
+      {
+         "index":77,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"es krim",
+         "jawaban":"Sana (suka es krim)"
+      },
+      {
+         "index":78,
+         "soal":"Siapa yang paling suka dengan pizza?",
+         "tipe":"pizza",
+         "jawaban":"Momo (suka pizza), Nayeon"
+      },
+      {
+         "index":79,
+         "soal":"Siapa yang paling suka dengan tteokbokki?",
+         "tipe":"makanan",
+         "jawaban":"Dahyun (suka tteokbokki)"
+      },
+      {
+         "index":80,
+         "soal":"Siapa yang paling suka dengan ayam goreng?",
+         "tipe":"ayam",
+         "jawaban":"Momo (suka chicken), Jihyo"
+      },
+      {
+         "index":81,
+         "soal":"Siapa yang paling suka dengan ramen?",
+         "tipe":"ramen",
+         "jawaban":"Mina (suka ramen), Sana"
+      },
+      {
+         "index":82,
+         "soal":"Siapa yang paling suka dengan sushi?",
+         "tipe":"sushi",
+         "jawaban":"Momo, Sana, Mina (Jepang)"
+      },
+      {
+         "index":83,
+         "soal":"Siapa yang paling suka dengan buah strawberry?",
+         "tipe":"buah",
+         "jawaban":"Nayeon (suka strawberry)"
+      },
+      {
+         "index":84,
+         "soal":"Siapa yang paling suka dengan buah semangka?",
+         "tipe":"buah",
+         "jawaban":"Jihyo (suka semangka)"
+      },
+      {
+         "index":85,
+         "soal":"Siapa yang paling suka dengan kopi?",
+         "tipe":"kopi",
+         "jawaban":"Jeongyeon (suka kopi), Jihyo"
+      },
+      {
+         "index":86,
+         "soal":"Siapa yang paling suka dengan boba tea?",
+         "tipe":"boba",
+         "jawaban":"Tzuyu (suka bubble tea)"
+      },
+      {
+         "index":87,
+         "soal":"Siapa yang paling suka dengan warna pink?",
+         "tipe":"warna",
+         "jawaban":"Sana, Dahyun"
+      },
+      {
+         "index":88,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"warna",
+         "jawaban":"Jeongyeon, Chaeyoung"
+      },
+      {
+         "index":89,
+         "soal":"Siapa yang paling suka dengan warna putih?",
+         "tipe":"warna",
+         "jawaban":"Mina (suka putih), Tzuyu"
+      },
+      {
+         "index":90,
+         "soal":"Siapa yang paling suka dengan warna biru?",
+         "tipe":"warna",
+         "jawaban":"Nayeon (suka biru)"
+      },
+      {
+         "index":91,
+         "soal":"Siapa yang paling suka dengan warna ungu?",
+         "tipe":"warna",
+         "jawaban":"Jihyo (suka ungu)"
+      },
+      {
+         "index":92,
+         "soal":"Siapa yang paling suka dengan warna merah?",
+         "tipe":"warna",
+         "jawaban":"Momo (suka merah)"
+      },
+      {
+         "index":93,
+         "soal":"Siapa yang paling suka dengan warna kuning?",
+         "tipe":"warna",
+         "jawaban":"Dahyun (suka kuning)"
+      },
+      {
+         "index":94,
+         "soal":"Siapa yang memiliki hobi memasak?",
+         "tipe":"hobi",
+         "jawaban":"Jeongyeon (suka masak), Jihyo (suka masak)"
+      },
+      {
+         "index":95,
+         "soal":"Siapa yang memiliki hobi fotografi?",
+         "tipe":"foto",
+         "jawaban":"Mina (suka foto), Tzuyu"
+      },
+      {
+         "index":96,
+         "soal":"Siapa yang memiliki hobi melukis?",
+         "tipe":"seni",
+         "jawaban":"Chaeyoung (suka gambar), Dahyun (suka melukis)"
+      },
+      {
+         "index":97,
+         "soal":"Siapa yang memiliki hobi bermain game?",
+         "tipe":"game",
+         "jawaban":"Nayeon (suka game), Dahyun"
+      },
+      {
+         "index":98,
+         "soal":"Siapa yang memiliki hobi membaca?",
+         "tipe":"buku",
+         "jawaban":"Mina (suka baca buku)"
+      },
+      {
+         "index":99,
+         "soal":"Siapa yang memiliki hobi menulis lirik?",
+         "tipe":"menulis",
+         "jawaban":"Chaeyoung, Jihyo, Dahyun"
+      },
+      {
+         "index":100,
+         "soal":"Siapa yang paling sering melakukan aegyo?",
+         "tipe":"aegyo",
+         "jawaban":"Sana (master aegyo), Nayeon, Dahyun"
+      },
+      {
+         "index":101,
+         "soal":"Siapa yang paling pemalu di grup?",
+         "tipe":"pemalu",
+         "jawaban":"Mina (introvert), Tzuyu (pemalu)"
+      },
+      {
+         "index":102,
+         "soal":"Siapa yang paling heboh (energik)?",
+         "tipe":"energi",
+         "jawaban":"Sana, Nayeon, Jihyo"
+      },
+      {
+         "index":103,
+         "soal":"Siapa yang paling tenang?",
+         "tipe":"tenang",
+         "jawaban":"Mina (santai), Tzuyu (kalem)"
+      },
+      {
+         "index":104,
+         "soal":"Siapa yang paling sering menjadi pusat (center) di koreo?",
+         "tipe":"center",
+         "jawaban":"Nayeon (center, sering di tengah)"
+      },
+      {
+         "index":105,
+         "soal":"Siapa yang paling sering melakukan gerakan dance yang viral?",
+         "tipe":"dance",
+         "jawaban":"Momo (dance machine), Sana (gerakan viral 'Shy Shy Shy')"
+      },
+      {
+         "index":106,
+         "soal":"Siapa yang paling sering kena prank?",
+         "tipe":"prank",
+         "jawaban":"Dahyun (sering jadi sasaran prank)"
+      },
+      {
+         "index":107,
+         "soal":"Siapa yang paling suka dengan kucing?",
+         "tipe":"kucing",
+         "jawaban":"Momo (punya kucing?), Sana, Nayeon"
+      },
+      {
+         "index":108,
+         "soal":"Siapa yang paling suka dengan anjing?",
+         "tipe":"anjing",
+         "jawaban":"Jihyo (punya anjing), Tzuyu (punya anjing)"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang punya nama panggilan 'Momo' berarti persik?",
+         "tipe":"nama",
+         "jawaban":"Momo (Momo peach)"
+      },
+      {
+         "index":110,
+         "soal":"Siapa yang punya nama panggilan 'Mina' mirip dengan?",
+         "tipe":"nama",
+         "jawaban":"Mina (Sharon, nama baptis)"
+      },
+      {
+         "index":111,
+         "soal":"Siapa yang memiliki tato di tubuh?",
+         "tipe":"tato",
+         "jawaban":"Chaeyoung (tato di lengan, 'Born This Way', dll), Jihyo (tato kecil)"
+      },
+      {
+         "index":112,
+         "soal":"Siapa yang memiliki piercing di telinga?",
+         "tipe":"piercing",
+         "jawaban":"Chaeyoung (banyak piercing), Jihyo, Nayeon"
+      },
+      {
+         "index":113,
+         "soal":"Apa nama acara reality TWICE 'TWICE TV'?",
+         "tipe":"variety",
+         "jawaban":"TWICE TV (Banyak season: TWICE TV Begins, TWICE TV2, TWICE TV3, TWICE TV4, TWICE TV5, TWICE TV6, dll)"
+      },
+      {
+         "index":114,
+         "soal":"Apa nama acara 'TIME TO TWICE'?",
+         "tipe":"variety",
+         "jawaban":"TIME TO TWICE (konten variety di YouTube, 2020- sekarang)"
+      },
+      {
+         "index":115,
+         "soal":"Episode 'TIME TO TWICE' yang paling terkenal?",
+         "tipe":"variety",
+         "jawaban":"TTT (TDOONG High School, New Year's Party, TDOONG Forest, etc)"
+      },
+      {
+         "index":116,
+         "soal":"Siapa yang paling sering menjadi MC di 'TIME TO TWICE'?",
+         "tipe":"variety",
+         "jawaban":"Nayeon, Jihyo, Sana (sering jadi host)"
+      },
+      {
+         "index":117,
+         "soal":"Siapa yang paling lucu di variety?",
+         "tipe":"variety",
+         "jawaban":"Sana, Dahyun (eagle), Nayeon (crackhead energy)"
+      },
+      {
+         "index":118,
+         "soal":"Siapa yang paling sering menjadi tamu di 'Knowing Bros'?",
+         "tipe":"variety",
+         "jawaban":"TWICE sebagai grup (tampil beberapa kali 2016, 2017, 2019, dll)"
+      },
+      {
+         "index":119,
+         "soal":"Siapa yang menjadi MC di 'Talk that Talk' era?",
+         "tipe":"acara",
+         "jawaban":"Tidak ada (bukan MC)"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Visiting'?",
+         "tipe":"brand",
+         "jawaban":"Sana (untuk produk kecantikan Jepang), Mina untuk ?"
+      },
+      {
+         "index":121,
+         "soal":"Siapa yang menjadi model untuk 'Nacific'?",
+         "tipe":"brand",
+         "jawaban":"Sana (2021), Nayeon (2022)"
+      },
+      {
+         "index":122,
+         "soal":"Siapa yang menjadi model untuk 'Barebebe'?",
+         "tipe":"brand",
+         "jawaban":"Mina (2023)"
+      },
+      {
+         "index":123,
+         "soal":"Siapa yang menjadi model untuk 'A'pieu'?",
+         "tipe":"brand",
+         "jawaban":"Dahyun (2020-2021)"
+      },
+      {
+         "index":124,
+         "soal":"Siapa yang menjadi model untuk 'ACUVUE'?",
+         "tipe":"brand",
+         "jawaban":"Tzuyu (2023)"
+      },
+      {
+         "index":125,
+         "soal":"Siapa yang menjadi brand ambassador 'Prada'?",
+         "tipe":"fashion",
+         "jawaban":"Sana (2023)"
+      },
+      {
+         "index":126,
+         "soal":"Siapa yang menjadi brand ambassador 'Celine'?",
+         "tipe":"fashion",
+         "jawaban":"Mina (2023?) tidak, Lisa Blackpink, Mina belum"
+      },
+      {
+         "index":127,
+         "soal":"Lagu 'The Feels' adalah lagu full English pertama TWICE, rilis tahun?",
+         "tipe":"single",
+         "jawaban":"2021 (Single digital, masuk album 'Formula of Love')"
+      },
+      {
+         "index":128,
+         "soal":"Lirik 'Boy I, boy I, boy I know, I know you got the feels' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"The Feels"
+      },
+      {
+         "index":129,
+         "soal":"Lagu 'Moonlight Sunrise' adalah lagu pra-rilis English dari album 'READY TO BE', benar?",
+         "tipe":"true false",
+         "jawaban":"Ya (2023)"
+      },
+      {
+         "index":130,
+         "soal":"Tur dunia 'Twice 4th World Tour: III' (2021-2022) mengunjungi berapa kota?",
+         "tipe":"tur",
+         "jawaban":"14 kota di Korea, AS, Jepang"
+      },
+      {
+         "index":131,
+         "soal":"Tur 'Ready to Be' (2023-2024) adalah tur dunia ke berapa?",
+         "tipe":"tur",
+         "jawaban":"5th world tour (Twice 5th World Tour 'Ready to Be')"
+      },
+      {
+         "index":132,
+         "soal":"Twice tampil di stadium di AS, yaitu?",
+         "tipe":"konser",
+         "jawaban":"SoFi Stadium (LA), MetLife Stadium (NJ), dll (2023-2024)"
+      },
+      {
+         "index":133,
+         "soal":"Siapa yang memiliki vlog 'Melody Project'?",
+         "tipe":"proyek",
+         "jawaban":"Nayeon, Jihyo, Jeongyeon, Mina, Tzuyu (cover lagu solo)"
+      },
+      {
+         "index":134,
+         "soal":"Siapa yang memiliki 'Mina's Melody Project' dengan lagu 'Good Person'?",
+         "tipe":"cover",
+         "jawaban":"Mina (2022)"
+      },
+      {
+         "index":135,
+         "soal":"Siapa yang memiliki 'Tzuyu's Melody Project' dengan lagu 'Monster'?",
+         "tipe":"cover",
+         "jawaban":"Tzuyu (2023)"
+      },
+      {
+         "index":136,
+         "soal":"Siapa yang memiliki 'Dahyun's Melody Project' dengan lagu 'Monsters'?",
+         "tipe":"cover",
+         "jawaban":"Dahyun (2023)"
+      },
+      {
+         "index":137,
+         "soal":"Siapa yang memiliki 'Jeongyeon's Melody Project'?",
+         "tipe":"cover",
+         "jawaban":"Jeongyeon (2021, lagu 'Love is a dog from hell')"
+      },
+      {
+         "index":138,
+         "soal":"Siapa yang memiliki 'Chaeyoung's Melody Project'?",
+         "tipe":"cover",
+         "jawaban":"Chaeyoung (2022, lagu 'Off My Face')"
+      },
+      {
+         "index":139,
+         "soal":"Siapa yang memiliki cover 'I Love You 3000' (Nayeon)?",
+         "tipe":"cover",
+         "jawaban":"Nayeon (di YouTube, 2020)"
+      },
+      {
+         "index":140,
+         "soal":"Siapa yang sering melakukan cover lagu di Instagram?",
+         "tipe":"cover",
+         "jawaban":"Jihyo (sering cover), Nayeon"
+      },
+      {
+         "index":141,
+         "soal":"Siapa yang paling suka dengan fashion edgy?",
+         "tipe":"fashion",
+         "jawaban":"Chaeyoung (tato, piercing, grunge), Momo (streetwear)"
+      },
+      {
+         "index":142,
+         "soal":"Siapa yang paling suka dengan fashion cutesy?",
+         "tipe":"fashion",
+         "jawaban":"Sana (girly), Dahyun (kawaii), Nayeon (cute)"
+      },
+      {
+         "index":143,
+         "soal":"Siapa yang paling suka dengan fashion elegant?",
+         "tipe":"fashion",
+         "jawaban":"Mina (elegant), Tzuyu (classy), Jihyo (chic)"
+      },
+      {
+         "index":144,
+         "soal":"Siapa yang paling suka dengan fashion sporty?",
+         "tipe":"fashion",
+         "jawaban":"Jeongyeon (suka hoodie, nyaman), Momo (athleisure)"
+      },
+      {
+         "index":145,
+         "soal":"Siapa yang paling suka dengan makeup bold?",
+         "tipe":"makeup",
+         "jawaban":"Momo (mata tajam), Jihyo (lip bold)"
+      },
+      {
+         "index":146,
+         "soal":"Siapa yang paling suka dengan makeup natural?",
+         "tipe":"makeup",
+         "jawaban":"Mina, Tzuyu (natural beauty)"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang paling suka dengan skincare routine?",
+         "tipe":"skincare",
+         "jawaban":"Dahyun (kulit putih), Tzuyu (suka perawatan)"
+      },
+      {
+         "index":148,
+         "soal":"Siapa yang paling sering ganti warna rambut?",
+         "tipe":"rambut",
+         "jawaban":"Nayeon (sering ganti warna), Momo, Sana, Jihyo"
+      },
+      {
+         "index":149,
+         "soal":"Siapa yang paling jarang ganti warna rambut?",
+         "tipe":"rambut",
+         "jawaban":"Mina (hitam natural, pernah coklat), Tzuyu (hitam panjang)"
+      },
+      {
+         "index":150,
+         "soal":"Siapa yang memiliki rambut pendek khas?",
+         "tipe":"rambut",
+         "jawaban":"Jeongyeon (rambut pendek iconic)"
+      },
+      {
+         "index":151,
+         "soal":"Siapa yang paling suka dengan salju?",
+         "tipe":"cuaca",
+         "jawaban":"Dahyun (suka winter)"
+      },
+      {
+         "index":152,
+         "soal":"Siapa yang paling suka dengan musim panas?",
+         "tipe":"musim",
+         "jawaban":"Sana (suka summer), Nayeon"
+      },
+      {
+         "index":153,
+         "soal":"Siapa yang paling suka dengan pantai?",
+         "tipe":"tempat",
+         "jawaban":"Jihyo (suka laut), Sana"
+      },
+      {
+         "index":154,
+         "soal":"Siapa yang paling suka dengan gunung?",
+         "tipe":"tempat",
+         "jawaban":"Dahyun (suka hiking)"
+      },
+      {
+         "index":155,
+         "soal":"Siapa yang paling suka dengan kota besar?",
+         "tipe":"kota",
+         "jawaban":"Nayeon (suka Seoul, New York)"
+      },
+      {
+         "index":156,
+         "soal":"Siapa yang paling suka dengan desa tenang?",
+         "tipe":"desa",
+         "jawaban":"Mina (suka ketenangan)"
+      },
+      {
+         "index":157,
+         "soal":"Siapa yang paling suka dengan hotel mewah?",
+         "tipe":"hotel",
+         "jawaban":"Nayeon (suka instagramable spot), Jihyo"
+      },
+      {
+         "index":158,
+         "soal":"Siapa yang paling suka dengan rumah nyaman?",
+         "tipe":"rumah",
+         "jawaban":"Dahyun (suka di rumah)"
+      },
+      {
+         "index":159,
+         "soal":"Siapa yang paling suka dengan tidur?",
+         "tipe":"tidur",
+         "jawaban":"Mina (suka tidur, disebut 'sleeping beauty'), Momo"
+      },
+      {
+         "index":160,
+         "soal":"Siapa yang paling pagi bangun?",
+         "tipe":"pagi",
+         "jawaban":"Jeongyeon (suka bangun pagi), Jihyo (disiplin)"
+      },
+      {
+         "index":161,
+         "soal":"Siapa yang paling sering begadang?",
+         "tipe":"malam",
+         "jawaban":"Nayeon (suka begadang), Sana"
+      },
+      {
+         "index":162,
+         "soal":"Siapa yang paling suka dengan workout?",
+         "tipe":"olahraga",
+         "jawaban":"Jihyo (rajin gym), Jeongyeon (suka olahraga)"
+      },
+      {
+         "index":163,
+         "soal":"Siapa yang paling suka dengan yoga?",
+         "tipe":"yoga",
+         "jawaban":"Mina (suka yoga), Tzuyu"
+      },
+      {
+         "index":164,
+         "soal":"Siapa yang paling suka dengan pilates?",
+         "tipe":"pilates",
+         "jawaban":"Nayeon (suka pilates), Jihyo"
+      },
+      {
+         "index":165,
+         "soal":"Siapa yang paling suka dengan lari?",
+         "tipe":"lari",
+         "jawaban":"Dahyun (suka lari pagi)"
+      },
+      {
+         "index":166,
+         "soal":"Siapa yang paling suka dengan sepak bola?",
+         "tipe":"bola",
+         "jawaban":"Jeongyeon (suka sepak bola)"
+      },
+      {
+         "index":167,
+         "soal":"Siapa yang paling suka dengan basket?",
+         "tipe":"basket",
+         "jawaban":"Momo (suka basket)"
+      },
+      {
+         "index":168,
+         "soal":"Siapa yang paling suka dengan renang?",
+         "tipe":"renang",
+         "jawaban":"Tzuyu (suka renang)"
+      },
+      {
+         "index":169,
+         "soal":"Siapa yang paling suka dengan hiking?",
+         "tipe":"hiking",
+         "jawaban":"Dahyun (suka gunung)"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang paling suka dengan bersepeda?",
+         "tipe":"sepeda",
+         "jawaban":"Jihyo (suka bike)"
+      },
+      {
+         "index":171,
+         "soal":"Siapa yang paling suka dengan skateboard?",
+         "tipe":"skate",
+         "jawaban":"Momo (pernah skate)"
+      },
+      {
+         "index":172,
+         "soal":"Siapa yang paling suka dengan bowling?",
+         "tipe":"bowling",
+         "jawaban":"Nayeon (suka bowling)"
+      },
+      {
+         "index":173,
+         "soal":"Siapa yang paling suka dengan billiard?",
+         "tipe":"billiard",
+         "jawaban":"Jeongyeon (suka billiard)"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang paling suka dengan game online?",
+         "tipe":"game",
+         "jawaban":"Dahyun (suka game), Nayeon (suka game)"
+      },
+      {
+         "index":175,
+         "soal":"Siapa yang paling suka dengan kartu remi?",
+         "tipe":"game",
+         "jawaban":"Sana (suka main kartu)"
+      },
+      {
+         "index":176,
+         "soal":"Siapa yang paling suka dengan teka-teki?",
+         "tipe":"game",
+         "jawaban":"Mina (suka puzzle)"
+      },
+      {
+         "index":177,
+         "soal":"Siapa yang paling suka dengan karaoke?",
+         "tipe":"karaoke",
+         "jawaban":"Nayeon (suka nyanyi), Jihyo, Sana"
+      },
+      {
+         "index":178,
+         "soal":"Siapa yang paling suka dengan film romantis?",
+         "tipe":"film",
+         "jawaban":"Sana (suka rom-com), Jihyo"
+      },
+      {
+         "index":179,
+         "soal":"Siapa yang paling suka dengan film horor?",
+         "tipe":"film",
+         "jawaban":"Dahyun (suka horor), Nayeon (takut tapi suka)"
+      },
+      {
+         "index":180,
+         "soal":"Siapa yang paling suka dengan film action?",
+         "tipe":"film",
+         "jawaban":"Jeongyeon (suka action), Momo"
+      },
+      {
+         "index":181,
+         "soal":"Siapa yang paling suka dengan drama Korea?",
+         "tipe":"drama",
+         "jawaban":"Nayeon (suka drama), Sana, Jihyo"
+      },
+      {
+         "index":182,
+         "soal":"Siapa yang paling suka dengan anime?",
+         "tipe":"anime",
+         "jawaban":"Momo, Sana, Mina (anime Jepang)"
+      },
+      {
+         "index":183,
+         "soal":"Siapa yang paling suka dengan musik pop?",
+         "tipe":"musik",
+         "jawaban":"Nayeon, Jihyo (pop Korea)"
+      },
+      {
+         "index":184,
+         "soal":"Siapa yang paling suka dengan musik ballads?",
+         "tipe":"musik",
+         "jawaban":"Mina (suka ballad), Tzuyu"
+      },
+      {
+         "index":185,
+         "soal":"Siapa yang paling suka dengan musik R&B?",
+         "tipe":"musik",
+         "jawaban":"Chaeyoung (suka R&B, hip-hop)"
+      },
+      {
+         "index":186,
+         "soal":"Siapa yang paling suka dengan musik rock?",
+         "tipe":"musik",
+         "jawaban":"Jeongyeon (suka rock), Chaeyoung"
+      },
+      {
+         "index":187,
+         "soal":"Siapa yang paling suka dengan musik hip-hop?",
+         "tipe":"musik",
+         "jawaban":"Chaeyoung, Dahyun"
+      },
+      {
+         "index":188,
+         "soal":"Siapa yang paling suka dengan artis Ariana Grande?",
+         "tipe":"artis",
+         "jawaban":"Nayeon (suka Ariana), Jihyo, Sana"
+      },
+      {
+         "index":189,
+         "soal":"Siapa yang paling suka dengan artis Taylor Swift?",
+         "tipe":"artis",
+         "jawaban":"Dahyun (suka Taylor), Mina, Tzuyu"
+      },
+      {
+         "index":190,
+         "soal":"Siapa yang paling suka dengan artis Billie Eilish?",
+         "tipe":"artis",
+         "jawaban":"Chaeyoung (suka Billie)"
+      },
+      {
+         "index":191,
+         "soal":"Siapa yang paling suka dengan artis Justin Bieber?",
+         "tipe":"artis",
+         "jawaban":"Nayeon, Sana, Momo"
+      },
+      {
+         "index":192,
+         "soal":"Siapa yang paling suka dengan artis BTS?",
+         "tipe":"artis",
+         "jawaban":"Jihyo (pernah sebut suka), Nayeon"
+      },
+      {
+         "index":193,
+         "soal":"Siapa yang paling suka dengan artis BLACKPINK?",
+         "tipe":"artis",
+         "jawaban":"Dahyun (suka Lisa), Chaeyoung"
+      },
+      {
+         "index":194,
+         "soal":"Siapa yang paling suka dengan artis IU?",
+         "tipe":"artis",
+         "jawaban":"Jihyo (penggemar IU), Mina, Nayeon"
+      },
+      {
+         "index":195,
+         "soal":"Siapa yang paling suka dengan artis Crush?",
+         "tipe":"artis",
+         "jawaban":"Jihyo (suka R&B)"
+      },
+      {
+         "index":196,
+         "soal":"Siapa yang memiliki suara tertinggi di TWICE?",
+         "tipe":"vocal",
+         "jawaban":"Nayeon, Jihyo (power high note)"
+      },
+      {
+         "index":197,
+         "soal":"Siapa yang memiliki suara terendah?",
+         "tipe":"vocal",
+         "jawaban":"Dahyun (suara rendah di rap), Chaeyoung, Jeongyeon (rendah tapi bagus)"
+      },
+      {
+         "index":198,
+         "soal":"Siapa yang paling sering memberikan 'fan service'?",
+         "tipe":"fan service",
+         "jawaban":"Sana (sering wink, love sign), Nayeon"
+      },
+      {
+         "index":199,
+         "soal":"Siapa yang paling sering melakukan 'eye contact' di panggung?",
+         "tipe":"panggung",
+         "jawaban":"Nayeon (sering berinteraksi dengan fans), Jihyo, Sana"
+      },
+      {
+         "index":200,
+         "soal":"Siapa yang paling sering menjadi 'thumbnail' di video?",
+         "tipe":"thumbnail",
+         "jawaban":"Nayeon, Sana, Momo"
+      },
+      {
+         "index":201,
+         "soal":"Siapa yang paling sering kena 'meme' di internet?",
+         "tipe":"meme",
+         "jawaban":"Dahyun (eagle dance), Sana (shy shy shy), Nayeon (cute)"
+      },
+      {
+         "index":202,
+         "soal":"Siapa yang paling sering menjadi bahan gombalan fans?",
+         "tipe":"gombal",
+         "jawaban":"Sana (sering jadi bias wrecker), Nayeon (banyak penggemar)"
+      },
+      {
+         "index":203,
+         "soal":"Siapa yang paling sering menjadi 'bias' fans?",
+         "tipe":"bias",
+         "jawaban":"Nayeon, Sana, Tzuyu, Jihyo (banyak bias)"
+      },
+      {
+         "index":204,
+         "soal":"Siapa yang paling jarang menjadi bias?",
+         "tipe":"bias",
+         "jawaban":"Jeongyeon (underrated, tapi banyak yang sayang)"
+      },
+      {
+         "index":205,
+         "soal":"Siapa yang paling sering memberikan kata motivasi?",
+         "tipe":"motivasi",
+         "jawaban":"Jihyo (leader speech), Nayeon (supportive)"
+      },
+      {
+         "index":206,
+         "soal":"Siapa yang paling sering menangis di konser?",
+         "tipe":"emosi",
+         "jawaban":"Jihyo (sering terharu), Nayeon, Mina"
+      },
+      {
+         "index":207,
+         "soal":"Siapa yang paling jarang menangis di depan umum?",
+         "tipe":"emosi",
+         "jawaban":"Jeongyeon (cenderung kuat), Momo (jarang nangis)"
+      },
+      {
+         "index":208,
+         "soal":"Siapa yang paling suka dengan parfum?",
+         "tipe":"parfum",
+         "jawaban":"Nayeon (suka parfum), Sana, Mina"
+      },
+      {
+         "index":209,
+         "soal":"Siapa yang paling suka dengan skincare?",
+         "tipe":"skincare",
+         "jawaban":"Dahyun (kulit putih), Tzuyu (perawatan)"
+      },
+      {
+         "index":210,
+         "soal":"Siapa yang paling suka dengan makeup?",
+         "tipe":"makeup",
+         "jawaban":"Nayeon (suka eksperimen), Momo (makeup bold)"
+      },
+      {
+         "index":211,
+         "soal":"Siapa yang paling suka dengan rambut panjang?",
+         "tipe":"rambut",
+         "jawaban":"Mina (rambut panjang elegant), Tzuyu (rambut panjang hitam)"
+      },
+      {
+         "index":212,
+         "soal":"Siapa yang paling suka dengan potongan rambut pendek?",
+         "tipe":"rambut",
+         "jawaban":"Jeongyeon (rambut pendek iconic), Chaeyoung (pernah pendek)"
+      },
+      {
+         "index":213,
+         "soal":"Siapa yang paling suka dengan aksesoris besar?",
+         "tipe":"aksesoris",
+         "jawaban":"Sana (suka hairband, bow), Nayeon (suka headband)"
+      },
+      {
+         "index":214,
+         "soal":"Siapa yang paling suka dengan sepatu sneakers?",
+         "tipe":"sepatu",
+         "jawaban":"Momo (kolektor sneakers), Dahyun (suka sneakers)"
+      },
+      {
+         "index":215,
+         "soal":"Siapa yang paling suka dengan high heels?",
+         "tipe":"sepatu",
+         "jawaban":"Nayeon (suka heels), Jihyo, Tzuyu"
+      },
+      {
+         "index":216,
+         "soal":"Siapa yang paling suka dengan tas branded?",
+         "tipe":"tas",
+         "jawaban":"Nayeon (suka tas mewah), Sana, Jihyo"
+      },
+      {
+         "index":217,
+         "soal":"Siapa yang paling suka dengan perhiasan?",
+         "tipe":"perhiasan",
+         "jawaban":"Mina (suka jewelry simple), Tzuyu"
+      },
+      {
+         "index":218,
+         "soal":"Siapa yang paling suka dengan jam tangan?",
+         "tipe":"jam",
+         "jawaban":"Momo (suka jam tangan mewah), Jihyo"
+      },
+      {
+         "index":219,
+         "soal":"Siapa yang paling suka dengan kacamata hitam?",
+         "tipe":"kacamata",
+         "jawaban":"Jeongyeon (suka sunglasses), Dahyun"
+      },
+      {
+         "index":220,
+         "soal":"Siapa yang paling suka dengan topi?",
+         "tipe":"topi",
+         "jawaban":"Momo (suka baseball cap), Chaeyoung (beanie)"
+      },
+      {
+         "index":221,
+         "soal":"Siapa yang paling suka dengan hoodie?",
+         "tipe":"pakaian",
+         "jawaban":"Jeongyeon (suka hoodie nyaman), Chaeyoung (suka oversized)"
+      },
+      {
+         "index":222,
+         "soal":"Siapa yang paling suka dengan dress?",
+         "tipe":"pakaian",
+         "jawaban":"Nayeon (suka dress feminine), Mina (elegant dress)"
+      },
+      {
+         "index":223,
+         "soal":"Siapa yang paling suka dengan jeans?",
+         "tipe":"pakaian",
+         "jawaban":"Dahyun (suka jeans casual), Momo (suka skinny jeans)"
+      },
+      {
+         "index":224,
+         "soal":"Siapa yang paling suka dengan rok?",
+         "tipe":"pakaian",
+         "jawaban":"Sana (suka skirt), Tzuyu (suka midi skirt)"
+      },
+      {
+         "index":225,
+         "soal":"Siapa yang paling suka dengan warna neon?",
+         "tipe":"warna",
+         "jawaban":"Momo (suka neon pink, biru)"
+      },
+      {
+         "index":226,
+         "soal":"Siapa yang paling suka dengan warna pastel?",
+         "tipe":"warna",
+         "jawaban":"Sana, Dahyun (suka pastel)"
+      },
+      {
+         "index":227,
+         "soal":"Siapa yang paling suka dengan warna earth tone?",
+         "tipe":"warna",
+         "jawaban":"Jeongyeon (suka brown, army green)"
+      },
+      {
+         "index":228,
+         "soal":"Siapa yang paling suka dengan makanan manis?",
+         "tipe":"makanan",
+         "jawaban":"Dahyun (suka coklat, dessert), Sana (suka manis)"
+      },
+      {
+         "index":229,
+         "soal":"Siapa yang paling suka dengan makanan asin?",
+         "tipe":"makanan",
+         "jawaban":"Jeongyeon (suka savory), Momo (suka gurih)"
+      },
+      {
+         "index":230,
+         "soal":"Siapa yang paling suka dengan makanan pedas?",
+         "tipe":"pedas",
+         "jawaban":"Jihyo (suka pedas), Chaeyoung"
+      },
+      {
+         "index":231,
+         "soal":"Siapa yang paling suka dengan makanan cepat saji?",
+         "tipe":"fast food",
+         "jawaban":"Momo (suka McDonald's, burger), Nayeon (suka pizza)"
+      },
+      {
+         "index":232,
+         "soal":"Siapa yang paling suka dengan seafood?",
+         "tipe":"seafood",
+         "jawaban":"Mina (suka sushi, sashimi), Sana (suka udang)"
+      },
+      {
+         "index":233,
+         "soal":"Siapa yang paling suka dengan daging sapi?",
+         "tipe":"daging",
+         "jawaban":"Nayeon (suka bulgogi), Jihyo"
+      },
+      {
+         "index":234,
+         "soal":"Siapa yang paling suka dengan ayam?",
+         "tipe":"ayam",
+         "jawaban":"Momo (suka ayam goreng), Nayeon, Sana"
+      },
+      {
+         "index":235,
+         "soal":"Siapa yang paling suka dengan sayur?",
+         "tipe":"sayur",
+         "jawaban":"Dahyun (suka sayur, vegetarian?), Tzuyu (suka sayur)"
+      },
+      {
+         "index":236,
+         "soal":"Siapa yang paling suka dengan buah-buahan?",
+         "tipe":"buah",
+         "jawaban":"Nayeon (strawberry), Jihyo (semangka), Sana (anggur)"
+      },
+      {
+         "index":237,
+         "soal":"Siapa yang paling suka dengan nasi?",
+         "tipe":"nasi",
+         "jawaban":"Jihyo (suka nasi), Tzuyu (suka nasi)"
+      },
+      {
+         "index":238,
+         "soal":"Siapa yang paling suka dengan mie?",
+         "tipe":"mie",
+         "jawaban":"Momo (suka ramen), Sana (suka udon), Mina (suka soba)"
+      },
+      {
+         "index":239,
+         "soal":"Siapa yang paling suka dengan roti?",
+         "tipe":"roti",
+         "jawaban":"Dahyun (suka roti), Nayeon (suka toast)"
+      },
+      {
+         "index":240,
+         "soal":"Siapa yang paling suka dengan kue?",
+         "tipe":"kue",
+         "jawaban":"Sana (suka cake), Nayeon (suka cheesecake)"
+      },
+      {
+         "index":241,
+         "soal":"Siapa yang paling suka dengan donat?",
+         "tipe":"donat",
+         "jawaban":"Nayeon (suka donat), Dahyun"
+      },
+      {
+         "index":242,
+         "soal":"Siapa yang paling suka dengan boba?",
+         "tipe":"boba",
+         "jawaban":"Tzuyu (suka bubble tea), Sana"
+      },
+      {
+         "index":243,
+         "soal":"Siapa yang paling suka dengan kopi?",
+         "tipe":"kopi",
+         "jawaban":"Jeongyeon (suka kopi hitam), Jihyo (suka latte)"
+      },
+      {
+         "index":244,
+         "soal":"Siapa yang paling suka dengan teh?",
+         "tipe":"teh",
+         "jawaban":"Dahyun (suka green tea), Tzuyu (suka milk tea)"
+      },
+      {
+         "index":245,
+         "soal":"Siapa yang paling suka dengan minuman bersoda?",
+         "tipe":"soda",
+         "jawaban":"Momo (suka Coke), Nayeon (suka Sprite)"
+      },
+      {
+         "index":246,
+         "soal":"Siapa yang paling suka dengan jus?",
+         "tipe":"jus",
+         "jawaban":"Jihyo (suka jus jeruk), Sana (suka jus anggur)"
+      },
+      {
+         "index":247,
+         "soal":"Siapa yang paling suka dengan air putih?",
+         "tipe":"air",
+         "jawaban":"Mina (suka air putih), Tzuyu (minum banyak air)"
+      },
+      {
+         "index":248,
+         "soal":"Siapa yang paling suka dengan alkohol (soju)?",
+         "tipe":"alkohol",
+         "jawaban":"Jeongyeon (suka soju), Jihyo, Sana, Momo"
+      },
+      {
+         "index":249,
+         "soal":"Siapa yang paling sensitif dengan alkohol?",
+         "tipe":"alkohol",
+         "jawaban":"Dahyun (mabuk mudah), Tzuyu (tidak suka minum)"
+      },
+      {
+         "index":250,
+         "soal":"Siapa yang paling suka dengan club malam?",
+         "tipe":"club",
+         "jawaban":"Momo (suka dance), Nayeon (suka party)"
+      },
+      {
+         "index":251,
+         "soal":"Siapa yang paling suka dengan stay at home?",
+         "tipe":"rumah",
+         "jawaban":"Mina (homebody), Dahyun, Tzuyu"
+      },
+      {
+         "index":252,
+         "soal":"Siapa yang paling suka dengan traveling?",
+         "tipe":"travel",
+         "jawaban":"Sana (suka jalan-jalan), Nayeon (suka liburan)"
+      },
+      {
+         "index":253,
+         "soal":"Siapa yang paling suka dengan Jepang?",
+         "tipe":"negara",
+         "jawaban":"Momo, Sana, Mina (home country)"
+      },
+      {
+         "index":254,
+         "soal":"Siapa yang paling suka dengan Taiwan?",
+         "tipe":"negara",
+         "jawaban":"Tzuyu (asal Taiwan)"
+      },
+      {
+         "index":255,
+         "soal":"Siapa yang paling suka dengan Korea?",
+         "tipe":"negara",
+         "jawaban":"Nayeon, Jihyo, Jeongyeon, Dahyun, Chaeyoung (home)"
+      },
+      {
+         "index":256,
+         "soal":"Siapa yang paling suka dengan Amerika?",
+         "tipe":"negara",
+         "jawaban":"Dahyun (suka AS), Jihyo (suka tour)"
+      },
+      {
+         "index":257,
+         "soal":"Siapa yang paling suka dengan Eropa?",
+         "tipe":"europe",
+         "jawaban":"Mina (suka Eropa), Nayeon (suka Paris)"
+      },
+      {
+         "index":258,
+         "soal":"Siapa yang paling suka dengan foto polaroid?",
+         "tipe":"foto",
+         "jawaban":"Mina (suka foto polaroid), Dahyun"
+      },
+      {
+         "index":259,
+         "soal":"Siapa yang paling suka dengan journaling?",
+         "tipe":"journal",
+         "jawaban":"Mina (suka menulis diary), Jihyo, Chaeyoung"
+      },
+      {
+         "index":260,
+         "soal":"Siapa yang paling suka dengan scrapbook?",
+         "tipe":"craft",
+         "jawaban":"Dahyun (suka kerajinan tangan)"
+      },
+      {
+         "index":261,
+         "soal":"Siapa yang paling suka dengan photography?",
+         "tipe":"fotografi",
+         "jawaban":"Mina (suka foto), Tzuyu (suka foto aesthetic)"
+      },
+      {
+         "index":262,
+         "soal":"Siapa yang paling suka dengan drawing?",
+         "tipe":"menggambar",
+         "jawaban":"Chaeyoung (suka gambar, tato), Dahyun (suka sketsa)"
+      },
+      {
+         "index":263,
+         "soal":"Siapa yang paling suka dengan painting?",
+         "tipe":"melukis",
+         "jawaban":"Chaeyoung, Mina, Dahyun"
+      },
+      {
+         "index":264,
+         "soal":"Siapa yang paling suka dengan design?",
+         "tipe":"design",
+         "jawaban":"Chaeyoung (design tato, fashion)"
+      },
+      {
+         "index":265,
+         "soal":"Siapa yang paling suka dengan fashion design?",
+         "tipe":"fashion",
+         "jawaban":"Nayeon (suka fashion), Sana, Chaeyoung"
+      },
+      {
+         "index":266,
+         "soal":"Siapa yang paling suka dengan interior design?",
+         "tipe":"interior",
+         "jawaban":"Mina (suka dekorasi minimalis), Dahyun"
+      },
+      {
+         "index":267,
+         "soal":"Siapa yang paling suka dengan gardening?",
+         "tipe":"berkebun",
+         "jawaban":"Dahyun (suka tanaman), Jihyo"
+      },
+      {
+         "index":268,
+         "soal":"Siapa yang paling suka dengan bunga?",
+         "tipe":"bunga",
+         "jawaban":"Nayeon (suka bunga), Sana (suka bunga sakura)"
+      },
+      {
+         "index":269,
+         "soal":"Siapa yang paling suka dengan hewan kecil?",
+         "tipe":"hewan",
+         "jawaban":"Momo (suka hamster), Sana (suka kucing), Mina (suka kelinci)"
+      },
+      {
+         "index":270,
+         "soal":"Siapa yang paling suka dengan film Disney?",
+         "tipe":"disney",
+         "jawaban":"Nayeon (suka Disney), Sana, Dahyun"
+      },
+      {
+         "index":271,
+         "soal":"Siapa yang paling suka dengan Marvel?",
+         "tipe":"marvel",
+         "jawaban":"Momo (suka superhero), Jeongyeon"
+      },
+      {
+         "index":272,
+         "soal":"Siapa yang paling suka dengan Harry Potter?",
+         "tipe":"harry potter",
+         "jawaban":"Mina (suka HP), Dahyun"
+      },
+      {
+         "index":273,
+         "soal":"Siapa yang paling suka dengan Studio Ghibli?",
+         "tipe":"ghibli",
+         "jawaban":"Mina (suka Ghibli), Sana, Momo"
+      },
+      {
+         "index":274,
+         "soal":"Siapa yang paling suka dengan kartun anak-anak?",
+         "tipe":"kartun",
+         "jawaban":"Dahyun (suka SpongeBob), Nayeon (suka Pororo?)"
+      },
+      {
+         "index":275,
+         "soal":"Siapa yang paling sering memberikan hadiah ke member?",
+         "tipe":"hadiah",
+         "jawaban":"Nayeon (suka beliin hadiah), Jihyo"
+      },
+      {
+         "index":276,
+         "soal":"Siapa yang paling sering memasak untuk member?",
+         "tipe":"masak",
+         "jawaban":"Jeongyeon (suka masak untuk semua), Jihyo"
+      },
+      {
+         "index":277,
+         "soal":"Siapa yang paling sering membersihkan asrama?",
+         "tipe":"bersih",
+         "jawaban":"Mina (suka bersih-bersih), Jeongyeon (rapi)"
+      },
+      {
+         "index":278,
+         "soal":"Siapa yang paling sering berantakan?",
+         "tipe":"berantakan",
+         "jawaban":"Momo (suka berantakan), Nayeon (kadang)"
+      },
+      {
+         "index":279,
+         "soal":"Siapa yang paling sering telat?",
+         "tipe":"telat",
+         "jawaban":"Sana (pernah cerita telat), Momo (suka bangun kesiangan)"
+      },
+      {
+         "index":280,
+         "soal":"Siapa yang paling disiplin?",
+         "tipe":"disiplin",
+         "jawaban":"Jihyo (leader disiplin), Jeongyeon (tegas)"
+      },
+      {
+         "index":281,
+         "soal":"Siapa yang paling moody?",
+         "tipe":"mood",
+         "jawaban":"Momo (mood bisa berubah), Nayeon (energi kadang naik turun)"
+      },
+      {
+         "index":282,
+         "soal":"Siapa yang paling sering membuat member tertawa?",
+         "tipe":"lucu",
+         "jawaban":"Sana, Dahyun (eagle dance), Nayeon (crackhead)"
+      },
+      {
+         "index":283,
+         "soal":"Siapa yang paling sering menjadi bahan tertawaan member?",
+         "tipe":"lucu",
+         "jawaban":"Dahyun (sering jadi bahan lawakan), Momo (kadang)"
+      },
+      {
+         "index":284,
+         "soal":"Siapa yang paling sensitif?",
+         "tipe":"sensitif",
+         "jawaban":"Mina (introvert sensitif), Sana (sensitif juga)"
+      },
+      {
+         "index":285,
+         "soal":"Siapa yang paling kuat mental?",
+         "tipe":"mental",
+         "jawaban":"Jihyo (leader tangguh), Jeongyeon (kuat)"
+      },
+      {
+         "index":286,
+         "soal":"Siapa yang paling perfeksionis?",
+         "tipe":"perfeksionis",
+         "jawaban":"Jihyo (dalam performa), Mina (dalam tarian)"
+      },
+      {
+         "index":287,
+         "soal":"Siapa yang paling santai?",
+         "tipe":"santai",
+         "jawaban":"Mina (tenang), Tzuyu (kalem), Momo (santai)"
+      },
+      {
+         "index":288,
+         "soal":"Siapa yang paling mudah stres?",
+         "tipe":"stres",
+         "jawaban":"Jihyo (tanggung jawab besar), Nayeon (banyak pikiran)"
+      },
+      {
+         "index":289,
+         "soal":"Siapa yang paling sering menenangkan member?",
+         "tipe":"penenang",
+         "jawaban":"Jihyo (leader), Jeongyeon (mama), Mina (kalem)"
+      },
+      {
+         "index":290,
+         "soal":"Siapa yang paling sering memeluk member?",
+         "tipe":"pelukan",
+         "jawaban":"Sana (suka hug), Nayeon, Jihyo"
+      },
+      {
+         "index":291,
+         "soal":"Siapa yang paling sering berdebat dengan member?",
+         "tipe":"debat",
+         "jawaban":"Nayeon dan Momo (sering bercanda berantem)"
+      },
+      {
+         "index":292,
+         "soal":"Siapa yang paling mudah cemburu?",
+         "tipe":"cemburu",
+         "jawaban":"Sana (sering cemburu jika member dekat dengan orang lain)"
+      },
+      {
+         "index":293,
+         "soal":"Siapa yang paling baik hati?",
+         "tipe":"baik",
+         "jawaban":"Dahyun (baik hati, sering donasi), Jihyo (peduli)"
+      },
+      {
+         "index":294,
+         "soal":"Siapa yang paling pemurah?",
+         "tipe":"pemurah",
+         "jawaban":"Nayeon (suka beli hadiah untuk member), Jihyo"
+      },
+      {
+         "index":295,
+         "soal":"Siapa yang paling suka dengan beauty vlog?",
+         "tipe":"beauty",
+         "jawaban":"Dahyun, Nayeon (suka makeup tutorial)"
+      },
+      {
+         "index":296,
+         "soal":"Siapa yang paling suka dengan fashion vlog?",
+         "tipe":"fashion",
+         "jawaban":"Nayeon, Sana, Momo"
+      },
+      {
+         "index":297,
+         "soal":"Siapa yang paling suka dengan vlog sehari-hari?",
+         "tipe":"vlog",
+         "jawaban":"Dahyun (suka bikin vlog), Sana, Momo"
+      },
+      {
+         "index":298,
+         "soal":"Siapa yang paling sering muncul di variety show Korea (sebagai individu)?",
+         "tipe":"variety",
+         "jawaban":"Dahyun (paling sering), Sana (banyak), Nayeon, Jihyo"
+      },
+      {
+         "index":299,
+         "soal":"Lagu apa yang paling sering menjadi penutup konser TWICE? Biasanya 'Like OOH-AHH' atau 'TT' atau 'Feel Special'",
+         "tipe":"lagu",
+         "jawaban":"TT (sering untuk encore)"
+      }
+   ]
+}
