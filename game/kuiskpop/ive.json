@@ -1,0 +1,1807 @@
+{
+   "status":true,
+   "game":"kuis ive",
+   "total":300,
+   "result":[
+      {
+         "index":0,
+         "soal":"Siapa nama leader IVE?",
+         "tipe":"leader",
+         "jawaban":"Yujin (Ahn Yujin)"
+      },
+      {
+         "index":1,
+         "soal":"Tanggal debut IVE?",
+         "tipe":"debut date",
+         "jawaban":"1 Desember 2021"
+      },
+      {
+         "index":2,
+         "soal":"Lagu debut IVE adalah?",
+         "tipe":"debut song",
+         "jawaban":"ELEVEN"
+      },
+      {
+         "index":3,
+         "soal":"Siapa nama fandom resmi IVE?",
+         "tipe":"fandom",
+         "jawaban":"DIVE"
+      },
+      {
+         "index":4,
+         "soal":"Berapa jumlah anggota IVE?",
+         "tipe":"jumlah anggota",
+         "jawaban":"6"
+      },
+      {
+         "index":5,
+         "soal":"Siapa anggota tertua IVE?",
+         "tipe":"oldest",
+         "jawaban":"Yujin (2003)"
+      },
+      {
+         "index":6,
+         "soal":"Siapa anggota termuda (maknae) IVE?",
+         "tipe":"maknae",
+         "jawaban":"Leeseo (Lee Hyunseo, 2007)"
+      },
+      {
+         "index":7,
+         "soal":"IVE dibentuk oleh agensi mana?",
+         "tipe":"agensi",
+         "jawaban":"Starship Entertainment"
+      },
+      {
+         "index":8,
+         "soal":"Siapa yang berasal dari Korea?",
+         "tipe":"asal",
+         "jawaban":"Yujin, Gaeul, Wonyoung, Leeseo"
+      },
+      {
+         "index":9,
+         "soal":"Siapa yang berasal dari Jepang?",
+         "tipe":"asal",
+         "jawaban":"Rei (Naoi Rei)"
+      },
+      {
+         "index":10,
+         "soal":"Siapa yang berasal dari Korea dan memiliki darah Korea?",
+         "tipe":"korea",
+         "jawaban":"Liz (Kim Jiwon, asli Korea)"
+      },
+      {
+         "index":11,
+         "soal":"Siapa yang paling fasih berbahasa Inggris?",
+         "tipe":"english",
+         "jawaban":"Liz (cukup), Yujin (cukup), Rei (sedikit)"
+      },
+      {
+         "index":12,
+         "soal":"Siapa yang paling fasih berbahasa Jepang?",
+         "tipe":"jepang",
+         "jawaban":"Rei (native Jepang)"
+      },
+      {
+         "index":13,
+         "soal":"Siapa main vocal IVE?",
+         "tipe":"main vocal",
+         "jawaban":"Liz, Yujin, Wonyoung"
+      },
+      {
+         "index":14,
+         "soal":"Siapa main dancer IVE?",
+         "tipe":"main dancer",
+         "jawaban":"Yujin, Rei, Leeseo"
+      },
+      {
+         "index":15,
+         "soal":"Siapa main rapper IVE?",
+         "tipe":"main rapper",
+         "jawaban":"Gaeul, Rei, Wonyoung (kadang)"
+      },
+      {
+         "index":16,
+         "soal":"Siapa yang memiliki julukan 'Puppy'?",
+         "tipe":"julukan",
+         "jawaban":"Wonyoung (mirip anjing lucu)"
+      },
+      {
+         "index":17,
+         "soal":"Siapa yang dijuluki 'Cat'?",
+         "tipe":"julukan",
+         "jawaban":"Gaeul (mata seperti kucing)"
+      },
+      {
+         "index":18,
+         "soal":"Siapa yang dijuluki 'Squirrel'?",
+         "tipe":"julukan",
+         "jawaban":"Leeseo (pipi tembem seperti tupai)"
+      },
+      {
+         "index":19,
+         "soal":"Siapa yang dijuluki 'Panda'?",
+         "tipe":"julukan",
+         "jawaban":"Liz (mata bundar seperti panda)"
+      },
+      {
+         "index":20,
+         "soal":"Siapa yang dijuluki 'Rabbit'?",
+         "tipe":"julukan",
+         "jawaban":"Rei (mirip kelinci)"
+      },
+      {
+         "index":21,
+         "soal":"Siapa yang dijuluki 'Dolphin'?",
+         "tipe":"julukan",
+         "jawaban":"Yujin (suara tinggi seperti lumba-lumba)"
+      },
+      {
+         "index":22,
+         "soal":"Siapa yang berasal dari IZ*ONE?",
+         "tipe":"izone",
+         "jawaban":"Wonyoung, Yujin"
+      },
+      {
+         "index":23,
+         "soal":"Siapa yang memiliki pengalaman trainee paling lama?",
+         "tipe":"trainee",
+         "jawaban":"Gaeul (trainee 5 tahun), Yujin (sejak 2016?)"
+      },
+      {
+         "index":24,
+         "soal":"Siapa yang memiliki kemampuan main piano?",
+         "tipe":"piano",
+         "jawaban":"Liz, Yujin"
+      },
+      {
+         "index":25,
+         "soal":"Siapa yang memiliki kemampuan main gitar?",
+         "tipe":"gitar",
+         "jawaban":"Rei (pernah main gitar di acara)"
+      },
+      {
+         "index":26,
+         "soal":"Apa nama lightstick resmi IVE?",
+         "tipe":"lightstick",
+         "jawaban":"Dive Stick (Dive Bong)"
+      },
+      {
+         "index":27,
+         "soal":"Warna resmi IVE?",
+         "tipe":"warna",
+         "jawaban":"Neon Pink, Violet, Blue (gradasi, resmi tidak ada? biasanya pink, biru, ungu)"
+      },
+      {
+         "index":28,
+         "soal":"Album single pertama IVE?",
+         "tipe":"single album",
+         "jawaban":"ELEVEN (2021)"
+      },
+      {
+         "index":29,
+         "soal":"Lagu 'ELEVEN' lirik 'You know I'm the best, I'm the best'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":30,
+         "soal":"Album single kedua IVE?",
+         "tipe":"single album",
+         "jawaban":"LOVE DIVE (2022)"
+      },
+      {
+         "index":31,
+         "soal":"Lagu 'LOVE DIVE' lirik 'Narcissistic, my god I love it'?",
+         "tipe":"lirik",
+         "jawaban":"Ya"
+      },
+      {
+         "index":32,
+         "soal":"Album single ketiga IVE?",
+         "tipe":"single album",
+         "jawaban":"After LIKE (2022)"
+      },
+      {
+         "index":33,
+         "soal":"Lagu 'After LIKE' sampling dari lagu?",
+         "tipe":"sampling",
+         "jawaban":"I Will Survive oleh Gloria Gaynor"
+      },
+      {
+         "index":34,
+         "soal":"Lirik 'You and I, it's more than like' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"After LIKE"
+      },
+      {
+         "index":35,
+         "soal":"Album full length pertama IVE?",
+         "tipe":"full album",
+         "jawaban":"I've IVE (2023)"
+      },
+      {
+         "index":36,
+         "soal":"Lagu utama 'I've IVE' adalah?",
+         "tipe":"title",
+         "jawaban":"Kitsch, I AM (double title)"
+      },
+      {
+         "index":37,
+         "soal":"Lirik 'I love myself, I love myself' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"I AM"
+      },
+      {
+         "index":38,
+         "soal":"Album 'I'VE MINE' (single album) rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2023 (Oktober 2023)"
+      },
+      {
+         "index":39,
+         "soal":"Lagu utama 'I'VE MINE' adalah?",
+         "tipe":"title",
+         "jawaban":"Either Way, Off The Record, Baddie (triple title)"
+      },
+      {
+         "index":40,
+         "soal":"Lirik 'I'm a baddie, baddie, baddie' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"Baddie"
+      },
+      {
+         "index":41,
+         "soal":"Album 'IVE SWITCH' (EP) rilis tahun?",
+         "tipe":"tahun",
+         "jawaban":"2024 (April 2024)"
+      },
+      {
+         "index":42,
+         "soal":"Lagu utama 'IVE SWITCH' adalah?",
+         "tipe":"title",
+         "jawaban":"HEYA"
+      },
+      {
+         "index":43,
+         "soal":"Lirik 'Heya heya heya, let's go' dari lagu?",
+         "tipe":"lirik",
+         "jawaban":"HEYA"
+      },
+      {
+         "index":44,
+         "soal":"Lagu 'Accendio' dari album 'IVE SWITCH'?",
+         "tipe":"lagu",
+         "jawaban":"B-side dengan MV"
+      },
+      {
+         "index":45,
+         "soal":"Siapa yang memiliki suara tertinggi di IVE?",
+         "tipe":"vocal",
+         "jawaban":"Yujin (high note), Wonyoung, Liz (power high)"
+      },
+      {
+         "index":46,
+         "soal":"Siapa yang memiliki suara terendah?",
+         "tipe":"vocal",
+         "jawaban":"Gaeul (suara rendah di rap), Rei (suara unik)"
+      },
+      {
+         "index":47,
+         "soal":"Siapa yang paling sering menjadi center di dance?",
+         "tipe":"center",
+         "jawaban":"Wonyoung (center IVE), Yujin (kadang)"
+      },
+      {
+         "index":48,
+         "soal":"Siapa yang paling sering menjadi ending fairy?",
+         "tipe":"ending",
+         "jawaban":"Wonyoung (sering senyum di ending), Leeseo, Yujin"
+      },
+      {
+         "index":49,
+         "soal":"Siapa yang paling suka dengan warna pink?",
+         "tipe":"warna",
+         "jawaban":"Wonyoung (suka pink), Leeseo"
+      },
+      {
+         "index":50,
+         "soal":"Siapa yang paling suka dengan warna hitam?",
+         "tipe":"warna",
+         "jawaban":"Gaeul (suka hitam), Rei"
+      },
+      {
+         "index":51,
+         "soal":"Siapa yang paling suka dengan warna biru?",
+         "tipe":"warna",
+         "jawaban":"Liz (suka biru), Yujin"
+      },
+      {
+         "index":52,
+         "soal":"Siapa yang paling suka dengan warna ungu?",
+         "tipe":"warna",
+         "jawaban":"Rei (suka ungu)"
+      },
+      {
+         "index":53,
+         "soal":"Siapa yang paling suka dengan warna putih?",
+         "tipe":"warna",
+         "jawaban":"Leeseo (suka putih)"
+      },
+      {
+         "index":54,
+         "soal":"Siapa yang paling suka dengan kopi?",
+         "tipe":"kopi",
+         "jawaban":"Yujin (suka americano), Gaeul (suka latte)"
+      },
+      {
+         "index":55,
+         "soal":"Siapa yang paling suka dengan boba tea?",
+         "tipe":"boba",
+         "jawaban":"Wonyoung (suka bubble tea), Leeseo"
+      },
+      {
+         "index":56,
+         "soal":"Siapa yang paling suka dengan es krim?",
+         "tipe":"es krim",
+         "jawaban":"Liz (suka ice cream), Leeseo"
+      },
+      {
+         "index":57,
+         "soal":"Siapa yang paling suka dengan mie instan?",
+         "tipe":"mie",
+         "jawaban":"Yujin (suka ramen), Rei"
+      },
+      {
+         "index":58,
+         "soal":"Siapa yang paling suka dengan tteokbokki?",
+         "tipe":"makanan",
+         "jawaban":"Gaeul (suka pedas), Leeseo"
+      },
+      {
+         "index":59,
+         "soal":"Siapa yang paling suka dengan pizza?",
+         "tipe":"pizza",
+         "jawaban":"Wonyoung (suka pizza), Yujin"
+      },
+      {
+         "index":60,
+         "soal":"Siapa yang paling suka dengan ayam goreng?",
+         "tipe":"ayam",
+         "jawaban":"Rei (suka chicken), Leeseo"
+      },
+      {
+         "index":61,
+         "soal":"Siapa yang paling suka dengan sushi?",
+         "tipe":"sushi",
+         "jawaban":"Rei (Jepang), Liz"
+      },
+      {
+         "index":62,
+         "soal":"Siapa yang paling suka dengan ramen?",
+         "tipe":"ramen",
+         "jawaban":"Rei, Yujin"
+      },
+      {
+         "index":63,
+         "soal":"Siapa yang memiliki hobi membaca?",
+         "tipe":"baca",
+         "jawaban":"Wonyoung (suka buku), Yujin"
+      },
+      {
+         "index":64,
+         "soal":"Siapa yang memiliki hobi fotografi?",
+         "tipe":"foto",
+         "jawaban":"Leeseo (suka foto), Gaeul, Liz"
+      },
+      {
+         "index":65,
+         "soal":"Siapa yang memiliki hobi menggambar?",
+         "tipe":"gambar",
+         "jawaban":"Rei (suka gambar), Gaeul"
+      },
+      {
+         "index":66,
+         "soal":"Siapa yang memiliki hobi menulis?",
+         "tipe":"menulis",
+         "jawaban":"Yujin (suka nulis diary)"
+      },
+      {
+         "index":67,
+         "soal":"Siapa yang memiliki hobi memasak?",
+         "tipe":"masak",
+         "jawaban":"Yujin (suka masak), Liz (suka baking)"
+      },
+      {
+         "index":68,
+         "soal":"Siapa yang paling suka dengan hewan kucing?",
+         "tipe":"kucing",
+         "jawaban":"Gaeul (mirip kucing), Rei (suka kucing)"
+      },
+      {
+         "index":69,
+         "soal":"Siapa yang paling suka dengan hewan anjing?",
+         "tipe":"anjing",
+         "jawaban":"Wonyoung (suka puppy), Leeseo"
+      },
+      {
+         "index":70,
+         "soal":"Siapa yang paling suka dengan hewan kelinci?",
+         "tipe":"kelinci",
+         "jawaban":"Rei (mirip kelinci), Leeseo"
+      },
+      {
+         "index":71,
+         "soal":"Siapa yang paling suka dengan hewan tupai?",
+         "tipe":"tupai",
+         "jawaban":"Leeseo (julukan squirrel)"
+      },
+      {
+         "index":72,
+         "soal":"Siapa yang paling suka dengan hewan panda?",
+         "tipe":"panda",
+         "jawaban":"Liz (mirip panda)"
+      },
+      {
+         "index":73,
+         "soal":"Siapa yang paling suka dengan hewan beruang?",
+         "tipe":"beruang",
+         "jawaban":"Yujin (mirip beruang)"
+      },
+      {
+         "index":74,
+         "soal":"Siapa yang paling suka dengan anime?",
+         "tipe":"anime",
+         "jawaban":"Rei (Jepang, suka anime), Yujin"
+      },
+      {
+         "index":75,
+         "soal":"Siapa yang paling suka dengan film Disney?",
+         "tipe":"disney",
+         "jawaban":"Wonyoung (suka Disney), Leeseo"
+      },
+      {
+         "index":76,
+         "soal":"Siapa yang paling suka dengan film horor?",
+         "tipe":"horor",
+         "jawaban":"Gaeul (suka horor), Yujin (takut)"
+      },
+      {
+         "index":77,
+         "soal":"Siapa yang paling suka dengan drama Korea?",
+         "tipe":"drama",
+         "jawaban":"Leeseo (suka drakor), Yujin"
+      },
+      {
+         "index":78,
+         "soal":"Siapa yang paling suka dengan game online?",
+         "tipe":"game",
+         "jawaban":"Yujin (suka game), Rei (suka game mobile)"
+      },
+      {
+         "index":79,
+         "soal":"Siapa yang paling suka dengan olahraga renang?",
+         "tipe":"renang",
+         "jawaban":"Yujin (suka renang), Leeseo"
+      },
+      {
+         "index":80,
+         "soal":"Siapa yang paling suka dengan yoga?",
+         "tipe":"yoga",
+         "jawaban":"Wonyoung (suka stretching), Liz"
+      },
+      {
+         "index":81,
+         "soal":"Siapa yang paling suka dengan workout?",
+         "tipe":"workout",
+         "jawaban":"Yujin (rajin gym), Gaeul"
+      },
+      {
+         "index":82,
+         "soal":"Siapa yang paling sering melakukan aegyo?",
+         "tipe":"aegyo",
+         "jawaban":"Leeseo (suka aegyo), Wonyoung, Yujin"
+      },
+      {
+         "index":83,
+         "soal":"Siapa yang paling pemalu di grup?",
+         "tipe":"pemalu",
+         "jawaban":"Liz (introvert), Gaeul (cenderung pemalu)"
+      },
+      {
+         "index":84,
+         "soal":"Siapa yang paling heboh (energik)?",
+         "tipe":"energi",
+         "jawaban":"Yujin (leader energik), Leeseo"
+      },
+      {
+         "index":85,
+         "soal":"Siapa yang paling tenang?",
+         "tipe":"tenang",
+         "jawaban":"Rei (kalem), Gaeul"
+      },
+      {
+         "index":86,
+         "soal":"Siapa yang paling sering menjadi 'mom' di grup?",
+         "tipe":"mom",
+         "jawaban":"Yujin (leader, suka rawat member)"
+      },
+      {
+         "index":87,
+         "soal":"Siapa yang paling sering menjadi 'baby' di grup?",
+         "tipe":"baby",
+         "jawaban":"Leeseo (maknae)"
+      },
+      {
+         "index":88,
+         "soal":"Siapa yang paling sering memberikan ide untuk koreografi?",
+         "tipe":"koreo",
+         "jawaban":"Yujin, Leeseo (sering kasih saran)"
+      },
+      {
+         "index":89,
+         "soal":"Siapa yang paling sering update di Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Wonyoung (sering update), Yujin, Leeseo"
+      },
+      {
+         "index":90,
+         "soal":"Siapa yang paling jarang update di Instagram?",
+         "tipe":"instagram",
+         "jawaban":"Gaeul (jarang), Liz (kadang)"
+      },
+      {
+         "index":91,
+         "soal":"Siapa yang memiliki tato?",
+         "tipe":"tato",
+         "jawaban":"Tidak ada (belum ada yang punya tato)"
+      },
+      {
+         "index":92,
+         "soal":"Siapa yang memiliki piercing?",
+         "tipe":"piercing",
+         "jawaban":"Wonyoung (piercing telinga), Yujin, Liz"
+      },
+      {
+         "index":93,
+         "soal":"Apa nama acara reality IVE '1,2,3 IVE'?",
+         "tipe":"variety",
+         "jawaban":"1,2,3 IVE (2022)"
+      },
+      {
+         "index":94,
+         "soal":"Apa nama acara 'IVE COMEBACK SHOW'?",
+         "tipe":"variety",
+         "jawaban":"IVE's 'I AM' Comeback Show (2023)"
+      },
+      {
+         "index":95,
+         "soal":"Siapa yang paling sering menjadi MC di 'IVE' sendiri?",
+         "tipe":"mc",
+         "jawaban":"Yujin (sering jadi MC), Wonyoung"
+      },
+      {
+         "index":96,
+         "soal":"Siapa yang menjadi MC di 'Music Bank'?",
+         "tipe":"mc",
+         "jawaban":"Wonyoung (2021-2023, MC Music Bank bersama Sunghoon Enhypen)"
+      },
+      {
+         "index":97,
+         "soal":"Siapa yang menjadi MC di 'Inkigayo'?",
+         "tipe":"mc",
+         "jawaban":"Yujin (tidak tetap, special MC)"
+      },
+      {
+         "index":98,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Miu Miu'?",
+         "tipe":"brand",
+         "jawaban":"Wonyoung (2022-2023)"
+      },
+      {
+         "index":99,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Fendi'?",
+         "tipe":"brand",
+         "jawaban":"Yujin (2023)"
+      },
+      {
+         "index":100,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Chanel'?",
+         "tipe":"brand",
+         "jawaban":"Liz (2024? tidak, belum)"
+      },
+      {
+         "index":101,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Kirsh'?",
+         "tipe":"brand",
+         "jawaban":"Gaeul (model Kirsh 2022)"
+      },
+      {
+         "index":102,
+         "soal":"Siapa yang menjadi brand ambassador untuk 'Samsung'?",
+         "tipe":"brand",
+         "jawaban":"IVE (grup, 2023)"
+      },
+      {
+         "index":103,
+         "soal":"Siapa yang paling suka dengan fashion elegant?",
+         "tipe":"fashion",
+         "jawaban":"Wonyoung (dress elegant), Yujin"
+      },
+      {
+         "index":104,
+         "soal":"Siapa yang paling suka dengan fashion sporty?",
+         "tipe":"fashion",
+         "jawaban":"Yujin (suka sporty look), Gaeul"
+      },
+      {
+         "index":105,
+         "soal":"Siapa yang paling suka dengan fashion casual?",
+         "tipe":"fashion",
+         "jawaban":"Leeseo (suka hoodie, nyaman), Rei"
+      },
+      {
+         "index":106,
+         "soal":"Siapa yang paling suka dengan fashion Y2K?",
+         "tipe":"fashion",
+         "jawaban":"Wonyoung, Liz (suka gaya 2000an)"
+      },
+      {
+         "index":107,
+         "soal":"Siapa yang paling suka dengan makeup natural?",
+         "tipe":"makeup",
+         "jawaban":"Liz (natural look), Gaeul"
+      },
+      {
+         "index":108,
+         "soal":"Siapa yang paling suka dengan makeup bold?",
+         "tipe":"makeup",
+         "jawaban":"Wonyoung (lip bold, smokey eye), Yujin"
+      },
+      {
+         "index":109,
+         "soal":"Siapa yang paling suka dengan skincare?",
+         "tipe":"skincare",
+         "jawaban":"Wonyoung (suka perawatan), Leeseo"
+      },
+      {
+         "index":110,
+         "soal":"Siapa yang paling suka dengan parfum?",
+         "tipe":"parfum",
+         "jawaban":"Yujin, Wonyoung"
+      },
+      {
+         "index":111,
+         "soal":"Siapa yang paling suka dengan sneakers?",
+         "tipe":"sepatu",
+         "jawaban":"Yujin (kolektor sneakers), Gaeul"
+      },
+      {
+         "index":112,
+         "soal":"Siapa yang paling suka dengan high heels?",
+         "tipe":"sepatu",
+         "jawaban":"Wonyoung (suka heels di event)"
+      },
+      {
+         "index":113,
+         "soal":"Siapa yang paling suka dengan tas branded?",
+         "tipe":"tas",
+         "jawaban":"Wonyoung (suka tas mewah), Yujin"
+      },
+      {
+         "index":114,
+         "soal":"Siapa yang paling suka dengan perhiasan?",
+         "tipe":"perhiasan",
+         "jawaban":"Liz (suka aksesoris simpel)"
+      },
+      {
+         "index":115,
+         "soal":"Siapa yang paling suka dengan topi?",
+         "tipe":"topi",
+         "jawaban":"Yujin (suka baseball cap), Gaeul"
+      },
+      {
+         "index":116,
+         "soal":"Siapa yang paling suka dengan kacamata hitam?",
+         "tipe":"kacamata",
+         "jawaban":"Wonyoung (suka sunglasses aesthetic)"
+      },
+      {
+         "index":117,
+         "soal":"Siapa yang paling suka dengan rambut panjang?",
+         "tipe":"rambut",
+         "jawaban":"Wonyoung (rambut panjang khas), Liz"
+      },
+      {
+         "index":118,
+         "soal":"Siapa yang paling suka dengan rambut pendek?",
+         "tipe":"rambut",
+         "jawaban":"Gaeul (pernah bob pendek)"
+      },
+      {
+         "index":119,
+         "soal":"Siapa yang paling sering ganti warna rambut?",
+         "tipe":"rambut",
+         "jawaban":"Yujin (sering ganti warna), Liz (pernah blonde)"
+      },
+      {
+         "index":120,
+         "soal":"Siapa yang paling jarang ganti warna rambut?",
+         "tipe":"rambut",
+         "jawaban":"Wonyoung (hitam natural), Leeseo"
+      },
+      {
+         "index":121,
+         "soal":"Siapa yang paling tinggi di IVE?",
+         "tipe":"tinggi",
+         "jawaban":"Wonyoung (173 cm), Yujin (172 cm), Leeseo (170 cm)"
+      },
+      {
+         "index":122,
+         "soal":"Siapa yang paling pendek?",
+         "tipe":"pendek",
+         "jawaban":"Gaeul (sekitar 163-165 cm)"
+      },
+      {
+         "index":123,
+         "soal":"Siapa yang paling suka dengan musim panas?",
+         "tipe":"musim",
+         "jawaban":"Yujin (suka summer), Leeseo"
+      },
+      {
+         "index":124,
+         "soal":"Siapa yang paling suka dengan musim semi?",
+         "tipe":"musim",
+         "jawaban":"Wonyoung (suka spring)"
+      },
+      {
+         "index":125,
+         "soal":"Siapa yang paling suka dengan musim gugur?",
+         "tipe":"musim",
+         "jawaban":"Liz (suka autumn)"
+      },
+      {
+         "index":126,
+         "soal":"Siapa yang paling suka dengan musim dingin?",
+         "tipe":"musim",
+         "jawaban":"Rei (suka winter), Gaeul"
+      },
+      {
+         "index":127,
+         "soal":"Siapa yang paling suka dengan pantai?",
+         "tipe":"pantai",
+         "jawaban":"Yujin (suka laut), Leeseo"
+      },
+      {
+         "index":128,
+         "soal":"Siapa yang paling suka dengan pegunungan?",
+         "tipe":"gunung",
+         "jawaban":"Liz (suka hiking)"
+      },
+      {
+         "index":129,
+         "soal":"Siapa yang paling suka dengan kota besar?",
+         "tipe":"kota",
+         "jawaban":"Wonyoung (suka Seoul, New York)"
+      },
+      {
+         "index":130,
+         "soal":"Siapa yang paling suka dengan desa?",
+         "tipe":"desa",
+         "jawaban":"Rei (suka tempat tenang)"
+      },
+      {
+         "index":131,
+         "soal":"Siapa yang paling suka dengan traveling?",
+         "tipe":"travel",
+         "jawaban":"Wonyoung (suka liburan), Yujin"
+      },
+      {
+         "index":132,
+         "soal":"Siapa yang paling suka dengan hotel mewah?",
+         "tipe":"hotel",
+         "jawaban":"Wonyoung, Yujin"
+      },
+      {
+         "index":133,
+         "soal":"Siapa yang paling suka dengan camping?",
+         "tipe":"camping",
+         "jawaban":"Yujin (suka outbond)"
+      },
+      {
+         "index":134,
+         "soal":"Siapa yang paling suka dengan tidur?",
+         "tipe":"tidur",
+         "jawaban":"Liz (suka tidur), Rei"
+      },
+      {
+         "index":135,
+         "soal":"Siapa yang paling pagi bangun?",
+         "tipe":"pagi",
+         "jawaban":"Yujin (disiplin), Leeseo"
+      },
+      {
+         "index":136,
+         "soal":"Siapa yang paling sering begadang?",
+         "tipe":"malam",
+         "jawaban":"Rei (suka begadang main game), Wonyoung (kadang)"
+      },
+      {
+         "index":137,
+         "soal":"Siapa yang paling suka dengan musik pop?",
+         "tipe":"musik",
+         "jawaban":"Semua"
+      },
+      {
+         "index":138,
+         "soal":"Siapa yang paling suka dengan musik R&B?",
+         "tipe":"musik",
+         "jawaban":"Yujin (suka R&B)"
+      },
+      {
+         "index":139,
+         "soal":"Siapa yang paling suka dengan musik hip-hop?",
+         "tipe":"musik",
+         "jawaban":"Gaeul (suka hip-hop), Rei"
+      },
+      {
+         "index":140,
+         "soal":"Siapa yang paling suka dengan musik ballad?",
+         "tipe":"musik",
+         "jawaban":"Liz (suka ballad)"
+      },
+      {
+         "index":141,
+         "soal":"Siapa yang paling suka dengan artis Ariana Grande?",
+         "tipe":"artis",
+         "jawaban":"Wonyoung (suka Ariana), Leeseo"
+      },
+      {
+         "index":142,
+         "soal":"Siapa yang paling suka dengan artis Taylor Swift?",
+         "tipe":"artis",
+         "jawaban":"Yujin (suka Taylor), Liz"
+      },
+      {
+         "index":143,
+         "soal":"Siapa yang paling suka dengan artis Olivia Rodrigo?",
+         "tipe":"artis",
+         "jawaban":"Leeseo (suka Olivia)"
+      },
+      {
+         "index":144,
+         "soal":"Siapa yang paling suka dengan artis Justin Bieber?",
+         "tipe":"artis",
+         "jawaban":"Rei (suka JB), Wonyoung"
+      },
+      {
+         "index":145,
+         "soal":"Siapa yang paling suka dengan BTS?",
+         "tipe":"artis",
+         "jawaban":"Yujin (suka BTS), Wonyoung"
+      },
+      {
+         "index":146,
+         "soal":"Siapa yang paling suka dengan BLACKPINK?",
+         "tipe":"artis",
+         "jawaban":"Gaeul (suka BP), Leeseo"
+      },
+      {
+         "index":147,
+         "soal":"Siapa yang paling suka dengan TWICE?",
+         "tipe":"artis",
+         "jawaban":"Liz (suka TWICE)"
+      },
+      {
+         "index":148,
+         "soal":"Siapa yang paling sering menangis di konser?",
+         "tipe":"emosi",
+         "jawaban":"Yujin (sering terharu), Wonyoung"
+      },
+      {
+         "index":149,
+         "soal":"Siapa yang paling jarang menangis?",
+         "tipe":"emosi",
+         "jawaban":"Gaeul (cenderung kuat), Rei"
+      },
+      {
+         "index":150,
+         "soal":"Siapa yang paling sering memberikan kata motivasi?",
+         "tipe":"motivasi",
+         "jawaban":"Yujin (leader speech), Wonyoung"
+      },
+      {
+         "index":151,
+         "soal":"Siapa yang paling sering interaksi dengan DIVE di fan meeting?",
+         "tipe":"fans",
+         "jawaban":"Wonyoung, Yujin, Leeseo"
+      },
+      {
+         "index":152,
+         "soal":"Siapa yang paling suka dengan membaca komentar fans?",
+         "tipe":"fans",
+         "jawaban":"Yujin (suka baca komen), Leeseo"
+      },
+      {
+         "index":153,
+         "soal":"Siapa yang paling sering melakukan fan service?",
+         "tipe":"fans",
+         "jawaban":"Wonyoung (sering love sign), Yujin"
+      },
+      {
+         "index":154,
+         "soal":"Siapa yang paling suka dengan balasan surat fans?",
+         "tipe":"fans",
+         "jawaban":"Yujin (suka membalas surat)"
+      },
+      {
+         "index":155,
+         "soal":"Siapa yang paling sering live di Instagram?",
+         "tipe":"live",
+         "jawaban":"Wonyoung (sering live), Yujin"
+      },
+      {
+         "index":156,
+         "soal":"Siapa yang paling jarang live?",
+         "tipe":"live",
+         "jawaban":"Gaeul (jarang live), Rei"
+      },
+      {
+         "index":157,
+         "soal":"Siapa yang paling sering membagikan foto makanan?",
+         "tipe":"foto",
+         "jawaban":"Leeseo (suka foto makanan), Yujin"
+      },
+      {
+         "index":158,
+         "soal":"Siapa yang paling sering membagikan foto pemandangan?",
+         "tipe":"foto",
+         "jawaban":"Wonyoung, Rei"
+      },
+      {
+         "index":159,
+         "soal":"Siapa yang paling sering membagikan foto OOTD?",
+         "tipe":"fashion",
+         "jawaban":"Wonyoung (suka posting OOTD), Yujin"
+      },
+      {
+         "index":160,
+         "soal":"Siapa yang paling suka dengan makeup lip tint?",
+         "tipe":"makeup",
+         "jawaban":"Leeseo (suka lip tint pink)"
+      },
+      {
+         "index":161,
+         "soal":"Siapa yang paling suka dengan lipstick matte?",
+         "tipe":"makeup",
+         "jawaban":"Wonyoung (suka red matte)"
+      },
+      {
+         "index":162,
+         "soal":"Siapa yang paling suka dengan lip gloss?",
+         "tipe":"makeup",
+         "jawaban":"Liz (suka glossy)"
+      },
+      {
+         "index":163,
+         "soal":"Siapa yang paling suka dengan blush on peach?",
+         "tipe":"makeup",
+         "jawaban":"Rei (suka blush peach)"
+      },
+      {
+         "index":164,
+         "soal":"Siapa yang paling suka dengan skincare Korean?",
+         "tipe":"skincare",
+         "jawaban":"Wonyoung (suka produk Korea), Yujin"
+      },
+      {
+         "index":165,
+         "soal":"Siapa yang paling suka dengan sunscreen?",
+         "tipe":"skincare",
+         "jawaban":"Leeseo (suka sunblock)"
+      },
+      {
+         "index":166,
+         "soal":"Siapa yang paling suka dengan masker sheet?",
+         "tipe":"skincare",
+         "jawaban":"Yujin (suka sheet mask)"
+      },
+      {
+         "index":167,
+         "soal":"Siapa yang paling suka dengan serum vitamin C?",
+         "tipe":"skincare",
+         "jawaban":"Liz (suka brightening)"
+      },
+      {
+         "index":168,
+         "soal":"Siapa yang paling suka dengan parfum floral?",
+         "tipe":"parfum",
+         "jawaban":"Wonyoung (suka wangi bunga)"
+      },
+      {
+         "index":169,
+         "soal":"Siapa yang paling suka dengan parfum fresh?",
+         "tipe":"parfum",
+         "jawaban":"Yujin (suka citrus)"
+      },
+      {
+         "index":170,
+         "soal":"Siapa yang paling suka dengan parfum manis?",
+         "tipe":"parfum",
+         "jawaban":"Leeseo (suka vanilla)"
+      },
+      {
+         "index":171,
+         "soal":"Siapa yang paling suka dengan parfum woody?",
+         "tipe":"parfum",
+         "jawaban":"Gaeul (suka aroma maskulin)"
+      },
+      {
+         "index":172,
+         "soal":"Siapa yang paling suka dengan lilin aromaterapi?",
+         "tipe":"lilin",
+         "jawaban":"Yujin (suka relaksasi)"
+      },
+      {
+         "index":173,
+         "soal":"Siapa yang paling suka dengan bunga matahari?",
+         "tipe":"bunga",
+         "jawaban":"Wonyoung (suka sunflower)"
+      },
+      {
+         "index":174,
+         "soal":"Siapa yang paling suka dengan bunga mawar?",
+         "tipe":"bunga",
+         "jawaban":"Yujin (suka rose)"
+      },
+      {
+         "index":175,
+         "soal":"Siapa yang paling suka dengan bunga sakura?",
+         "tipe":"bunga",
+         "jawaban":"Rei (suka cherry blossom)"
+      },
+      {
+         "index":176,
+         "soal":"Siapa yang paling suka dengan bunga lavender?",
+         "tipe":"bunga",
+         "jawaban":"Liz (suka lavender)"
+      },
+      {
+         "index":177,
+         "soal":"Siapa yang paling suka dengan tanaman indoor?",
+         "tipe":"tanaman",
+         "jawaban":"Yujin (suka tanaman hias)"
+      },
+      {
+         "index":178,
+         "soal":"Siapa yang paling suka dengan kaktus?",
+         "tipe":"kaktus",
+         "jawaban":"Gaeul (suka kaktus lucu)"
+      },
+      {
+         "index":179,
+         "soal":"Siapa yang paling suka dengan sunrise?",
+         "tipe":"sunrise",
+         "jawaban":"Yujin (suka bangun pagi)"
+      },
+      {
+         "index":180,
+         "soal":"Siapa yang paling suka dengan sunset?",
+         "tipe":"sunset",
+         "jawaban":"Wonyoung (suka sunset aesthetic)"
+      },
+      {
+         "index":181,
+         "soal":"Siapa yang paling suka dengan langit malam?",
+         "tipe":"langit",
+         "jawaban":"Liz (suka bintang)"
+      },
+      {
+         "index":182,
+         "soal":"Siapa yang paling suka dengan hujan?",
+         "tipe":"hujan",
+         "jawaban":"Rei (suka suasana hujan)"
+      },
+      {
+         "index":183,
+         "soal":"Siapa yang paling suka dengan salju?",
+         "tipe":"salju",
+         "jawaban":"Leeseo (suka snow)"
+      },
+      {
+         "index":184,
+         "soal":"Siapa yang paling suka dengan kopi americano?",
+         "tipe":"kopi",
+         "jawaban":"Yujin (suka americano)"
+      },
+      {
+         "index":185,
+         "soal":"Siapa yang paling suka dengan kopi latte?",
+         "tipe":"kopi",
+         "jawaban":"Wonyoung (suka latte)"
+      },
+      {
+         "index":186,
+         "soal":"Siapa yang paling suka dengan teh hijau?",
+         "tipe":"teh",
+         "jawaban":"Gaeul (suka green tea)"
+      },
+      {
+         "index":187,
+         "soal":"Siapa yang paling suka dengan teh hitam?",
+         "tipe":"teh",
+         "jawaban":"Liz (suka black tea)"
+      },
+      {
+         "index":188,
+         "soal":"Siapa yang paling suka dengan jus jeruk?",
+         "tipe":"jus",
+         "jawaban":"Leeseo (suka orange juice)"
+      },
+      {
+         "index":189,
+         "soal":"Siapa yang paling suka dengan air putih?",
+         "tipe":"air",
+         "jawaban":"Yujin (suka minum air putih)"
+      },
+      {
+         "index":190,
+         "soal":"Siapa yang paling suka dengan minuman bersoda?",
+         "tipe":"soda",
+         "jawaban":"Rei (suka coke), Wonyoung (suka sprite)"
+      },
+      {
+         "index":191,
+         "soal":"Siapa yang paling suka dengan alkohol (soju)?",
+         "tipe":"alkohol",
+         "jawaban":"Yujin (suka soju, sudah legal 21 tahun 2024), Gaeul"
+      },
+      {
+         "index":192,
+         "soal":"Siapa yang paling suka dengan cocktail?",
+         "tipe":"cocktail",
+         "jawaban":"Wonyoung (suka mocktail)"
+      },
+      {
+         "index":193,
+         "soal":"Siapa yang paling suka dengan night club?",
+         "tipe":"club",
+         "jawaban":"Gaeul (suka dance), Rei"
+      },
+      {
+         "index":194,
+         "soal":"Siapa yang paling suka dengan karaoke?",
+         "tipe":"karaoke",
+         "jawaban":"Yujin (suka nyanyi), Leeseo"
+      },
+      {
+         "index":195,
+         "soal":"Siapa yang paling suka dengan stay at home?",
+         "tipe":"rumah",
+         "jawaban":"Liz (homebody), Rei"
+      },
+      {
+         "index":196,
+         "soal":"Siapa yang paling suka dengan Netflix?",
+         "tipe":"netflix",
+         "jawaban":"Leeseo (suka nonton drakor), Yujin"
+      },
+      {
+         "index":197,
+         "soal":"Siapa yang paling suka dengan game mobile?",
+         "tipe":"game",
+         "jawaban":"Rei (suka game mobile), Yujin"
+      },
+      {
+         "index":198,
+         "soal":"Siapa yang paling suka dengan game PC?",
+         "tipe":"game",
+         "jawaban":"Gaeul (suka game PC)"
+      },
+      {
+         "index":199,
+         "soal":"Siapa yang paling suka dengan Nintendo Switch?",
+         "tipe":"game",
+         "jawaban":"Wonyoung (suka Animal Crossing)"
+      },
+      {
+         "index":200,
+         "soal":"Siapa yang paling suka dengan PlayStation?",
+         "tipe":"game",
+         "jawaban":"Yujin (suka PS5)"
+      },
+      {
+         "index":201,
+         "soal":"Siapa yang paling suka dengan film action?",
+         "tipe":"film",
+         "jawaban":"Gaeul, Yujin"
+      },
+      {
+         "index":202,
+         "soal":"Siapa yang paling suka dengan film romance?",
+         "tipe":"film",
+         "jawaban":"Wonyoung (suka rom-com), Leeseo"
+      },
+      {
+         "index":203,
+         "soal":"Siapa yang paling suka dengan film thriller?",
+         "tipe":"film",
+         "jawaban":"Liz (suka thriller)"
+      },
+      {
+         "index":204,
+         "soal":"Siapa yang paling suka dengan film komedi?",
+         "tipe":"film",
+         "jawaban":"Rei (suka komedi)"
+      },
+      {
+         "index":205,
+         "soal":"Siapa yang paling suka dengan buku novel?",
+         "tipe":"buku",
+         "jawaban":"Wonyoung (suka novel), Yujin"
+      },
+      {
+         "index":206,
+         "soal":"Siapa yang paling suka dengan komik?",
+         "tipe":"komik",
+         "jawaban":"Rei (suka manga), Gaeul"
+      },
+      {
+         "index":207,
+         "soal":"Siapa yang paling suka dengan webtoon?",
+         "tipe":"webtoon",
+         "jawaban":"Leeseo (suka baca webtoon), Yujin"
+      },
+      {
+         "index":208,
+         "soal":"Siapa yang paling kreatif dalam menulis lirik?",
+         "tipe":"penulis",
+         "jawaban":"Yujin (ikut menulis? belum, tapi mungkin)"
+      },
+      {
+         "index":209,
+         "soal":"Siapa yang paling sering memberikan ide untuk konten YouTube?",
+         "tipe":"kreatif",
+         "jawaban":"Yujin, Leeseo"
+      },
+      {
+         "index":210,
+         "soal":"Siapa yang paling perfeksionis dalam penampilan?",
+         "tipe":"perfeksionis",
+         "jawaban":"Wonyoung (detail dalam makeup, styling)"
+      },
+      {
+         "index":211,
+         "soal":"Siapa yang paling suka dengan fashion mewah?",
+         "tipe":"fashion",
+         "jawaban":"Wonyoung (branded), Yujin"
+      },
+      {
+         "index":212,
+         "soal":"Siapa yang paling sering menjadi model untuk majalah fashion?",
+         "tipe":"model",
+         "jawaban":"Wonyoung (banyak cover magazine), Yujin"
+      },
+      {
+         "index":213,
+         "soal":"Siapa yang paling suka dengan diet sehat?",
+         "tipe":"diet",
+         "jawaban":"Wonyoung (jaga berat badan), Yujin"
+      },
+      {
+         "index":214,
+         "soal":"Siapa yang paling suka dengan makan banyak?",
+         "tipe":"makan",
+         "jawaban":"Leeseo (suka makan, disebut 'foodie'), Liz"
+      },
+      {
+         "index":215,
+         "soal":"Siapa yang paling sering ngemil?",
+         "tipe":"snack",
+         "jawaban":"Leeseo (suka snack), Yujin"
+      },
+      {
+         "index":216,
+         "soal":"Siapa yang paling suka dengan coklat?",
+         "tipe":"coklat",
+         "jawaban":"Liz (suka chocolate), Leeseo"
+      },
+      {
+         "index":217,
+         "soal":"Siapa yang paling suka dengan permen?",
+         "tipe":"permen",
+         "jawaban":"Rei (suka candy), Gaeul"
+      },
+      {
+         "index":218,
+         "soal":"Siapa yang paling suka dengan kue?",
+         "tipe":"kue",
+         "jawaban":"Wonyoung (suka cake), Yujin"
+      },
+      {
+         "index":219,
+         "soal":"Siapa yang paling suka dengan donat?",
+         "tipe":"donat",
+         "jawaban":"Leeseo (suka donat)"
+      },
+      {
+         "index":220,
+         "soal":"Siapa yang paling suka dengan ice cream?",
+         "tipe":"ice cream",
+         "jawaban":"Liz (suka ice cream)"
+      },
+      {
+         "index":221,
+         "soal":"Siapa yang paling suka dengan dessert?",
+         "tipe":"dessert",
+         "jawaban":"Leeseo, Yujin"
+      },
+      {
+         "index":222,
+         "soal":"Siapa yang paling suka dengan Korean BBQ?",
+         "tipe":"makanan",
+         "jawaban":"Yujin (suka BBQ), Gaeul"
+      },
+      {
+         "index":223,
+         "soal":"Siapa yang paling suka dengan hot pot?",
+         "tipe":"makanan",
+         "jawaban":"Liz (suka shabu-shabu)"
+      },
+      {
+         "index":224,
+         "soal":"Siapa yang paling suka dengan Japanese food?",
+         "tipe":"makanan",
+         "jawaban":"Rei (suka makanan Jepang)"
+      },
+      {
+         "index":225,
+         "soal":"Siapa yang paling suka dengan Chinese food?",
+         "tipe":"makanan",
+         "jawaban":"Wonyoung (suka dimsum)"
+      },
+      {
+         "index":226,
+         "soal":"Siapa yang paling suka dengan Western food?",
+         "tipe":"makanan",
+         "jawaban":"Yujin (suka pasta, steak)"
+      },
+      {
+         "index":227,
+         "soal":"Siapa yang paling suka dengan nasi goreng?",
+         "tipe":"makanan",
+         "jawaban":"Leeseo (suka nasi goreng)"
+      },
+      {
+         "index":228,
+         "soal":"Siapa yang paling suka dengan mie goreng?",
+         "tipe":"makanan",
+         "jawaban":"Gaeul (suka mie goreng)"
+      },
+      {
+         "index":229,
+         "soal":"Siapa yang paling suka dengan pasta?",
+         "tipe":"pasta",
+         "jawaban":"Liz (suka carbonara)"
+      },
+      {
+         "index":230,
+         "soal":"Siapa yang paling suka dengan steak?",
+         "tipe":"steak",
+         "jawaban":"Yujin (suka daging sapi)"
+      },
+      {
+         "index":231,
+         "soal":"Siapa yang paling suka dengan salad?",
+         "tipe":"salad",
+         "jawaban":"Wonyoung (suka salad sehat)"
+      },
+      {
+         "index":232,
+         "soal":"Siapa yang paling suka dengan sayur?",
+         "tipe":"sayur",
+         "jawaban":"Yujin (suka brokoli)"
+      },
+      {
+         "index":233,
+         "soal":"Siapa yang paling suka dengan buah?",
+         "tipe":"buah",
+         "jawaban":"Leeseo (suka strawberry, semangka)"
+      },
+      {
+         "index":234,
+         "soal":"Siapa yang paling suka dengan strawberry?",
+         "tipe":"buah",
+         "jawaban":"Wonyoung (suka strawberry), Yujin"
+      },
+      {
+         "index":235,
+         "soal":"Siapa yang paling suka dengan jeruk?",
+         "tipe":"buah",
+         "jawaban":"Gaeul (suka orange)"
+      },
+      {
+         "index":236,
+         "soal":"Siapa yang paling suka dengan anggur?",
+         "tipe":"buah",
+         "jawaban":"Rei (suka grape)"
+      },
+      {
+         "index":237,
+         "soal":"Siapa yang paling suka dengan kiwi?",
+         "tipe":"buah",
+         "jawaban":"Liz (suka kiwi)"
+      },
+      {
+         "index":238,
+         "soal":"Siapa yang paling suka dengan semangka?",
+         "tipe":"buah",
+         "jawaban":"Leeseo (suka watermelon)"
+      },
+      {
+         "index":239,
+         "soal":"Siapa yang paling suka dengan melon?",
+         "tipe":"buah",
+         "jawaban":"Yujin (suka melon)"
+      },
+      {
+         "index":240,
+         "soal":"Siapa yang paling suka dengan nanas?",
+         "tipe":"buah",
+         "jawaban":"Wonyoung (suka pineapple)"
+      },
+      {
+         "index":241,
+         "soal":"Siapa yang paling suka dengan mangga?",
+         "tipe":"buah",
+         "jawaban":"Leeseo (suka mangga)"
+      },
+      {
+         "index":242,
+         "soal":"Siapa yang paling suka dengan alpukat?",
+         "tipe":"buah",
+         "jawaban":"Liz (suka avocado)"
+      },
+      {
+         "index":243,
+         "soal":"Siapa yang paling suka dengan pisang?",
+         "tipe":"buah",
+         "jawaban":"Gaeul (suka banana)"
+      },
+      {
+         "index":244,
+         "soal":"Siapa yang paling suka dengan apel?",
+         "tipe":"buah",
+         "jawaban":"Rei (suka apple)"
+      },
+      {
+         "index":245,
+         "soal":"Siapa yang paling suka dengan blueberry?",
+         "tipe":"buah",
+         "jawaban":"Wonyoung (suka blueberry)"
+      },
+      {
+         "index":246,
+         "soal":"Siapa yang paling suka dengan raspberry?",
+         "tipe":"buah",
+         "jawaban":"Yujin (suka raspberry)"
+      },
+      {
+         "index":247,
+         "soal":"Siapa yang paling suka dengan lemon?",
+         "tipe":"buah",
+         "jawaban":"Leeseo (suka lemon)"
+      },
+      {
+         "index":248,
+         "soal":"Siapa yang paling suka dengan lime?",
+         "tipe":"buah",
+         "jawaban":"Liz (suka lime)"
+      },
+      {
+         "index":249,
+         "soal":"Siapa yang paling suka dengan buah naga?",
+         "tipe":"buah",
+         "jawaban":"Gaeul (suka dragon fruit)"
+      },
+      {
+         "index":250,
+         "soal":"Siapa yang paling suka dengan buah delima?",
+         "tipe":"buah",
+         "jawaban":"Rei (suka pomegranate)"
+      },
+      {
+         "index":251,
+         "soal":"Siapa yang paling sering sakit?",
+         "tipe":"kesehatan",
+         "jawaban":"Yujin (jarang sakit), Wonyoung (kadang)"
+      },
+      {
+         "index":252,
+         "soal":"Siapa yang paling jarang sakit?",
+         "tipe":"kesehatan",
+         "jawaban":"Yujin (kuat), Gaeul"
+      },
+      {
+         "index":253,
+         "soal":"Siapa yang paling suka dengan olahraga di gym?",
+         "tipe":"olahraga",
+         "jawaban":"Yujin (rajin gym)"
+      },
+      {
+         "index":254,
+         "soal":"Siapa yang paling suka dengan lari pagi?",
+         "tipe":"lari",
+         "jawaban":"Yujin, Leeseo"
+      },
+      {
+         "index":255,
+         "soal":"Siapa yang paling suka dengan pilates?",
+         "tipe":"pilates",
+         "jawaban":"Wonyoung (suka pilates)"
+      },
+      {
+         "index":256,
+         "soal":"Siapa yang paling suka dengan yoga?",
+         "tipe":"yoga",
+         "jawaban":"Liz (suka yoga)"
+      },
+      {
+         "index":257,
+         "soal":"Siapa yang paling suka dengan bersepeda?",
+         "tipe":"sepeda",
+         "jawaban":"Yujin (suka bike)"
+      },
+      {
+         "index":258,
+         "soal":"Siapa yang paling suka dengan hiking?",
+         "tipe":"hiking",
+         "jawaban":"Yujin, Leeseo"
+      },
+      {
+         "index":259,
+         "soal":"Siapa yang paling suka dengan berenang?",
+         "tipe":"renang",
+         "jawaban":"Leeseo (suka renang)"
+      },
+      {
+         "index":260,
+         "soal":"Siapa yang paling suka dengan basket?",
+         "tipe":"basket",
+         "jawaban":"Wonyoung (tinggi, suka basket)"
+      },
+      {
+         "index":261,
+         "soal":"Siapa yang paling suka dengan voli?",
+         "tipe":"voli",
+         "jawaban":"Yujin (suka voli)"
+      },
+      {
+         "index":262,
+         "soal":"Siapa yang paling suka dengan bowling?",
+         "tipe":"bowling",
+         "jawaban":"Gaeul (suka bowling)"
+      },
+      {
+         "index":263,
+         "soal":"Siapa yang paling suka dengan billiard?",
+         "tipe":"billiard",
+         "jawaban":"Rei (suka billiard)"
+      },
+      {
+         "index":264,
+         "soal":"Siapa yang paling suka dengan ski?",
+         "tipe":"ski",
+         "jawaban":"Liz (suka winter sport)"
+      },
+      {
+         "index":265,
+         "soal":"Siapa yang paling suka dengan skating?",
+         "tipe":"skating",
+         "jawaban":"Wonyoung (suka ice skating)"
+      },
+      {
+         "index":266,
+         "soal":"Siapa yang paling suka dengan dance cover?",
+         "tipe":"dance",
+         "jawaban":"Yujin (suka dance), Leeseo"
+      },
+      {
+         "index":267,
+         "soal":"Siapa yang paling suka dengan choreography challenge TikTok?",
+         "tipe":"tiktok",
+         "jawaban":"Leeseo, Yujin"
+      },
+      {
+         "index":268,
+         "soal":"Siapa yang paling suka dengan cover song di Instagram?",
+         "tipe":"cover",
+         "jawaban":"Yujin (suka nyanyi), Liz"
+      },
+      {
+         "index":269,
+         "soal":"Siapa yang paling suka dengan vlog?",
+         "tipe":"vlog",
+         "jawaban":"Leeseo (suka bikin vlog)"
+      },
+      {
+         "index":270,
+         "soal":"Siapa yang paling suka dengan beauty content?",
+         "tipe":"beauty",
+         "jawaban":"Wonyoung (suka makeup tutorial)"
+      },
+      {
+         "index":271,
+         "soal":"Siapa yang paling suka dengan fashion content?",
+         "tipe":"fashion",
+         "jawaban":"Wonyoung, Yujin"
+      },
+      {
+         "index":272,
+         "soal":"Siapa yang paling suka dengan mukbang?",
+         "tipe":"makan",
+         "jawaban":"Leeseo (suka makan), Liz"
+      },
+      {
+         "index":273,
+         "soal":"Siapa yang paling suka dengan podcast?",
+         "tipe":"podcast",
+         "jawaban":"Yujin (suka dengar podcast)"
+      },
+      {
+         "index":274,
+         "soal":"Siapa yang paling suka dengan audiobook?",
+         "tipe":"buku",
+         "jawaban":"Wonyoung (suka audiobook)"
+      },
+      {
+         "index":275,
+         "soal":"Siapa yang paling suka dengan puzzle?",
+         "tipe":"puzzle",
+         "jawaban":"Liz (suka puzzle)"
+      },
+      {
+         "index":276,
+         "soal":"Siapa yang paling suka dengan sudoku?",
+         "tipe":"sudoku",
+         "jawaban":"Gaeul (suka game asah otak)"
+      },
+      {
+         "index":277,
+         "soal":"Siapa yang paling suka dengan board game?",
+         "tipe":"board game",
+         "jawaban":"Yujin (suka monopoly)"
+      },
+      {
+         "index":278,
+         "soal":"Siapa yang paling suka dengan kartu remi?",
+         "tipe":"kartu",
+         "jawaban":"Rei (suka main kartu)"
+      },
+      {
+         "index":279,
+         "soal":"Siapa yang paling suka dengan catur?",
+         "tipe":"catur",
+         "jawaban":"Wonyoung (suka catur)"
+      },
+      {
+         "index":280,
+         "soal":"Siapa yang paling suka dengan memasak?",
+         "tipe":"masak",
+         "jawaban":"Yujin (suka masak), Liz (suka baking)"
+      },
+      {
+         "index":281,
+         "soal":"Siapa yang paling suka dengan menanam tanaman?",
+         "tipe":"tanaman",
+         "jawaban":"Yujin (suka tanaman hias)"
+      },
+      {
+         "index":282,
+         "soal":"Siapa yang paling suka dengan merawat hewan?",
+         "tipe":"hewan",
+         "jawaban":"Leeseo (suka hewan), Gaeul"
+      },
+      {
+         "index":283,
+         "soal":"Siapa yang paling suka dengan volunteer?",
+         "tipe":"volunteer",
+         "jawaban":"Yujin (suka kegiatan sosial)"
+      },
+      {
+         "index":284,
+         "soal":"Siapa yang paling suka dengan donasi?",
+         "tipe":"donasi",
+         "jawaban":"Yujin, Wonyoung (pernah donasi)"
+      },
+      {
+         "index":285,
+         "soal":"Siapa yang paling sering memenangkan award?",
+         "tipe":"penghargaan",
+         "jawaban":"Wonyoung (banyak award individua), Yujin"
+      },
+      {
+         "index":286,
+         "soal":"Siapa yang paling sering menjadi nominasi?",
+         "tipe":"nominasi",
+         "jawaban":"Wonyoung, Yujin, IVE grup"
+      },
+      {
+         "index":287,
+         "soal":"Siapa yang paling suka dengan traveling ke Eropa?",
+         "tipe":"travel",
+         "jawaban":"Wonyoung (suka Paris), Yujin"
+      },
+      {
+         "index":288,
+         "soal":"Siapa yang paling suka dengan traveling ke Jepang?",
+         "tipe":"travel",
+         "jawaban":"Rei (home country), Wonyoung"
+      },
+      {
+         "index":289,
+         "soal":"Siapa yang paling suka dengan traveling ke Amerika?",
+         "tipe":"travel",
+         "jawaban":"Yujin (suka LA, New York)"
+      },
+      {
+         "index":290,
+         "soal":"Siapa yang paling suka dengan traveling ke Asia Tenggara?",
+         "tipe":"travel",
+         "jawaban":"Leeseo (suka Bali)"
+      },
+      {
+         "index":291,
+         "soal":"Siapa yang paling suka dengan hotel dengan pemandangan laut?",
+         "tipe":"hotel",
+         "jawaban":"Yujin (suka beach view)"
+      },
+      {
+         "index":292,
+         "soal":"Siapa yang paling suka dengan hotel dengan kolam renang?",
+         "tipe":"hotel",
+         "jawaban":"Leeseo (suka renang)"
+      },
+      {
+         "index":293,
+         "soal":"Siapa yang paling suka dengan spa hotel?",
+         "tipe":"spa",
+         "jawaban":"Wonyoung (suka relaksasi)"
+      },
+      {
+         "index":294,
+         "soal":"Siapa yang paling suka dengan private pool?",
+         "tipe":"pool",
+         "jawaban":"Yujin (suka privasi)"
+      },
+      {
+         "index":295,
+         "soal":"Siapa yang paling suka dengan sunrise di pantai?",
+         "tipe":"sunrise",
+         "jawaban":"Yujin (suka bangun pagi)"
+      },
+      {
+         "index":296,
+         "soal":"Siapa yang paling suka dengan sunset di gunung?",
+         "tipe":"sunset",
+         "jawaban":"Liz (suka pemandangan)"
+      },
+      {
+         "index":297,
+         "soal":"Siapa yang paling suka dengan bintang di malam hari?",
+         "tipe":"bintang",
+         "jawaban":"Rei (suka langit malam)"
+      },
+      {
+         "index":298,
+         "soal":"Siapa yang paling suka dengan pelangi?",
+         "tipe":"pelangi",
+         "jawaban":"Leeseo (suka warna-warni)"
+      },
+      {
+         "index":299,
+         "soal":"Lagu 'I AM' memiliki makna percaya diri, benar?",
+         "tipe":"pesan",
+         "jawaban":"Ya (self love, percaya diri)"
+      }
+   ]
+}
